@@ -1,0 +1,8 @@
+.DS_Store
+web/fonts
+web/fonts/*
+*.webloc
+*.bbprojectd
+- INFO-parent-realm.nnk
+/resources
+/import

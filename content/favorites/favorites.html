@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Bookmark Favorites</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --highlight-color: Gainsboro
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --highlight-color: DimGray
+  }
+}
+a {
+    color: var(--link-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+body { 
+  tab-size: 4; 
+  margin: 1em; 
+  background-color: var(--background-color);
+  color: var(--text-color); 
+font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt}
+blockquote { 
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+} 
+figure { 
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+} 
+table, th, td { 
+  border: 2px solid gray; 
+} 
+table { 
+  border-collapse: collapse; 
+} 
+th, td { 
+  padding: 6px; 
+} 
+img { 
+  max-width: 100%; 
+  height: auto; 
+} 
+h1 { font-size: 2.0em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h2 { font-size: 1.8em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h3 { font-size: 1.6em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h4 { font-size: 1.4em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h5 { font-size: 1.2em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h6 { font-size: 1.0em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud { 
+  list-style: none; 
+  padding-left: 0; 
+  display: flex; 
+  flex-wrap: wrap; 
+  align-items: center; 
+  justify-content: center; 
+  line-height: 2.5rem; 
+} 
+ul.tags-cloud a { 
+  display: block; 
+  font-size: 1.1rem; 
+  font-weight: 600; 
+  text-decoration: none; 
+  position: relative; 
+  border-radius: 15px; 
+  background-color: var(--highlight-color); 
+  padding: 2px 12px 2px 12px; 
+  margin: 10px 10px 10px 10px; 
+  min-width: 40px; 
+  text-align: center; 
+} 
+body { margin-left: 20px; } 
+.column { display:inline-block; width: 250px; vertical-align: top; }
+h2 { font-weight: 600; margin-top: 10pt; margin-bottom: 4pt; font-size: 14pt; line-height: normal; }
+p { font-size: 14pt; margin-top: 0pt; margin-bottom: 4pt; font-weight: 500; }
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<div class="row">
+
+<div class="column">
+
+<h2>Business</h2>
+
+<p><a href="https://www.filelocal-wa.gov">File Local</a></p>
+
+<p><a href="https://www.sos.wa.gov/corps/">WA SoS Corporations</a></p>
+
+<h2>Development</h2>
+
+<p><a href="https://developer.apple.com/">Apple Dev Center</a></p>
+
+<p><a href="https://github.com">GitHub</a></p>
+
+<h2>Finance</h2>
+
+<p><a href="https://www.bankofamerica.com">Alaska Air Visa</a></p>
+
+<p><a href="https://www.ally.com">Ally Bank</a></p>
+
+<p><a href="https://www.synchronycredit.com/eSecurity/Login/login.action?accountType=plcc&clientId=amazon&langId=en">Amazon Credit Card</a></p>
+
+<p><a href="https://www.amica.com">Amica</a></p>
+
+<p><a href="https://wireless.att.com">AT&amp;T</a></p>
+
+<p><a href="https://boeingbenefitsconnection.benefitcenter.com/opglobal">Boeing Benefits</a></p>
+
+<p><a href="http://www.capitalone.com">Capital One</a></p>
+
+<p><a href="https://creditcards.chase.com/marriott/cardmember">Marriott BonVoy Chase</a></p>
+
+<p><a href="https://www.paypal.com">PayPal</a></p>
+
+<p><a href="http://www.umpquabank.com">Umpqua Bank</a></p>
+
+<p><a href="https://personal.vanguard.com/us/home?fromPage=portal">Vanguard</a></p>
+
+<p><a href="https://www.independentvanguardadviser.com">Vanguard Independent Adviser</a></p>
+
+<h2>Health</h2>
+
+<p><a href="https://myhealthchart.com">My Health Chart</a></p>
+
+<p><a href="https://www.regence.com/web/regence_medicare/">Regence Medicare</a></p></div>
+
+<div class="column">
+
+<h2>Local Network</h2>
+
+<p><a href="http://localhost/~hbowie/">Local via localhost</a></p>
+
+<p><a href="http://192.168.1.101/~hbowie/">Local via static IP</a></p>
+
+<p><a href="http://192.168.1.1">Router Admin</a></p>
+
+<h2>Movies and TV</h2>
+
+<p><a href="http://imdb.com/">Internet Movie Database</a></p>
+
+<p><a href="https://letterboxd.com">LetterBoxd</a></p>
+
+<p><a href="http://www.netflix.com">NetFlix</a></p>
+
+<p><a href="http://www.rottentomatoes.com/">Rotten Tomatoes</a></p>
+
+<h2>News</h2>
+
+<p><a href="https://feedly.com/i/my">Feedly</a></p>
+
+<p><a href="http://nytimes.com/">New York Times</a></p>
+
+<p><a href="http://www.seattletimes.com/">Seattle Times</a></p>
+
+<p><a href="https://www.washingtonpost.com">The Washington Post</a></p>
+
+<h2>Practopian</h2>
+
+<p><a href="https://mailchimp.com">MailChimp</a></p>
+
+<p><a href="https://medium.com">Medium</a></p>
+
+<p><a href="https://substack.com">Substack</a></p></div>
+
+<div class="column">
+
+<h2>Reference</h2>
+
+<p><a href="http://allmusic.com/">All Music Guide</a></p>
+
+<p><a href="http://www.instapaper.com/">Instapaper</a></p>
+
+<p><a href="http://en.wikipedia.org">Wikipedia</a></p>
+
+<h2>Shopping</h2>
+
+<p><a href="https://smile.amazon.com/">Amazon.com</a></p>
+
+<p><a href="http://www.consumerreports.org">Consumer Reports</a></p>
+
+<p><a href="https://thewirecutter.com">The Wire Cutter</a></p>
+
+<h2>Social Networking</h2>
+
+<p><a href="http://www.facebook.com/">Facebook</a></p>
+
+<p><a href="http://www.linkedin.com">LinkedIn</a></p>
+
+<p><a href="https://c.im/">Mastodon at C.IM</a></p>
+
+<p><a href="http://www.twitter.com">Twitter</a></p>
+
+<h2>Technology</h2>
+
+<p><a href="http://www.arstechnica.com/">Ars Technica</a></p>
+
+<p><a href="http://www.daringfireball.net">Daring Fireball</a></p>
+
+<h2>Travel</h2>
+
+<p><a href="https://www.alaskaair.com">Alaska Air</a></p>
+
+<p><a href="http://www.marriott.com/">Marriott Hotels</a></p>
+
+<p><a href="https://www.nationalcar.com">National Car Rental</a></p>
+
+<p><a href="http://www.tripadvisor.com/">Trip Advisor</a></p></div>
+
+<div class="column">
+
+<h2>University of Michigan</h2>
+
+<p><a href="http://www.mgoblue.com/">M Go Blue - UM Sports</a></p>
+
+<p><a href="http://alumni.umich.edu/">U-M Alumni Association</a></p>
+
+<p><a href="https://www.umseattle.org">UMSeattle.org</a></p>
+
+<h2>Web Publishing</h2>
+
+<p><a href="http://www.fastmail.com">FastMail</a></p>
+
+<p><a href="https://greengeeks.com">GreenGeeks</a></p>
+
+<p><a href="https://www.hover.com">Hover</a></p>
+
+<h2>Web Sites I Maintain</h2>
+
+<p><a href="https://hbowie.net/">HBowie.net</a></p>
+
+<p><a href="https://lexiconofsong.org">Lexicon of Song</a></p>
+
+<p><a href="https://makingsenseofourselves.org">Making Sense</a></p>
+
+<p><a href="https://notenik.app">Notenik.app</a></p>
+
+<p><a href="https://www.pagantuna.com">PaganTuna.com</a></p>
+
+<p><a href="https://portablewisdom.org/">Portable Wisdom</a></p>
+
+<p><a href="https://practopian.org">Practopian.org</a></p>
+
+<p><a href="https://www.reasontorock.com/">ReasonToRock.com</a></p>
+
+<p><a href="https://www.softdevbigideas.com">Soft Dev Big Ideas</a></p></div>
+</div>
+</div>
+</body>
+</html>
