@@ -1,0 +1,15 @@
+module	action	modifier	object	value
+input	set		xpltags	true
+input	open	notenik-split-tags		/Users/hbowie/Sites/HBowie-23/content/writings
+filter	clear			
+filter	add	ne	Tag	
+filter	set		params	
+sort	clear			
+sort	add	ascending	Tag	
+sort	add	ascending	Category	
+sort	add	ascending	Importance	
+sort	add	ascending	Title	
+sort	set		params	
+template	webroot			/Users/hbowie/Sites/HBowie-23/web
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/writings-for-tag.html
+template	generate			

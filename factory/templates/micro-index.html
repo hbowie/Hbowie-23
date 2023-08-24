@@ -1,0 +1,70 @@
+<?output "../../web/micro/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Latest Activity | From the Desk of H. Bowie</title>
+		<meta name="description" content="Latest activity, from the desk of Herb Bowie" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<?include "../includes/head-links.html" ?>
+	</head>
+	<body>
+		<div id="wrapper">
+<?include "../includes/header.html" ?>
+			<main>
+
+				<h2><span class="underline">Activity:</span></h2>
+				
+<?set item-count = 0 ?>
+<?nextrec?>
+<?set item-count ++ ?>
+<?if =$item-count$= <= 20 ?>
+
+				<article class="post">
+					<a href="=$link$=">
+						<h3 class="post-title">=$title&h$=</h3>
+					</a>
+<?if =$item-count$= <= 10 ?>
+<?if "=$imagelink$=" ?>
+					<a class="implicit" href="=$link$=">
+						<img class="micro-image" src="=$imagelink$=" alt="">
+					</a>
+<?endif?>
+<?endif?>
+				=$body&w1o$=
+				<div>
+					<p class="readmore">
+<?if "=$link$=" ?>
+						<a href="=$link$=">Read more...</a>
+<?else?>
+						<a href="=$title&f$=.html">permalink</a>
+<?endif?>
+					</p>
+					<p class="pubdate">
+						=$date&dd MMM yyy$=
+					</p>
+				</div>
+				<div class="clearboth"></div>
+				<hr />
+			</article>
+<?endif?>
+<?loop?>
+
+		</main>
+		<nav>
+			<p>
+				&#187;
+				<a class="implicit" href="../index.html">
+					Home
+				</a>
+				&#187;
+				<a class="implicit" href="../rss.xml">
+					RSS Feed
+				</a>
+			</p>
+		</nav>
+<?include "../includes/footer.html" ?>
+
+		</div>  <!-- end of wrapper div -->
+	</body>
+</html>

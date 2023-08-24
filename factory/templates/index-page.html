@@ -1,0 +1,48 @@
+<?output "../../web/site-index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+  	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+		<title>Index to Original Writings | From the Desk of H. Bowie</title>
+		<meta name="description" content="Index to Original Writings, from the desk of Herb Bowie" />
+<?include "../includes/head-links.html" ?>
+	</head>
+	<body>
+		<div id="wrapper">
+<?include "../includes/header.html" ?>
+			<main>
+			
+				<h2><span class="underline">Alpha Index:</span></h2>
+				
+				<p>Below you'll find a complete alphabetical index listing significant terms, works and authors referenced in my original writings hosted on this site. </p>
+
+<?include "../includes-gen/index-letters.html" ?>
+
+<?nextrec?>
+<?definegroup 1 =$initial-letter$= ?>
+<?definegroup 2 "=$term$=" ?>
+<?ifendgroup 2 ?>
+<?endif?>
+<?ifendgroup 1 ?>
+				</dl>
+<?endif?>
+<?ifnewgroup 1 ?>
+				<h3 id="letter-=$initial-letter&l$=">&mdash; =$initial-letter$= &mdash;</h3>
+				<dl class="alpha-index">
+<?endif?>
+<?ifnewgroup 2 ?>
+					<dt>=$term$=</dt>
+<?endif?>
+					<dd>
+						<a href="=$relative$=writings/=$page&f$=.html">
+							=$page$=
+						</a>
+					</dd>
+<?loop?>
+			</main>
+<?include "../includes/footer.html" ?>
+
+		</div>  <!-- end of wrapper div -->
+	</body>
+</html>

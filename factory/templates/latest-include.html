@@ -1,0 +1,16 @@
+<?output "../includes-gen/latest-writing.html" ?>
+<?set count = 0 ?>
+<?nextrec?>
+<?set count += 1 ?>
+<?if =$count$= eq 1 ?>
+<h3>
+	<a href="writings/=$title&f$=.html">
+		=$title$=
+	</a>
+</h3>
+
+=$body&w1s1000o$=
+
+<a class="read-more" href="writings/=$title&f$=.html">Read more&hellip;</a>
+<?endif?>
+<?loop?>

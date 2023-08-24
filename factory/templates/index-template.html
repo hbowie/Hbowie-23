@@ -1,12 +1,55 @@
+<?output "../../web/index.html"?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 	<title>From the Desk of H. Bowie</title>
-	<link rel="stylesheet" href="css/styles.css" />
+<?include "../includes/head-links.html" ?>
 </head>
 <body>
-
+	<div id="wrapper">
+		<header>
+			<h1><span class="underline">from the desk of H. Bowie...</span></h1>
+			<img src="images/desk.jpg" alt="desktop with typewriter" />
+		</header>
+		<main>
+			<section>
+				<h2># the latest...</h2>
+<?include "../includes-gen/latest-writing.html" ?>
+			</section>
+			<section>
+				<h2># the biggest...</h2>
+				<p>These are projects of mine that are big enough to have websites of their own.</p>
+<?include "../includes-gen/projects.html" ?>
+			</section>
+			<section>
+				<h2># the rest of it...</h2>
+					<p>Use these links to dig into the archives.</p>
+					<ul>
+						<li>
+							<a href="songs.html">
+								 Song Index
+							</a>
+							-- a sortable list of all the songs I've written about
+						</li>
+					</ul>
+			</section>
+			<section>
+				<h2>My Commonplace Book</h2>
+				<p>One of my uses for Notenik is to maintain a <a class="ext-link" target="_blank" rel="noopener" href="https://www.nytimes.com/2021/02/10/technology/personaltech/make-digital-commonplace-book.html">digital commonplace book</a>, containing brief quotations from others that I have found meaningful. This content can be accessed in a number of different ways. </p>
+				<ul>
+					<li>
+						<a href="authors/index.html">
+							Authors Index
+						</a> -- A sortable list of all cited authors
+					</li>
+				</ul>
+			</section>
+		</main>
+<?include "../includes/footer.html" ?>
+	</div>
 </body>
 </html>
+<?nextrec?>
+<?loop?>

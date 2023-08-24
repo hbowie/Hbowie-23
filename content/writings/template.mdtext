@@ -2,7 +2,7 @@ Title: <title>
 
 Subtitle:  
 
-Class: <class: general, reference, song > 
+Class: <class:  general, reference, song, song-post > 
 
 Tags: <tags> 
 
@@ -10,7 +10,7 @@ Index: <index>
 
 Date: <date> 
 
-Status: 0 - Idea; 4 - In Work; 5 - Held; 6 - Completed; 8 - Canceled; 9 - Published; 
+Status: 0 - Idea; 4 - In Work; 5 - Held; 6 - Completed; 8 - Canceled; 9 - Published;  
 
 Short ID: <shortid> 
 
@@ -44,9 +44,9 @@ Apple Music Player: <code>
 
 Date Added: <dateadded> 
 
-Date Modified: <datemodified>
+Date Modified: <datemodified> 
 
-Timestamp:   
+Timestamp:  
 
 Teaser: <longtext> 
 

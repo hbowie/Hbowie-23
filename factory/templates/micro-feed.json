@@ -1,0 +1,35 @@
+<?output "../../web/feed.json"?>
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "From the desk of H. Bowie",
+    "home_page_url": "https://hbowie.net/",
+    "feed_url": "https://hbowie.net/feed.json",
+    "description": "Prose and code from the desk of Herb Bowie",
+    "authors": [
+    	{
+    		"name": "Herb Bowie"
+    	}
+    ],
+    "language": "en-US",
+    "items": [
+<?set item-count = 0 ?>
+<?nextrec?>
+<?set item-count ++ ?>
+<?if =$item-count$= <= 10 ?>
+        {
+            "id": "hbowie.net/micro/=$title&f$=",
+            "url": "https://hbowie.net/micro/=$title&f$=",
+<?if "=$link$=" ?>
+						"external_url": "=$link$=",
+<?endif?>
+						"title": "=$title$=",
+<?if "=$imagelink$=" ?>
+						"image": "=$imagelink$=",
+<?endif?>
+						"content_html": "=$body&w1o\$=",
+						"date_published": "=$date&yyyy-MM-ddTHH:mm:ssZ$="
+        },
+<?endif?>
+<?loop?>
+    ]
+}

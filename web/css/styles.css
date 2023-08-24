@@ -1,3 +1,376 @@
+/* --------------------------------------------------
+
+	Basics
+
+* -------------------------------------------------- */
+
+html {
+	color: #e7cfb9;
+	background-color: #271c1f;
+	font-family: "concourse_3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16pt;
+	line-height: 1.5;
+}
+body {
+   max-width: 720px;
+   margin: 0 auto; 
+}
+#wrapper {
+	margin: 0 10px;
+}
+hr {
+	color: #e7cfb9;
+}
+
+/* --------------------------------------------------
+
+	Paragraphs and Block Quotes
+
+* -------------------------------------------------- */
+
+p {
+	margin-block-start: 0.5em; 
+}
+
+blockquote {
+	border-left: 1em solid #8b6854;
+	padding-left: 1em;
+	margin-left: 0;
+}
+
+/* --------------------------------------------------
+
+	Headings
+
+* -------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	margin-top: 1em;
+	font-size: 1.6em;
+}
+h2 {
+	font-size: 1.4em;
+	font-style: normal;
+	font-family: "triplicate_b", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h3 {
+	font-size: 1.2em;
+	margin-bottom: 0;
+}
+h1.small-header {
+	font-size: 1.6em;
+}
+
+p.section-name {
+	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-weight: 500;
+	margin-block-end: 0;
+}
+
+/* --------------------------------------------------
+
+	Links
+
+* -------------------------------------------------- */
+
+a:link {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a:visited {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a:hover {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a:active {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a.implicit {
+	text-decoration: none;
+	border: none;
+}
+
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23E7CFB9' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+    
+/* --------------------------------------------------
+
+	Images
+
+* -------------------------------------------------- */
+
+img {
+  max-width: 100%;
+}
+
+header img {
+	border-radius: 8px;
+}
+
+img.small-header {
+	border-radius: 6px;
+}
+    
+.img-top-right {
+  float: right;
+  margin-left: 1em;
+  padding: 0;
+  border: 4px solid #c29a72;
+}
+
+img.song-image {
+	max-width: 13em;
+	height: auto;
+	float: right;
+	padding: 0;
+	border: 4px solid #c29a72;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 1.2em;
+	margin-left: 1.2em;
+}
+
+img.micro-image {
+	margin-top: 0.5em;
+}
+
+/* --------------------------------------------------
+
+	Floats
+
+* -------------------------------------------------- */
+
+.readmore {
+	float: left;
+}
+
+.pubdate {
+	float: right;
+}
+
+.clearboth {
+  clear: both;
+}
+    
+/* --------------------------------------------------
+
+	Footer
+
+* -------------------------------------------------- */
+
+footer {
+	font-size: 0.7rem;
+	text-align: left;
+}
+
+/* --------------------------------------------------
+
+	Tags Cloud
+	
+ * -------------------------------------------------- */
+
+
+ul.tags-list { list-style-type: none; }
+
+ul.tags-cloud { 
+  border: none;
+  list-style: none; 
+  padding-left: 0; 
+  display: flex; 
+  flex-wrap: wrap; 
+  align-items: center; 
+  justify-content: center; 
+  line-height: 2.0rem; 
+  font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: 'concourse_3', 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  font-size: 1.0rem; 
+  font-weight: 500; 
+} 
+
+ul.tags-cloud a { 
+  display: block; 
+  position: relative;
+  text-decoration: none; 
+  border-bottom: 0;
+  border-radius: 10px; 
+  background-color: #ca9972; 
+  color: #5c3a21;
+  padding: 1px 12px 1px 12px; 
+  margin: 10px 10px 10px 10px; 
+  min-width: 40px; 
+  text-align: center; 
+} 
+
+ul.tags-cloud a:link { 
+  text-decoration: none; 
+  border-bottom: 0;
+  color: inherit;
+  color: #211E1F;
+} 
+
+ul.tags-cloud a:visited { 
+  text-decoration: none; 
+  border-bottom: 0;
+  color: inherit;
+  color: #211E1F;
+} 
+
+/*
+
+nav {
+	background-color: #e7cfb9;
+	color: #271c1f;
+}
+nav a {
+	background-color: #e7cfb9;
+	color: #271c1f;
+}
+nav a:visited {
+	background-color: #e7cfb9;
+	color: #271c1f;
+} */
+
+p.nav {
+	margin-top: 0.75em;
+	margin-bottom: 0.75em;
+}
+
+/* --------------------------------------------------
+
+	Other
+
+* -------------------------------------------------- */
+
+header {
+	font-style: normal;
+	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.underline {
+	border-bottom: 2px solid;
+}
+
+p.line-spacer {
+	margin: 0;
+	padding: 0;
+}
+
+button {
+	color: #271c1f;
+	background-color: #e7cfb9;
+	border-color: #8b6854;
+}
+ 
+
+.song-title-slug {
+	font-size: 1.8em;
+	margin-left: 0;
+	margin-top: 1em;
+	font-family: inherit;
+	font-weight: normal;
+	margin-bottom: 0.6em;
+	/* color: var(--text-color); */
+}
+
+.song-title-slug a:link {
+	/* color: var(--text-color); */
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+.song-title-slug a:visited {
+	/* color: var(--text-color); */
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+.song-info-label {
+	font-size: 0.8em;
+	font-weight: 400;
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.song-info-value {
+	margin-top: 0;
+	margin-bottom: 0.3em;
+}
+
+.pub-date {
+	color: #e1bcaa;
+	text-align: right;
+	font-style: italic;
+}
+
+/* --------------------------------------------------
+
+	Fonts
+
+* -------------------------------------------------- */
+
+@font-face {
+font-family: concourse_3;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_bold_italic.woff2') format('woff2');
+}
+
 @font-face {
 font-family: triplicate_a;
 font-style: normal;
@@ -34,34 +407,75 @@ font-display: auto;
 src: url('../fonts/triplicate_a_bold_italic.woff2') format('woff2');
 }
 
-html {
-	color: #ecdfe3;
-	background-color: #271c1f;
-}
-body {
-   max-width: 980px;
-   margin: 0 auto; 
-}
-#entire-page {
-	margin: 0 10px;
-}
-img {
-  max-width: 100%;
-}
-header {
-	font-style: normal;
-	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-header img {
-	border-radius: 8px;
-}
-h1, h2, h3, h4, h5, h6 {
-	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-h1 {
-	margin-top: 1em;
+@font-face {
+font-family: triplicate_b;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_regular.woff2') format('woff2');
 }
 
-.underline {
-	border-bottom: 2px solid;
+@font-face {
+font-family: triplicate_b;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_italic.woff2') format('woff2');
 }
+
+@font-face {
+font-family: triplicate_b;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_b;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_bold_italic.woff2') format('woff2');
+}
+

@@ -1,0 +1,31 @@
+<?output "../../web/rss.xml"?>
+<rss version="2.0">
+  <channel>
+    <title>HBowie.net - From the Desk of H. Bowie</title>
+    <link>https://hbowie.net/</link>
+    <description>Stuff by Herb Bowie</description>
+    <language>en</language>
+<?set item-count = 0 ?>
+<?nextrec?>
+<?set item-count += 1 ?>
+<?if =$item-count$= le 10 ?>
+	<item>
+	  <title>=$title&x$=</title>
+	  <link>https://hbowie.net/micro/=$title&f$=</link>
+	  <guid>https://hbowie.net/micro/=$title&f$=</guid>
+	  <pubDate>=$date&EEE, dd MMM yyyy$= 12:00:00 -0700</pubDate>
+<?if "=$imagelink$=" ?>
+		<image>
+			<link>https://hbowie.net/</link>
+			<title>Image from the desk of H. Bowie</title>
+			<url>=$imagelink$="</url>
+		</image>
+<?endif?>
+	  <description>
+	  	=$body&xo$=
+	  </description>
+	</item>
+<?endif?>
+<?loop?>
+  </channel>
+</rss>

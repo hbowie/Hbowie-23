@@ -1,0 +1,15 @@
+Title:  Search
+
+Body:
+
+<form action="https://duckduckgo.com/" method="get" id="form-search">
+<label for="input-search">Enter your search criteria:</label>
+<input type="text" name="q" id="input-search">
+<input type="hidden" name="sites" value="hbowie.net">
+<button type="submit" class="btn btn-primary" id="submit-search">Search</button>
+</form>
+<div id="search-results">
+</div>
+<script src="js/search-original.js"></script>
+<script src="js/search-quotes.js"></script>
+<script src="js/search.js"></script>

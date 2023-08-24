@@ -1,0 +1,63 @@
+<?nextrec?>
+<?output "../../web/writings/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$= | From the Desk of H. Bowie</title>
+	<meta name="description" content='A Reference Summary of =$title$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+	<div id="wrapper">
+<?include "../includes/header.html" ?>
+		<main>
+			<article>
+<?if "=$class$=" eq "reference" ?>
+				<p><em><span class="underline">Reference Summaries:</span></em></p>
+<?else?>
+				<p><em><span class="underline">Essays:</span></em></p>
+<?endif?>
+				<h2>=$title&h$=</h2>
+
+<?if "=$image-name$=" ?>
+<?copyfile "../../content/writings/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
+<img class="???" src="=$relative$=images/=$image-name&f$=" alt="=$image-alt$=">
+<?endif?>
+
+=$body&w1o$=
+
+<p class="pub-date">=$date&MMMM d, yyyy$=</p>
+
+			</article>
+			
+						<nav>
+				<hr />
+				<p class="nav">
+					&#187;
+					<a class="implicit" href="../index.html">
+						Home
+					</a>
+					&#187;
+<?if "=$class$=" eq "reference" ?>
+					<a class="implicit" href="../reference.html">
+						Reference Summaries
+					</a>
+<?else?>
+					<a class="implicit" href="../essays.html">
+						General Essays
+					</a>
+<?endif?>
+					&#187;
+					<a class="implicit" href="../tags/index.html">
+						Tags
+					</a>
+				</p>
+			</nav>
+		</main>
+<?include "../includes/footer.html" ?>
+	</div>
+</body>
+</html>
+<?loop?>

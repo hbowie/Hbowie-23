@@ -1,0 +1,104 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "From the desk of H. Bowie",
+    "home_page_url": "https://hbowie.net/",
+    "feed_url": "https://hbowie.net/feed.json",
+    "description": "Prose and code from the desk of Herb Bowie",
+    "authors": [
+    	{
+    		"name": "Herb Bowie"
+    	}
+    ],
+    "language": "en-US",
+    "items": [
+        {
+            "id": "hbowie.net/micro/notenik-version-12.7.0-released",
+            "url": "https://hbowie.net/micro/notenik-version-12.7.0-released",
+						"external_url": "https://notenik.app/knowledge-base/EPUB/html/version-12.7.0.html",
+						"title": "Notenik Version 12.7.0 Released",
+						"image": "https://notenik.app/images/notenik-logo.png",
+						"content_html": "<p>Notenik 12.7.0 is out. The biggest change is the sorting out of various controls for navigating through a Collection. There are three different paths a user can traverse, going both backwards and forwards. The first path just travels sequentially through the list, using the currently selected sort sequence. The second path goes back and forth through navigation history within the app. The third path goes forwards and back through search results. These three are all now enabled in both directions, with separate controls for each, and with sensible keyboard shortcuts for all options. Thanks to valuable user input on the Notenik Discourse forum for these suggestions! </p>",
+						"date_published": "2023-08-17"
+        },
+        {
+            "id": "hbowie.net/micro/when-i-paint-my-masterpiece",
+            "url": "https://hbowie.net/micro/when-i-paint-my-masterpiece",
+						"external_url": "https://lexiconofsong.org/when-i-paint-my-masterpiece.html",
+						"title": "When I Paint My Masterpiece",
+						"image": "https://lexiconofsong.org/images/when-i-paint-my-masterpiece-bob-dylan-with-the-band.jpg.jpg",
+						"content_html": "<p>This song by Bob Dylan, first recorded by The Band, had been haunting me lately, so I decided to write a little something about it. </p>",
+						"date_published": "2023-07-16"
+        },
+        {
+            "id": "hbowie.net/micro/notenik-updates-for-march-2023",
+            "url": "https://hbowie.net/micro/notenik-updates-for-march-2023",
+						"external_url": "https://notenik.app",
+						"title": "Notenik Updates for March, 2023",
+						"image": "https://notenik.app/images/notenik.png",
+						"content_html": "<p>Notenik 10 received a nice review in the January issues of both MacLife and MacFormat, and was awared four out of five stars! </p>  <p>Notenik 11.7.0 was released on March 27th. </p>  <p>I keep adding new features to the app, either because I want/need them, or because another current or prospective user has requested them. </p>",
+						"date_published": "2023-03-28"
+        },
+        {
+            "id": "hbowie.net/micro/launched-the-lexicon-of-song-site",
+            "url": "https://hbowie.net/micro/launched-the-lexicon-of-song-site",
+						"external_url": "https://lexiconofsong.org/",
+						"title": "Launched the Lexicon of Song Site",
+						"image": "https://lexiconofsong.org/images/long-black-veil-lefty-frizzell.jpeg",
+						"content_html": "<p>This is my newest site, and a spot where I can bring together all of the writings about songs I&#8217;ve done over the years. There&#8217;s some content from <em>Reason to Rock</em> here, as well as some stuff from <em>The Practical Utopian</em>, plus newer stuff. But since these are the most popular pieces I&#8217;ve written over the years (according to Google), I thought it was high time to have a single site dedicated to this material. The title of the site comes from a Bob Dylan quotation (see the &#8220;About&#8221; page for details). </p>",
+						"date_published": "2022-08-14"
+        },
+        {
+            "id": "hbowie.net/micro/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea",
+            "url": "https://hbowie.net/micro/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea",
+						"external_url": "https://practopian.org/cross-posts/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea.html",
+						"title": "Why Mandating 'X' Days a Week in the Office is a Stupid Idea",
+						"image": "https://practopian.org/images/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-team-meeting-in-office.jpg",
+						"content_html": "<p>If execs cannot mandate the same corporate attire for everyone, what makes them think that mandating a certain number of days per week in the office is a good thing? The same flaw lurks in both approaches: every employee is not the same. Every situation is not the same. Every team is not the same. </p>  <p>Read the complete post on: </p> <ul> <li><a href=\"https://hbowie.medium.com/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-8c731dba747\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Medium</a> </li> <li><a href=\"https://practopian.substack.com/p/mandating-x-days-a-week-in-the-office\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Substack</a> </li> <li><a href=\"https://practopian.org/blog/hbowie/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Practopian</a> </li> </ul> ",
+						"date_published": "2022-05-11"
+        },
+        {
+            "id": "hbowie.net/micro/notenik-8.5.0-released",
+            "url": "https://hbowie.net/micro/notenik-8.5.0-released",
+						"external_url": "https://notenik.app/news.html",
+						"title": "Notenik 8.5.0 Released",
+						"image": "https://notenik.app/images/notenik.png",
+						"content_html": "<p>Well, it&#8217;s been a while since I posted a Notenik update here, but there&#8217;s been a lot going on! We&#8217;re now all the way up to 8.5.0, with lots of new stuff being added. Here&#8217;s a brief recap: </p> <ul> <li>Support for YAML metadata </li> <li>Support for image tags pointing to local files </li> <li>A new Notenik 101 video on YouTube </li> <li>A New Collection of brief Notenik Tips </li> <li>Support for HTML table generation using pipes and dashes within Markdown </li> <li>Added a new Include command to include one Note within another </li> <li>New features to better support a sort of outlining within Notenik </li> <li>Addition of Class templates </li> <li>Streamlined Reading improvements </li> <li>Addition of backlinks </li> <li>AKA (in other words, alias) fields </li> </ul> ",
+						"date_published": "2022-02-20"
+        },
+        {
+            "id": "hbowie.net/micro/catching-up-on-the-practical-utopian",
+            "url": "https://hbowie.net/micro/catching-up-on-the-practical-utopian",
+						"external_url": "https://practopian.org/recent.html",
+						"title": "Catching Up on The Practical Utopian",
+						"image": "https://practopian.org/images/logo_sq128.png",
+						"content_html": "<p>I&#8217;ve had several new writings out over the last few months. </p> <ul> <li><p><a href=\"https://practopian.org/blog/hbowie/getting-back-to-the-feeling.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Getting Back to the Feeling</a>, about Peter Jackson&#8217;s Beatles documentary </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/the-issues-swirling-around-spotify-and-its-content-providers.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">The Issues Swirling around Spotify and its Content Providers</a> &#8211; In which we discuss Spotify, Neil Young, Joe Rogan and Brené Brown </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/does-the-us-need-a-new-more-centrist-political-party.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Does the US Need a New, More Centrist, Political Party?</a> &#8211; Is there any other way to find our way back to something most Americans can feel good about? </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/why-michigans-4227-victory-over-ohio-state-gives-me-hope-for-humanity.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Why Michigan&#8217;s 42-27 Victory over Ohio State Gives Me Hope for Humanity</a> &#8211; If the Michigan football team can once again trounce the Buckeyes, what else might be possible? </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/a-guide-to-becoming.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">A Guide to Becoming</a> &#8211; Why it&#8217;s good that we are never just one thing, and always in a state of becoming. </p></li> </ul> ",
+						"date_published": "2022-02-18"
+        },
+        {
+            "id": "hbowie.net/micro/notenik-7.2.0-released",
+            "url": "https://hbowie.net/micro/notenik-7.2.0-released",
+						"external_url": "https://notenik.app/news/notenik-7.2.0-some-nifty-enhancements.html",
+						"title": "Notenik 7.2.0 Released",
+						"image": "https://notenik.app/images/notenik.png",
+						"content_html": "<p>Website address updated to point to Notenik.app; wiki links now will try to pluralize a reference, if it is not found in singular form; the Merge template Set command now allows a variable to be used as part or all of a global variable name; Markdown quote sharing corrected to respect lookup links; added a Quick Export and Open command. </p>",
+						"date_published": "2021-09-20"
+        },
+        {
+            "id": "hbowie.net/micro/notenik-website-redesigned",
+            "url": "https://hbowie.net/micro/notenik-website-redesigned",
+						"external_url": "https://notenik.app/index.html",
+						"title": "Notenik Website Redesigned",
+						"content_html": "<p>Redesigned the Notenik website to support dark mode, with added content and a fresh look. </p>",
+						"date_published": "2021-09-17"
+        },
+        {
+            "id": "hbowie.net/micro/notenik-7.1.0-released",
+            "url": "https://hbowie.net/micro/notenik-7.1.0-released",
+						"external_url": "https://notenik.app/news/notenik-7.1.0-taking-dark-mode-all-the-way.html",
+						"title": "Notenik 7.1.0 Released",
+						"image": "https://notenik.app/images/notenik.png",
+						"content_html": "<p>Added some cosmetic improvements, including dark mode on the Display tab, and highlighting of search results within the Display tab; also added a utility function to convert a Note&#8217;s title into a link to Wikipedia. </p>",
+						"date_published": "2021-08-31"
+        },
+    ]
+}

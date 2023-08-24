@@ -1,0 +1,64 @@
+<?nextrec?>
+<?output "../../web/writings/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$= | From the Desk of H. Bowie</title>
+	<meta name="description" content='An Essay on the song "=$title$=" by =$songwriters$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+	<div id="wrapper">
+<?include "../includes/header.html" ?>
+		<main>
+			<article>
+			
+				<h2>"=$title&h$="</h2>
+				
+				<p>A song written by =$songwriters$= in =$date-of-song$=</p>
+
+				<p class="song-info-label">
+					Topics:
+				</p>
+				<p class="song-info-value">
+					=$tags&ztopics.html#tags.;;;$=
+				</p>
+
+<?if "=$image-name$=" ?>
+<?copyfile "../../content/writings/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
+<?if "=$apple-music-link$=" >
+<a href="=$apple-music-link$=">
+<?endif?>
+<img class="song-image" src="=$relative$=images/=$image-name&f$=" alt="=$image-alt$=">
+<?if "=$apple-music-link$=">
+</a>
+<?endif?>
+<?endif?>
+=$body&w1o$=
+<p class="pub-date">=$date&MMMM d, yyyy$=</p>
+
+
+<p class="line-spacer"> &nbsp; </p>
+
+=$apple-music-player$=
+			</article>
+			<nav>
+				<p>
+					&#187;
+					<a class="implicit" href="../index.html">
+						Home
+					</a>
+					&#187;
+					<a class="implicit" href="../songs.html">
+						Songs
+					</a>
+				</p>
+			</nav>
+		</main>
+<?include "../includes/footer.html" ?>
+	</div>
+</body>
+</html>
+<?loop?>

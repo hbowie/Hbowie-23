@@ -1,0 +1,41 @@
+module	action	modifier	object	value
+
+<!-- Generate Output from the Quotes Collection -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/quotes
+filter	clear			
+filter	set		params	
+sort	clear			
+sort	add	ascending	author	
+sort	add	ascending	date	
+sort	add	ascending	title	
+sort	set		params	
+template	webroot			/Users/hbowie/Sites/HBowie-23/web
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quote-page.html
+template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/author-quotes.html
+template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quote-random.html
+template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/search-quotes.js
+template	generate			
+
+<!-- Explode Tags for Quotes -->
+
+input	set		xpltags	true
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/quotes
+filter	clear
+filter	add	ne	Tag	
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Title
+sort	set		params
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quotes-xpltags.txt
+template	generate
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quotes-for-tag.html
+template	generate

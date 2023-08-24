@@ -1,0 +1,50 @@
+<?nextrec?>
+<?definegroup 1 "=$tag-file-name$=" ?>
+<?ifendgroup 1 ?>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?output "../../web/tags/=$tag-file-name$=" ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Tag: =$tag$= | From the Desk of H. Bowie</title>
+	<meta name="description" content='Content from the desk of H. Bowie tagged with =$tag$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+	<div id="wrapper">
+<?include "../includes/header.html" ?>
+		<main>
+			<article>
+
+				<h2>Tag: =$tag$=</h2>
+				
+<?include "../includes-gen/tag-=$tag&f$=-topic.html"?>
+		
+<?include "../includes-gen/tag-=$tag&f$=-writings.html" ?>
+		
+<?include "../includes-gen/tag-=$tag&f$=-quotes.html" ?>
+
+			</article>
+		<nav>
+			<p>
+				<a href="../index.html">
+					Home
+				</a>
+				|
+				<a href="index.html">
+					Tags Cloud
+				</a>
+			</p>
+		</nav>
+
+		</main>
+<?include "../includes/footer.html" ?>
+	</div>
+
+</body>
+</html>
+<?loop?>

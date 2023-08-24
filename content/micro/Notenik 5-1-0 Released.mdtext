@@ -1,0 +1,26 @@
+Title:  Notenik 5.1.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Status: 9 - Closed
+
+Date:   2020-12-26
+
+Teaser: Various minor improvements. 
+
+
+Date Added: 2021-01-23 16:10:25 -0800
+
+Date Modified: 2023-08-15 15:25:05 -0700
+
+Body:
+
++ Added Display Prefs Button to Update CSS
++ Added an Optional Date Modified Field
++ Changed the Author Sort to sort by first name first
++ Sorted out problems with following links, including application URLs
++ Added a function to close all completed tasks

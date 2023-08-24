@@ -1,0 +1,38 @@
+<?output "../../web/tags/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Tags Cloud | From the Desk of H. Bowie</title>
+		<meta name="description" content="Terms used to tag content, from the desk of Herb Bowie" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<?include "../includes/head-links.html" ?>
+	</head>
+	<body>
+		<div id="wrapper">
+<?include "../includes/header.html" ?>
+			<main>
+				<article>
+					<h2><span class="underline">Tags Cloud:</span></h2>
+
+					<ul class="tags-cloud">
+<?nextrec?>
+<?definegroup 1 "=$tag-file-name$=" ?>
+<?ifnewgroup 1 ?>
+						<li>
+							<a href="=$tagfilename$=">
+								=$tag$=
+							</a>
+						</li>
+<?endif?>
+<?loop?>
+					</ul>
+				</article>
+			</main>
+
+<?include "../includes/footer.html" ?>
+
+		</div>  <!-- end of wrapper div -->
+
+	</body>
+</html>

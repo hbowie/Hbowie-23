@@ -1,0 +1,18 @@
+Title:  authors script
+
+Tags:   scripts
+
+Seq:    1.2
+
+Level:  2
+
+Wiki Links: author page template
+Wiki Links:  authors content
+Wiki Links:  authors table template
+
+Body:
+
++ reads the [[authors content]]
++ sorts in ascending sequence by author
++ generates the [[authors table template]]
++ generates the [[author page template]]

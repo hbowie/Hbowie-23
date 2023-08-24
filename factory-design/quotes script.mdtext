@@ -1,0 +1,13 @@
+Title:  quotes script
+
+Seq:    1.1
+
+Level:  2
+
+Wiki Links: quotes content
+
+Body:
+
++ reads the [[quotes content]]
++ sorts ascending by author, date, title
+
