@@ -5,6 +5,20 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <title>A Reimagined HBowie.net</title>
+	  <link>https://hbowie.net/micro/a-reimagined-hbowie.net</link>
+	  <guid>https://hbowie.net/micro/a-reimagined-hbowie.net</guid>
+	  <pubDate>Thu, 24 Aug 2023 12:00:00 -0700</pubDate>
+		<image>
+			<link>https://hbowie.net/</link>
+			<title>Image from the desk of H. Bowie</title>
+			<url>https://hbowie.net/images/desk.jpg"</url>
+		</image>
+	  <description>
+	  	<p>I&apos;ve done a major redesign of my personal site at HBowie.net. This has now become an ongoing central repository for my digital commonplace book and for all of my shorter pieces that I think are still worth reading. Feel free to look around. </p>
+	  </description>
+	</item>
+	<item>
 	  <title>Notenik Version 12.7.0 Released</title>
 	  <link>https://hbowie.net/micro/notenik-version-12.7.0-released</link>
 	  <guid>https://hbowie.net/micro/notenik-version-12.7.0-released</guid>
@@ -157,20 +171,6 @@
 	  <pubDate>Fri, 17 Sep 2021 12:00:00 -0700</pubDate>
 	  <description>
 	  	<p>Redesigned the Notenik website to support dark mode, with added content and a fresh look. </p>
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik 7.1.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-7.1.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-7.1.0-released</guid>
-	  <pubDate>Tue, 31 Aug 2021 12:00:00 -0700</pubDate>
-		<image>
-			<link>https://hbowie.net/</link>
-			<title>Image from the desk of H. Bowie</title>
-			<url>https://notenik.app/images/notenik.png"</url>
-		</image>
-	  <description>
-	  	<p>Added some cosmetic improvements, including dark mode on the Display tab, and highlighting of search results within the Display tab; also added a utility function to convert a Note&apos;s title into a link to Wikipedia. </p>
 	  </description>
 	</item>
   </channel>
