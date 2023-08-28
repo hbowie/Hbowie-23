@@ -4,7 +4,21 @@ Body:
 
 The [vintage desktop photo](https://www.istockphoto.com/photo/journalist-working-in-his-vintage-office-at-night-gm1143329931-307011222) comes from [cyan066](https://www.istockphoto.com/portfolio/cyano66) on iStock. 
 
+Photos for individual posts are generally licensed from [iStock](https://www.istockphoto.com) as well. 
+
 Fonts are licensed from [Matthew Butterick](https://matthewbutterick.com).
+
+The primary tools used to build and maintain the site are: 
+
++ [Markdown](https://daringfireball.net/projects/markdown/)
++ [Notenik](https://notenik.app) 
++ [iA Writer](https://ia.net/writer)
++ [BBEdit](https://www.barebones.com/products/bbedit/)
++ [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter/)
++ [Transmit](https://panic.com/transmit/) 
++ [Tower](https://www.git-tower.com/mac)
+
+All the words and code used for the site are stored on [GitHub](https://github.com/hbowie/Hbowie-23).
 
 Quotations cited are used according to the doctrine of [Fair use](https://en.wikipedia.org/wiki/Fair_use), but of course remain protected according to their original copyrights.
 
