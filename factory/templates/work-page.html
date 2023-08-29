@@ -1,0 +1,61 @@
+<?nextrec?>
+<?output "../../web/works/=$worktitle&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Cited Work: =$worktitle$= | From the Desk of H. Bowie</title>
+	<meta name="description" content='A Cited Work titled "=$worktitle$=" by =$author$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+	<div id="wrapper">
+<?include "../includes/header.html" ?>
+		<main>
+			<article>
+					
+				<p class="section-name">Works:</p>
+				
+<?if =$majorwork$= eq true ?>
+					<h3><cite>=$worktitle$=</cite></h3>
+<?else?>
+					<h3>&ldquo;=$worktitle$=&rdquo;</h3>
+<?endif?>
+
+				<p>by <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
+
+<?if "=$worktype$=" ?>
+				<p>Work Type: =$worktype$=</p>
+<?endif?>
+
+<?if "=$workdate$=" ?>
+				<p>Work Date: =$workdate$=</p>
+<?endif?>
+<?if "=$worklink$=" ?>
+					<p><a href="=$worklink$=" class="ext-link" target="_blank" rel="noopener">Additional Info</a></p>
+<?endif?>
+
+			</article>
+		</main>
+		<nav>
+			<p>
+				&#187;
+				<a class="implicit" href="../index.html">
+					Home
+				</a>
+				&#187;
+				<a class="implicit" href="../authors/index.html">
+					Authors
+				</a>
+				&#187;
+				<a class="implicit" href="../quotes/random.html">
+					Random Quote
+				</a>
+			</p>
+		</nav>
+<?include "../includes/footer.html" ?>
+	</div>
+</body>
+</html>
+<?loop?>

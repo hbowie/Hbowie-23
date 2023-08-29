@@ -3,3 +3,9 @@ Title:  quote page template
 Seq:    3.1.1
 
 Level:  3
+
+Backlinks: factory-design/quotes script
+
+Body:
+
+Generates a page for each quote in the quotes folder. 

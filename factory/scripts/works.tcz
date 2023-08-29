@@ -1,0 +1,7 @@
+module	action	modifier	object	value
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/works
+template	webroot			/Users/hbowie/Sites/HBowie-23/web
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/work-page.html
+template	generate			

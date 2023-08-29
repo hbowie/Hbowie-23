@@ -4,10 +4,21 @@ Seq:    1.1
 
 Level:  2
 
+Wiki Links: author quotes template
+Wiki Links: quote page template
+Wiki Links: quote random template
 Wiki Links: quotes content
+Wiki Links: search quotes template
 
 Body:
 
 + reads the [[quotes content]]
 + sorts ascending by author, date, title
++ generates the [[quote page template]]
++ generates the [[author quotes template]]
++ generates the [[quote random template]]
++ generates the [[search quotes template]]
++ reads the [[quotes content]] and explodes the tags
++ sorts ascending by tag, title
+
 

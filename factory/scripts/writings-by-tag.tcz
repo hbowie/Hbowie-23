@@ -13,3 +13,5 @@ sort	set		params
 template	webroot			/Users/hbowie/Sites/HBowie-23/web
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/writings-for-tag.html
 template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/writings-xpltags.txt
+template	generate

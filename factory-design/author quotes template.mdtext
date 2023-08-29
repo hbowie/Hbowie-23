@@ -1,0 +1,11 @@
+Title:  author quotes template
+
+Seq:    3.2.3
+
+Level:  3
+
+Backlinks: factory-design/quotes script
+
+Body:
+
+Generates quotes for each author in the includes-gen folder. 
