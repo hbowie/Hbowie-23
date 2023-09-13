@@ -1,4 +1,7 @@
 module	action	modifier	object	value
+
+<!-- Generate Writings by Tag -->
+
 input	set		xpltags	true
 input	open	notenik-split-tags		/Users/hbowie/Sites/HBowie-23/content/writings
 filter	clear			

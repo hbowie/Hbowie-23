@@ -3,7 +3,7 @@ let searchQuotes = [
 		title: "A law against private jets",
 		date: "09 Apr 2019",
     url: "quotes/a-law-against-private-jets.html",
-		content: "If I were queen of the world I would pass a law against private jets because they enable you to get around a certain reality You don t have to go through an airport terminal you don t have to interact you don t have to be patient you don t have to be uncomfortable These are the things that remind us we re human Abigail Disney Disney family fortune heir The Cut Podcast "
+		content: "If I were queen of the world I would pass a law against private jets because they enable you to get around a certain reality You don t have to go through an airport terminal you don t have to interact you don t have to be patient you don t have to be uncomfortable These are the things that remind us we re human Abigail Disney American documentary film producer, philanthropist, and social activist The Cut Podcast "
 	},
 	{
 		title: "The legitimate object of government",
@@ -147,25 +147,25 @@ let searchQuotes = [
 		title: "No person in America should be too poor to live",
 		date: "28 Jun 2018",
     url: "quotes/no-person-in-america-should-be-too-poor-to-live.html",
-		content: "For me democratic socialism is about really the value for me is that I believe that in a modern moral and wealthy society no person in America should be too poor to live Alexandria Ocasio-Cortez  Stephen Colbert Show "
+		content: "For me democratic socialism is about really the value for me is that I believe that in a modern moral and wealthy society no person in America should be too poor to live Alexandria Ocasio-Cortez American politician and activist Stephen Colbert Show "
 	},
 	{
 		title: "The exercise of the intellect",
 		date: "1835",
     url: "quotes/the-exercise-of-the-intellect.html",
-		content: "From the time when the exercise of the intellect became a source of strength and of wealth we see that every addition to science every fresh truth and every new idea became a germ of power placed within the reach of the people Alexis de Tocqueville  Democracy in America "
+		content: "From the time when the exercise of the intellect became a source of strength and of wealth we see that every addition to science every fresh truth and every new idea became a germ of power placed within the reach of the people Alexis de Tocqueville French aristocrat, diplomat, political scientist, political philosopher and historian Democracy in America "
 	},
 	{
 		title: "The Art of Progress",
 		date: "",
     url: "quotes/the-art-of-progress.html",
-		content: "The art of progress is to preserve order amid change and to preserve change amid order Alfred North Whitehead  unknown "
+		content: "The art of progress is to preserve order amid change and to preserve change amid order Alfred North Whitehead English mathematician and philosopher unknown "
 	},
 	{
 		title: "The wonder remains",
 		date: "1938",
     url: "quotes/the-wonder-remains.html",
-		content: "Philosophy begins in wonder And at the end when philosophic thought has done its best the wonder remains Alfred North Whitehead  Modes of Thought "
+		content: "Philosophy begins in wonder And at the end when philosophic thought has done its best the wonder remains Alfred North Whitehead English mathematician and philosopher Modes of Thought "
 	},
 	{
 		title: "Words that are empowered that make your hair stand on end",
@@ -225,31 +225,31 @@ let searchQuotes = [
 		title: "Accidents of birth",
 		date: "2016",
     url: "quotes/accidents-of-birth.html",
-		content: "Today Americans still feel that by and large every individual is responsible for constructing his or her own fate the classic pursuit of happiness and there is still much debate in the United States about the extent to which if at all an individual s success or failure is also shaped by accidents of birth Nordic people have long ago moved beyond this debate To most Nordics it s completely obvious that an accident of birth like being born into poverty or a neighborhood without a good school can severely disadvantage an individual and destroy any chances of success no matter what he or she does Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "Today Americans still feel that by and large every individual is responsible for constructing his or her own fate the classic pursuit of happiness and there is still much debate in the United States about the extent to which if at all an individual s success or failure is also shaped by accidents of birth Nordic people have long ago moved beyond this debate To most Nordics it s completely obvious that an accident of birth like being born into poverty or a neighborhood without a good school can severely disadvantage an individual and destroy any chances of success no matter what he or she does Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "Independence, freedom and opportunity for every member of society",
 		date: "2016",
     url: "quotes/independence-freedom-and-opportunity-for-every-member-of-society.html",
-		content: "At the same time the Nordic theory of love has become an overarching philosophy about how to structure a society As such it has inspired the broad variety of policy choices in the Nordic nations that together ensure a single predominant goal independence freedom and opportunity for every member of society Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "At the same time the Nordic theory of love has become an overarching philosophy about how to structure a society As such it has inspired the broad variety of policy choices in the Nordic nations that together ensure a single predominant goal independence freedom and opportunity for every member of society Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "Nordic societies have simply taken the job of government seriously",
 		date: "2016",
     url: "quotes/nordic-societies-have-simply-taken-the-job-of-government-seriously.html",
-		content: "Overall the secret to Nordic success is not complicated Nordic societies have simply taken the job of government seriously They make mistakes and have their troubles but they keep tweaking their systems in search of improvements and they work hard to balance the books They prove that there is nothing inherent in government that automatically makes it less efficient for arranging social services than the private sector Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "Overall the secret to Nordic success is not complicated Nordic societies have simply taken the job of government seriously They make mistakes and have their troubles but they keep tweaking their systems in search of improvements and they work hard to balance the books They prove that there is nothing inherent in government that automatically makes it less efficient for arranging social services than the private sector Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "The US remains astonishingly backward when it comes to education",
 		date: "2016",
     url: "quotes/the-us-remains-astonishingly-backward-when-it-comes-to-education.html",
-		content: "It s an unfortunate fact that the United States remains astonishingly backward compared to almost all other advanced Western countries when it comes to education because in America what predicts how well a child will do in school is not a child s aptitude or hard work but the status of the child s parents which is to say their own levels of education and wealth Other countries suffer from this condition too but the United States is especially anachronistic And it s getting worse The influence of this wealth predictor in the United States today has only been growing stronger in recent years Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "It s an unfortunate fact that the United States remains astonishingly backward compared to almost all other advanced Western countries when it comes to education because in America what predicts how well a child will do in school is not a child s aptitude or hard work but the status of the child s parents which is to say their own levels of education and wealth Other countries suffer from this condition too but the United States is especially anachronistic And it s getting worse The influence of this wealth predictor in the United States today has only been growing stronger in recent years Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "You can simply focus on raising a human being",
 		date: "2016",
     url: "quotes/you-can-simply-focus-on-raising-a-human-being.html",
-		content: "Imagine then what it s like to be a Nordic parent You can simply focus on raising a human being in an age appropriate way at every stage without ever once feeling guilty that you re not saving enough money or not making enough money to secure them the college education they ll need to avoid ending up in the gutter Anu Partanen  The Nordic Theory of Everything: In Search of a Better Life "
+		content: "Imagine then what it s like to be a Nordic parent You can simply focus on raising a human being in an age appropriate way at every stage without ever once feeling guilty that you re not saving enough money or not making enough money to secure them the college education they ll need to avoid ending up in the gutter Anu Partanen Finnish journalist living in the United States The Nordic Theory of Everything: In Search of a Better Life "
 	},
 	{
 		title: "We don't even own suits",
@@ -273,7 +273,7 @@ let searchQuotes = [
 		title: "The welfare of the whole human race",
 		date: "",
     url: "quotes/the-welfare-of-the-whole-human-race.html",
-		content: "The twentieth century will be chiefly remembered by future generations not as an era of political conflicts or technical inventions but as an age in which human society dared to think of the welfare of the whole human race as a practical objective Arnold J. Toynbee   "
+		content: "The twentieth century will be chiefly remembered by future generations not as an era of political conflicts or technical inventions but as an age in which human society dared to think of the welfare of the whole human race as a practical objective Arnold J. Toynbee English historian, a philosopher of history, an author of numerous books and a research professor of international history  "
 	},
 	{
 		title: "The Makers of Things",
@@ -307,7 +307,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Immigration is tough, and it always has been",
-		date: "18 Sep 2021",
+		date: "2021-09-18",
     url: "quotes/immigration-is-tough-and-it-always-has-been.html",
 		content: "Immigration is tough It always has been because on the one hand I think we are naturally a people that wants to help others And we see tragedy and hardship and families that are desperately trying to get here so that their kids are safe and they re in some cases fleeing violence or catastrophe At the same time we re a nation state We have borders The idea that we can just have open borders is something that as a practical matter is unsustainable Barack Obama American politician and attorney who served as the 44th president of the United States from 2009 to 2017 ABC News Interview with Barack Obama on 18 Sep 2021 "
 	},
@@ -669,7 +669,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -681,13 +681,13 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -699,7 +699,7 @@ let searchQuotes = [
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -711,13 +711,13 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
@@ -729,19 +729,19 @@ let searchQuotes = [
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -1050,6 +1050,12 @@ let searchQuotes = [
 		content: "He who has a why to live can bear almost any how Friedrich Nietzsche German philosopher Twilight of the Idols "
 	},
 	{
+		title: "No true patriot",
+		date: "",
+    url: "quotes/no-true-patriot.html",
+		content: " My country right or wrong is a thing that no true patriot would think of saying It is like saying My mother drunk or sober G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic  "
+	},
+	{
 		title: "We are in Eden still",
 		date: "",
     url: "quotes/we-are-in-eden-still.html",
@@ -1282,6 +1288,12 @@ let searchQuotes = [
 		date: "1979",
     url: "quotes/you-are-going-to-have-to-make-it-different.html",
 		content: "I once addressed on a Christmas day many years ago on behalf of the United Nations an audience of about two thousand school children in London As on this occasion I knew in general what I was going to say but I did not know exactly what I was going to say and in a moment of abandon I said to them This is how the world goes you are going to have to make it different you are going to have to stop listening to your parents If you go on obeying your parents the world will never be a better place And at that moment twenty newspaper men representing the European press got up from the front row and rushed for the telephone boxes And by the time I got home one of the more adventurous correspondents from Geneva had actually phoned my daughter then aged seven at school in order to ask her whether she was encouraged to disobey her parents at home Jacob Bronowski  The Origins of Knowledge and Imagination "
+	},
+	{
+		title: "Education demands a certain daring",
+		date: "1961",
+    url: "quotes/education-demands-a-certain-daring.html",
+		content: "Education demands a certain daring a certain independence of mind We have to teach young people to think And to teach young people in order to teach young people to think you have to teach them to think about everything There mustn t be something they cannot think about If there s something if there s one thing they can t think about then very shortly they can t think about anything you know Now there s always something in this country of course one cannot think about James Baldwin American novelist, playwright, essayist, poet and activist 1961 Studs Terkel Interview with James Baldwin "
 	},
 	{
 		title: "Larger, freer, and more loving",
@@ -2088,6 +2100,12 @@ let searchQuotes = [
 		content: "We all know that Art is not truth Art is a lie that makes us realize truth at least the truth that is given us to understand The artist must know the manner whereby to convince others of the truthfulness of his lies If he only shows in his work that he has searched and re searched for the way to put over lies he would never accomplish anything Pablo Picasso Spanish painter, sculptor, printmaker, ceramicist and theatre designer The Arts "
 	},
 	{
+		title: "What makes an activity meaningful?",
+		date: "",
+    url: "quotes/what-makes-an-activity-meaningful.html",
+		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom  The Sweet Spot "
+	},
+	{
 		title: "The Ultimate Democracy",
 		date: "2012",
     url: "quotes/the-ultimate-democracy.html",
@@ -2197,7 +2215,7 @@ let searchQuotes = [
 	},
 	{
 		title: "The limitations of specialization",
-		date: "2 May 1956",
+		date: "1956-05-02",
     url: "quotes/the-limitations-of-specialization.html",
 		content: "In this age of specialization men who thoroughly know one field are often incompetent to discuss another The great problems of the relations between one and another aspect of human activity have for this reason been discussed less and less in public When we look at the past great debates on these subjects we feel jealous of those times for we should have liked the excitement of such argument The old problems such as the relation of science and religion are still with us and I believe present as difficult dilemmas as ever but they are not often publicly discussed because of the limitations of specialization Richard Feynman American theoretical physicist Feynman 1956 remarks at a Caltech YMCA Lunch Forum "
 	},
@@ -2529,7 +2547,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",

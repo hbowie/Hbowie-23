@@ -1,0 +1,88 @@
+<?nextrec?>
+<?output "shared_quote.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Quote: =$title$= | From the Desk of H. Bowie</title>
+	<meta name="description" content='A Quotation from =$author$= concerning "=$title$="' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+	<div id="wrapper">
+<?include "../includes/header.html" ?>
+		<main>
+			<article>
+					
+				<p class="section-name">Quotes:</p>
+
+				<h3>&ldquo;=$title$=&rdquo;</h3>
+
+				<p class="tags-align">=$tags&gtags/;tag-link$=</p>
+
+				<blockquote>
+					=$body&o$=
+				</blockquote>
+
+				<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
+
+<?if "=$knownworktitle$=" ?>
+				<p>From =$theworktypeslug$=
+<?if "=$worklink$=" ?>
+					<a href="=$worklink$=">
+<?endif?>
+<?if =$majorwork$= eq true ?>
+					<cite>=$worktitle$=</cite>
+<?else?>
+					&ldquo;=$worktitle$=&rdquo;
+<?endif?>
+<?if "=$worklink$=" ?>
+					</a>
+<?endif?>
+				</p>
+<?endif?>
+
+<?if "=$work-rights-slug$="?>
+				<p>=$work-rights-slug$=</p>
+<?endif?>
+
+<?set count = 5 ?>
+<p>Line before if test.</p>
+<?if =$count$= gt 10 ?>
+=$count$= greater than ten
+<?else?>
+=$count$= not greater than ten
+<?endif?>
+<p>Line after if test.</p>
+
+			<p>
+				&#187;
+				<a class="implicit" href="=$title&f$=.html">
+					Permalink for Quote
+				</a>
+			</p>
+
+			</article>
+		</main>
+		<nav>
+			<p>
+				&#187;
+				<a class="implicit" href="../index.html">
+					Home
+				</a>
+				&#187;
+				<a class="implicit" href="index.html">
+					Authors
+				</a>
+				&#187;
+				<a class="implicit" href="../quotes/random.html">
+					Random Quote
+				</a>
+			</p>
+		</nav>
+<?include "../includes/footer.html" ?>
+	</div>
+</body>
+</html>
+<?loop?>

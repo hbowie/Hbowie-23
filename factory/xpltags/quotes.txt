@@ -11,6 +11,7 @@ US Politics	us-politics.html	4	quotes	The post-materialist turn in global politi
 USA	usa.html	4	quotes	A Coke is a Coke	Andy Warhol
 USA	usa.html	4	quotes	The Credibility of a Comedian	Jon Stewart
 USA	usa.html	4	quotes	The Cult of Ignorance	Isaac Asimov
+USA	usa.html	4	quotes	Education demands a certain daring	James Baldwin
 USA	usa.html	4	quotes	Every Third American	H. L. Mencken
 USA	usa.html	4	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
 USA	usa.html	4	quotes	Ism-mania	Robert Riskin
@@ -132,6 +133,7 @@ critical thinking	critical-thinking.html	4	quotes	The Cult of Ignorance	Isaac As
 critical thinking	critical-thinking.html	4	quotes	A Dark Procession	Margery Allingham
 critical thinking	critical-thinking.html	4	quotes	The Discomfort of Thought	John F. Kennedy
 critical thinking	critical-thinking.html	4	quotes	Easy Solutions	H. L. Mencken
+critical thinking	critical-thinking.html	4	quotes	Education demands a certain daring	James Baldwin
 critical thinking	critical-thinking.html	4	quotes	Entertain a Thought	Aristotle
 critical thinking	critical-thinking.html	4	quotes	ESPN president meets Steve Jobs	Tom Shales and James Andrew Miller
 critical thinking	critical-thinking.html	4	quotes	Everyone is entitled to his own opinion, but not his own facts	Daniel Patrick Moynihan
@@ -290,6 +292,7 @@ education	education.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 education	education.html	4	quotes	Conscious Improvement for the Masses	Edward Luce
 education	education.html	4	quotes	Cost of Education	Derek Bok
 education	education.html	4	quotes	Defending the pursuit of learning	John F. Kennedy
+education	education.html	4	quotes	Education demands a certain daring	James Baldwin
 education	education.html	4	quotes	The evil in the world comes almost always from ignorance	Albert Camus
 education	education.html	4	quotes	Hands that must work	Lauretta Bender
 education	education.html	4	quotes	Ignorant and Free	Thomas Jefferson
@@ -360,6 +363,7 @@ evolution	evolution.html	4	quotes	The malleability of life	David Sloan Wilson
 evolution	evolution.html	4	quotes	Small groups are a fundamental unit of human social organization	David Sloan Wilson
 evolution	evolution.html	4	quotes	Which side will lose by winning	Richard Powers
 evolution	evolution.html	4	quotes	A working simple system	John Gall
+experimentation	experimentation.html	4	quotes	But above all, try something	Franklin D. Roosevelt
 family	family.html	4	quotes	Many humans just don't like their families	David Graeber and David Wengrow
 governance	governance.html	4	quotes	Balance is Required to Maintain Democracy	Wynton Marsalis
 governance	governance.html	4	quotes	The best thing we can do is treat each other better	Barack Obama
@@ -373,6 +377,7 @@ governance	governance.html	4	quotes	Government has a final responsibility for th
 governance	governance.html	4	quotes	Governments losing their ability to anticipate events	Edward Luce
 governance	governance.html	4	quotes	The great primeval contract of eternal society	Edmund Burke
 governance	governance.html	4	quotes	Ignorant and Free	Thomas Jefferson
+governance	governance.html	4	quotes	Immigration is tough, and it always has been	Barack Obama
 governance	governance.html	4	quotes	Invest in your employees	Jasmine Donovan
 governance	governance.html	4	quotes	Labor is the Superior of Capital	Abraham Lincoln
 governance	governance.html	4	quotes	The legitimate object of government	Abraham Lincoln
@@ -389,6 +394,7 @@ governance	governance.html	4	quotes	Responsible Nationalism	Edward Luce
 governance	governance.html	4	quotes	Socialism is their name for anything that helps the people	Harry S. Truman
 governance	governance.html	4	quotes	Stakeholder Capitalism	Frank W. Abrams
 governance	governance.html	4	quotes	Taking a Fence Down	G. K. Chesterton
+governance	governance.html	4	quotes	To build a new and vital commons sector	Peter Barnes
 governance	governance.html	4	quotes	Trust in the Future	Yuval Noah Harari
 governance	governance.html	4	quotes	Two ideas of government	William Jennings Bryan
 governance	governance.html	4	quotes	We need governments to provide clear pathways	Larry Fink
@@ -428,6 +434,7 @@ imperfection	imperfection.html	4	quotes	Between Saturday night and Sunday mornin
 imperfection	imperfection.html	4	quotes	Continually debating people and never winning	Scott Adams
 imperfection	imperfection.html	4	quotes	Expectations of holiness	William Blake
 imperfection	imperfection.html	4	quotes	Finish every day and be done with it	Ralph Waldo Emerson
+imperfection	imperfection.html	4	quotes	Four Sentences that Lead to Wisdom	Louise Penny
 imperfection	imperfection.html	4	quotes	I learned a lot of things from failure	Brooks Robinson
 imperfection	imperfection.html	4	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
 imperfection	imperfection.html	4	quotes	Unbelievable Heroes	John Rogers
@@ -521,6 +528,7 @@ love	love.html	4	quotes	tikkun olam	John Gottman
 love	love.html	4	quotes	To see a world in a grain of sand	William Blake
 love	love.html	4	quotes	Unarmed Truth and Unconditional Love	Martin Luther King Jr.
 love	love.html	4	quotes	The World is a Wonderfully Weird Place	Tom Robbins
+meaning	meaning.html	4	quotes	What makes an activity meaningful?	Paul Bloom
 mission	mission.html	4	quotes	The axis is constructive-destructive	Steve Jobs
 mission	mission.html	4	quotes	Each man is questioned by life	Victor Frankl
 mission	mission.html	4	quotes	Ends for which We Live	Martin Luther King Jr.
@@ -545,6 +553,7 @@ mission	mission.html	4	quotes	While he was focusing on the inner self, his outer
 mission	mission.html	4	quotes	A Why to Live	Friedrich Nietzsche
 mission	mission.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart
 mission	mission.html	4	quotes	A world that is tolerable	Walter Mosley
+mission	mission.html	4	quotes	Your company’s purpose is its north star	Larry Fink
 music	music.html	4	quotes	Notation not to be confused with music itself	Winthrop Sargeant
 parenthood	parenthood.html	4	quotes	I must study politics and war	John Adams
 parenthood	parenthood.html	4	quotes	The institution of the family	Daniel Patrick Moynihan
@@ -552,6 +561,8 @@ parenthood	parenthood.html	4	quotes	Life is a series of daring adventures from a
 parenthood	parenthood.html	4	quotes	Quality of Children vs. Quantity	Margaret Mead
 parenthood	parenthood.html	4	quotes	That community asks for and gets chaos	Daniel Patrick Moynihan
 parenthood	parenthood.html	4	quotes	You can simply focus on raising a human being	Anu Partanen
+patriotism	patriotism.html	4	quotes	No true patriot	G. K. Chesterton
+philosophy	philosophy.html	4	quotes	The limitations of specialization	Richard Feynman
 population	population.html	4	quotes	Intelligent guides of family planning	Martin Luther King Jr.
 power	power.html	4	quotes	The more they yearned for omnipotence	Ross MacDonald
 practical	practical.html	4	quotes	Careful, thoughtful, small, practical efforts	Joseph L. Badaracco, Jr.
@@ -629,6 +640,7 @@ society	society.html	4	quotes	The American cult of the individual	Wade Davis
 society	society.html	4	quotes	A beast or a god	Aristotle
 society	society.html	4	quotes	Capitalism as a Market Society	Yanis Varoufakis
 society	society.html	4	quotes	Capitalism works best in societies where there are high levels of trust	Edward Luce
+society	society.html	4	quotes	Ceremonies are designed to	Sebastian Junger
 society	society.html	4	quotes	Chaos and Mediocrity	Joe Boyd
 society	society.html	4	quotes	The chicken experiment	David Sloan Wilson
 society	society.html	4	quotes	Civilization was a thin and precarious crust	John Maynard Keynes
@@ -643,6 +655,7 @@ society	society.html	4	quotes	The great primeval contract of eternal society	Edm
 society	society.html	4	quotes	The group of people that you would both help feed and help defend	Sebastian Junger
 society	society.html	4	quotes	If you'll just rattle your jewelry	John Lennon
 society	society.html	4	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
+society	society.html	4	quotes	Individualized lifestyles deeply brutalizing to the human spirit	Sebastian Junger
 society	society.html	4	quotes	Investing in other people's children	Robert Putnam
 society	society.html	4	quotes	It's the rich class that's winning	Warren Buffett
 society	society.html	4	quotes	Labor is the Superior of Capital	Abraham Lincoln
@@ -665,9 +678,11 @@ society	society.html	4	quotes	Public morality	Robert B. Reich
 society	society.html	4	quotes	Relationships among groups	David Sloan Wilson
 society	society.html	4	quotes	Small groups are a fundamental unit of human social organization	David Sloan Wilson
 society	society.html	4	quotes	Social resilience	Sebastian Junger
+society	society.html	4	quotes	Societies are not merely statistical aggregations	Lester Thurow
 society	society.html	4	quotes	The stagnation of American middle-class living standards	Ben Friedman
 society	society.html	4	quotes	The systematic weaponization of the human Tribe Drive	David R. Samson
 society	society.html	4	quotes	True Character	E. O. Wilson
+society	society.html	4	quotes	Very large social units are imaginary	David Graeber and David Wengrow
 society	society.html	4	quotes	We are what we pretend to be	Kurt Vonnegut
 society	society.html	4	quotes	We have the capacity to envision a better future and make it a reality	Victor Hwang
 society	society.html	4	quotes	The welfare of the whole human race	Arnold J. Toynbee
