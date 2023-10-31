@@ -74,6 +74,7 @@ community	community.html	3	writings	Rosalita (Come Out Tonight)	Bruce Springstee
 connection	connection.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
 connection	connection.html	3	writings	Core Design Principles for The Efficacy of Groups	
 connection	connection.html	3	writings	We Are Multi-Tribal	
+connection	connection.html	3	writings	Managing Our Identity Stacks	
 connection	connection.html	3	writings	Dethroning the False God of User Experience Design	
 connection	connection.html	3	writings	My Prayer for a More Integral New Year	
 connection	connection.html	3	writings	Father Christmas - Song by The Kinks	
@@ -219,6 +220,7 @@ governance	governance.html	3	writings	Lessons to be Learned from the Fall of Afg
 governance	governance.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
 governance	governance.html	3	writings	Undoing Trumpism	
 home	home.html	3	writings	Train to Birmingham	John Hiatt
+human development	human-development.html	3	writings	They All Laughed	George and Ira Gershwin
 humanism	humanism.html	3	writings	800 Pound Jesus	Billy Maddox and Paul Thorn
 humanism	humanism.html	3	writings	And When I Die	Laura Nyro
 humanism	humanism.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
@@ -352,6 +354,7 @@ society	society.html	3	writings	Patterns of Human Cooperation
 society	society.html	3	writings	Rebuilding Trust in Our Large Institutions	
 society	society.html	3	writings	Why Do We Call It Capitalism?	
 society	society.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
+society	society.html	3	writings	Managing Our Identity Stacks	
 society	society.html	3	writings	Some Hard-Won Wisdom Concerning Cults	
 society	society.html	3	writings	Cooperation, Competition and Coercion	
 society	society.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	

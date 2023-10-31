@@ -1,0 +1,57 @@
+<?output "../../web/latest-original.html"?>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Latest Original Writings | From the Desk of H. Bowie</title>
+		<meta name="description" content="Latest Original Writings from the desk of Herb Bowie" />
+		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<?include "../includes/head-links.html" ?>
+	</head>
+	<body>
+		<div id="wrapper">
+<?include "../includes/header.html" ?>
+			<main>
+
+<h2><span class="underline">Original Writings:</span></h2>
+
+
+<p>These are my latest original writings, with the most recent ones at the top.  </p>
+
+<?set count = 0 ?>
+<?nextrec?>
+<?set count += 1 ?>
+<?if =$count$= lt 8 ?>
+<h3><a href="writings/=$title&f$=.html">=$title&h$=</a></h3>
+
+=$teaser&w1o$=
+
+				<div>
+					<p class="readmore">
+						<a href="writings/=$title&f$=.html">read more...</a>
+					</p>
+					<p class="pubdate">
+						=$date&dd MMM yyy$=
+					</p>
+				</div>
+				<div class="clearboth"></div>
+				<hr />
+<?endif?>
+<?loop?>
+			</main>
+			<nav>
+				<p class="nav">
+					&#187;
+					<a class="implicit" href="index.html">
+						Home
+					</a>
+					&#187;
+					<a class="implicit" href="tags/index.html">
+						Tags
+					</a>
+				</p>
+			</nav>
+<?include "../includes/footer.html" ?>
+		</div>  <!-- end of wrapper div -->
+	</body>
+</html>

@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>U-M Club of Seattle Operations Manual</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+/* The following CSS comes from the darkModeAdjustments 
+   method of the DisplayPrefs class within Notenik. */
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --highlight-color: DimGray
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+/* The following CSS comes from the displayCSS method of the
+   DisplayPrefs class within Notenik.                        */
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;
+/* fontCSS insertion starts here */
+font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt;
+/* fontCSS insertion ends here   */
+}
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+    font-style: italic;
+}
+
+nav ul {
+    margin-top: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+nav ul li a.wiki-link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+footer {
+    border-top: 1px dashed var(--text-color);
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: right;
+}
+
+footer p {
+    padding-top: 0.5em;
+}
+
+.heading-1-details {
+    margin-left: 2.2em;
+}
+.heading-2-details {
+    margin-left: 2.2em;
+}
+.heading-3-details {
+    margin-left: 2.2em;
+}
+.heading-4-details {
+    margin-left: 2.2em;
+}
+.heading-5-details {
+    margin-left: 2.2em;
+}
+.heading-6-details {
+    margin-left: 2.2em;
+}
+
+.heading-1-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-2-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-3-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-4-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-5-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-6-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+
+ul.outline-list {
+    list-style-type: none;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+/* Generated CSS for headings follows. */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-top: 0.7em;
+    margin-bottom: 0.0em;
+    font-style: normal;
+}
+h1 {
+    text-align: center;
+    font-size: 2.0em;
+}
+h2 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.2em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.0em;
+}
+
+</style>
+</head>
+<body>
+
+<details open="true">
+
+<summary>
+U-M Club of Seattle Operations Manual</summary>
+<p>&#8211; Draft &#8211; </p>
+
+<p>Written by Herb Bowie </p>
+
+<p>Dated Oct 4, 2023 </p>
+
+<details>
+
+<summary>
+1 Introduction</summary>
+<p>This document is intended to define roles, responsibilities and operating procedures for the University of Michigan Club of Seattle, hereinafter referred to as the &#8220;Club&#8221;. </p>
+
+<p>This manual operates within the constraints established by the <a href="https://alumni.umich.edu/communities-clubs/umseattle/bylaws/" class="ext-link" target="_blank" rel="noopener">Club Bylaws</a>. </p></details>
+
+<details>
+
+<summary>
+2 Status</summary>
+<p>The University of Michigan Club of Seattle is a <a href="https://en.wikipedia.org/wiki/501(c)(3)_organization" class="ext-link" target="_blank" rel="noopener">501(c)(3)</a> nonprofit <a href="https://ccfs.sos.wa.gov/#/BusinessSearch/BusinessInformation" class="ext-link" target="_blank" rel="noopener">incorporated in the State of Washington</a>, and an affiliate of the <a href="http://alumni.umich.edu" class="ext-link" target="_blank" rel="noopener">Alumni Association of the University of Michigan</a>. </p>
+
+<p>Washington State has assigned the Club the Unified Business Identifier (UBI) number of 604 115 028. </p></details>
+
+<details>
+
+<summary>
+3 Purpose</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>The Club is an affiliate of, and chartered by, the Alumni Association of the University of Michigan (hereinafter, “AAUM”), an educational, nonprofit membership organization of graduates and friends of the University of Michigan (hereinafter, “U-M”). The Club and AAUM bring alumni together in support of each other and to promote the objectives of the University of Michigan through the establishment and maintenance of contact among the University, its graduates, and present and prospective students. Additionally, the Club encourages and supports the matriculation of local students at the University of Michigan through the administration and continued development of the Roby Burley Scholarship fund. </p>
+</blockquote>
+</details>
+
+<details>
+
+<summary>
+4 Related Organizations</summary>
+<p>It is important to keep in mind a few organizational distinctions. </p>
+
+<p>Our local Club is an affiliate of the Alumni Association of the University of Michigan (AAUM), and is chartered by the AAUM, but is a separate organization from the AAUM, in terms of both legal and financial considerations. </p>
+
+<p>Our Club is a  <a href="https://en.wikipedia.org/wiki/501(c)(3)_organization" class="ext-link" target="_blank" rel="noopener">501(c)(3)</a> nonprofit organization incorporated in the state of Washington in 2017. </p>
+
+<p>The AAUM is a nonprofit membership organization founded in 1854 and incorporated in 1897. It is tax-exempt under section 501(c)(3) of the Internal Revenue Code. </p>
+
+<p>Though a committed partner of the University of Michigan (U-M), the AAUM is an independent organization and receives no funding from the University. Its primary source of funding is membership dues. And the AAUM, in turn, is the primary source of funcing for our club. </p>
+
+<p>As leaders of a regional club, we generally work supportively with all members of the greater University of Michigan community, including collaboration with development personnel from AAUM, U-M and from the individual schools within the University. </p>
+
+<p>We also occasionally collaborate with the Michigan Ross Alumni Club of Seattle, which is yet another organization that is separate from our Club. </p></details>
+
+<details>
+
+<summary>
+5 Roles and Responsibilities</summary>
+<p>Note that some of the responsibilities assigned to the various officers of the board within this document are fixed, while others are variable (VAR), and may shift from one officer to another, in any fashion that is agreeable to the Board. Responsibilities are assumed to be fixed unless otherwise specified. All necessary responsibilities should always be assigned to one officer or another, though, to assure accountability. Officers are empowered and encouraged to delegate responsibilities to other available Directors, either singly, or as teams, or as committees, and to name committee chairs, as needed.   <br />
+</p>
+
+<details>
+
+<summary>
+5.1 Board of Directors</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>The role of the Board is to manage the affairs of the Club. </p>
+
+<p>The general responsibilities of directors include: </p>
+<ul>
+<li>(a) serving as liaisons among the Club’s leadership, its members, U-M alumni, current and prospective U-M students, AAUM, U-M, and the community at large; </li>
+<li>(b) representing the diverse interests of the general membership; </li>
+<li>(c) assisting the Club’s officers in the administration of the Club and in volunteer identification and recruitment; </li>
+<li>(d) attending a majority of Board meetings in a given year; </li>
+<li>(e) attending Club events on a regular basis; and </li>
+<li>(f) contributing significantly to the work needed to sustain and improve the Club. </li>
+</ul>
+</blockquote>
+</details>
+
+<details>
+
+<summary>
+5.2 Officers</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>Four of the Club’s Directors shall serve as Officers of the Board in the following roles: <a href="#president" class="wiki-link">President</a>, <a href="#vice-president" class="wiki-link">Vice President</a>, <a href="#secretary" class="wiki-link">Secretary</a>, and <a href="#treasurer" class="wiki-link">Treasurer</a>. The officers’ responsibilities include: </p>
+<ul>
+<li>setting overall strategy for the Club and </li>
+<li>leading efforts to revise these Bylaws, as needed. </li>
+</ul>
+</blockquote>
+</details>
+
+<details>
+
+<summary>
+5.3 President</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>In addition to the other responsibilities of Directors, the President shall: (a) propose an agenda for each Club meeting; (b) preside over each Club meeting; and (c) ultimately ensure that the Club meets all of its responsibilities to AAUM, its members, and to appropriate government agencies, in a manner consistent with the content of these Bylaws. </p>
+</blockquote>
+
+
+<details>
+
+<summary>
+5.3.1 Liaison with Related Organizations</summary>
+<p>Responsibility: Act as primary liaison with <a href="#related-organizations" class="wiki-link">Related Organizations</a>, with AAUM being the primary such organization. </p></details>
+
+<details>
+
+<summary>
+5.3.2 Preparation of Board Meeting Agendas</summary>
+</details>
+
+<details>
+
+<summary>
+5.3.3 Presiding over Board Meetings</summary>
+</details>
+
+<details>
+
+<summary>
+5.3.4 Creation of Annual Report</summary>
+<p>Responsibility: Creation and submission of the club&#8217;s annual report to the AAUM, with assistance from other officers as needed. </p></details>
+
+<details>
+
+<summary>
+5.3.5 General Board Recruiting (VAR)</summary>
+
+<p>AKA: General Board Recruiting</p><p>Responsibility: Recruiting of new board members, both to fill specific positions, and also to populate a pool of board members ready to be assigned to appropriate roles as needed. </p></details>
+
+<details>
+
+<summary>
+5.3.6 Event Programming (VAR)</summary>
+
+<p>AKA: Event Programming</p><p>Responsibility: scheduling and hosting club events, including: </p>
+<ul>
+<li>Identification of Events </li>
+<li>Scheduling and Budgeting </li>
+<li>Calendar Management - Spreading out events to avoid conflicts, and to ensure a steady stream of interesting events </li>
+<li>Submitting for Approval </li>
+<li>Communicating to AAUM, for posting on our website </li>
+<li>Communicating needed info to <a href="#marketing-and-communications-var" class="wiki-link">MarComm</a> </li>
+</ul>
+
+<p>Note that <a href="#game-watch-parties" class="wiki-link">Game Watch Parties</a> and <a href="#community-service-events-var" class="wiki-link">Community Service Events</a> and <a href="#local-high-school-relations-var" class="wiki-link">Local High School Relations</a> are handled separately, and are not part of this responsibility. </p></details>
+</details>
+
+<details>
+
+<summary>
+5.4 Vice President</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>In addition to the other responsibilities of Directors, the Vice President shall assume the duties of the President whenever the President is unable to perform those duties. </p>
+</blockquote>
+
+
+<details>
+
+<summary>
+5.4.1 Scheduling of Board Meetings</summary>
+<p>Responsibility: scheduling of board meetings, including the club&#8217;s annual meeting, and any other special meetings of members. This responsibility includes setting dates and times, and coordinating with meeting venues. </p></details>
+
+<details>
+
+<summary>
+5.4.2 Presiding over Board Meetings - backup</summary>
+
+<p>AKA: VP</p><p>The VP shall preside over board meetings in the absence of the president. </p></details>
+
+<details>
+
+<summary>
+5.4.3 Monitor Club Inbox (VAR)</summary>
+
+<p>AKA: Monitor Club Inbox</p><p>Monitor the club&#8217;s general email accounts, either reponding directly to any inquiries, or working with other board members to identify an appropriate party to respond. </p></details>
+
+<details>
+
+<summary>
+5.4.4 Annual Government Reporting</summary>
+<p>Responsibility: Submit annual reports to the state of Washington and to the Federal Government, with assistance from other officers, as needed. </p></details>
+
+<details>
+
+<summary>
+5.4.5 Marketing and Communications (VAR)</summary>
+
+<p>AKA: MarComm, Marketing and Communications</p><p>Responsibility: outgoing communications to club members, including marketing of club events and other activities. </p>
+
+<details>
+
+<summary>
+5.4.5.1 Emails</summary>
+</details>
+
+<details>
+
+<summary>
+5.4.5.1 Social Media</summary>
+</details>
+</details>
+
+<details>
+
+<summary>
+5.4.6 Game Watch Parties (VAR)</summary>
+<p>Responsibility: locate venue, communicate with venue, host watch parties. </p></details>
+</details>
+
+<details>
+
+<summary>
+5.5 Secretary</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>In addition to the other responsibilities of Directors, the Secretary shall: (a) record minutes of each Club meeting; (b) make these minutes available to Officers, Directors, and interested members no more than fourteen (14) days after each meeting; and (c) assure that meeting minutes, and other official Club documents, are retained and preserved as part of the ongoing collection of Club records. </p>
+</blockquote>
+
+
+<details>
+
+<summary>
+5.5.1 Notify Board Members of Meetings</summary>
+<p>Responsibility: Communicate dates and times and locations of board meetings to board members. </p></details>
+
+<details>
+
+<summary>
+5.5.2 Recording and Publication of Meeting Minutes</summary>
+<p>Responsibility: Record and publish minutes for all board meetings, including the annual meeting and any other special meetings. </p></details>
+
+<details>
+
+<summary>
+5.5.3 Administration of Club Docs</summary>
+<p>Responsibility: Storing and organizing club documents, including meeting minutes, as well as any and all other documents needed to conduct club operations. </p></details>
+
+<details>
+
+<summary>
+5.5.4 Updates to Club Website (VAR)</summary>
+
+<p>AKA: Updates to Club Website</p><p>Responsibility: update the relatively static (non-event) pages of the club&#8217;s website. </p></details>
+
+<details>
+
+<summary>
+5.5.5 Management of Web Domain Names (VAR)</summary>
+
+<p>AKA: Management of Web Domain Names</p><p>The club currently owns two domain names: </p>
+<ul>
+<li>umseattle.org </li>
+<li>umseattle.com </li>
+</ul>
+
+<p>The domain names should redirect to our primary page on the AAUM site. </p>
+
+<p>These domain names need to be renewed on an annual basis. </p>
+
+<p>Email addresses using these domain names may also be maintained in order to ease email communication, primarily by forwarding function names to one or more individuals currently assigned to perform those functions. </p></details>
+
+<details>
+
+<summary>
+5.5.5 Scholarship Awards (VAR)</summary>
+
+<p>AKA: Scholarship Awards</p><p>Responsibility: communication with U-M Admissions and with U-M students in regards to the club scholarship; selection of students to receive awards. </p></details>
+
+<details>
+
+<summary>
+5.5.6 Local High School Relations (VAR)</summary>
+
+<p>AKA: Local High School Relations</p><p>Responsibility: Maintain relations with Alumni Student Relations (ASR) members, and organize events for potential incoming U-M students: </p>
+
+<details>
+
+<summary>
+5.5.6.1 Admitted Students Reception</summary>
+</details>
+
+<details>
+
+<summary>
+5.5.6.2 Student Sendoff</summary>
+</details>
+</details>
+</details>
+
+<details>
+
+<summary>
+5.6 Treasurer</summary>
+<p>As stated in the Club Bylaws: </p>
+
+<blockquote>
+
+<p>In addition to the other responsibilities of Directors, the Treasurer shall: (a) record all of the Club’s financial transactions; (b) maintain current and projected balances for the Club’s various accounts; (c) deposit, transfer, and disburse funds as necessary to conduct the Club’s business; and (d) make available such financial reports as may be needed by the Board, the AAUM, and the appropriate government agencies. </p>
+</blockquote>
+
+
+<details>
+
+<summary>
+5.6.1 Maintenance of Bank Accounts</summary>
+</details>
+
+<details>
+
+<summary>
+5.6.2 Budgeting</summary>
+<p>Responsibility: Overall responsibility for the club&#8217;s annual budget, including: </p>
+<ul>
+<li>Preparation of the budget, working with other officers and committee chairs; </li>
+<li>Advising the board on spending decisions, as they relate to the established budget; </li>
+<li>Reporting to the board on ongoing adherence to the budget, and any deviations from the budget; </li>
+<li>Modifications to the budget, if needed, and as approved by the board. </li>
+</ul>
+</details>
+
+<details>
+
+<summary>
+5.6.3 Bookkeeping</summary>
+<p>Responsibility: Maintain the club&#8217;s financial records, including transaction history and account balances, and prepare such financial reports as needed by the board, AAUM and any other designated organizations. </p>
+
+<p>From the Club&#8217;s Bylaws: </p>
+
+<blockquote>
+
+<p>The Club’s fiscal year shall be July 1 through June 30. </p>
+
+<p>The Treasurer shall maintain records of all of the Club’s financial transactions, and make available such financial reports as needed by the Board, the AAUM, or by the appropriate government agencies. </p>
+</blockquote>
+</details>
+
+<details>
+
+<summary>
+5.6.4 Receipt and Depositing of Funds</summary>
+</details>
+
+<details>
+
+<summary>
+5.6.5 Disbursement of Funds</summary>
+<p>Responsibility: Disburse funds as approved and authorized by the board. </p>
+
+<p>From the Club&#8217;s Bylaws: </p>
+
+<blockquote>
+
+<p>All payments shall be signed or electronically approved by the Treasurer or the President, or two officers if Treasurer or President are not available. Approval requests from the Treasurer or President shall not be self-approved. </p>
+</blockquote>
+</details>
+
+<details>
+
+<summary>
+5.6.6 Community Service Events (VAR)</summary>
+
+<p>AKA: Community Service Events</p><p>Responsibility: Schedule and host community service events. </p></details>
+
+<details>
+
+<summary>
+5.6.7 Scholarship Fundraising (VAR)</summary>
+
+<p>AKA: Scholarship Fundraising</p></details>
+
+<details>
+
+<summary>
+5.6.8 Club Merchandise (VAR)</summary>
+
+<p>AKA: Club Merchandise</p><p>Responsibility: Preparation of club merchandise for sale to members, including coordination of design and liaison with vendor(s).  <br />
+</p></details>
+</details>
+</details>
+
+<details>
+
+<summary>
+6 Board Members</summary>
+
+<details>
+
+<summary>
+6.1 Kathy Ehrlich</summary>
+<p>Kathy is currently serving as our <a href="#president" class="wiki-link">President</a>. </p>
+
+<p>She began serving in this office in July, 2023. </p>
+
+<p>This is her first year as an officer of the board. </p></details>
+
+<details>
+
+<summary>
+6.2 Casta Guillaume</summary>
+<p>Casta is currently serving as our <a href="#vice-president" class="wiki-link">Vice President</a>. </p>
+
+<p>She began serving in this office in July, 2023. </p>
+
+<p>This is her first year as an officer of the board. </p></details>
+
+<details>
+
+<summary>
+6.3 Clarissa Khouri</summary>
+
+<p>AKA: Claire</p><p>Clair is currently serving as our <a href="#secretary" class="wiki-link">Secretary</a>. </p>
+
+<p>She began serving in this office in July, ????. </p>
+
+<p>This is her ??? year as an officer of the board. </p></details>
+
+<details>
+
+<summary>
+6.4 Meena Beniwal</summary>
+<p>Meena is currently serving as our <a href="#treasurer" class="wiki-link">Treasurer</a>. </p>
+
+<p>She began serving in this office in July, ????. </p>
+
+<p>This is her ??? year as an officer of the board. </p></details>
+
+<details>
+
+<summary>
+6.5 Michael Roberto</summary>
+<p>Michael is our immediate past president, (aka &#8220;ex officio&#8221;). </p>
+
+<p>He served as President from July, 2020 (?) through June, 2023. </p></details>
+
+<details>
+
+<summary>
+6.6 Herb Bowie</summary>
+<p>Herb served as club President for many years, preceding <a href="#michael-roberto" class="wiki-link">Michael Roberto</a> in that role. </p>
+
+<p>Herb is heading up the <a href="#marketing-and-communications-var" class="wiki-link">Marketing and Communications</a> team. </p></details>
+
+<details>
+
+<summary>
+6.7 Rohan Sharma</summary>
+<p>Rohan is currently assigned to production of our club <a href="#emails" class="wiki-link">Emails</a>. </p></details>
+
+<details>
+
+<summary>
+6.8 Rachel Firsht</summary>
+<p>Rachel is currently assigned to management of our <a href="#social-media" class="wiki-link">Social Media</a>. </p>
+
+<p>(However, Rachecl moved to Denver a couple of years ago, and is also serving as the President of the Denver club.) </p></details>
+
+<details>
+
+<summary>
+6.9 Judi Trainor</summary>
+<p>Judi is currently serving as chair of our <a href="#game-watch-parties" class="wiki-link">Game Watch Parties</a>, and is responsible for the watch party in Seattle. </p></details>
+
+<details>
+
+<summary>
+6.10 Pam Stoeffler</summary>
+<p>Pam is responsible for our <a href="#game-watch-parties" class="wiki-link">Game Watch Parties</a> on the Eastside. </p></details>
+
+<details>
+
+<summary>
+6.11 Josh Sabherwal</summary>
+<p>Josh is currently responsible for <a href="#updates-to-club-website-var" class="wiki-link">Updates to Club Website</a>. </p></details>
+
+<details>
+
+<summary>
+6.12 Michael Tarlowe</summary>
+<p>Michael is chair of our Scholarship Committee, which is responsible for <a href="#scholarship-awards-var" class="wiki-link">Scholarship Awards</a>. </p></details>
+
+<details>
+
+<summary>
+6.13 Laura Schneider</summary>
+</details>
+
+<details>
+
+<summary>
+6.14 Jason Gomberg</summary>
+</details>
+
+<details>
+
+<summary>
+6.15 Pauline Bowie</summary>
+</details>
+</details>
+</details>
+</body>
+</html>

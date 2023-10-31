@@ -5,6 +5,37 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <title>Notenik Version 13.3.0</title>
+	  <link>https://hbowie.net/micro/notenik-version-13.3.0</link>
+	  <guid>https://hbowie.net/micro/notenik-version-13.3.0</guid>
+	  <pubDate>Sun, 29 Oct 2023 12:00:00 -0700</pubDate>
+	  <description>
+	  	<p>Version 13.3.0 of Notenik (free and open source) is now available in the Mac App Store. Improved the vCard import function, added a Person field type, and added an option to sort names last-name-first. </p>
+	  </description>
+	</item>
+	<item>
+	  <title>Managing Our Identity Stacks</title>
+	  <link>https://hbowie.net/micro/managing-our-identity-stacks</link>
+	  <guid>https://hbowie.net/micro/managing-our-identity-stacks</guid>
+	  <pubDate>Fri, 29 Sep 2023 12:00:00 -0700</pubDate>
+	  <description>
+	  	<p>Published a new essay called &quot;Managing Our Identity Stacks,&quot; drawing upon some ideas gleaned from David R. Samson&apos;s new book, <em>Our Tribal Future</em>. </p>
+	  </description>
+	</item>
+	<item>
+	  <title>Notenik Version 12.9.0 Released</title>
+	  <link>https://hbowie.net/micro/notenik-version-12.9.0-released</link>
+	  <guid>https://hbowie.net/micro/notenik-version-12.9.0-released</guid>
+	  <pubDate>Fri, 15 Sep 2023 12:00:00 -0700</pubDate>
+	  <description>
+	  	<p>The latest version of Notenik includes a number of cool new features, as well as a number of fixes. </p>
+
+<p>All the details are available in the Knowledge Base. </p>
+
+<p>&lt;https://notenik.app/knowledge-base/EPUB/html/version-12.9.0.html&gt; </p>
+	  </description>
+	</item>
+	<item>
 	  <title>A Reimagined HBowie.net</title>
 	  <link>https://hbowie.net/micro/a-reimagined-hbowie.net</link>
 	  <guid>https://hbowie.net/micro/a-reimagined-hbowie.net</guid>
@@ -126,51 +157,6 @@
 <li>AKA (in other words, alias) fields </li>
 </ul>
 
-	  </description>
-	</item>
-	<item>
-	  <title>Catching Up on The Practical Utopian</title>
-	  <link>https://hbowie.net/micro/catching-up-on-the-practical-utopian</link>
-	  <guid>https://hbowie.net/micro/catching-up-on-the-practical-utopian</guid>
-	  <pubDate>Fri, 18 Feb 2022 12:00:00 -0700</pubDate>
-		<image>
-			<link>https://hbowie.net/</link>
-			<title>Image from the desk of H. Bowie</title>
-			<url>https://practopian.org/images/logo_sq128.png"</url>
-		</image>
-	  <description>
-	  	<p>I&apos;ve had several new writings out over the last few months. </p>
-<ul>
-<li><p><a href="https://practopian.org/blog/hbowie/getting-back-to-the-feeling.html" class="ext-link" target="_blank" rel="noopener">Getting Back to the Feeling</a>, about Peter Jackson&apos;s Beatles documentary </p></li>
-<li><p><a href="https://practopian.org/blog/hbowie/the-issues-swirling-around-spotify-and-its-content-providers.html" class="ext-link" target="_blank" rel="noopener">The Issues Swirling around Spotify and its Content Providers</a> &#8211; In which we discuss Spotify, Neil Young, Joe Rogan and Brené Brown </p></li>
-<li><p><a href="https://practopian.org/blog/hbowie/does-the-us-need-a-new-more-centrist-political-party.html" class="ext-link" target="_blank" rel="noopener">Does the US Need a New, More Centrist, Political Party?</a> &#8211; Is there any other way to find our way back to something most Americans can feel good about? </p></li>
-<li><p><a href="https://practopian.org/blog/hbowie/why-michigans-4227-victory-over-ohio-state-gives-me-hope-for-humanity.html" class="ext-link" target="_blank" rel="noopener">Why Michigan&apos;s 42-27 Victory over Ohio State Gives Me Hope for Humanity</a> &#8211; If the Michigan football team can once again trounce the Buckeyes, what else might be possible? </p></li>
-<li><p><a href="https://practopian.org/blog/hbowie/a-guide-to-becoming.html" class="ext-link" target="_blank" rel="noopener">A Guide to Becoming</a> &#8211; Why it&apos;s good that we are never just one thing, and always in a state of becoming. </p></li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik 7.2.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-7.2.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-7.2.0-released</guid>
-	  <pubDate>Mon, 20 Sep 2021 12:00:00 -0700</pubDate>
-		<image>
-			<link>https://hbowie.net/</link>
-			<title>Image from the desk of H. Bowie</title>
-			<url>https://notenik.app/images/notenik.png"</url>
-		</image>
-	  <description>
-	  	<p>Website address updated to point to Notenik.app; wiki links now will try to pluralize a reference, if it is not found in singular form; the Merge template Set command now allows a variable to be used as part or all of a global variable name; Markdown quote sharing corrected to respect lookup links; added a Quick Export and Open command. </p>
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik Website Redesigned</title>
-	  <link>https://hbowie.net/micro/notenik-website-redesigned</link>
-	  <guid>https://hbowie.net/micro/notenik-website-redesigned</guid>
-	  <pubDate>Fri, 17 Sep 2021 12:00:00 -0700</pubDate>
-	  <description>
-	  	<p>Redesigned the Notenik website to support dark mode, with added content and a fresh look. </p>
 	  </description>
 	</item>
   </channel>

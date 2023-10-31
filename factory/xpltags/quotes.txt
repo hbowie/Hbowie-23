@@ -108,6 +108,7 @@ connection	connection.html	4	quotes	People are finally finding out that the guy 
 connection	connection.html	4	quotes	Practice kindness all day to everybody	Jack Kerouac
 connection	connection.html	4	quotes	Public morality	Robert B. Reich
 connection	connection.html	4	quotes	The Rainbow Bridge	E. M. Forster
+connection	connection.html	4	quotes	A raving demagogue counseling hatred	Carl Sagan and Ann Druyan
 connection	connection.html	4	quotes	Records we made together in the sixties	Joe Boyd
 connection	connection.html	4	quotes	Selfish and contentious people will not cohere	Charles Darwin
 connection	connection.html	4	quotes	Single Garment of Destiny	Martin Luther King Jr.
@@ -116,6 +117,7 @@ connection	connection.html	4	quotes	Think globally, act locally	Disputed
 connection	connection.html	4	quotes	The Third Place	Ray Oldenburg
 connection	connection.html	4	quotes	This dear fucked-up planet	Henry Miller
 connection	connection.html	4	quotes	To Give in the Same Measure	Albert Einstein
+connection	connection.html	4	quotes	The Tribe Drive	David R. Samson
 connection	connection.html	4	quotes	The Web of Life	Ted Perry
 connection	connection.html	4	quotes	We must welcome the stranger	Bibi Bahrami
 connection	connection.html	4	quotes	We vastly underestimate the impact of our immediate environment on our behavior	Dave Mayer
@@ -180,6 +182,7 @@ critical thinking	critical-thinking.html	4	quotes	To prolong our presence on the
 critical thinking	critical-thinking.html	4	quotes	Torturing the Data	Darrell Huff
 critical thinking	critical-thinking.html	4	quotes	The Underlying Principle of the Problem	Steve Jobs
 critical thinking	critical-thinking.html	4	quotes	Unintelligible Propositions	Thomas Jefferson
+critical thinking	critical-thinking.html	4	quotes	Until you make the unconscious conscious	Carl Jung
 critical thinking	critical-thinking.html	4	quotes	Violent Opposition from Mediocre Minds	Albert Einstein
 critical thinking	critical-thinking.html	4	quotes	We are Doing our Best	Winston Churchill
 critical thinking	critical-thinking.html	4	quotes	We are what we pretend to be	Kurt Vonnegut

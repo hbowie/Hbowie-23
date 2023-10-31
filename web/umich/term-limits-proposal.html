@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>U-M Seattle Proposal to Address Term Limits and Succession Planning</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+/* The following CSS comes from the darkModeAdjustments 
+   method of the DisplayPrefs class within Notenik. */
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --highlight-color: DimGray
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+/* The following CSS comes from the displayCSS method of the
+   DisplayPrefs class within Notenik.                        */
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;
+/* fontCSS insertion starts here */
+font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt;
+/* fontCSS insertion ends here   */
+}
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+    font-style: italic;
+}
+
+nav ul {
+    margin-top: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+nav ul li a.wiki-link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+footer {
+    border-top: 1px dashed var(--text-color);
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: right;
+}
+
+footer p {
+    padding-top: 0.5em;
+}
+
+.heading-1-details {
+    margin-left: 2.2em;
+}
+.heading-2-details {
+    margin-left: 2.2em;
+}
+.heading-3-details {
+    margin-left: 2.2em;
+}
+.heading-4-details {
+    margin-left: 2.2em;
+}
+.heading-5-details {
+    margin-left: 2.2em;
+}
+.heading-6-details {
+    margin-left: 2.2em;
+}
+
+.heading-1-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-2-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-3-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-4-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-5-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-6-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+
+ul.outline-list {
+    list-style-type: none;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+/* Generated CSS for headings follows. */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-top: 0.7em;
+    margin-bottom: 0.0em;
+    font-style: normal;
+}
+h1 {
+    text-align: center;
+    font-size: 2.0em;
+}
+h2 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.2em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.0em;
+}
+
+</style>
+</head>
+<body>
+
+<details open="true">
+
+<summary>
+U-M Seattle Proposal to Address Term Limits and Succession Planning</summary>
+<p>This is an overall proposal for handling the introduction of term limits and succession planning for the U-M Club of Seattle. </p>
+<ul>
+<li>Drafted by Herb Bowie </li>
+<li>Initial Presentation to Working Group on October 4th </li>
+<li>Further revisions made on October 5th </li>
+</ul>
+
+
+<details>
+
+<summary>
+1 Modify Bylaws</summary>
+<p>Let&#8217;s add a couple of section to our bylaws. These would be added to the end of Section 5, which is titled &#8220;Board of Directors.&#8221; </p>
+
+<blockquote>
+
+<h5 id="5.13-succession-planning">5.13 Succession Planning</h5>
+
+<p>The Board shall engage in active development of the capabilities of its members, including planning for orderly succession, in accordance with the Terms of Office and term limits identified in the following section. The Officers shall be reponsible for leading these efforts. </p>
+
+<h5 id="5.14-terms-of-office">5.14 Terms of Office</h5>
+
+<p>Club officers will be elected at the club&#8217;s annual meeting, and will serve in their elected roles for the upcoming operating year. </p>
+
+<p>An Officer may be retained in the same role for up to three years. If changing positions at least every three years, an individual may be retained as an Officer for a maximum of six years. Enforcement of these term limits shall be dependent on the board&#8217;s ability to identify willing and qualified successors. </p>
+
+<p>Directors shall serve for one-year terms, as elected at the annual meeting, or as approved by the board. There are no term limits for Directors, except as specified above for officers. </p>
+</blockquote>
+</details>
+
+<details>
+
+<summary>
+2 Create Club Operations Manual</summary>
+<p>As a supplement to our bylaws, let&#8217;s create a Club Operations Manual that clearly spells out all roles and responsibilities, procedures and guidelines needed to operate the club and keep it functioning at a high level. </p>
+
+<p>Let&#8217;s make this a living document, that can be updated easily and frequently to actually document who&#8217;s doing what (in a general way, of course), so that it will be a useful reference document. </p></details>
+
+<details>
+
+<summary>
+3 Document All Necessary Roles & Responsibilities</summary>
+<p>We should add things like board member recruiting and onboarding, and board member development. These should be documented in the new Club Operations Manual. </p></details>
+
+<details>
+
+<summary>
+4 Assign One Officer to Each Responsibility</summary>
+<p>The idea here is to assign each responsibility to a specific officer of the board, understanding that each officer is empowered and supported to delegate responsibilities to other assigned board members as needed, and to form committees, and appoint committee chairs, as needed. Officers are also empowered to assign backups, and to recruit and develop additional team members as needed.  <br />
+</p></details>
+
+<details>
+
+<summary>
+5 Give Every Board Member Some Responsibility</summary>
+<p>Rather than having new board members just attend monthly meetings, let&#8217;s make sure every board member is assigned to one responsibility, reporting up to one officer. </p></details>
+
+<details>
+
+<summary>
+6 Add an Officers Meeting</summary>
+<p>This could be an extension of one of our regular board meetings, or a separately scheduled meeting. Any board member would be welcome to attend, but these meetings would be primarily for the four officers. </p>
+
+<p>The primary purpose of such meetings would be to review board member assignments and to consider recommendations to assign/reassign board members, both to support optimal functioning of the board, and to aid in development of board members. This would include formation of committees, and appointment of committee chairs. </p>
+
+<p>Decisions made by the Officers at these meetings would then be presented in summary form to the full Board for review and final approval. </p></details>
+</details>
+</body>
+</html>

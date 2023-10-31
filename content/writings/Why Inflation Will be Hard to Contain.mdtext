@@ -55,7 +55,7 @@ Let's look at a few charts.
 
 I cribbed this first one from a recent [Barry Ritholtz piece](https://ritholtz.com/2022/06/latte-bullshit/), and he seems to have gotten it from [the Hustle](https://thehustle.co/just-stop-buying-lattes-the-origins-of-a-millennial-housing-myth/).
 
-![US Home Prices Compared to Wages](../../images/home-prices-vs-wages.png)
+![US Home Prices Compared to Wages](../images/home-prices-vs-wages.png)
 
 The point is clear: when compared to the median income, the median home price in the US has grown from 2.2x in 1950 to 6.3x in 2020. Which means that home prices are growing much faster than wages. 
 
@@ -65,7 +65,7 @@ Let's look at another chart.
 
 This one comes from [macrotrends.net](https://www.macrotrends.net/countries/USA/united-states/population).
 
-![US Population Growth](../../images/us-population-growth.png)
+![US Population Growth](../images/us-population-growth.png)
 
 This shows the growth of our US population over roughly the same timeframe, from 1950 to 2022. And if we look at the blue line, on the top of the chart, we can see that the number of people living in the US has more than doubled over that length of time. 
 
@@ -73,7 +73,7 @@ Now let's consider one more chart.
 
 This one comes from [footprintnetwork.org](https://www.overshootday.org/content/uploads/2022/06/2022_Past_EOD_en.pdf). 
 
-![Earth Overshoot Day](../../images/earth-overshoot-day.png)
+![Earth Overshoot Day](../images/earth-overshoot-day.png)
 
 This shows the movement of the Earth overshoot day from 1971 - 2022. The *overshoot day* marks the date when humanity has used all the biological resources that Earth regenerates during the entire year. For 2022, the overshoot day for all of us on this planet falls on July 28.
 

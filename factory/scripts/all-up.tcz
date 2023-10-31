@@ -127,6 +127,8 @@ sort	set		params
 template	webroot			/Users/hbowie/Sites/HBowie-23/web
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/latest-include.html
 template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/latest-original.html
+template	generate			
 
 <!-- Generate Javascript to Search Original Writings -->
 

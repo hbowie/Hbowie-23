@@ -12,6 +12,29 @@
     "language": "en-US",
     "items": [
         {
+            "id": "hbowie.net/micro/notenik-version-13.3.0",
+            "url": "https://hbowie.net/micro/notenik-version-13.3.0",
+						"external_url": "https://notenik.app/index.html",
+						"title": "Notenik Version 13.3.0",
+						"content_html": "<p>Version 13.3.0 of Notenik (free and open source) is now available in the Mac App Store. Improved the vCard import function, added a Person field type, and added an option to sort names last-name-first. </p>",
+						"date_published": "2023-10-29"
+        },
+        {
+            "id": "hbowie.net/micro/managing-our-identity-stacks",
+            "url": "https://hbowie.net/micro/managing-our-identity-stacks",
+						"external_url": "https://hbowie.net/writings/managing-our-identity-stacks.html",
+						"title": "Managing Our Identity Stacks",
+						"content_html": "<p>Published a new essay called &#8220;Managing Our Identity Stacks,&#8221; drawing upon some ideas gleaned from David R. Samson&#8217;s new book, <em>Our Tribal Future</em>. </p>",
+						"date_published": "2023-09-29"
+        },
+        {
+            "id": "hbowie.net/micro/notenik-version-12.9.0-released",
+            "url": "https://hbowie.net/micro/notenik-version-12.9.0-released",
+						"title": "Notenik Version 12.9.0 Released",
+						"content_html": "<p>The latest version of Notenik includes a number of cool new features, as well as a number of fixes. </p>  <p>All the details are available in the Knowledge Base. </p>  <p><a href=\"https://notenik.app/knowledge-base/EPUB/html/version-12.9.0.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">https://notenik.app/knowledge-base/EPUB/html/version-12.9.0.html</a> </p>",
+						"date_published": "2023-09-15"
+        },
+        {
             "id": "hbowie.net/micro/a-reimagined-hbowie.net",
             "url": "https://hbowie.net/micro/a-reimagined-hbowie.net",
 						"external_url": "https://hbowie.net",
@@ -73,32 +96,6 @@
 						"image": "https://notenik.app/images/notenik.png",
 						"content_html": "<p>Well, it&#8217;s been a while since I posted a Notenik update here, but there&#8217;s been a lot going on! We&#8217;re now all the way up to 8.5.0, with lots of new stuff being added. Here&#8217;s a brief recap: </p> <ul> <li>Support for YAML metadata </li> <li>Support for image tags pointing to local files </li> <li>A new Notenik 101 video on YouTube </li> <li>A New Collection of brief Notenik Tips </li> <li>Support for HTML table generation using pipes and dashes within Markdown </li> <li>Added a new Include command to include one Note within another </li> <li>New features to better support a sort of outlining within Notenik </li> <li>Addition of Class templates </li> <li>Streamlined Reading improvements </li> <li>Addition of backlinks </li> <li>AKA (in other words, alias) fields </li> </ul> ",
 						"date_published": "2022-02-20"
-        },
-        {
-            "id": "hbowie.net/micro/catching-up-on-the-practical-utopian",
-            "url": "https://hbowie.net/micro/catching-up-on-the-practical-utopian",
-						"external_url": "https://practopian.org/recent.html",
-						"title": "Catching Up on The Practical Utopian",
-						"image": "https://practopian.org/images/logo_sq128.png",
-						"content_html": "<p>I&#8217;ve had several new writings out over the last few months. </p> <ul> <li><p><a href=\"https://practopian.org/blog/hbowie/getting-back-to-the-feeling.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Getting Back to the Feeling</a>, about Peter Jackson&#8217;s Beatles documentary </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/the-issues-swirling-around-spotify-and-its-content-providers.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">The Issues Swirling around Spotify and its Content Providers</a> &#8211; In which we discuss Spotify, Neil Young, Joe Rogan and Brené Brown </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/does-the-us-need-a-new-more-centrist-political-party.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Does the US Need a New, More Centrist, Political Party?</a> &#8211; Is there any other way to find our way back to something most Americans can feel good about? </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/why-michigans-4227-victory-over-ohio-state-gives-me-hope-for-humanity.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Why Michigan&#8217;s 42-27 Victory over Ohio State Gives Me Hope for Humanity</a> &#8211; If the Michigan football team can once again trounce the Buckeyes, what else might be possible? </p></li> <li><p><a href=\"https://practopian.org/blog/hbowie/a-guide-to-becoming.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">A Guide to Becoming</a> &#8211; Why it&#8217;s good that we are never just one thing, and always in a state of becoming. </p></li> </ul> ",
-						"date_published": "2022-02-18"
-        },
-        {
-            "id": "hbowie.net/micro/notenik-7.2.0-released",
-            "url": "https://hbowie.net/micro/notenik-7.2.0-released",
-						"external_url": "https://notenik.app/news/notenik-7.2.0-some-nifty-enhancements.html",
-						"title": "Notenik 7.2.0 Released",
-						"image": "https://notenik.app/images/notenik.png",
-						"content_html": "<p>Website address updated to point to Notenik.app; wiki links now will try to pluralize a reference, if it is not found in singular form; the Merge template Set command now allows a variable to be used as part or all of a global variable name; Markdown quote sharing corrected to respect lookup links; added a Quick Export and Open command. </p>",
-						"date_published": "2021-09-20"
-        },
-        {
-            "id": "hbowie.net/micro/notenik-website-redesigned",
-            "url": "https://hbowie.net/micro/notenik-website-redesigned",
-						"external_url": "https://notenik.app/index.html",
-						"title": "Notenik Website Redesigned",
-						"content_html": "<p>Redesigned the Notenik website to support dark mode, with added content and a fresh look. </p>",
-						"date_published": "2021-09-17"
         },
     ]
 }

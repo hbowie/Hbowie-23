@@ -315,31 +315,31 @@ let searchQuotes = [
 		title: "Freedom of Judgment",
 		date: "1670",
     url: "quotes/freedom-of-judgment.html",
-		content: "Since we have the rare good fortune to live in a commonwealth where the freedom of judgment is fully granted to the individual citizen and he may worship God as he pleases and where nothing is esteemed dearer and more precious than freedom I think I am undertaking no ungrateful or unprofitable task in demonstrating that not only can this freedom be granted without endangering piety and the peace of the commonwealth but also the peace of the commonwealth and piety depend on this freedom Baruch Spinoza  Tractatus Theologico-Politicus "
+		content: "Since we have the rare good fortune to live in a commonwealth where the freedom of judgment is fully granted to the individual citizen and he may worship God as he pleases and where nothing is esteemed dearer and more precious than freedom I think I am undertaking no ungrateful or unprofitable task in demonstrating that not only can this freedom be granted without endangering piety and the peace of the commonwealth but also the peace of the commonwealth and piety depend on this freedom Baruch Spinoza One of the foremost and seminal thinkers of the Enlightenment, modern biblical criticism, and 17th-century Rationalism Tractatus Theologico-Politicus "
 	},
 	{
 		title: "Notions to Explain Nature",
 		date: "1677",
     url: "quotes/notions-to-explain-nature.html",
-		content: "We see therefore that all the notions whereby the common people are wont to explain Nature are merely modes of imagining and denote not the nature of anything but only the constitution of the imagination Baruch Spinoza  The Ethics "
+		content: "We see therefore that all the notions whereby the common people are wont to explain Nature are merely modes of imagining and denote not the nature of anything but only the constitution of the imagination Baruch Spinoza One of the foremost and seminal thinkers of the Enlightenment, modern biblical criticism, and 17th-century Rationalism The Ethics "
 	},
 	{
 		title: "The stagnation of American middle-class living standards",
 		date: "2005",
     url: "quotes/the-stagnation-of-american-middle-class-living-standards.html",
-		content: "I believe that the rising intolerance and incivility and the eroding generosity and openness that have marked important aspects of American society in the recent past have been in significant part a consequence of the stagnation of American middle class living standards Ben Friedman  The Moral Consequences of Economic Growth "
+		content: "I believe that the rising intolerance and incivility and the eroding generosity and openness that have marked important aspects of American society in the recent past have been in significant part a consequence of the stagnation of American middle class living standards Ben Friedman American political economist The Moral Consequences of Economic Growth "
 	},
 	{
 		title: "Every Body cries, a Union is absolutely necessary",
 		date: "29 December 1754",
     url: "quotes/every-body-cries-a-union-is-absolutely-necessary.html",
-		content: "Every Body cries a Union is absolutely necessary but when they come to the Manner and Form of the Union their weak Noddles are perfectly distracted Benjamin Franklin  The Writings of Benjamin Franklin "
+		content: "Every Body cries a Union is absolutely necessary but when they come to the Manner and Form of the Union their weak Noddles are perfectly distracted Benjamin Franklin American polymath who was active as a writer, scientist, inventor, statesman, diplomat, printer, publisher, and political philosopher. The Writings of Benjamin Franklin "
 	},
 	{
 		title: "Art is a Hammer",
 		date: "",
     url: "quotes/art-is-a-hammer.html",
-		content: "Art is not a mirror held up to reality but a hammer with which to shape it Bertolt Brecht  Unknown "
+		content: "Art is not a mirror held up to reality but a hammer with which to shape it Bertolt Brecht German theatre practitioner, playwright, and poet Unknown "
 	},
 	{
 		title: "Men Fear Thought",
@@ -369,13 +369,13 @@ let searchQuotes = [
 		title: "Digging up fossil fuels and setting them alight",
 		date: "2019",
     url: "quotes/digging-up-fossil-fuels-and-setting-them-alight.html",
-		content: "For two hundred years human economic activity has largely consisted of digging up fossil fuels and setting them alight and while two hundred years seems like a long time to us in geological terms it s like a bat out of well out of hell We re currently injecting carbon dioxide into the atmosphere ten times faster than during the End Permiasn which was just to repeat the worst event in the earth s history Bill McKibben  Falter: Has the Human Game Begun to Play Itself Out? "
+		content: "For two hundred years human economic activity has largely consisted of digging up fossil fuels and setting them alight and while two hundred years seems like a long time to us in geological terms it s like a bat out of well out of hell We re currently injecting carbon dioxide into the atmosphere ten times faster than during the End Permiasn which was just to repeat the worst event in the earth s history Bill McKibben American environmentalist, author, and journalist Falter: Has the Human Game Begun to Play Itself Out? "
 	},
 	{
 		title: "The Human Experiment is Now in Question",
 		date: "2019",
     url: "quotes/the-human-experiment-is-now-in-question.html",
-		content: "Put simply between ecological destruction and technological hubris the human experiment is now in question The stakes feel very high and the odds very long and the trends very ominous Bill McKibben  Falter: Has the Human Game Begun to Play Itself Out? "
+		content: "Put simply between ecological destruction and technological hubris the human experiment is now in question The stakes feel very high and the odds very long and the trends very ominous Bill McKibben American environmentalist, author, and journalist Falter: Has the Human Game Begun to Play Itself Out? "
 	},
 	{
 		title: "The Team, The Team, The Team",
@@ -399,7 +399,7 @@ let searchQuotes = [
 		title: "A diminishing sense of shared humanity",
 		date: "2017",
     url: "quotes/a-diminishing-sense-of-shared-humanity.html",
-		content: "In grounded theory researchers try to understand what we call the main concern of study participants When it comes to belonging I asked What are people trying to achieve What are they worried about The answer was surprisingly complex They want to be a part of something to experience real connection with others but not at the cost of their authenticity freedom or power Participants further reported feeling surrounded by us versus them cultures that create feelings of spiritual disconnection When I dug deeper into what they meant by spiritually disconnected the research participants described a diminishing sense of shared humanity Over and over participants talked about their concern that the only thing that binds us together now is shared fear and disdain not common humanity shared trust respect or love Brené Brown  Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone "
+		content: "In grounded theory researchers try to understand what we call the main concern of study participants When it comes to belonging I asked What are people trying to achieve What are they worried about The answer was surprisingly complex They want to be a part of something to experience real connection with others but not at the cost of their authenticity freedom or power Participants further reported feeling surrounded by us versus them cultures that create feelings of spiritual disconnection When I dug deeper into what they meant by spiritually disconnected the research participants described a diminishing sense of shared humanity Over and over participants talked about their concern that the only thing that binds us together now is shared fear and disdain not common humanity shared trust respect or love Brené Brown American professor, author, and podcast host Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone "
 	},
 	{
 		title: "Cooperative communication",
@@ -417,25 +417,31 @@ let searchQuotes = [
 		title: "I learned a lot of things from failure",
 		date: "2008",
     url: "quotes/i-learned-a-lot-of-things-from-failure.html",
-		content: "I learned a lot of things from failure When you play 162 games I don t think any sport emulates life like baseball You play football once a week or basketball twice But you start playing baseball you play every day day in and day out And you understand in a hurry that you re going to have bad days and bad nights You re going to have bad weeks and you just have to make up your mind that hey tomorrow s tomorrow and you forget about it Brooks Robinson  We Would Have Played For Nothing "
+		content: "I learned a lot of things from failure When you play 162 games I don t think any sport emulates life like baseball You play football once a week or basketball twice But you start playing baseball you play every day day in and day out And you understand in a hurry that you re going to have bad days and bad nights You re going to have bad weeks and you just have to make up your mind that hey tomorrow s tomorrow and you forget about it Brooks Robinson American third baseman in Major League Baseball who played his entire career for the Baltimore Orioles We Would Have Played For Nothing "
 	},
 	{
 		title: "A Long Conversation",
 		date: "2009-Jan-05",
     url: "quotes/a-long-conversation.html",
-		content: "At this point I m in the middle of a very long conversation with my audience It s an ongoing dialogue about what living means You create a space together You are involved in an act of the imagination together imagining the life you want to live the kind of country you want to live in the kind of place you want to leave to your children What are the things that bring you ecstasy and bliss what are the things that bring on the darkness and what can we do together to combat those things That s the dialogue I have in my imagination when I m writing I have it in front of me when I m performing Bruce Springsteen  Rolling Stone 2007 "
+		content: "At this point I m in the middle of a very long conversation with my audience It s an ongoing dialogue about what living means You create a space together You are involved in an act of the imagination together imagining the life you want to live the kind of country you want to live in the kind of place you want to leave to your children What are the things that bring you ecstasy and bliss what are the things that bring on the darkness and what can we do together to combat those things That s the dialogue I have in my imagination when I m writing I have it in front of me when I m performing Bruce Springsteen American rock singer, songwriter and guitarist Rolling Stone 2007 "
 	},
 	{
 		title: "The Trick in Keeping Bands Together",
 		date: "2009-Jan-05",
     url: "quotes/the-trick-in-keeping-bands-together.html",
-		content: "The trick in keeping bands together is always the same Hey asshole the guy standing next to you is more important than you think he is Bruce Springsteen  Rolling Stone 2009-Jan-05 "
+		content: "The trick in keeping bands together is always the same Hey asshole the guy standing next to you is more important than you think he is Bruce Springsteen American rock singer, songwriter and guitarist Rolling Stone 2009-Jan-05 "
 	},
 	{
 		title: "The Enormous Extension of our Being",
 		date: "1961",
     url: "quotes/the-enormous-extension-of-our-being.html",
 		content: "Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors We realize it best when we talk with an unliterary friend He may be full of goodness and good sense but he inhabits a tiny world In it we should be suffocated The man who is contented to be only himself and therefore less a self is in prison My own eyes are not enough for me I will see through those of others Reality even seen through the eyes of many is not enough I will see what others have invented Even the eyes of all humanity are not enough I regret that the brutes cannot write books Very gladly would I learn what face things present to a mouse or a bee more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog C. S. Lewis  An Experiment in Criticism "
+	},
+	{
+		title: "Until you make the unconscious conscious",
+		date: "1951",
+    url: "quotes/until-you-make-the-unconscious-conscious.html",
+		content: "Until you make the unconscious conscious it will direct your life and you will call it fate Carl Jung Swiss psychiatrist and psychoanalyst who founded analytical psychology  "
 	},
 	{
 		title: "Mastery of Inner and Outer Worlds",
@@ -466,6 +472,12 @@ let searchQuotes = [
 		date: "1993",
     url: "quotes/chimps-and-humans.html",
 		content: "On the basis of all the evidence the closest relative of the human proves to be the chimp The closest relative of the chimp is the human Not orangs but people Us Chimps and humans are nearer kin than are chimps and gorillas or any other kinds of ape not of the same species Carl Sagan and Ann Druyan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator; American writer, producer, and director. Shadows of Forgotten Ancestors: A Search for Who We Are "
+	},
+	{
+		title: "A raving demagogue counseling hatred",
+		date: "1993",
+    url: "quotes/a-raving-demagogue-counseling-hatred.html",
+		content: "So next time you hear a raving demagogue counseling hatred for other slightly different groups of humans for a moment at least see if you can understand his problem He is heeding an ancient call that however dangerous obsolete and maladaptive it may be today once benefitted our species Carl Sagan and Ann Druyan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator; American writer, producer, and director. Shadows of Forgotten Ancestors: A Search for Who We Are "
 	},
 	{
 		title: "Everything had nuance",
@@ -660,6 +672,12 @@ let searchQuotes = [
 		content: "There is growing evidence that tribalism is the systematic weaponization of the human Tribe Drive and will be one of the twenty first century s greatest military tools in global competition It may be the greatest threat humanity faces David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
 	},
 	{
+		title: "The Tribe Drive",
+		date: "2023",
+    url: "quotes/the-tribe-drive.html",
+		content: "The Tribe Drive is an ancient adaptation that has been a prerequisite for survival for 99 9 percent of our species evolutionary history It is a critical piece of cognitive machinery honed by millions of years of evolution that gave us the ability to navigate both cooperatively and competitively increasingly complex social landscapes David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
+	},
+	{
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
@@ -687,13 +705,13 @@ let searchQuotes = [
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
@@ -717,7 +735,7 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
@@ -741,7 +759,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -2547,7 +2565,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",
@@ -2559,7 +2577,7 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
