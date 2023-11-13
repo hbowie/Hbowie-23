@@ -5,6 +5,22 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <title>They All Laughed</title>
+	  <link>https://hbowie.net/micro/they-all-laughed</link>
+	  <guid>https://hbowie.net/micro/they-all-laughed</guid>
+	  <pubDate>Thu, 02 Nov 2023 12:00:00 -0700</pubDate>
+		<image>
+			<link>https://hbowie.net/</link>
+			<title>Image from the desk of H. Bowie</title>
+			<url>https://hbowie.net/images/they-all-laughed-rogers-and-astaire.jpg"</url>
+		</image>
+	  <description>
+	  	<p>Published a little appreciation for the Gershwin song, &quot;They All Laughed.&quot; </p>
+
+<p>Available on <a href="https://hbowie.net/writings/they-all-laughed.html" class="ext-link" target="_blank" rel="noopener">HBowie.net</a> and also at the <a href="https://lexiconofsong.org" class="ext-link" target="_blank" rel="noopener">Lexicon of Song</a>. </p>
+	  </description>
+	</item>
+	<item>
 	  <title>Notenik Version 13.3.0</title>
 	  <link>https://hbowie.net/micro/notenik-version-13.3.0</link>
 	  <guid>https://hbowie.net/micro/notenik-version-13.3.0</guid>
@@ -127,34 +143,6 @@
 <li><a href="https://hbowie.medium.com/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-8c731dba747" class="ext-link" target="_blank" rel="noopener">Medium</a> </li>
 <li><a href="https://practopian.substack.com/p/mandating-x-days-a-week-in-the-office" class="ext-link" target="_blank" rel="noopener">Substack</a> </li>
 <li><a href="https://practopian.org/blog/hbowie/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea.html" class="ext-link" target="_blank" rel="noopener">Practopian</a> </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik 8.5.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-8.5.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-8.5.0-released</guid>
-	  <pubDate>Sun, 20 Feb 2022 12:00:00 -0700</pubDate>
-		<image>
-			<link>https://hbowie.net/</link>
-			<title>Image from the desk of H. Bowie</title>
-			<url>https://notenik.app/images/notenik.png"</url>
-		</image>
-	  <description>
-	  	<p>Well, it&apos;s been a while since I posted a Notenik update here, but there&apos;s been a lot going on! We&apos;re now all the way up to 8.5.0, with lots of new stuff being added. Here&apos;s a brief recap: </p>
-<ul>
-<li>Support for YAML metadata </li>
-<li>Support for image tags pointing to local files </li>
-<li>A new Notenik 101 video on YouTube </li>
-<li>A New Collection of brief Notenik Tips </li>
-<li>Support for HTML table generation using pipes and dashes within Markdown </li>
-<li>Added a new Include command to include one Note within another </li>
-<li>New features to better support a sort of outlining within Notenik </li>
-<li>Addition of Class templates </li>
-<li>Streamlined Reading improvements </li>
-<li>Addition of backlinks </li>
-<li>AKA (in other words, alias) fields </li>
 </ul>
 
 	  </description>

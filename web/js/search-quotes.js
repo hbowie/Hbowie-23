@@ -387,7 +387,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -687,7 +687,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -711,7 +711,7 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
@@ -735,7 +735,7 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
@@ -747,13 +747,13 @@ let searchQuotes = [
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -978,6 +978,12 @@ let searchQuotes = [
 		content: "Great minds discuss ideas average ones discuss events and small minds discuss people Eleanor Roosevelt  unknown "
 	},
 	{
+		title: "When old men plant trees",
+		date: "1951",
+    url: "quotes/when-old-men-plant-trees.html",
+		content: "A man has made at least a start on discovering the meaning of human life when he plants shade trees under which he knows full well he will never sit Elton Trueblood noted 20th-century American Quaker author and theologian The Life We Prize "
+	},
+	{
 		title: "An agenda of ambition and hope",
 		date: "1 Dec 2022",
     url: "quotes/an-agenda-of-ambition-and-hope.html",
@@ -1174,6 +1180,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/hard-discipline-of-reasonableness-and-honesty.html",
 		content: "The great thing to remember is that the mind of man cannot be enlightened permanently by merely teaching him to reject some particular set of superstitions There is an infinite supply of other superstitions always at hand and the mind that desires such things that is the mind that has not trained itself to the hard discipline of reasonableness and honesty will as soon as its devils are cast out proceed to fill itself with their relations Gilbert Murray  Five Stages of Greek Religion "
+	},
+	{
+		title: "Before I started school striking",
+		date: "",
+    url: "quotes/before-i-started-school-striking.html",
+		content: "Before I started school striking I had no energy no friends and I didn t speak to anyone I just sat alone at home with an eating disorder All of that is gone now since I have found a meaning in a world that sometimes seems shallow and meaningless to so many people Greta Thunberg Swedish environmental activist  "
 	},
 	{
 		title: "A book is a man's best friend",
@@ -2100,6 +2112,12 @@ let searchQuotes = [
 		content: "And it ought to be remembered that there is nothing more difficult to take in hand more perilous to conduct or more uncertain in its success than to take the lead in the introduction of a new order of things Because the innovator has for enemies all those who have done well under the old conditions and lukewarm defenders in those who may do well under the new This coolness arises partly from fear of the opponents who have the laws on their side and partly from the incredulity of men who do not readily believe in new things until they have had a long experience of them Niccolò Machiavelli  The Prince "
 	},
 	{
+		title: "The Social Suite",
+		date: "2019",
+    url: "quotes/the-social-suite.html",
+		content: "At the core of all societies I will show is the social suite 1 The capacity to have and recognize individual identity 2 Love for partners and offspring 3 Friendship 4 Social networks 5 Cooperation 6 Preference for one s own group that is in group bias 7 Mild hierarchy that is relative egalitarianism 8 Social learning and teaching Nicholas Christakis Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
+	},
+	{
 		title: "The Other Side of Complexity",
 		date: "",
     url: "quotes/the-other-side-of-complexity.html",
@@ -2121,7 +2139,13 @@ let searchQuotes = [
 		title: "What makes an activity meaningful?",
 		date: "",
     url: "quotes/what-makes-an-activity-meaningful.html",
-		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom  The Sweet Spot "
+		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom Canadian American psychologist The Sweet Spot "
+	},
+	{
+		title: "Meaningful Activities",
+		date: "2021",
+    url: "quotes/meaningful-activities.html",
+		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity extends across a significant portion of one s life and has some structure it s the sort of thing that one can tell a story about It often connects to religion and spirituality and often connects to flow leading to the experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous but none of these additional features are essential Paul Bloom Canadian American psychologist The Sweet Spot "
 	},
 	{
 		title: "The Ultimate Democracy",
@@ -2571,7 +2595,7 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
@@ -2583,7 +2607,7 @@ let searchQuotes = [
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
@@ -2632,6 +2656,12 @@ let searchQuotes = [
 		date: "2020",
     url: "quotes/fruitful-tension.html",
 		content: "The world around you is in flux You re anxious to control your destiny but yearn for the aid comforts and genuine recognition of a community You wonder at the marvels of modern science but tremble at its implications of a world without God or indeed any moral character or ideal purpose James and Dewey sought to reconcile or rather hold in fruitful tension the notions of unity and pluralism change and continuity free will and determinism science and religion self and society real and ideal and to show other people how their lives would be better if they learned to do the same Trygve Throntveit   "
+	},
+	{
+		title: "Human life is complicated",
+		date: "",
+    url: "quotes/human-life-is-complicated.html",
+		content: "What s good about an individual human life can t be boiled down to any single value It s not all about beauty or all about justice or all about happiness Pluralist theories are more plausible postulating a variety of relevant values including human well being justice fairness beauty the artistic peaks of human achievement the quality of mercy and the many different and indeed sometimes contrasting kinds of happiness Life is complicated Tyler Cowen American economist, columnist and blogger  "
 	},
 	{
 		title: "When his salary depends on his not understanding it",
@@ -3076,11 +3106,5 @@ let searchQuotes = [
 		date: "2018",
     url: "quotes/struggling-against-irrelevance.html",
 		content: "Brexit and the rise of Trump might therefore demonstrate a trajectory opposite to that of traditional socialist revolutions The Russian Chinese and Cuban revolutions were made by people who were vital to the economy but who lacked political power in 2016 Trump and Brexit were supported by many people who still enjoyed political power but who feared they were losing their economic worth Perhaps in the twenty first century populist revolts will be staged not against an economic elite that exploits people but against an economic elite that does not need them anymore This may well be a losing battle It is much harder to struggle against irrelevance than against exploitation Yuval Noah Harari Israeli public intellectual, historian and professor 21 Lessons for the 21st Century "
-	},
-	{
-		title: "When old men plant trees",
-		date: "",
-    url: "quotes/when-old-men-plant-trees.html",
-		content: "A society grows great when old men plant trees whose shade they know they shall never sit in anonymous  Greek Proverb "
 	},
 ];

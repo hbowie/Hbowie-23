@@ -531,6 +531,9 @@ love	love.html	4	quotes	tikkun olam	John Gottman
 love	love.html	4	quotes	To see a world in a grain of sand	William Blake
 love	love.html	4	quotes	Unarmed Truth and Unconditional Love	Martin Luther King Jr.
 love	love.html	4	quotes	The World is a Wonderfully Weird Place	Tom Robbins
+meaning	meaning.html	4	quotes	Before I started school striking	Greta Thunberg
+meaning	meaning.html	4	quotes	Human life is complicated	Tyler Cowen
+meaning	meaning.html	4	quotes	Meaningful Activities	Paul Bloom
 meaning	meaning.html	4	quotes	What makes an activity meaningful?	Paul Bloom
 mission	mission.html	4	quotes	The axis is constructive-destructive	Steve Jobs
 mission	mission.html	4	quotes	Each man is questioned by life	Victor Frankl
@@ -551,7 +554,7 @@ mission	mission.html	4	quotes	To prolong our presence on the face of the Earth	J
 mission	mission.html	4	quotes	The welfare of the whole human race	Arnold J. Toynbee
 mission	mission.html	4	quotes	We make money to make more movies	Walt Disney
 mission	mission.html	4	quotes	We should always be fighting evil	Stan Lee
-mission	mission.html	4	quotes	When old men plant trees	anonymous
+mission	mission.html	4	quotes	When old men plant trees	Elton Trueblood
 mission	mission.html	4	quotes	While he was focusing on the inner self, his outer world has gone to pot	Clare W. Graves
 mission	mission.html	4	quotes	A Why to Live	Friedrich Nietzsche
 mission	mission.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart

@@ -12,7 +12,7 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 3
+Last Index Selected: 1
 
 Mirror Auto Index: false
 
@@ -20,7 +20,7 @@ Display Body Label: true
 
 Title Display Option: p bold
 
-Streamlined Reading: false
+Display Mode: normal
 
 MathJax: false
 
@@ -40,5 +40,5 @@ Hash Tags: false
 
 Window Numbers: 199.0;228.0;1169.0;1031.0;418.0;
 
-Column Widths: x: 12, 20, 50; statusdigit: 20, 30, 50; klass: 60, 80, 150; rank: 50, 80, 250; dateadded: 100, 180, 250; title: 200, 404, 1500; date: 80, 120, 500; author: 100, 200, 1000; tags: 50, 100, 1200; seq: 30, 80, 250; datemod: 100, 180, 250; 
+Column Widths: tags: 50, 100, 1200; author: 100, 200, 1000; statusdigit: 20, 30, 50; datemod: 100, 180, 250; date: 80, 120, 500; title: 200, 404, 1500; klass: 60, 80, 150; dateadded: 100, 180, 250; rank: 50, 80, 250; seq: 30, 80, 250; x: 12, 20, 50; 
 

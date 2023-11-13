@@ -12,6 +12,15 @@
     "language": "en-US",
     "items": [
         {
+            "id": "hbowie.net/micro/they-all-laughed",
+            "url": "https://hbowie.net/micro/they-all-laughed",
+						"external_url": "https://hbowie.net/writings/they-all-laughed.html",
+						"title": "They All Laughed",
+						"image": "https://hbowie.net/images/they-all-laughed-rogers-and-astaire.jpg",
+						"content_html": "<p>Published a little appreciation for the Gershwin song, &#8220;They All Laughed.&#8221; </p>  <p>Available on <a href=\"https://hbowie.net/writings/they-all-laughed.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">HBowie.net</a> and also at the <a href=\"https://lexiconofsong.org\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Lexicon of Song</a>. </p>",
+						"date_published": "2023-11-02"
+        },
+        {
             "id": "hbowie.net/micro/notenik-version-13.3.0",
             "url": "https://hbowie.net/micro/notenik-version-13.3.0",
 						"external_url": "https://notenik.app/index.html",
@@ -87,15 +96,6 @@
 						"image": "https://practopian.org/images/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-team-meeting-in-office.jpg",
 						"content_html": "<p>If execs cannot mandate the same corporate attire for everyone, what makes them think that mandating a certain number of days per week in the office is a good thing? The same flaw lurks in both approaches: every employee is not the same. Every situation is not the same. Every team is not the same. </p>  <p>Read the complete post on: </p> <ul> <li><a href=\"https://hbowie.medium.com/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-8c731dba747\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Medium</a> </li> <li><a href=\"https://practopian.substack.com/p/mandating-x-days-a-week-in-the-office\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Substack</a> </li> <li><a href=\"https://practopian.org/blog/hbowie/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea.html\" class=\"ext-link\" target=\"_blank\" rel=\"noopener\">Practopian</a> </li> </ul> ",
 						"date_published": "2022-05-11"
-        },
-        {
-            "id": "hbowie.net/micro/notenik-8.5.0-released",
-            "url": "https://hbowie.net/micro/notenik-8.5.0-released",
-						"external_url": "https://notenik.app/news.html",
-						"title": "Notenik 8.5.0 Released",
-						"image": "https://notenik.app/images/notenik.png",
-						"content_html": "<p>Well, it&#8217;s been a while since I posted a Notenik update here, but there&#8217;s been a lot going on! We&#8217;re now all the way up to 8.5.0, with lots of new stuff being added. Here&#8217;s a brief recap: </p> <ul> <li>Support for YAML metadata </li> <li>Support for image tags pointing to local files </li> <li>A new Notenik 101 video on YouTube </li> <li>A New Collection of brief Notenik Tips </li> <li>Support for HTML table generation using pipes and dashes within Markdown </li> <li>Added a new Include command to include one Note within another </li> <li>New features to better support a sort of outlining within Notenik </li> <li>Addition of Class templates </li> <li>Streamlined Reading improvements </li> <li>Addition of backlinks </li> <li>AKA (in other words, alias) fields </li> </ul> ",
-						"date_published": "2022-02-20"
         },
     ]
 }

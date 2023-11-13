@@ -141,6 +141,7 @@ death	death.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 death	death.html	3	writings	Late For The Sky	Jackson Browne
 death	death.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
 death	death.html	3	writings	Will the Circle be Unbroken	A.P. Carter
+death	death.html	3	writings	Pancho and Lefty	Townes Van Zandt
 democracy	democracy.html	3	writings	Democracy	
 democracy	democracy.html	3	writings	The Truth About Capitalism	
 democracy	democracy.html	3	writings	What To Do About Big Business?	
@@ -184,6 +185,7 @@ equality	equality.html	3	writings	The Little Drummer Boy
 equality	equality.html	3	writings	Ukrainian Lives Matter	
 equality	equality.html	3	writings	Violence at the 94th Academy Awards	
 equality	equality.html	3	writings	Undoing Trumpism	
+ethics	ethics.html	3	writings	The Rotary Four-Way Test	
 evil	evil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 evolution	evolution.html	3	writings	Evolution and Its Implications	
 evolution	evolution.html	3	writings	Human Nature	
@@ -337,6 +339,7 @@ religion	religion.html	3	writings	The Rebel Jesus - Song by Jackson Browne
 religion	religion.html	3	writings	Christmas Bells	
 religiosity	religiosity.html	3	writings	Come On Up to the House	Tom Waits
 remembrance	remembrance.html	3	writings	Girl From The North Country	Bob Dylan
+remembrance	remembrance.html	3	writings	Pancho and Lefty	Townes Van Zandt
 science	science.html	3	writings	Science	
 science	science.html	3	writings	Religion, Storytelling and Art	
 science	science.html	3	writings	Our Three Human Approaches to Dealing with Problems	
@@ -353,12 +356,15 @@ society	society.html	3	writings	We Are Multi-Tribal
 society	society.html	3	writings	Patterns of Human Cooperation	
 society	society.html	3	writings	Rebuilding Trust in Our Large Institutions	
 society	society.html	3	writings	Why Do We Call It Capitalism?	
+society	society.html	3	writings	Application of Dunbar's Number in Modern Society	
 society	society.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
 society	society.html	3	writings	Managing Our Identity Stacks	
+society	society.html	3	writings	The Rotary Four-Way Test	
 society	society.html	3	writings	Some Hard-Won Wisdom Concerning Cults	
 society	society.html	3	writings	Cooperation, Competition and Coercion	
 society	society.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
 society	society.html	3	writings	Reframing our Debates about Capitalism	
+society	society.html	3	writings	Social Support Survey	
 society	society.html	3	writings	Our Societal Disconnect	
 society	society.html	3	writings	Our American Class System	
 society	society.html	3	writings	Schembechler, Bacon and Leadership	
@@ -375,6 +381,7 @@ society	society.html	3	writings	Popping the Hood with the Notenik App
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	
 sustainability	sustainability.html	3	writings	Why It's a Bad Time to be a Conservative	
 sustainability	sustainability.html	3	writings	The Era of Environmental Accommodation is Over	
+sustainability	sustainability.html	3	writings	The Era of Environmental Stewardship is Upon Us	
 sustainability	sustainability.html	3	writings	Our Three Human Approaches to Dealing with Problems	
 sustainability	sustainability.html	3	writings	Why Inflation Will be Hard to Contain	
 sustainability	sustainability.html	3	writings	Calling for a US Sustainability Initiative	
@@ -385,6 +392,7 @@ systemic	systemic.html	3	writings	Patterns of Human Cooperation
 systemic	systemic.html	3	writings	The Systemic Era	
 systemic	systemic.html	3	writings	Understanding Human History	
 systemic	systemic.html	3	writings	The Era of Environmental Accommodation is Over	
+systemic	systemic.html	3	writings	The Era of Environmental Stewardship is Upon Us	
 systemic	systemic.html	3	writings	Our Three Human Approaches to Dealing with Problems	
 systemic	systemic.html	3	writings	The Personal vs. The Institutional	
 systemic	systemic.html	3	writings	The System is Working Very Well, Thank You	

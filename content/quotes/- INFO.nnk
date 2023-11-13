@@ -4,7 +4,7 @@ Title Set by User: false
 
 Link: /Users/hbowie/Sites/HBowie-23/content/quotes
 
-Sort Parm: 4
+Sort Parm: 14
 
 Sort Descending: false
 
@@ -12,7 +12,7 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 76
+Last Index Selected: 354
 
 Mirror Auto Index: false
 
@@ -38,7 +38,7 @@ Note File Format: nnk
 
 Hash Tags: false
 
-Window Numbers: 183.0;128.0;1253.0;1052.0;500.0;
+Window Numbers: 689.0;244.0;1253.0;1052.0;500.0;
 
-Column Widths: klass: 60, 80, 150; datemod: 100, 180, 250; title: 200, 224, 1500; date: 80, 120, 500; statusdigit: 20, 30, 50; author: 100, 200, 1500; rank: 50, 80, 250; x: 12, 20, 50; tags: 50, 100, 1200; seq: 30, 80, 250; dateadded: 100, 243, 1500; 
+Column Widths: tags: 50, 100, 1200; date: 80, 120, 500; klass: 60, 80, 150; x: 12, 20, 50; rank: 50, 80, 250; author: 100, 200, 1500; dateadded: 100, 243, 1500; statusdigit: 20, 30, 50; seq: 30, 80, 250; title: 200, 224, 1500; datemod: 100, 180, 250; 
 
