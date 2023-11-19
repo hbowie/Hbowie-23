@@ -5,6 +5,16 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <title>Notenik Version 13.4.0</title>
+	  <link>https://hbowie.net/micro/notenik-version-13.4.0</link>
+	  <guid>https://hbowie.net/micro/notenik-version-13.4.0</guid>
+	  <pubDate>Sat, 18 Nov 2023 12:00:00 -0700</pubDate>
+	  <description>
+	  	<p>Version 13.4.0 of Notenik (free and open source) is now available in the Mac App Store. Added &apos;Show in Finder&apos; for note files; added a script include command; improved the display of link fields.  <br />
+</p>
+	  </description>
+	</item>
+	<item>
 	  <title>They All Laughed</title>
 	  <link>https://hbowie.net/micro/they-all-laughed</link>
 	  <guid>https://hbowie.net/micro/they-all-laughed</guid>
@@ -123,28 +133,6 @@
 		</image>
 	  <description>
 	  	<p>This is my newest site, and a spot where I can bring together all of the writings about songs I&apos;ve done over the years. There&apos;s some content from <em>Reason to Rock</em> here, as well as some stuff from <em>The Practical Utopian</em>, plus newer stuff. But since these are the most popular pieces I&apos;ve written over the years (according to Google), I thought it was high time to have a single site dedicated to this material. The title of the site comes from a Bob Dylan quotation (see the &quot;About&quot; page for details). </p>
-	  </description>
-	</item>
-	<item>
-	  <title>Why Mandating &apos;X&apos; Days a Week in the Office is a Stupid Idea</title>
-	  <link>https://hbowie.net/micro/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea</link>
-	  <guid>https://hbowie.net/micro/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea</guid>
-	  <pubDate>Wed, 11 May 2022 12:00:00 -0700</pubDate>
-		<image>
-			<link>https://hbowie.net/</link>
-			<title>Image from the desk of H. Bowie</title>
-			<url>https://practopian.org/images/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-team-meeting-in-office.jpg"</url>
-		</image>
-	  <description>
-	  	<p>If execs cannot mandate the same corporate attire for everyone, what makes them think that mandating a certain number of days per week in the office is a good thing? The same flaw lurks in both approaches: every employee is not the same. Every situation is not the same. Every team is not the same. </p>
-
-<p>Read the complete post on: </p>
-<ul>
-<li><a href="https://hbowie.medium.com/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea-8c731dba747" class="ext-link" target="_blank" rel="noopener">Medium</a> </li>
-<li><a href="https://practopian.substack.com/p/mandating-x-days-a-week-in-the-office" class="ext-link" target="_blank" rel="noopener">Substack</a> </li>
-<li><a href="https://practopian.org/blog/hbowie/why-mandating-x-days-a-week-in-the-office-is-a-stupid-idea.html" class="ext-link" target="_blank" rel="noopener">Practopian</a> </li>
-</ul>
-
 	  </description>
 	</item>
   </channel>

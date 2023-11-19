@@ -245,7 +245,7 @@ footer {
 
 /* --------------------------------------------------
 
-	Tags Cloud
+	Tags/Topics 
 	
  * -------------------------------------------------- */
 
@@ -260,11 +260,12 @@ ul.tags-cloud {
   flex-wrap: wrap; 
   align-items: center; 
   justify-content: center; 
-  line-height: 2.0rem; 
-  font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5; 
+  /* font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   /* font-family: 'concourse_3', 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
-  font-size: 1.0rem; 
-  font-weight: 500; 
+  font-family: concourse_4_caps, 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9rem; 
+  font-weight: 400; 
 } 
 
 ul.tags-cloud a { 
@@ -272,7 +273,7 @@ ul.tags-cloud a {
   position: relative;
   text-decoration: none; 
   border-bottom: 0;
-  border-radius: 10px; 
+  border-radius: 0.25rem; 
   background-color: #ca9972; 
   color: #5c3a21;
   padding: 1px 12px 1px 12px; 
@@ -294,6 +295,54 @@ ul.tags-cloud a:visited {
   color: inherit;
   color: #211E1F;
 } 
+
+a.tag-link { 
+  display: inline-block; 
+  /* position: relative; */
+  text-decoration: none; 
+  border-bottom: 0;
+  border-radius: 0.25rem; 
+  background-color: #ca9972; 
+  color: #5c3a21;
+  padding: 1px 12px 1px 12px; 
+  margin: 10px 20px 10px 0; 
+  min-width: 40px; 
+  text-align: center; 
+  font-family: concourse_4_caps, 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9rem; 
+  font-weight: 400; 
+  line-height: 1.5;
+} 
+
+a.tag-link:link { 
+  text-decoration: none; 
+  border-bottom: 0;
+  color: inherit;
+  color: #211E1F;
+} 
+
+a.tag-link:visited { 
+  text-decoration: none; 
+  border-bottom: 0;
+  color: inherit;
+  color: #211E1F;
+} 
+
+.tag-pill {
+  display: inline-block; 
+  text-decoration: none; 
+  border-bottom: 0;
+  border-radius: 0.25rem; 
+  background-color: #ca9972; 
+  color: #5c3a21;
+  padding: 1px 12px 1px 12px; 
+  margin: 10px 20px 10px 0; 
+  min-width: 40px; 
+  text-align: center; 
+  font-family: concourse_4_caps, 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400; 
+  line-height: 1.5;
+}
 
 /*
 
@@ -520,6 +569,24 @@ font-weight: bold;
 font-stretch: normal;
 font-display: auto;
 src: url('../fonts/concourse_3_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_4_caps;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_4_caps_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_4_caps;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_4_caps_bold.woff2') format('woff2');
 }
 
 @font-face {

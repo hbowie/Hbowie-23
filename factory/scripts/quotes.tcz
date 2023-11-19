@@ -21,6 +21,11 @@ template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quote-random.htm
 template	generate			
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/search-quotes.js
 template	generate			
+sort	clear			
+sort	add	descending	date-added	
+sort	set		params	
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/latest-quotes.html
+template	generate			
 
 <!-- Explode Tags for Quotes -->
 

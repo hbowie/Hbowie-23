@@ -435,7 +435,7 @@ let searchQuotes = [
 		title: "The Enormous Extension of our Being",
 		date: "1961",
     url: "quotes/the-enormous-extension-of-our-being.html",
-		content: "Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors We realize it best when we talk with an unliterary friend He may be full of goodness and good sense but he inhabits a tiny world In it we should be suffocated The man who is contented to be only himself and therefore less a self is in prison My own eyes are not enough for me I will see through those of others Reality even seen through the eyes of many is not enough I will see what others have invented Even the eyes of all humanity are not enough I regret that the brutes cannot write books Very gladly would I learn what face things present to a mouse or a bee more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog C. S. Lewis  An Experiment in Criticism "
+		content: "Those of us who have been true readers all our life seldom fully realize the enormous extension of our being which we owe to authors We realize it best when we talk with an unliterary friend He may be full of goodness and good sense but he inhabits a tiny world In it we should be suffocated The man who is contented to be only himself and therefore less a self is in prison My own eyes are not enough for me I will see through those of others Reality even seen through the eyes of many is not enough I will see what others have invented Even the eyes of all humanity are not enough I regret that the brutes cannot write books Very gladly would I learn what face things present to a mouse or a bee more gladly still would I perceive the olfactory world charged with all the information and emotion it carries for a dog C. S. Lewis British writer, literary scholar, and Anglican lay theologian An Experiment in Criticism "
 	},
 	{
 		title: "Until you make the unconscious conscious",
@@ -495,19 +495,19 @@ let searchQuotes = [
 		title: "To simply see human beings",
 		date: "28 Apr 2018",
     url: "quotes/to-simply-see-human-beings.html",
-		content: "If I ask you all today to look around and tell me who you see When you look around I don t want you to see black white Asian I don t want you to wonder if a person is Democrat or Republican gay or straight When you look around I just want you to simply see human beings nothing more nothing less And I guarantee you if you can begin to see people that way just as human beings you ll begin to treat them a little differently you ll begin to understand their points of view Charles Woodson  2018 University of Michigan Spring Commencement Address "
+		content: "If I ask you all today to look around and tell me who you see When you look around I don t want you to see black white Asian I don t want you to wonder if a person is Democrat or Republican gay or straight When you look around I just want you to simply see human beings nothing more nothing less And I guarantee you if you can begin to see people that way just as human beings you ll begin to treat them a little differently you ll begin to understand their points of view Charles Woodson American football player who won a Heisman Trophy playing for the Michigan Wolverines 2018 University of Michigan Spring Commencement Address "
 	},
 	{
 		title: "Model II Decision-Making",
 		date: "1974",
     url: "quotes/model-ii-decision-making.html",
-		content: "Model II encourages the individual to maximize his uniqueness If in doing so he should arrive at goals that differ from those developed by others he will have done so under conditions of openness trust and risk taking The individual would therefore feel free to discuss his differences openly with the group Moreover if the individual is in a subordinate power position and if he feels he had adequate opportunity to dissuade the group and that the group publicly confronted and tested all differences then the individual will probably be motivated to work toward the group goal but still be motivated to generate new information that may change the group s decision This means that one can be externally committed to a decision and internally committed to the decision making processes that produced the decision yet simultaneously monitor the consequences of the decision thoroughly to seek new valid information to reconfront the decision without being considered disloyal In the model II world conflicts do not disappear indeed the illusion of conflict disappearing is more typical of the model I world in which conflicts are settled by power plays based on sanctions charisma or loyalty Chris Argyris and Donald Schön  Theory in Practice: Increasing Personal Effectiveness "
+		content: "Model II encourages the individual to maximize his uniqueness If in doing so he should arrive at goals that differ from those developed by others he will have done so under conditions of openness trust and risk taking The individual would therefore feel free to discuss his differences openly with the group Moreover if the individual is in a subordinate power position and if he feels he had adequate opportunity to dissuade the group and that the group publicly confronted and tested all differences then the individual will probably be motivated to work toward the group goal but still be motivated to generate new information that may change the group s decision This means that one can be externally committed to a decision and internally committed to the decision making processes that produced the decision yet simultaneously monitor the consequences of the decision thoroughly to seek new valid information to reconfront the decision without being considered disloyal In the model II world conflicts do not disappear indeed the illusion of conflict disappearing is more typical of the model I world in which conflicts are settled by power plays based on sanctions charisma or loyalty Chris Argyris and Donald Schön American business theorist and professor Theory in Practice: Increasing Personal Effectiveness "
 	},
 	{
 		title: "Model II Values",
 		date: "1974",
     url: "quotes/model-ii-values.html",
-		content: "Clearly Model II touches on values that are central to social life and to the traditions of moral philosophy freedom of choice truth and testability the nature of commitment the possibilities for and limitations on openness in communication among individuals the basis for trust and cooperation among human beings the sources of long term personal effectiveness Chris Argyris and Donald Schön  Theory in Practice: Increasing Personal Effectiveness "
+		content: "Clearly Model II touches on values that are central to social life and to the traditions of moral philosophy freedom of choice truth and testability the nature of commitment the possibilities for and limitations on openness in communication among individuals the basis for trust and cooperation among human beings the sources of long term personal effectiveness Chris Argyris and Donald Schön American business theorist and professor Theory in Practice: Increasing Personal Effectiveness "
 	},
 	{
 		title: "Egocentric Existence",
@@ -531,7 +531,7 @@ let searchQuotes = [
 		title: "Man must believe in an open future",
 		date: "1972",
     url: "quotes/man-must-believe-in-an-open-future.html",
-		content: "Man s freedom is a reality a reality that makes a difference to his physical as well as his mental health When Frankl s prisoners ceased to believe in the possibility of freedom they grew sick and died On the other hand when they saw that Dachau had no chimney standing out all night in the rain seemed no great hardship they laughed and joked The conclusion needs to be stated in letters ten feet high In order to realise his possibilities man must believe in an open future he must have a vision of something worth doing And this will not be possible until all the determinism and pessimism that we have inherited from the 19th century and which has infected every department of our culture from poetry to atomic physics has been dismissed as fallacious and illogical Colin Wilson  New Pathways In Psychology: Maslow and the Post-Freudian Revolution "
+		content: "Man s freedom is a reality a reality that makes a difference to his physical as well as his mental health When Frankl s prisoners ceased to believe in the possibility of freedom they grew sick and died On the other hand when they saw that Dachau had no chimney standing out all night in the rain seemed no great hardship they laughed and joked The conclusion needs to be stated in letters ten feet high In order to realise his possibilities man must believe in an open future he must have a vision of something worth doing And this will not be possible until all the determinism and pessimism that we have inherited from the 19th century and which has infected every department of our culture from poetry to atomic physics has been dismissed as fallacious and illogical Colin Wilson English existentialist philosopher-novelist New Pathways In Psychology: Maslow and the Post-Freudian Revolution "
 	},
 	{
 		title: "Critical Thinking Followed by Action",
@@ -681,19 +681,19 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
@@ -711,13 +711,13 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -729,25 +729,25 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
@@ -2136,12 +2136,6 @@ let searchQuotes = [
 		content: "We all know that Art is not truth Art is a lie that makes us realize truth at least the truth that is given us to understand The artist must know the manner whereby to convince others of the truthfulness of his lies If he only shows in his work that he has searched and re searched for the way to put over lies he would never accomplish anything Pablo Picasso Spanish painter, sculptor, printmaker, ceramicist and theatre designer The Arts "
 	},
 	{
-		title: "What makes an activity meaningful?",
-		date: "",
-    url: "quotes/what-makes-an-activity-meaningful.html",
-		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom Canadian American psychologist The Sweet Spot "
-	},
-	{
 		title: "Meaningful Activities",
 		date: "2021",
     url: "quotes/meaningful-activities.html",
@@ -2589,7 +2583,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",

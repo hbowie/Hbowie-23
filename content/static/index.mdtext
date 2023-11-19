@@ -10,7 +10,7 @@ This site's content falls into a number of different categories. Feel free to dr
 
 ## The Latest Activity
 
-I post all of my latest activity to the [microblog](micro/index.html) hosted on this site.  You can also see a list of my [latest original writings](latest-original.html). 
+I post all of my latest activity to the [microblog](micro/index.html) hosted on this site.  You can also see a list of my [latest original writings](latest-original.html), as well as the [latest quotes added](latest-quotes.html) to my Commonplace book . 
 
 ## Software
 
@@ -39,6 +39,7 @@ I've written a number of pieces that serve as convenient summaries of ideas and 
 One of my uses for Notenik is to maintain a [digital commonplace book][dcp], containing brief quotations from others that I have found meaningful. This content can be accessed in a number of different ways. 
 
 + [Authors Index](authors/index.html) -- A sortable list of all cited authors
++ [Latest Additions](latest-quotes.html) -- The most recent quotes added. 
 + [Random Quote](quotes/random.html) -- Pull up a random entry
 
 [dcp]: https://www.nytimes.com/2021/02/10/technology/personaltech/make-digital-commonplace-book.html

@@ -12,15 +12,15 @@ Christmas	christmas.html	3	writings	Christmas Time Back Home - Song by The Count
 Christmas	christmas.html	3	writings	Please Come Home for Christmas	
 Christmas	christmas.html	3	writings	Holiday in Harlem	
 Christmas	christmas.html	3	writings	Christmas Night in Harlem	
-Christmas	christmas.html	3	writings	Christmas Bells	
+Christmas	christmas.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
 Christmas	christmas.html	3	writings	Christmas Must Be Tonight	
 Christmas	christmas.html	3	writings	Have Yourself a Merry Little Christmas	
-Christmas	christmas.html	3	writings	Auld Lang Syne	
+Christmas	christmas.html	3	writings	Auld Lang Syne	Robert Burns
 Christmas	christmas.html	3	writings	The Little Drummer Boy	
 Christmas	christmas.html	3	writings	My Favorite Things	
 Christmas	christmas.html	3	writings	Star of Wonder	
 Christmas	christmas.html	3	writings	Christmas Time's A-Coming	
-Christmas	christmas.html	3	writings	Boogie Woogie Santa Claus	
+Christmas	christmas.html	3	writings	Boogie Woogie Santa Claus	Leon René
 Christmas	christmas.html	3	writings	The Christmas Song	
 Christmas	christmas.html	3	writings	Santa Claus is Coming to Town	
 US politics	us-politics.html	3	writings	Why It's a Bad Time to be a Conservative	
@@ -81,7 +81,7 @@ connection	connection.html	3	writings	Father Christmas - Song by The Kinks
 connection	connection.html	3	writings	Please Come Home for Christmas	
 connection	connection.html	3	writings	Christmas Night in Harlem	
 connection	connection.html	3	writings	Have Yourself a Merry Little Christmas	
-connection	connection.html	3	writings	Auld Lang Syne	
+connection	connection.html	3	writings	Auld Lang Syne	Robert Burns
 connection	connection.html	3	writings	Christmas Time's A-Coming	
 connection	connection.html	3	writings	Social Distancing and our Essential Nature	
 connection	connection.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
@@ -243,8 +243,8 @@ humanism	humanism.html	3	writings	A Resumption of our Humanity
 humanism	humanism.html	3	writings	Paul Thorn and his 800 Pound Jesus	
 humanism	humanism.html	3	writings	Christmas Favorites from The Practical Utopian	
 humanism	humanism.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
-humanism	humanism.html	3	writings	Christmas Bells	
-humanism	humanism.html	3	writings	Boogie Woogie Santa Claus	
+humanism	humanism.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
+humanism	humanism.html	3	writings	Boogie Woogie Santa Claus	Leon René
 illusion	illusion.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 imperfection	imperfection.html	3	writings	Fruitcakes	Jimmy Buffett
 imperfection	imperfection.html	3	writings	When I Paint My Masterpiece	Bob Dylan
@@ -336,7 +336,7 @@ religion	religion.html	3	writings	Why I Call Myself a Practopian
 religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	
 religion	religion.html	3	writings	What Christmas Means to Me	
 religion	religion.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
-religion	religion.html	3	writings	Christmas Bells	
+religion	religion.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
 religiosity	religiosity.html	3	writings	Come On Up to the House	Tom Waits
 remembrance	remembrance.html	3	writings	Girl From The North Country	Bob Dylan
 remembrance	remembrance.html	3	writings	Pancho and Lefty	Townes Van Zandt
