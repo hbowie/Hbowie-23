@@ -6,6 +6,7 @@ input	set		xpltags	true
 input	open	notenik-split-tags		/Users/hbowie/Sites/HBowie-23/content/writings
 filter	clear			
 filter	add	ne	Tag	
+filter	add	ge	Status	9
 filter	set		params	
 sort	clear			
 sort	add	ascending	Tag	

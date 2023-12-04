@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Reflections on the Christian Message</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+/* The following CSS comes from the darkModeAdjustments 
+   method of the DisplayPrefs class within Notenik. */
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --link-hover-color: Blue;
+    --background-hover-color: #f0f0f0;
+    --link-visited-color: Purple;
+    --link-active-color: Red;
+    --background-active-color: #e0e0e0;
+    --highlight-color: Gainsboro
+}
+a.ext-link::after {
+    content: "";
+    width: 0.9em;
+    height: 0.9em;
+    margin-left: 0.2em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --highlight-color: DimGray
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+}
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+/* The following CSS comes from the displayCSS method of the
+   DisplayPrefs class within Notenik.                        */
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;
+/* fontCSS insertion starts here */
+font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt;
+/* fontCSS insertion ends here   */
+}
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+    font-style: italic;
+}
+
+nav ul {
+    margin-top: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+nav ul li a.wiki-link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+footer {
+    clear: both;
+    border-top: 1px dashed var(--text-color);
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: right;
+}
+
+footer p {
+    padding-top: 0.5em;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.heading-1-details {
+    margin-left: 2.2em;
+}
+.heading-2-details {
+    margin-left: 2.2em;
+}
+.heading-3-details {
+    margin-left: 2.2em;
+}
+.heading-4-details {
+    margin-left: 2.2em;
+}
+.heading-5-details {
+    margin-left: 2.2em;
+}
+.heading-6-details {
+    margin-left: 2.2em;
+}
+
+.heading-1-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-2-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-3-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-4-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-5-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-6-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+
+ul.outline-list {
+    list-style-type: none;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+/* Generated CSS for headings follows. */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-top: 0.7em;
+    margin-bottom: 0.0em;
+    font-style: normal;
+}
+h1 {
+    text-align: center;
+    font-size: 2.0em;
+}
+h2 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.2em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.0em;
+}
+
+</style>
+</head>
+<body>
+
+<main>
+<p><em><a href="notenik://expand?path=/Users/hbowie/Sites/HBowie-23/content/writings/&tag=Christmas" style="text-decoration: none">Christmas</a>, <a href="notenik://expand?path=/Users/hbowie/Sites/HBowie-23/content/writings/&tag=ethics" style="text-decoration: none">ethics</a>, <a href="notenik://expand?path=/Users/hbowie/Sites/HBowie-23/content/writings/&tag=god" style="text-decoration: none">god</a>, <a href="notenik://expand?path=/Users/hbowie/Sites/HBowie-23/content/writings/&tag=religion" style="text-decoration: none">religion</a></em></p><h1 id="reflections-on-the-christian-message">Reflections on the Christian Message</h1>
+<figure>
+<img src="files/Reflections on the Christian Message | Lake Wanaga.jpg" alt="With dawn approaching, stars twinkle in the sky above the famous tree at Lake Wanaka, on New Zealand's South Island." title="With dawn approaching, stars twinkle in the sky above the famous tree at Lake Wanaka, on New Zealand's South Island." /><figcaption>Image Credit: <a href="https://www.istockphoto.com/photo/stars-over-lake-wanaka-new-zealand-gm1731339502-541775512" class="ext-link" target="_blank" rel="noopener">iStock | simonbradfield</a></figcaption></figure>
+<p>Class: general</p><p>Date: 03 Dec 2023 - Sunday</p><p>Status: 9 - Published</p><p>Short ID: rocm</p><p>Featured: false</p><p>Greatest Hits: false</p><p>Category: 03 - Canonical</p><p>Importance: 20</p><p>Minutes to Read: 5</p><p>Image Name: Lake Wanaga</p><p>Image Alt: With dawn approaching, stars twinkle in the sky above the famous tree at Lake Wanaka, on New Zealand's South Island.</p><p>Image Credit: iStock | simonbradfield</p><p>Image Credit Link: <a href="https://www.istockphoto.com/photo/stars-over-lake-wanaka-new-zealand-gm1731339502-541775512" class="ext-link" target="_blank" rel="noopener">https://www.istockphoto.com/photo/stars-over-lake-wanaka-new-zealand-gm1731339502-541775512</a></p><p>Teaser: </p><p>As I’ve confessed on previous occasions, I don’t really think of myself as a Christian, although I was raised by at least one parent who was a reliable Methodist for most of her life. But I’ve been reflecting on the Christian message recently, and since Christmas is approaching, I suppose there’s no better time of year for this sort of contemplation. When I think of the overarching message of Christ, three central concepts stand out for me. </p><p>Body: </p><p>As I’ve confessed <a href="https://hbowie.net/writings/religious-freedom.html" class="ext-link" target="_blank" rel="noopener">on previous occasions</a>, I don’t really think of myself as a Christian, although I was raised by at least one parent who was a reliable Methodist for most of her life. </p>
+
+<p>But I’ve been reflecting on the Christian message recently, and since Christmas is approaching, I suppose there’s no better time of year for this sort of contemplation. </p>
+
+<p>When I think of the overarching message of Christ, three central concepts stand out for me. </p>
+
+<h2 id="1-forgiveness-of-sin">1. Forgiveness of Sin</h2>
+
+<blockquote>
+
+<p>Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you. (<a href="https://biblehub.com/ephesians/4-32.htm" class="ext-link" target="_blank" rel="noopener">Ephesians 4:32</a>) </p>
+</blockquote>
+
+<blockquote>
+
+<p>Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy. (<a href="https://biblehub.com/proverbs/28-13.htm" class="ext-link" target="_blank" rel="noopener">Proverbs 28:13</a>) </p>
+</blockquote>
+
+<p>What do we mean by <em>sin</em>? </p>
+
+<p>Perhaps we can best think of it as an error of some kind, possibly based on a mistaken or outdated understanding of a situation, or of the rules we think we should follow. </p>
+
+<p>And why is forgiveness so important? </p>
+
+<p>Well, if we cannot depend on forgiveness, then how can we ever muster the courage to admit that we were wrong? </p>
+
+<p>And if we can never admit we have erred, then how can we ever change? </p>
+
+<p>And so, I think of Louise Penny’s fictional detective Armand Gamache as delivering a message of which Christ might have approved when <a href="https://hbowie.net/authors/louise-penny.html" class="ext-link" target="_blank" rel="noopener">he says to his acolytes</a>: </p>
+
+<blockquote>
+
+<p>There are four sentences that lead to wisdom.  </p>
+
+<p>I am sorry. I was wrong. I don&#8217;t know. I need help. </p>
+</blockquote>
+
+<p>And so yes, we all have imperfect understandings, and make mistakes, and depend on forgiveness in order to be able to move on to better ideas and practices. </p>
+
+<h2 id="2-the-golden-rule">2. The Golden Rule</h2>
+
+<blockquote>
+
+<p>In everything, therefore, treat people the same way you want them to treat you&#8230;. (<a href="https://biblehub.com/matthew/7-12.htm" class="ext-link" target="_blank" rel="noopener">Matthew 7:12</a>) </p>
+</blockquote>
+
+<p>I’ve been reading a lot of evolutionary biology lately, and studying the <a href="https://www.newharbinger.com/9781684030248/prosocial/" class="ext-link" target="_blank" rel="noopener">ProSocial movement</a>, and a lot of it boils down to this same basic idea. </p>
+
+<p>And research like the modern <a href="https://www.nationalgeographic.com/podcasts/article/episode-31-the-problem-with-superchickens" class="ext-link" target="_blank" rel="noopener">superchicken experiment</a> seems to confirm the wisdom of this message. </p>
+
+<p>Note a couple of revolutionary aspects embedded in this straightforward injunction. </p>
+<ul>
+<li><p>It refers generically to people, to all humans &#8211; not just to those who look like you, or who otherwise present as being members of the same tribe. </p></li>
+<li><p>It advises us to base our behavior to others &#8211; not on how they <em>have</em> treated us, or how we imagine they <em>might</em> treat us &#8211; but on how we would <em>like</em> to be treated. This requires us to imagine an ideal behavior, and base our actions on that ideal, rather than on any past or current reality. </p></li>
+</ul>
+
+<h2 id="3-the-kingdom-of-god">3. The Kingdom of God</h2>
+
+<blockquote>
+
+<p>But seek first the kingdom of God. (<a href="https://biblehub.com/matthew/6-33.htm" class="ext-link" target="_blank" rel="noopener">Matthew 6:33</a>) </p>
+</blockquote>
+
+<blockquote>
+
+<p>The kingdom of God has come near. (<a href="https://biblehub.com/mark/1-15.htm" class="ext-link" target="_blank" rel="noopener">Mark 1:15</a>) </p>
+</blockquote>
+
+<blockquote>
+
+<p>Your kingdom come, your will be done, on earth as it is in heaven. (<a href="https://biblehub.com/matthew/6-10.htm" class="ext-link" target="_blank" rel="noopener">Matthew 6:10</a>) </p>
+</blockquote>
+
+<p>How can we best understand this idea of a kingdom of God? </p>
+
+<p>First, it clearly refers to a singular realm, and a single ruling entity. And so we must understand this as a unified overarching mechanism of governance for all of Earth. </p>
+
+<p>And then, I think of God as a symbol for our human ideals &#8211; perhaps even a representation of our surprising capacity to imagine some ideal state that is different from anything we have been taught, or have experienced. And so, a kingdom of God is a realm governed according to universal human aspirations and ideals. </p>
+
+<p>And, based on the first two items discussed above, these ideals must at a minimum include: </p>
+<ul>
+<li><p>The recognition that our understandings can change and evolve over time; </p></li>
+<li><p>Permission to change, when new facts and perspectives and understandings come to light; </p></li>
+<li><p>Treating all other people the same way that we would like to be treated. </p></li>
+</ul>
+
+<p>I think that similar sentiments can be found in US President Dwight D. Eisenhower’s <a href="https://avalon.law.yale.edu/20th_century/eisen2.asp" class="ext-link" target="_blank" rel="noopener">Second Inaugural Address</a> (with a few sentences removed, to focus more clearly on the ones below): </p>
+
+<blockquote>
+
+<p>We look upon this shaken Earth, and we declare our firm and fixed purpose: the building of a peace with justice in a world where moral law prevails. We seek peace, knowing that peace is the climate of freedom. There must be justice, sensed and shared by all peoples, for, without justice the world can know only a tense and unstable truce. There must be law, steadily invoked and respected by all nations, for without law, the world promises only such meager justice as the pity of the strong upon the weak. </p>
+</blockquote>
+
+<h2 id="straightforward-modern-interpretation">Straightforward Modern Interpretation</h2>
+
+<p>Now I think everything I have said above is rather unremarkable and straightforward &#8211; so long as we don’t shackle our beliefs to a single sacred text, or to a single church, or to a specific religious institution, or to a single historical context, or to a single religious leader. </p>
+
+<p>The confusion, it seems, comes in when we try to twist our beliefs so that every word of the Christian Bible is given the same weight in terms of validity and importance. Because then we clearly need to be guided by religious leaders who devote entire careers to making sense of the whole thing, and somehow explaining that the nonsensical and outdated bits &#8211; including the leaders themselves! &#8211; must all be treated with equal reverence. </p>
+
+<p>Now of course a great deal of wisdom and literature can be found in the rest of the Bible. But we should not let those other bits distract us from the primary message of Christ, as I believe I’ve outlined above. </p>
+
+<h2 id="tribal-signaling">Tribal Signaling</h2>
+
+<p>David R. Samson’s book <em><a href="https://read.macmillan.com/lp/our-tribal-future/" class="ext-link" target="_blank" rel="noopener">Our Tribal Future</a></em> has a lot of good information about the purpose of tribes, and how tribal members signal their membership to one another. </p>
+
+<p>And he makes the point that humans are inherently tribal. We all need to feel part of one or more tribes. </p>
+
+<p>But should we think of Christianity, or some particular sect or church, as our tribe? </p>
+
+<p>In other words, when considering a stranger, previously unknown to us, should we treat them more favorably once we have received some sort of signal from them that they identify as Christian? Or as Methodist? Or Catholic? </p>
+
+<p>I think not. </p>
+
+<p>Because people from many different tribes can believe in the primary elements of the Christian message, as I have outlined them above. </p>
+
+<p>And, of course, many people who identify as Christian, and signal their Christianity to others, can treat all sorts of other things as more important than these central principles. </p>
+
+<p>And then there is the Golden Rule itself: if we treat all others as we would like to be treated, then how can we treat perceived members of a single tribe any differently than those who may not be part of that tribe? </p>
+
+<h2 id="coming-full-circle">Coming Full Circle</h2>
+
+<p>And so, I end this piece as I began it, by stating that I don’t wish to identify myself as a Christian. </p>
+
+<p>Even if I do write about the importance of the Christian message. </p>
+
+<hr />
+
+<p>For more thoughts for the Christmas season, see &#8220;<a href="https://hbowie.net/writings/what-christmas-means-to-me.html" class="ext-link" target="_blank" rel="noopener">What Christmas Means to Me</a>&#8221;, as well as some words about my <a href="https://hbowie.net/writings/christmas-favorites-from-the-practical-utopian.html" class="ext-link" target="_blank" rel="noopener">Favorite Christmas Songs</a>. </p>
+
+<hr />
+<p>Timestamp: 20231203210333</p><p>Date Added: 2023-12-03 13:03:33 -0800</p><p>Date Modified: 2023-12-04 09:16:58 -0800</p>
+
+</main>
+</body>
+</html>

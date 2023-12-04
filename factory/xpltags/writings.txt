@@ -3,6 +3,7 @@ Americana	americana.html	3	writings	Train to Birmingham	John Hiatt
 Apple	apple.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
 Christmas	christmas.html	3	writings	Christmas (Baby Please Come Home)	Ellie Greenwich, Jeff Barry and Phil Spector
 Christmas	christmas.html	3	writings	Christmas Song by Dave Matthews	Dave Matthews
+Christmas	christmas.html	3	writings	Reflections on the Christian Message	
 Christmas	christmas.html	3	writings	What Christmas Means to Me	
 Christmas	christmas.html	3	writings	Christmas Favorites from The Practical Utopian	
 Christmas	christmas.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
@@ -185,6 +186,7 @@ equality	equality.html	3	writings	The Little Drummer Boy
 equality	equality.html	3	writings	Ukrainian Lives Matter	
 equality	equality.html	3	writings	Violence at the 94th Academy Awards	
 equality	equality.html	3	writings	Undoing Trumpism	
+ethics	ethics.html	3	writings	Reflections on the Christian Message	
 ethics	ethics.html	3	writings	The Rotary Four-Way Test	
 evil	evil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 evolution	evolution.html	3	writings	Evolution and Its Implications	
@@ -195,6 +197,7 @@ freedom	freedom.html	3	writings	Angel from Montgomery	John Prine
 freedom	freedom.html	3	writings	If I Had a Boat	Lyle Lovett
 god	god.html	3	writings	Quiet About It	Jesse Winchester
 god	god.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
+god	god.html	3	writings	Reflections on the Christian Message	
 governance	governance.html	3	writings	The Four Essential Attributes of any Organization	
 governance	governance.html	3	writings	Leadership and Followership: 21 Key Observations	
 governance	governance.html	3	writings	Patterns of Human Cooperation	
@@ -332,6 +335,7 @@ religion	religion.html	3	writings	Rejiggering Our Religion
 religion	religion.html	3	writings	Religion, Storytelling and Art	
 religion	religion.html	3	writings	Religious Freedom	
 religion	religion.html	3	writings	Reasons for Belief	
+religion	religion.html	3	writings	Reflections on the Christian Message	
 religion	religion.html	3	writings	Why I Call Myself a Practopian	
 religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	
 religion	religion.html	3	writings	What Christmas Means to Me	
@@ -356,7 +360,6 @@ society	society.html	3	writings	We Are Multi-Tribal
 society	society.html	3	writings	Patterns of Human Cooperation	
 society	society.html	3	writings	Rebuilding Trust in Our Large Institutions	
 society	society.html	3	writings	Why Do We Call It Capitalism?	
-society	society.html	3	writings	Application of Dunbar's Number in Modern Society	
 society	society.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
 society	society.html	3	writings	Managing Our Identity Stacks	
 society	society.html	3	writings	The Rotary Four-Way Test	
@@ -381,7 +384,6 @@ society	society.html	3	writings	Popping the Hood with the Notenik App
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	
 sustainability	sustainability.html	3	writings	Why It's a Bad Time to be a Conservative	
 sustainability	sustainability.html	3	writings	The Era of Environmental Accommodation is Over	
-sustainability	sustainability.html	3	writings	The Era of Environmental Stewardship is Upon Us	
 sustainability	sustainability.html	3	writings	Our Three Human Approaches to Dealing with Problems	
 sustainability	sustainability.html	3	writings	Why Inflation Will be Hard to Contain	
 sustainability	sustainability.html	3	writings	Calling for a US Sustainability Initiative	
@@ -392,7 +394,6 @@ systemic	systemic.html	3	writings	Patterns of Human Cooperation
 systemic	systemic.html	3	writings	The Systemic Era	
 systemic	systemic.html	3	writings	Understanding Human History	
 systemic	systemic.html	3	writings	The Era of Environmental Accommodation is Over	
-systemic	systemic.html	3	writings	The Era of Environmental Stewardship is Upon Us	
 systemic	systemic.html	3	writings	Our Three Human Approaches to Dealing with Problems	
 systemic	systemic.html	3	writings	The Personal vs. The Institutional	
 systemic	systemic.html	3	writings	The System is Working Very Well, Thank You	
