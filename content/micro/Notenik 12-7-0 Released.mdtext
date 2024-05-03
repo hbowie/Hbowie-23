@@ -1,0 +1,18 @@
+Title:  Notenik 12.7.0 Released
+
+Tags:   notenik
+
+Link:   https://notenik.app/knowledge-base/EPUB/html/version-12.7.0.html
+
+Image Link: https://notenik.app/images/notenik-logo.png
+
+Date:   2023-08-17
+
+Date Added: 2023-08-17 12:26:58 -0700
+
+Date Modified: 2024-04-30 18:18:45 -0700
+
+Body:
+
+Notenik 12.7.0 is out. The biggest change is the sorting out of various controls for navigating through a Collection. There are three different paths a user can traverse, going both backwards and forwards. The first path just travels sequentially through the list, using the currently selected sort sequence. The second path goes back and forth through navigation history within the app. The third path goes forwards and back through search results. These three are all now enabled in both directions, with separate controls for each, and with sensible keyboard shortcuts for all options. Thanks to valuable user input on the Notenik Discourse forum for these suggestions!
+

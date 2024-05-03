@@ -89,6 +89,7 @@ connection	connection.html	3	writings	The Issues Swirling around Spotify and its
 cowboys	cowboys.html	3	writings	Angel from Montgomery	John Prine
 cowboys	cowboys.html	3	writings	If I Had a Boat	Lyle Lovett
 cowboys	cowboys.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
+critical thinking	critical-thinking.html	3	writings	Some Hard Truths About Human Population Growth	
 critical thinking	critical-thinking.html	3	writings	The Nature of God	
 critical thinking	critical-thinking.html	3	writings	Religious Freedom	
 critical thinking	critical-thinking.html	3	writings	Reasons for Belief	
@@ -381,6 +382,7 @@ society	society.html	3	writings	Violence at the 94th Academy Awards
 society	society.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
 society	society.html	3	writings	Undoing Trumpism	
 society	society.html	3	writings	Popping the Hood with the Notenik App	
+sustainability	sustainability.html	3	writings	Some Hard Truths About Human Population Growth	
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	
 sustainability	sustainability.html	3	writings	Why It's a Bad Time to be a Conservative	
 sustainability	sustainability.html	3	writings	The Era of Environmental Accommodation is Over	

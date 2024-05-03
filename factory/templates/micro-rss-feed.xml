@@ -1,4 +1,4 @@
-<?output "../../web/rss.xml"?>
+<?output "../../web/feeds/micro/rss.xml"?>
 <rss version="2.0">
   <channel>
     <title>HBowie.net - From the Desk of H. Bowie</title>
@@ -14,15 +14,8 @@
 	  <link>https://hbowie.net/micro/=$title&f$=</link>
 	  <guid>https://hbowie.net/micro/=$title&f$=</guid>
 	  <pubDate>=$date&EEE, dd MMM yyyy$= 12:00:00 -0700</pubDate>
-<?if "=$imagelink$=" ?>
-		<image>
-			<link>https://hbowie.net/</link>
-			<title>Image from the desk of H. Bowie</title>
-			<url>=$imagelink$="</url>
-		</image>
-<?endif?>
 	  <description>
-	  	=$body&xo$=
+	  	=$body&x$=
 	  </description>
 	</item>
 <?endif?>

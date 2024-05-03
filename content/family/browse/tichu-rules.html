@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Tichu Rules</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+/* The following CSS comes from the darkModeAdjustments 
+   method of the DisplayPrefs class within Notenik. */
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --link-hover-color: Blue;
+    --background-hover-color: #f0f0f0;
+    --link-visited-color: Purple;
+    --link-active-color: Red;
+    --background-active-color: #e0e0e0;
+    --highlight-color: Gainsboro
+}
+a.ext-link::after {
+    content: "";
+    width: 0.9em;
+    height: 0.9em;
+    margin-left: 0.2em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --highlight-color: DimGray
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+}
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+/* The following CSS comes from the displayCSS method of the
+   DisplayPrefs class within Notenik.                        */
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;
+/* fontCSS insertion starts here */
+font-family: "Heliotrope 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16pt;
+/* fontCSS insertion ends here   */
+}
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: right;
+    font-style: italic;
+}
+
+nav ul {
+    margin-top: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+nav ul li a.wiki-link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+footer {
+    clear: both;
+    border-top: 1px dashed var(--text-color);
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: right;
+}
+
+footer p {
+    padding-top: 0.5em;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.heading-1-details {
+    margin-left: 2.2em;
+}
+.heading-2-details {
+    margin-left: 2.2em;
+}
+.heading-3-details {
+    margin-left: 2.2em;
+}
+.heading-4-details {
+    margin-left: 2.2em;
+}
+.heading-5-details {
+    margin-left: 2.2em;
+}
+.heading-6-details {
+    margin-left: 2.2em;
+}
+
+.heading-1-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-2-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-3-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-4-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-5-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-6-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+
+ul.outline-ul {
+    list-style-type: none;
+}
+ul.outline-ul-within-details {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 5px;
+}
+li.outline-li-bullet {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+/* Generated CSS for headings follows. */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Heliotrope 4", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 0.7em;
+    margin-bottom: 0.2em;
+    font-style: normal;
+}
+h1 {
+    text-align: center;
+    font-size: 2.2em;
+}
+h2 {
+    text-align: left;
+    font-size: 2.0em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.2em;
+}
+
+</style>
+</head>
+<body>
+
+<main>
+<p><em><a href="notenik://expand?path=/Users/hbowie/Library/Mobile%20Documents/com~apple~CloudDocs/Family%20Cloud/Family%20Notes/&tag=games" style="text-decoration: none">games</a></em></p><h1 id="tichu-rules">Tichu Rules</h1>
+<p>Tichu is a card game primarily classified as a shedding game that includes elements of Bridge, Daihinmin, and Poker. </p>
+<ul>
+<li><a href="#number-of-players" class="wiki-link">Number of Players</a></li>
+<li><a href="#objective" class="wiki-link">Objective</a></li>
+<li><a href="#seating" class="wiki-link">Seating</a></li>
+<li><a href="#sequence-of-play" class="wiki-link">Sequence of Play</a></li>
+<li><a href="#cards-used" class="wiki-link">Cards Used</a></li>
+<li><a href="#the-deal" class="wiki-link">The Deal</a></li>
+<li><a href="#passing-cards" class="wiki-link">Passing Cards</a></li>
+<li><a href="#the-tichu-bet" class="wiki-link">The Tichu Bet</a></li>
+<li><a href="#the-play" class="wiki-link">The Play</a></li>
+<li><a href="#valid-card-combinations" class="wiki-link">Valid Card Combinations</a></li>
+<li><a href="#special-cards" class="wiki-link">Special Cards</a>
+<ul>
+<li><a href="#the-mah-jong" class="wiki-link">The Mah Jong</a></li>
+<li><a href="#the-hound" class="wiki-link">The Hound</a></li>
+<li><a href="#the-phoenix" class="wiki-link">The Phoenix</a></li>
+<li><a href="#the-dragon" class="wiki-link">The Dragon</a></li>
+</ul>
+</li>
+<li><a href="#scoring" class="wiki-link">Scoring</a>
+<ul>
+<li><a href="#first-out-scoring" class="wiki-link">First Out Scoring</a></li>
+<li><a href="#card-scoring" class="wiki-link">Card Scoring</a></li>
+</ul>
+</li>
+</ul>
+
+<h2 id="number-of-players">Number of Players</h2>
+
+<p>Four players, consisting of two teams of two players each. </p>
+
+<h2 id="objective">Objective</h2>
+
+<p>Teams work to accumulate points, and the first team to reach a predetermined score (usually 1,000 points) is the winner. </p>
+
+<p>In general, teams can score points by capturing point cards (fives, tens, kings) when they take tricks, and also by playing all their cards and emptying their hands before their opponents. </p>
+
+<h2 id="seating">Seating</h2>
+
+<p>Each player sits across from their teammate so that play alternates between the two teams. </p>
+
+<h2 id="sequence-of-play">Sequence of Play</h2>
+
+<p>The game is traditionally run counter clockwise, but is frequently played clockwise. </p>
+
+<h2 id="cards-used">Cards Used</h2>
+
+<p>The game is played with a deck of 56 cards, consisting of a 52-card deck of four suits (Jade, Sword, Pagoda, Star) plus four special cards (Mah Jong, Hound, Phoenix, Dragon). Within each suit, cards run from deuce through Ace, with Aces being high. A standard 52-card deck with 4 jokers (marked to indicate the special cards) can also be used. </p>
+
+<h2 id="the-deal">The Deal</h2>
+
+<p>The entire deck is dealt out, so each player will eventually begin play with fourteen cards. </p>
+
+<p>However the initial deal only distributes eight cards to each player. At this point players may look at their cards and, if these initial cards seem sufficiently strong, they may call &#8220;Grand Tichu.&#8221; This represents a 200-point bet that they (not their partner) will be the first to go out by playing all of the cards in their hand. </p>
+
+<p>Note that &#8220;Grand Tichu&#8221; and &#8220;Tichu&#8221; (described later) are bets, and not bids. Any number of players &#8211; from zero to four &#8211; may bet (although it would be unusual and probably self-defeating for a player to bet after their partner has already bet). </p>
+
+<p>Also, there is no trump suit identified by bidding, or betting, or through any other means. </p>
+
+<p>After players have either called a Grand Tichu or waived their opportunity to do so, the remaining six cards may be dealt to each player. (Alternatively, the remaining six cards may be dealt onto the table in front of each player earlier, in which case each player simply picks up and examines their remaining six cards once they have called Grand Tichu or decided not to do so.) </p>
+
+<h2 id="passing-cards">Passing Cards</h2>
+
+<p>After all cards have been dealt, each player passes one card to each of the other players, so that all players pick a total of three cards to pass, and then receive three replacement cards that are passed to them. </p>
+
+<h2 id="the-tichu-bet">The Tichu Bet</h2>
+
+<p>Any player who has not alreacy bet a Grand Tichu can now call Tichu at any point after all cards have been dealt, and before they play their first card. This represents a 100-point bet that they (not their partner) will be the first to go out by playing all of the cards in their hand. Again, zero to four players may place such bets. </p>
+
+<h2 id="the-play">The Play</h2>
+
+<p>The player with the Mah Jong leads the first trick. They may elect to play the Mah Jong at that time, or lead with some other card or card combination (retaining the Mah Jong in their hand to be played later). </p>
+
+<p>The Mah Jong looks like the numeral 1, and ranks as a one when played. </p>
+
+<p>In Tichu, playable card combinations are generally based on Poker hands, with some exceptions. However, unlike Poker, the first combination played determines the combination to be played for the remainder of that trick. </p>
+
+<p>For example, if the player with the lead (initially the player with the Mah Jong) plays only a single card, then subsequent plays during that trick must also play only a single card. </p>
+
+<p>After the lead, play proceeds around the table in the predetermined direction. </p>
+
+<p>When it is a player&#8217;s turn to play, they must either play a higher card (or card combination), or pass. </p>
+
+<p>A single card can thus only be beaten by a single card of higher value, a sequence of two pairs only by a sequence of two higher pairs, a sequence of eight cards only by a higher sequence of exactly eight cards, a full house only by a higher full house (in full houses the value of the trio is what counts). </p>
+
+<p>The trick is complete when three players in a row have passed. </p>
+
+<p>Note that, unlike some similar games, passing once does not preclude a player from later playing a card as part of the same trick, if another player later plays a card or cards, thus failing to complete three passes in a row.   </p>
+
+<p>The last player to play a card or card combination in that trick then takes the trick, and the lead for the next trick then passes to them. </p>
+
+<p>Play continues until only one player has any cards remaining. </p>
+
+<p>The tailender (the last player with any cards) hands over the cards remaining in their hand to their opponents and the tricks they won to the winner (the player who has gone out first in the hand). </p>
+
+<h2 id="valid-card-combinations">Valid Card Combinations</h2>
+
+<p>Cards may be combined in the following ways. Again, except for the exceptions noted below, once a particular card combination is led, following plays for that trick must be of the same combination. </p>
+<ul>
+<li>Single Card </li>
+<li>Pair of two cards with the same ranks </li>
+<li>Two or more consecutive pairs (for example, 55667788) </li>
+<li>Three of a kind &#8211; three cards of matching ranks </li>
+<li>Straight of at least five cards in length, regardless of suit/color (remember that Aces are high) </li>
+<li>Full house (three of a kind plus a pair) </li>
+<li>Four of a kind &#8211; this combination is the first of two possible combinations designated as bombs, meaning that they can be played at any time, no matter what card combination was led, and can only be beaten by a higher bomb </li>
+<li>Straight flush of at least five cards, which is the second card combination designated as a bomb (see description above) </li>
+</ul>
+
+<p>Note that a straight flush beats four of a kind, and a longer straight flush beats a shorter one. </p>
+
+<p>Note also that the Phoenix may or may not be used as part of a bomb, depending on house rules. We play that it can be used this way.  </p>
+
+<h2 id="special-cards">Special Cards</h2>
+
+<p>The four special cards affect play as follows. </p>
+
+<h3 id="the-mah-jong">The Mah Jong</h3>
+
+<p>The player with the Mah Jong leads the opening trick, but is not required to play Mah Jong in the trick. </p>
+
+<p>The Mah Jong may be played as a 1, either by itself or as a one in a straight. </p>
+
+<p>When the Mah Jong is played, you may make a Wish (request a card number 2-A). The wish remains active until it is fulfilled. Each player who can fulfill the Wished card must play it, if possible, until it is played once &#8211; if the wished card requires you playing four of them as a Bomb (i.e. to beat the straight, above), you must. If the Mah Jong opens a trick as a straight, the next player must play a straight containing the wished value, if possible. If a straight can only be constructed with the Phoenix (as wild card, not the wished value), you must play it. Remember: if you can, you must. </p>
+
+<p>The Mah Jong is sometimes also referred to as the Sparrow. </p>
+
+<h3 id="the-hound">The Hound</h3>
+
+<p>The Hound has no numeric value, and cannot be played in a trick. The Hound may only be played as the lead card, and passes the lead to the player&#8217;s partner. If the partner is out, play passes to the active player after the partner&#8217;s position. </p>
+
+<p>It is not possible to steal the lead in any way; as such, bombing the hound is not allowed. </p>
+
+<p>The Hound may sometimes more prosaically be referred to as the Dog. </p>
+
+<h3 id="the-phoenix">The Phoenix</h3>
+
+<p>The Phoenix may be played in two different ways. </p>
+<ul>
+<li><p>As a single card, it beats whatever previous card was last played, but will not beat any higher cards that are subsequently played. (In other words, one can think of it as taking a value 0.5 higher than the last card played.) If it is led as a single card, then any single card other than the Mah Jong can beat it. Iin other words, it can be thought of as having a value of 1.5 when led.) </p></li>
+<li><p>The other way to play the Phoenix is as a wild card, in order to form some desired card combination. </p></li>
+</ul>
+
+<p>Note that these two modes of play cannot be mixed: specifically, a Phoenix may not be played as the high card following an Ace in a straight, as if it were an Ace and a half.  </p>
+
+<p>As we will see later in <a href="#card-scoring" class="wiki-link">Card Scoring</a>, the Phoenix deducts 25 points from your score. </p>
+
+<h3 id="the-dragon">The Dragon</h3>
+
+<p>The Dragon may only be played in a single card trick, but is the strongest card that can be played as a single card . </p>
+
+<p>The Dragon wins the trick, unless the Dragon is bombed. </p>
+
+<p>If the trick is won with the Dragon, the trick is given to the player&#8217;s opponent (you choose which one). </p>
+
+<p>However, if the dragon is bombed, the player who played the largest bomb on the trick takes the entire trick for themselves (including the Dragon). </p>
+
+<p>As we will see later in <a href="#card-scoring" class="wiki-link">Card Scoring</a>, the Dragon is worth 25 points. </p>
+
+<h2 id="scoring">Scoring</h2>
+
+<p>There are two types of scoring. </p>
+
+<h3 id="first-out-scoring">First Out Scoring</h3>
+
+<p>If the first player to go out has bet that they would do so, then their team gets either 200 points for a Grand Tichu, or 100 points for a Tichu. </p>
+
+<p>Players who bet a Grand Tichu or a Tichu but were not the first out lose those same numbers of points (200 or 100). </p>
+
+<p>If both players on a team get rid of all their cards before either player on the opposing team is out of cards, the first team out scores 200 points, and there is no card scoring for this round. This score is not dependent on any Tichu bets. </p>
+
+<p>Being first out, by itself, is not worth any points, if no Tichu bet was placed. </p>
+
+<h3 id="card-scoring">Card Scoring</h3>
+
+<p>The tailender (the last player with any cards) hands over the cards remaining in their hand to their opponents and the tricks they won to the winner (the player who has gone out first in the hand). </p>
+
+<p>Points are scored based on the cards in the tricks won by each team. </p><table>
+<tr>
+<th>
+ Card </th>
+<th>
+ Score </th>
+ </tr>
+<tr>
+<td>
+ Kings </td>
+<td>
+ 10 </td>
+</tr>
+<tr>
+<td>
+ Tens </td>
+<td>
+ 10 </td>
+</tr>
+<tr>
+<td>
+ Fives </td>
+<td>
+ 5 </td>
+</tr>
+<tr>
+<td>
+ Dragon </td>
+<td>
+ 25 </td>
+</tr>
+<tr>
+<td>
+ Phoenix </td>
+<td>
+ -25 </td>
+</tr>
+<tr>
+<td>
+ all others </td>
+<td>
+ zero </td>
+ </tr>
+</table>
+
+<p>Note that the total card score for each round will be a total of 100 points. </p>
+
+<hr />
+
+</main>
+</body>
+</html>

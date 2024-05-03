@@ -1,4 +1,4 @@
-Title: PortableWisdom-23 / content / quotes
+Title: - INFO
 
 Title Set by User: false
 
@@ -12,15 +12,15 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 133
+Last Index Selected: 290
 
 Mirror Auto Index: false
 
-Display Body Label: true
+Display Body Label: false
 
 Title Display Option: p bold
 
-Display Mode: normal
+Display Mode: quotations
 
 MathJax: false
 
@@ -38,7 +38,7 @@ Note File Format: nnk
 
 Hash Tags: false
 
-Window Numbers: 66.0;0.0;1253.0;1014.0;500.0;
+Window Numbers: 933.0;257.0;550.0;898.0;0.0;
 
-Column Widths: x: 12, 20, 50; statusdigit: 20, 30, 50; title: 200, 224, 1500; date: 80, 120, 500; dateadded: 100, 243, 1500; tags: 50, 100, 1200; datemod: 100, 180, 250; klass: 60, 80, 150; author: 100, 200, 1500; seq: 30, 80, 250; rank: 50, 80, 250; 
+Column Widths: date: 80, 120, 500; datemod: 100, 180, 250; x: 12, 20, 50; rank: 50, 80, 250; tags: 50, 100, 1200; statusdigit: 20, 30, 50; dateadded: 100, 243, 1500; author: 100, 200, 1500; seq: 30, 80, 250; klass: 60, 80, 150; title: 200, 224, 1500; 
 

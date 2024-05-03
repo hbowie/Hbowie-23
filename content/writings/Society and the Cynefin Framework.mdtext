@@ -1,0 +1,117 @@
+Title:  Society and the Cynefin Framework
+
+Class:  general
+
+Date:   2024-02-02
+
+Status: 4 - In Work
+
+Short ID: socf
+
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
+Importance: 10
+
+Minutes to Read: 5
+
+Image Name: diagram
+
+Image Credit: By Tom@thomasbcox.com -  CC BY-SA 4.0,
+
+Image Credit Link: https://commons.wikimedia.org/w/index.php?curid=123271932
+
+Date Added: 2024-02-02 11:16:57 -0800
+
+Date Modified: 2024-02-09 07:25:19 -0800
+
+Timestamp: 20240202191657
+
+Body:
+
+The [Cynefin model][cynefin] is a conceptual framework used as an aid in decision-making. It was created in 1999 by Dan Snowden, who was then working for IBM Global Services. A paper on the subject by Snowden and Mary E. Boone appeared in the [Harvard Business Review in November 2007][hbr], and helped to increase awareness of the tool. 
+
+I've found the framework to be useful in corporate settings, particularly when trying to get business leaders to [acknowledge uncertainty][softdev] rather than forcing themselves and others to feign greater levels of confidence than are really justified by the circumstances. 
+
+But I've begun to suspect lately that this framework also presents us with an important model for understanding society at large. 
+
+Let me explain. 
+
+## The Basic Framework
+
+The Cynefin framework describes five different decision-making contexts, and prescribes different approaches for dealing with each. 
+
+Let's start in the lower right corner of the diagram above, and then proceed in a counter-clockwise direction. 
+
+1. In some situations, both a problem and the necessary steps for dealing with it are *Clear*, and so the appropriate response is to observe the situation (*sense*), place the situation into one of a number of well-known categories, and then apply an established best practice to deal with the situation.
+
+	For example, think of approaching a four-way intersection in your auto. Who gets to go next? When do you get to go? Typically traffic laws offer up some clear rules for how to resolve these questions. 
+
+2. At other times a situation can be  *Complicated*, requiring some thoughtful *analysis* rather than straightforward categorization, and calling for response using a practice that might be good enough, even though it has not been reliably determined to be best. 
+
+	Let's say, for example, that you're driving your four-wheeler offroad, on terrain with which you are unfamiliar. How fast should you go, and in which direction? There is no clear answer here, so you will need to observe and analyze your surroundings before coming up with some good answers to your questions. 
+
+3. Proceeding onwards around the quadrants into even lesser degrees of certainty, some situations might be *Complex*, meaning that it might be necessary to try some things (*probe*) and observe the results of these experiments (*sense*) before responding with an emergent practice -- something at least partially made up to fit this particular and novel situation. 
+
+	Let's say that someone has given you a new e-bike for your birthday, and you've never ridden one before, and have misplaced the manual. You might gently try a few things and see what happens before you start to get a feel for how to pilot such a thing. 
+
+4. And then there are some situations that are downright *Chaotic*, so confusing and threatening that some immediate action must be taken, followed by observation of the results, and then concluding with a completely novel practice. 
+
+	As an example here, imagine that you are starting your trip home from work, driving your car, but a powerful earthquake has just disrupted the landscape, leaving roads buckled and fissures in the ground. If your partner and young child and family pet are all at home, and phones aren't working, you might feel desperate to get home and return to your family to ensure their safety, so you must set off as best you can, trying things, and observing what works and what doesn't. As a result, you might end up taking a novel route never taken before. 
+
+5. Finally there's that spot in the middle, characterized by so much *Confusion* that one can't really know which of these domains might be most appropriate. Here we need to break the situation down into smaller bits, until the smaller problems can be placed into one of the four other domains.
+
+## Application to Society
+
+So what can this model tell us about society?
+
+Let's think about this a bit. 
+
+First, it is clear that a constitutional democracy such as the one we have in the United States is a perfectly appropriate mechanism for dealing with problems in the *Clear* domain. A legislative branch passes laws, which represent best practices. An executive branch implements and enforces those laws. And a judicial branch is consulted when application of the laws is unclear. 
+
+And it is also fairly obvious that a traditional bureaucracy, with its well defined rules and clearly defined hierarchical control structure, is perfectly suited to dealing with *Clear* situations.
+
+Next, we might observe that the first two domains -- *Clear* and *Complicated* -- are definitely areas where leaders can benefit from the advice of experts. Whether it is the identification of best practices, or analysis followed by identification of a sufficiently good practice, experts with experience are definitely people who should be consulted in these sorts of situations. 
+
+But now we must ask ourselves whether any of the big important problems facing society today go beyond the *Complicated* domain. 
+
+So let's just make a quick list, shall we?
+
++ Political polarization
++ A global pandemic caused by a novel coronavirus
++ Global Warming
++ Species Extinction
++ Shrinking Supplies of Fresh Water
++ Housing Shortages
++ Homelessness
++ Widespread drug addiction
++ Peddling and transportation of illegal drugs by gangs and cartels
++ Increasing dangers from fires and floods, leading to difficulties in securing insurance
++ Increasing food costs
++ Armed conflicts around the world, especially those affecting global supply chains
++ Increased and sometimes uncontrolled and illegal flows of immigrants across our borders
++ Rapidly shifting social norms, especially around issues of gender identity
+
+So are the solutions to all of these problems *Clear* and straightforward? Probably not. 
+
+And are these all problems that are merely *Complicated*, easily addressed by a little analysis and solution formulation? Seems unlikely. 
+
+So we've quickly assembled a list of major societal problems for which democracies, bureaucracies, and experts may not be the best sources to consult for solutions to these issues.
+
+So then how do people pick leaders in such situations?
+
+According to the Cynefin model, people might pick leaders who...
+
+1. Have a bias towards action, rather than analysis;
+2. Are willing to break established rules;
+3. Are willing to exercise independent judgment;
+4. Are more focused on results than on procedures;
+
+[cynefin]: https://en.wikipedia.org/wiki/Cynefin_framework
+
+[hbr]: https://hbr.org/2007/11/a-leaders-framework-for-decision-making
+
+[softdev]: https://www.softdevbigideas.com/acknowledge-uncertainty.html

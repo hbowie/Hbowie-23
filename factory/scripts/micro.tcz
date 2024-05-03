@@ -6,7 +6,6 @@ input	set		xpltags	false
 input	set		dirdepth	1
 input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/micro
 filter	clear			
-filter	add	ge	Status	9
 filter	set		params	
 sort	clear			
 sort	add	descending	Date	
@@ -20,4 +19,6 @@ template	generate
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/micro-feed.json
 template	generate			
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/micro-rss-feed.xml
+template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/micro-atom-feed.xml
 template	generate			

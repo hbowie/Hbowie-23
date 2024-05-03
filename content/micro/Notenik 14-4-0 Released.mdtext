@@ -1,0 +1,17 @@
+Title:  Notenik 14.4.0 Released
+
+Tags:   notenik
+
+Link:   https://notenik.app/kb/version-14.4.0.html
+
+Image Link: https://notenik.app/images/notenik-logo.png
+
+Date:   2024-04-30
+
+Date Added: 2024-04-30 18:51:04 -0700
+
+Date Modified: 2024-04-30 18:51:21 -0700
+
+Body:
+
+Notenik 14.4.0 is out, and is available for free from the Mac App Store. This release includes the following improvements: improved YAML parsing, for greater interoperability with Obsidian; a new option to sort a collection of notes by folder + seq + title; a new field type of page style, that can include special CSS to be applied to the display of a specific note; a new bulk edit option that can be used to modify several notes at once; a couple of bug fixes. 

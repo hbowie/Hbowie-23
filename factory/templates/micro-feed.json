@@ -1,10 +1,10 @@
-<?output "../../web/feed.json"?>
+<?output "../../web/feeds/micro/feed.json"?>
 {
     "version": "https://jsonfeed.org/version/1.1",
     "title": "From the desk of H. Bowie",
     "home_page_url": "https://hbowie.net/",
-    "feed_url": "https://hbowie.net/feed.json",
-    "description": "Prose and code from the desk of Herb Bowie",
+    "feed_url": "https://hbowie.net/feeds/micro/feed.json",
+    "description": "The latest works from the desk of Herb Bowie",
     "authors": [
     	{
     		"name": "Herb Bowie"
@@ -28,7 +28,11 @@
 <?endif?>
 						"content_html": "=$body&w1o\$=",
 						"date_published": "=$date&yyyy-MM-ddTHH:mm:ssZ$="
+<?if =$item-count$= < 10 ?>
         },
+<?else?>
+        }
+<?endif?>
 <?endif?>
 <?loop?>
     ]

@@ -1,5 +1,11 @@
 let searchQuotes = [
 	{
+		title: "The Seventh Generation Principle",
+		date: "",
+    url: "quotes/the-seventh-generation-principle.html",
+		content: "In our every deliberation we must consider the impact of our decisions on the next seven generations    "
+	},
+	{
 		title: "A law against private jets",
 		date: "09 Apr 2019",
     url: "quotes/a-law-against-private-jets.html",
@@ -198,6 +204,12 @@ let searchQuotes = [
 		content: "The following four principles each based on an archetype comprise what I call the Four Fold Way 1 <em>Show up or choose to be present < em> Being present allows us to access the human resources of power presence and communication This is the way of the Warrior 2 <em>Pay attention to what has heart and meaning < em> Paying attention opens us to the human resources of love gratitude acknowledgment and validation This is the way of the Healer 3 <em>Tell the truth without blame or judgment < em> Nonjudgmental truthfulness maintains our authenticity and develops our inner vision and intuition This is the way of the Visionary 4 <em>Be open to outcome not attached to outcome < em> Openness and nonattachment help us to recover the human resources of wisdom and objectivity This is the way of the Teacher Angeles Arrien A Basque-American cultural anthropologist, educator, author, lecturer and consultant The Four-Fold Way "
 	},
 	{
+		title: "Life is not like formula fiction",
+		date: "1994",
+    url: "quotes/life-is-not-like-formula-fiction.html",
+		content: "Life is not like formula fiction The villain has a heart and the hero has great flaws Anne Lamott American novelist and non-fiction writer Bird by Bird: Some Instructions on Writing and Life "
+	},
+	{
 		title: "Fuzzy Concept",
 		date: "",
     url: "quotes/fuzzy-concept.html",
@@ -208,6 +220,12 @@ let searchQuotes = [
 		date: "1974",
     url: "quotes/excitement-from-art.html",
 		content: "The excitement we derive from a work of art is mostly the excitement of seeing connections that did not exist before of seeing quite different aspects of life unified through a pattern Anthony Burgess English writer and composer English Literature: A Survey for Students "
+	},
+	{
+		title: "The heart of liberty",
+		date: "1992",
+    url: "quotes/the-heart-of-liberty.html",
+		content: "At the heart of liberty is the right to define one s own concept of existence of meaning of the universe and of the mystery of human life Anthony M. Kennedy American lawyer and jurist Planned Parenthood v. Casey US Supreme Court opinion "
 	},
 	{
 		title: "The Extent of Freedom in All of its Dimensions",
@@ -387,7 +405,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -666,6 +684,12 @@ let searchQuotes = [
 		content: "Anthropologist Claude Levi Strauss made the argument that the purpose of mythology is to create paradoxes for example the Holy Ghost is a paradoxical trinity where God the father God the Son and God the Holy Spirit are one and the same It is a mystery that must be believed nevertheless Paradoxes rationally serve as tribal loyalty tests because the more logic defying the premise the stronger the tribal signal David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
 	},
 	{
+		title: "Sacred values",
+		date: "2023",
+    url: "quotes/sacred-values.html",
+		content: "Sacred values differ from material or instrumental values in that they incorporate moral beliefs such as the welfare of family commitment to country or identification with a particular religion that is thought to be absolute and inviolable Sharing of these stories demonstrates honest reliable signals that an individual values the group and its goals Finally and perhaps most importantly the sharing of these sacred values is essential to the formation and maintenance of group identity David R. Samson Associate Professor of Evolutionary Anthropology  "
+	},
+	{
 		title: "The systematic weaponization of the human Tribe Drive",
 		date: "2023",
     url: "quotes/the-systematic-weaponization-of-the-human-tribe-drive.html",
@@ -676,6 +700,12 @@ let searchQuotes = [
 		date: "2023",
     url: "quotes/the-tribe-drive.html",
 		content: "The Tribe Drive is an ancient adaptation that has been a prerequisite for survival for 99 9 percent of our species evolutionary history It is a critical piece of cognitive machinery honed by millions of years of evolution that gave us the ability to navigate both cooperatively and competitively increasingly complex social landscapes David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
+	},
+	{
+		title: "A tribe is a creed",
+		date: "2023",
+    url: "quotes/a-tribe-is-a-creed.html",
+		content: "A tribe is not a race or even a population a tribe is a creed it is a team that has agreed upon a set of symbols including sacred values that identify membership A creed is a mechanism that glues together disparate small camps and bands of cohabitating humans into a singular identity and shared purpose Those who know the codes have in their possession a social passport David R. Samson Associate Professor of Evolutionary Anthropology Our Tribal Future: How to Channel our Foundational Human Instincts Into a Force for Good "
 	},
 	{
 		title: "Between-group selection became the primary evolutionary force",
@@ -693,13 +723,13 @@ let searchQuotes = [
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -717,7 +747,7 @@ let searchQuotes = [
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -729,19 +759,19 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -753,13 +783,13 @@ let searchQuotes = [
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -1137,7 +1167,7 @@ let searchQuotes = [
 		title: "The point of modern propaganda",
 		date: "12/13/2016",
     url: "quotes/the-point-of-modern-propaganda.html",
-		content: "The point of modern propaganda isn t only to misinform or push an agenda It is to exhaust your critical thinking to annihilate truth Garry Kasparov  Twitter "
+		content: "The point of modern propaganda isn t only to misinform or push an agenda It is to exhaust your critical thinking to annihilate truth Garry Kasparov Russian chess grandmaster, former World Chess Champion (1985–2000), political activist and writer. Twitter "
 	},
 	{
 		title: "Art presents us with a window into the minds of these people",
@@ -1213,7 +1243,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Socialism is their name for anything that helps the people",
-		date: "10 Oct 1952",
+		date: "1952-10-10",
     url: "quotes/socialism-is-their-name-for-anything-that-helps-the-people.html",
 		content: "Socialism is a scareword they have hurled at every advance the people have made in the last 20 years Socialism is what they called public power Socialism is what they called Social Security Socialism is what they called farm price supports Socialism is what they called bank deposit insurance Socialism is what they called the growth of free and independent labor organiztions Socialism is their name for almost anything that helps all the people Harry S. Truman 33rd president of the United States Campaign Speech "
 	},
@@ -1234,6 +1264,12 @@ let searchQuotes = [
 		date: "1918",
     url: "quotes/this-dear-fucked-up-planet.html",
 		content: "What are we here for if not to enjoy life eternal solve what problems we can give light peace and joy to our fellow man and leave this dear fucked up planet a little healthier than when we were born Henry Miller American writer and artist Memo to Self "
+	},
+	{
+		title: "We bludgeon one another with facts and theories",
+		date: "1945",
+    url: "quotes/we-bludgeon-one-another-with-facts-and-theories.html",
+		content: "We do not talk we bludgeon one another with facts and theories gleaned from cursory readings of newspapers magazines and digests Henry Miller American writer and artist The Air-Conditioned Nightmare "
 	},
 	{
 		title: "Enemies of Art and Artist",
@@ -1270,6 +1306,12 @@ let searchQuotes = [
 		date: "10 Nov 2022",
     url: "quotes/social-media-is-hyperactive.html",
 		content: "The terms social network and social media are used interchangeably now but they shouldn t be A social network is an idle inactive system a Rolodex of contacts a notebook of sales targets a yearbook of possible soul mates But social media is active hyperactive really spewing material across those networks instead of leaving them alone until needed Ian Bogost  The Age of Social Media Is Ending "
+	},
+	{
+		title: "The dullness of fact",
+		date: "1962",
+    url: "quotes/the-dullness-of-fact.html",
+		content: "The dullness of fact is the mother of fiction Isaac Asimov  Fact and Fancy "
 	},
 	{
 		title: "The Cult of Ignorance",
@@ -1366,6 +1408,12 @@ let searchQuotes = [
 		date: "5 Oct 2021",
     url: "quotes/invest-in-your-employees.html",
 		content: "I give them other business owners the same advice my grandfather had when he was starting the business Dick s Drive Ins A business first step is it has to make a profit The next step is to invest in your employees They ll take better care of your customers which will help you earn more profit When they move on from your business and do other things they re evangelists for your company and that helps you make more profit Once that virtuous cycle is going you can also invest in your community because if your community is thriving your business will thrive And so for these businesses that come to us asking what they should do first the biggest thing I tell them is to talk to your employees Ask them what it is that your employee population would want Talk to them Start with that And if you can t do it for everybody or everything that they would want just do some part of it then work your way up from there Jasmine Donovan President & CFO at Dick's Drive-In Restaurants How does Dick’s Drive-In pay workers $19 an hour with a menu completely under $5? "
+	},
+	{
+		title: "Reversible vs. Irreversible Decisions",
+		date: "1999",
+    url: "quotes/reversible-vs-irreversible-decisions.html",
+		content: "Some decisions are consequential and irreversible or nearly irreversible one way doors and these decisions must be made methodically carefully slowly with great deliberation and consultation If you walk through and don t like what you see on the other side you can t get back to where you were before We can call these Type 1 decisions But most decisions aren t like that they are changeable reversible they re two way doors If you ve made a suboptimal Type 2 decision you don t have to live with the consequences for that long You can reopen the door and go back through Type 2 decisions can and should be made quickly by high judgment individuals or small groups As organizations get larger there seems to be a tendency to use the heavy weight Type 1 decision making process on most decisions including many Type 2 decisions The end result of this is slowness unthoughtful risk aversion failure to experiment sufficiently and consequently diminished invention We ll have to figure out how to fight that tendency Jeff Bezos American internet entrepreneur, industrialist, media proprietor, and investor Amazon Letter to Shareholders "
 	},
 	{
 		title: "You have to create more than you consume",
@@ -1740,6 +1788,12 @@ let searchQuotes = [
 		content: "It s only recently that I ve come to understand that writers are not marginal to our society that they in fact do all our thinking for us that we are writing myths and our myths are believed and that old myths are believed until someone writes a new one I think writers should be more responsible than they are as we ve imagined for a long time that it really doesn t matter what we say I think it s a beginning for authors to acknowledge that they are myth makers and that if they are widely read will have an influence that will last for many years I don t think that there s a strong awareness of that now and we have such a young culture that there is an opportunity to contribute wonderful new myths to it which will be accepted Kurt Vonnegut American writer WNYC Reader's Almanac "
 	},
 	{
+		title: "We are here on Earth to fart around",
+		date: "1996",
+    url: "quotes/we-are-here-on-earth-to-fart-around.html",
+		content: "I work at home and if I wanted to I could have a computer right by my bed and I d never have to leave it But I use a typewriter and afterward I mark up the pages with a pencil Then I call up this woman named Carol out in Woodstock and say Are you still doing typing Sure she is and her husband is trying to track bluebirds out there and not having much luck and so we chitchat back and forth and I say Okay I ll send you the pages Then I go down the steps and my wife calls Where are you going Well I say I m going to buy an envelope And she says You re not a poor man Why don t you buy a thousand envelopes They ll deliver them and you can put them in the closet And I say Hush So I go to this newsstand across the street where they sell magazines and lottery tickets and stationery I have to get in line because there are people buying candy and all that sort of thing and I talk to them The woman behind the counter has a jewel between her eyes and when it s my turn I ask her if there have been any big winners lately I get my envelope and seal it up and go to the postal convenience center down the block at the corner of Forty seventh Street and Second Avenue where I m secretly in love with the woman behind the counter I keep absolutely poker faced I never let her know how I feel about her One time I had my pocket picked in there and got to meet a cop and tell him about it Anyway I address the envelope to Carol in Woodstock I stamp the envelope and mail it in a mailbox in front of the post office and I go home And I ve had a hell of a good time I tell you we are here on Earth to fart around and don t let anybody tell you any different Kurt Vonnegut American writer Kurt Vonnegut lecture at Western Case University "
+	},
+	{
 		title: "The Power of Stakeholder Capitalism",
 		date: "2022",
     url: "quotes/the-power-of-stakeholder-capitalism.html",
@@ -1852,6 +1906,12 @@ let searchQuotes = [
 		date: "13 Dec 1964",
     url: "quotes/the-press-is-so-powerful-in-its-image-making-role.html",
 		content: "The press is so powerful in its image making role it can make the criminal look like he s the victim and make the victim look like he s the criminal This is the press an irresponsible press If you aren t careful the newspapers will have you hating the people who are being oppressed and loving the people who are doing the oppressing Malcolm X American Muslim minister and human rights activist Malcolm X Speech at the Audobon Ballroom in Harlem "
+	},
+	{
+		title: "We must discover wisdom for ourselves",
+		date: "1919",
+    url: "quotes/we-must-discover-wisdom-for-ourselves.html",
+		content: "We do not receive wisdom we must discover it for ourselves after a journey through the wilderness which no one else can make for us which no one can spare us for our wisdom is the point of view from which we come at last to regard the world Marcel Proust  Within a Budding Grove "
 	},
 	{
 		title: "Changing the World",
@@ -2136,6 +2196,12 @@ let searchQuotes = [
 		content: "We all know that Art is not truth Art is a lie that makes us realize truth at least the truth that is given us to understand The artist must know the manner whereby to convince others of the truthfulness of his lies If he only shows in his work that he has searched and re searched for the way to put over lies he would never accomplish anything Pablo Picasso Spanish painter, sculptor, printmaker, ceramicist and theatre designer The Arts "
 	},
 	{
+		title: "What makes an activity meaningful?",
+		date: "",
+    url: "quotes/what-makes-an-activity-meaningful.html",
+		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom Canadian American psychologist The Sweet Spot "
+	},
+	{
 		title: "Meaningful Activities",
 		date: "2021",
     url: "quotes/meaningful-activities.html",
@@ -2176,6 +2242,12 @@ let searchQuotes = [
 		date: "1990",
     url: "quotes/learning-from-experience.html",
 		content: "The most powerful learning comes from direct experience But what happens when we can no longer observe the consequences of our actions Herein lies the core <em>learning dilemma< em> that confronts organizations <em> we learn best from experience but we never directly experience the consequences of many of our most important decisions < em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades Peter Senge  The Fifth Discipline: The Art and Practice of the Learning Organization "
+	},
+	{
+		title: "The conquest of nature",
+		date: "1962",
+    url: "quotes/the-conquest-of-nature.html",
+		content: "Man has long talked somewhat arrogantly about the conquest of nature now he has the power to achieve his boast It is our misfortune it may well be our final tragedy that this power has not been tempered with wisdom but has been marked by irresponsibility that there is all too little awareness that man is part of nature and that the price of conquest may well be the destruction of man himself Rachel Carson American marine biologist, writer, and conservationist Rachel Carson Speech at Scripps College "
 	},
 	{
 		title: "A foolish consistency",
@@ -2374,6 +2446,12 @@ let searchQuotes = [
 		date: "1962",
     url: "quotes/the-more-they-yearned-for-omnipotence.html",
 		content: "Blackwell was a sad and troubled man hardly competent to play God with anybody s life But the sadder and more troubled they were the more they yearned for omnipotence The really troubled ones believed they had it Ross MacDonald Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar The Zebra-Striped Hearse "
+	},
+	{
+		title: "Moving across the city's great broken body",
+		date: "1968",
+    url: "quotes/moving-across-the-citys-great-broken-body.html",
+		content: "I had to admit to myself that I lived for nights like these moving across the city s great broken body making connections among its millions of cells I had a crazy wish or fantasy that some day before I died if I made all the right neural connections the citty would come all the way alive Like the Bride of Frankenstein Ross MacDonald Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar The Instant Enemy "
 	},
 	{
 		title: "Thinking should be generous and have a good appetite",
@@ -2589,7 +2667,7 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
@@ -2668,6 +2746,12 @@ let searchQuotes = [
 		date: "2016",
     url: "quotes/imagination-is-not-a-means-of-making-money.html",
 		content: "In America the imagination is generally looked on as something that might be useful when the TV is out of order Poetry and plays have no relation to practical politics Novels are for students housewives and other people who don t work Fantasy is for children and primitive peoples Literacy is so you can read the operating instructions I think the imagination is the single most useful tool mankind possesses It beats the opposable thumb I can imagine living without my thumbs but not without my imagination I hear voices agreeing with me Yes yes they cry The creative imagination is a tremendous plus in business We value creativity we reward it In the marketplace the word creativity has come to mean the generation of ideas applicable to practical strategies to make larger profits This reduction has gone on so long that the word creative can hardly be degraded further I don t use it any more yielding it to capitalists and academics to abuse as they like But they can t have imagination Imagination is not a means of making money It has no place in the vocabulary of profit making It is not a weapon though all weapons originate from it and their use or non use depends on it as with all tools and their uses The imagination is an essential tool of the mind a fundamental way of thinking an indispensable means of becoming and remaining human Ursula K. Le Guin  Words Are My Matter "
+	},
+	{
+		title: "To choose one's attitude",
+		date: "",
+    url: "quotes/to-choose-ones-attitude.html",
+		content: "Everything can be taken from a man but one thing the last of the human freedoms to choose one s attitude in any given set of circumstances to choose one s own way Victor Frankl Austrian Holocaust survivor, neurologist, psychiatrist and author  "
 	},
 	{
 		title: "Each man is questioned by life",
@@ -2917,7 +3001,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Seeking ways to disagree with myself",
-		date: "08 May 2018",
+		date: "2018-05-08",
     url: "quotes/seeking-ways-to-disagree-with-myself.html",
 		content: "It has allowed me to return to a long lost self who once wrote in peace and quiet doing what I have always loved finding ways to disagree with myself in order to discover what my true thoughts are Yanis Varoufakis Greek economist, academic, philosopher and politician Talking to My Daughter About the Economy: or, How Capitalism Works -- and How It Fails "
 	},

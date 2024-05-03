@@ -16,6 +16,7 @@ USA	usa.html	4	quotes	Every Third American	H. L. Mencken
 USA	usa.html	4	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
 USA	usa.html	4	quotes	Ism-mania	Robert Riskin
 USA	usa.html	4	quotes	The Makers of Things	Barack Obama
+USA	usa.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 USA	usa.html	4	quotes	We love America in a James Baldwin kind of way	Megan Rapinoe
 art	art.html	4	quotes	Art and Spirit	Ken Wilber
 art	art.html	4	quotes	Art has to transform life itself	Lawrence Ferlinghetti
@@ -32,11 +33,13 @@ art	art.html	4	quotes	Design is not Appearance	Milton Glaser
 art	art.html	4	quotes	The Divine Gift of Purely Nonsensical Speech and Action	Edmund Crispin
 art	art.html	4	quotes	The divine literatus	Walt Whitman
 art	art.html	4	quotes	Dreams Come True	John Updike
+art	art.html	4	quotes	The dullness of fact	Isaac Asimov
 art	art.html	4	quotes	Enemies of Art and Artist	Henry Miller
 art	art.html	4	quotes	Excitement from Art	Anthony Burgess
 art	art.html	4	quotes	God and Morality	Frans de Waal
 art	art.html	4	quotes	History as Postmodern Collage	Joe Boyd
 art	art.html	4	quotes	The Inner Life of the Artist	Edward Hopper
+art	art.html	4	quotes	Life is not like formula fiction	Anne Lamott
 art	art.html	4	quotes	Little I recognized as music	Joe Boyd
 art	art.html	4	quotes	The Loftiest and Purest Art	Walt Whitman
 art	art.html	4	quotes	A Long Conversation	Bruce Springsteen
@@ -80,6 +83,7 @@ balance	balance.html	4	quotes	When Growth Becomes a Supreme Good	Yuval Noah Hara
 balance	balance.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart
 change	change.html	4	quotes	Change is the one constant when it comes to culture	Wade Davis
 communication	communication.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
+communication	communication.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 connection	connection.html	4	quotes	The better angels of our nature	Abraham Lincoln
 connection	connection.html	4	quotes	By Gifts One Makes Slaves	Peter Freuchen
 connection	connection.html	4	quotes	The Challenge of Swing	Wynton Marsalis
@@ -99,6 +103,7 @@ connection	connection.html	4	quotes	Life is more like settling a sequence of vil
 connection	connection.html	4	quotes	Living in small groups has been baked into our psyches	David Sloan Wilson
 connection	connection.html	4	quotes	A Long Conversation	Bruce Springsteen
 connection	connection.html	4	quotes	Moral Sawdust	John Dickson Carr and Cecil Street
+connection	connection.html	4	quotes	Moving across the city's great broken body	Ross MacDonald
 connection	connection.html	4	quotes	No Philosophy of Family Life	David Brooks
 connection	connection.html	4	quotes	Nurturance is a master variable	David Sloan Wilson
 connection	connection.html	4	quotes	Only Connect	E. M. Forster
@@ -110,6 +115,7 @@ connection	connection.html	4	quotes	Public morality	Robert B. Reich
 connection	connection.html	4	quotes	The Rainbow Bridge	E. M. Forster
 connection	connection.html	4	quotes	A raving demagogue counseling hatred	Carl Sagan and Ann Druyan
 connection	connection.html	4	quotes	Records we made together in the sixties	Joe Boyd
+connection	connection.html	4	quotes	Sacred values	David R. Samson
 connection	connection.html	4	quotes	Selfish and contentious people will not cohere	Charles Darwin
 connection	connection.html	4	quotes	Single Garment of Destiny	Martin Luther King Jr.
 connection	connection.html	4	quotes	The Team, The Team, The Team	Bo Schembechler
@@ -118,6 +124,8 @@ connection	connection.html	4	quotes	The Third Place	Ray Oldenburg
 connection	connection.html	4	quotes	This dear fucked-up planet	Henry Miller
 connection	connection.html	4	quotes	To Give in the Same Measure	Albert Einstein
 connection	connection.html	4	quotes	The Tribe Drive	David R. Samson
+connection	connection.html	4	quotes	A tribe is a creed	David R. Samson
+connection	connection.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 connection	connection.html	4	quotes	The Web of Life	Ted Perry
 connection	connection.html	4	quotes	We must welcome the stranger	Bibi Bahrami
 connection	connection.html	4	quotes	We vastly underestimate the impact of our immediate environment on our behavior	Dave Mayer
@@ -165,6 +173,7 @@ critical thinking	critical-thinking.html	4	quotes	The point of modern propaganda
 critical thinking	critical-thinking.html	4	quotes	Politics and the Debasement of Language	George Orwell
 critical thinking	critical-thinking.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 critical thinking	critical-thinking.html	4	quotes	Public Truth	Robert B. Reich
+critical thinking	critical-thinking.html	4	quotes	Reversible vs. Irreversible Decisions	Jeff Bezos
 critical thinking	critical-thinking.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
 critical thinking	critical-thinking.html	4	quotes	Seeking ways to disagree with myself	Yanis Varoufakis
 critical thinking	critical-thinking.html	4	quotes	Six Impossible Things Before Breakfast	Lewis Carroll
@@ -440,6 +449,7 @@ imperfection	imperfection.html	4	quotes	Finish every day and be done with it	Ral
 imperfection	imperfection.html	4	quotes	Four Sentences that Lead to Wisdom	Louise Penny
 imperfection	imperfection.html	4	quotes	I learned a lot of things from failure	Brooks Robinson
 imperfection	imperfection.html	4	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
+imperfection	imperfection.html	4	quotes	Life is not like formula fiction	Anne Lamott
 imperfection	imperfection.html	4	quotes	Unbelievable Heroes	John Rogers
 individuals	individuals.html	4	quotes	All of us are trim tabs	Jeff Bridges
 individuals	individuals.html	4	quotes	Art is a Hammer	Bertolt Brecht
@@ -492,6 +502,7 @@ liberty	liberty.html	4	quotes	Every Third American	H. L. Mencken
 liberty	liberty.html	4	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
 liberty	liberty.html	4	quotes	Freedom of Expression in Business	Tom Peters and Robert H. Waterman Jr.
 liberty	liberty.html	4	quotes	Freedom of Judgment	Baruch Spinoza
+liberty	liberty.html	4	quotes	The heart of liberty	Anthony M. Kennedy
 liberty	liberty.html	4	quotes	Ignorant and Free	Thomas Jefferson
 liberty	liberty.html	4	quotes	Independence, freedom and opportunity for every member of society	Anu Partanen
 liberty	liberty.html	4	quotes	Inextricably Linked in Freedom	Wynton Marsalis
@@ -506,6 +517,7 @@ liberty	liberty.html	4	quotes	Peace with Justice	Dwight D. Eisenhower
 liberty	liberty.html	4	quotes	The Philosophy of Jazz	Wynton Marsalis
 liberty	liberty.html	4	quotes	Postel’s Law	Jon Postel
 liberty	liberty.html	4	quotes	Ten Commandments for Teachers	Bertrand Russell
+liberty	liberty.html	4	quotes	To choose one's attitude	Victor Frankl
 liberty	liberty.html	4	quotes	We don't even own suits	Apple
 liberty	liberty.html	4	quotes	The World is a Wonderfully Weird Place	Tom Robbins
 love	love.html	4	quotes	The cause which is blocking all progress	G. K. Chesterton
@@ -534,6 +546,8 @@ love	love.html	4	quotes	The World is a Wonderfully Weird Place	Tom Robbins
 meaning	meaning.html	4	quotes	Before I started school striking	Greta Thunberg
 meaning	meaning.html	4	quotes	Human life is complicated	Tyler Cowen
 meaning	meaning.html	4	quotes	Meaningful Activities	Paul Bloom
+meaning	meaning.html	4	quotes	We are here on Earth to fart around	Kurt Vonnegut
+meaning	meaning.html	4	quotes	What makes an activity meaningful?	Paul Bloom
 mission	mission.html	4	quotes	The axis is constructive-destructive	Steve Jobs
 mission	mission.html	4	quotes	Each man is questioned by life	Victor Frankl
 mission	mission.html	4	quotes	Ends for which We Live	Martin Luther King Jr.
@@ -753,6 +767,7 @@ value creation	value-creation.html	4	quotes	Work, Soul and Life	Albert Camus
 value creation	value-creation.html	4	quotes	Worshipping the divine right of capital	Tim O'Reilly
 value creation	value-creation.html	4	quotes	The yen to work drops in flat economies	Edward Luce
 value creation	value-creation.html	4	quotes	You have to create more than you consume	Jeff Bezos
+wisdom	wisdom.html	4	quotes	We must discover wisdom for ourselves	Marcel Proust
 wonder	wonder.html	4	quotes	Art and Spirit	Ken Wilber
 wonder	wonder.html	4	quotes	Bathing in mystery and confusion	Carl Sagan
 wonder	wonder.html	4	quotes	Competition is not separable from endless flavors of cooperation	Richard Powers

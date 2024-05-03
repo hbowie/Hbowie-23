@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>HBowie.net</title>
+	<subtitle>From the Desk of H. Bowie</subtitle>
+	<link rel="alternate" type="text/html" href="https://hbowie.net/"/>
+	<link rel="self" type="application/atom+xml" href="https://hbowie.net/feeds/micro/atom.xml"/>
+	<id>https://hbowie.net/feeds/micro/atom.xml</id>
+	<updated>2024-05-03T00:05:16Z</updated>
+	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
+	<entry>
+	  <title>Notenik 14.4.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.4.0-released"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <id>https://hbowie.net/micro/notenik-14.4.0-released</id>
+	  <published>2024-04-30T12:00:00Z</published>
+	  <updated>2024-05-01T01:51:21Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Notenik 14.4.0 is out, and is available for free from the Mac App Store. This release includes the following improvements: improved YAML parsing, for greater interoperability with Obsidian; a new option to sort a collection of notes by folder + seq + title; a new field type of page style, that can include special CSS to be applied to the display of a specific note; a new bulk edit option that can be used to modify several notes at once; a couple of bug fixes. </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Some Hard Truths About Human Population Growth</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/some-hard-truths-about-human-population-growth"/>
+	  <link rel="alternate" type="image/jpg" href="https://practopian.org/images/some-hard-truths-about-human-population-growth-istock.jpg.jpg"/>
+	  <id>https://hbowie.net/micro/some-hard-truths-about-human-population-growth</id>
+	  <published>2024-04-25T12:00:00Z</published>
+	  <updated>2024-05-01T01:33:57Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>In 1800, the total human population on our planet was only 1 billion people. It took 127 years for that number to double to 2 billion. But then it took only 33 years to add the next billion. Since then, we’ve been adding another billion every 11 - 14 years, and doubling our population about every fifty years. At this point, in 2024, we now have in excess of 8 billion people on our planet – and we’re adding another quarter million every day. </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 14.3.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.3.0-released"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <id>https://hbowie.net/micro/notenik-14.3.0-released</id>
+	  <published>2024-04-20T12:00:00Z</published>
+	  <updated>2024-05-01T01:15:20Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Notenik 14.3.0 is out today in the Mac App Store, including support for sub-folders. Happy for great support from the Notenik Discourse community in beta testing this latest release. More info at <a href="https://notenik.app." class="ext-link" target="_blank" rel="noopener">notenik.app.</a> </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 14.2.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.2.0-released"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <id>https://hbowie.net/micro/notenik-14.2.0-released</id>
+	  <published>2024-03-30T12:00:00Z</published>
+	  <updated>2024-05-01T01:17:32Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Version 14.2.0 of my open-source app Notenik is now available for free in the Mac App Store, with improved ability to show random, daily quotes from a commonplace book, as well as other improvements. </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 14.1.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.1.0-released"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <id>https://hbowie.net/micro/notenik-14.1.0-released</id>
+	  <published>2024-03-12T12:00:00Z</published>
+	  <updated>2024-05-01T01:20:32Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Notenik 14.1.0 is out, and available for free from the Mac App Store. This release adds a duration field, and an export to iCal option, both of which are included in the rewrite of the guidance on <a href="https://notenik.app/kb/using-notenik-as-a-travel-planner.html" class="ext-link" target="_blank" rel="noopener">Using Notenik as a Travel Planner</a>. Notenik might be best described as a Personal Information Utility. </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 14.0.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.0.0-released"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <id>https://hbowie.net/micro/notenik-14.0.0-released</id>
+	  <published>2024-02-27T12:00:00Z</published>
+	  <updated>2024-05-01T01:22:16Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Version 14.0.0 of my Mac app Notenik is out today, and available from the Mac App Store. A Notenik user recently posted a really good description of how Notenik differs from other (generally better-known) tools, and I suggest you <a href="https://discourse.notenik.app/t/why-notenik-vs-logseq-obsidian-or-devonthink/405/3?u=hbowie" class="ext-link" target="_blank" rel="noopener">read that</a> if you&apos;re wondering what it is that makes Notenik special. </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Reflections on the Christian Message</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/reflections-on-the-christian-message"/>
+	  <link rel="alternate" type="image/jpg" href="https://practopian.org/images/reflections-on-the-christian-message-lake-wanaga.jpg.jpg"/>
+	  <id>https://hbowie.net/micro/reflections-on-the-christian-message</id>
+	  <published>2023-12-04T12:00:00Z</published>
+	  <updated>2024-05-01T01:36:25Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>When I think of the overarching message of Christ, three central concepts stand out for me. </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 13.5.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-13.5.0-released"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <id>https://hbowie.net/micro/notenik-13.5.0-released</id>
+	  <published>2023-12-01T12:00:00Z</published>
+	  <updated>2024-05-01T01:24:23Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Another new version of Notenik out today: 13.5.0! Free and open-source, available through the Mac App Store. </p>
+
+<p>Also, coincidentally, I received a lovely post this morning on the Notenik Discourse Forum from a user talking about how he was making use of the app, entitled &quot;<a href="https://discourse.notenik.app/t/thank-you-for-producing-great-software/359" class="ext-link" target="_blank" rel="noopener">Thank you for producing great software</a>.&quot; </p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 13.4.0 Released</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-13.4.0-released"/>
+	  <id>https://hbowie.net/micro/notenik-13.4.0-released</id>
+	  <published>2023-11-18T12:00:00Z</published>
+	  <updated>2024-05-01T01:18:06Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Version 13.4.0 of Notenik (free and open source) is now available in the Mac App Store. Added &apos;Show in Finder&apos; for note files; added a script include command; improved the display of link fields.  <br />
+</p> ]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>They All Laughed</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/they-all-laughed"/>
+	  <link rel="alternate" type="image/jpg" href="https://hbowie.net/images/they-all-laughed-rogers-and-astaire.jpg"/>
+	  <id>https://hbowie.net/micro/they-all-laughed</id>
+	  <published>2023-11-02T12:00:00Z</published>
+	  <updated>2024-05-01T01:12:45Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+		</author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">>
+	  	<![CDATA[ <p>Published a little appreciation for the Gershwin song, &quot;They All Laughed.&quot; </p>
+
+<p>Available on <a href="https://hbowie.net/writings/they-all-laughed.html" class="ext-link" target="_blank" rel="noopener">HBowie.net</a> and also at the <a href="https://lexiconofsong.org" class="ext-link" target="_blank" rel="noopener">Lexicon of Song</a>. </p> ]]>
+	  </content>
+	</entry>
+</feed>
+<!-- THE END -->

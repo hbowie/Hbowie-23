@@ -31,11 +31,30 @@ hr {
 p {
 	margin-block-start: 0.5em; 
 }
-
+/*
 blockquote {
 	border-left: 1em solid #8b6854;
 	padding-left: 1em;
 	margin-left: 0;
+} */
+
+blockquote {
+    margin: 0.25em 0;
+    padding: 0.35em 40px;
+    line-height: 1.45;
+    position: relative;
+    /* color: #383838; */
+}
+
+blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #8b6854;
 }
 
 /* --------------------------------------------------
