@@ -27,6 +27,7 @@ Christmas	christmas.html	3	writings	Santa Claus is Coming to Town
 US politics	us-politics.html	3	writings	Why It's a Bad Time to be a Conservative	
 US politics	us-politics.html	3	writings	Welcome To The Autonomous States of America	
 US politics	us-politics.html	3	writings	The Progressive Problem	
+US politics	us-politics.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
 US politics	us-politics.html	3	writings	Calling for a US Sustainability Initiative	
 US politics	us-politics.html	3	writings	The MAGA Bubble Finally Bursts	
 US politics	us-politics.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
@@ -189,6 +190,7 @@ equality	equality.html	3	writings	Violence at the 94th Academy Awards
 equality	equality.html	3	writings	Undoing Trumpism	
 ethics	ethics.html	3	writings	Reflections on the Christian Message	
 ethics	ethics.html	3	writings	The Rotary Four-Way Test	
+ethics	ethics.html	3	writings	Ring Them Bells	Bob Dylan
 evil	evil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 evolution	evolution.html	3	writings	Evolution and Its Implications	
 evolution	evolution.html	3	writings	Human Nature	
@@ -199,6 +201,7 @@ freedom	freedom.html	3	writings	If I Had a Boat	Lyle Lovett
 god	god.html	3	writings	Quiet About It	Jesse Winchester
 god	god.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 god	god.html	3	writings	Reflections on the Christian Message	
+god	god.html	3	writings	Ring Them Bells	Bob Dylan
 governance	governance.html	3	writings	The Four Essential Attributes of any Organization	
 governance	governance.html	3	writings	Leadership and Followership: 21 Key Observations	
 governance	governance.html	3	writings	Patterns of Human Cooperation	
@@ -211,6 +214,7 @@ governance	governance.html	3	writings	Why Mandating 'X' Days a Week in the Offic
 governance	governance.html	3	writings	The Progressive Problem	
 governance	governance.html	3	writings	Kindness by Design	
 governance	governance.html	3	writings	Thinking about Abortion(s)	
+governance	governance.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
 governance	governance.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
 governance	governance.html	3	writings	The MAGA Bubble Finally Bursts	
 governance	governance.html	3	writings	The Widening Spiral of Modern Society	
@@ -244,6 +248,7 @@ humanism	humanism.html	3	writings	Religion, Storytelling and Art
 humanism	humanism.html	3	writings	Why I Call Myself a Practopian	
 humanism	humanism.html	3	writings	A Guide To Becoming	
 humanism	humanism.html	3	writings	A Resumption of our Humanity	
+humanism	humanism.html	3	writings	Ring Them Bells	Bob Dylan
 humanism	humanism.html	3	writings	Paul Thorn and his 800 Pound Jesus	
 humanism	humanism.html	3	writings	Christmas Favorites from The Practical Utopian	
 humanism	humanism.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
@@ -338,6 +343,7 @@ religion	religion.html	3	writings	Religious Freedom
 religion	religion.html	3	writings	Reasons for Belief	
 religion	religion.html	3	writings	Reflections on the Christian Message	
 religion	religion.html	3	writings	Why I Call Myself a Practopian	
+religion	religion.html	3	writings	Ring Them Bells	Bob Dylan
 religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	
 religion	religion.html	3	writings	What Christmas Means to Me	
 religion	religion.html	3	writings	The Rebel Jesus - Song by Jackson Browne	

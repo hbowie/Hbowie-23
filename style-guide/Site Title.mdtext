@@ -1,0 +1,23 @@
+Title:  Site Title
+
+Seq:    1.1
+
+Level:  3
+
+HTML Tag: h1
+
+Font-Family: "triplicate_b", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+Font-Size: 1.6rem;
+
+Font-Style: normal
+
+Border-Bottom: border-bottom: 2px solid;
+
+Body:
+
+This is some variation of the following:
+
+> from the desk of H. Bowie...
+
+

@@ -8,6 +8,7 @@ Software Development.Agility	software-development.agility.html	4	quotes	Rough co
 TecFiction	tecfiction.html	4	quotes	An Irreplaceable Compact	Edmund Crispin
 US Politics	us-politics.html	4	quotes	Bringing the worldview associated with sports-talk radio to politics	Jim Geraghty
 US Politics	us-politics.html	4	quotes	The post-materialist turn in global politics	Ezra Klein
+USA	usa.html	4	quotes	Bargaining away the experience of being alive	Mike Nichols
 USA	usa.html	4	quotes	A Coke is a Coke	Andy Warhol
 USA	usa.html	4	quotes	The Credibility of a Comedian	Jon Stewart
 USA	usa.html	4	quotes	The Cult of Ignorance	Isaac Asimov
@@ -18,6 +19,7 @@ USA	usa.html	4	quotes	Ism-mania	Robert Riskin
 USA	usa.html	4	quotes	The Makers of Things	Barack Obama
 USA	usa.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 USA	usa.html	4	quotes	We love America in a James Baldwin kind of way	Megan Rapinoe
+aging	aging.html	4	quotes	On Turning Eighty	Henry Miller
 art	art.html	4	quotes	Art and Spirit	Ken Wilber
 art	art.html	4	quotes	Art has to transform life itself	Lawrence Ferlinghetti
 art	art.html	4	quotes	Art is a Hammer	Bertolt Brecht
@@ -69,6 +71,7 @@ art	art.html	4	quotes	We All Derive From the Same Source	Henry Miller
 art	art.html	4	quotes	Why People Sing	Linda Ronstadt
 art	art.html	4	quotes	Words that are empowered that make your hair stand on end	Allen Ginsberg
 art	art.html	4	quotes	The world is failing precisely because	Richard Powers
+autonomy	autonomy.html	4	quotes	Three basic forms of social liberty	David Graeber and David Wengrow
 balance	balance.html	4	quotes	Balance is Required to Maintain Democracy	Wynton Marsalis
 balance	balance.html	4	quotes	A Completely Free Market	Yuval Noah Harari
 balance	balance.html	4	quotes	Consistency is the playground of dull minds	Yuval Noah Harari
@@ -84,6 +87,7 @@ balance	balance.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart
 change	change.html	4	quotes	Change is the one constant when it comes to culture	Wade Davis
 communication	communication.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 communication	communication.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
+community	community.html	4	quotes	An assembly that meshes over a specific problem	John Summers
 connection	connection.html	4	quotes	The better angels of our nature	Abraham Lincoln
 connection	connection.html	4	quotes	By Gifts One Makes Slaves	Peter Freuchen
 connection	connection.html	4	quotes	The Challenge of Swing	Wynton Marsalis
@@ -123,6 +127,7 @@ connection	connection.html	4	quotes	Think globally, act locally	Disputed
 connection	connection.html	4	quotes	The Third Place	Ray Oldenburg
 connection	connection.html	4	quotes	This dear fucked-up planet	Henry Miller
 connection	connection.html	4	quotes	To Give in the Same Measure	Albert Einstein
+connection	connection.html	4	quotes	To refuse Apocalypse in all its forms	Leif Enger
 connection	connection.html	4	quotes	The Tribe Drive	David R. Samson
 connection	connection.html	4	quotes	A tribe is a creed	David R. Samson
 connection	connection.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
@@ -132,6 +137,7 @@ connection	connection.html	4	quotes	We vastly underestimate the impact of our im
 connection	connection.html	4	quotes	You have your position because of the events of history	Martin Luther King Jr.
 critical thinking	critical-thinking.html	4	quotes	Belief in Impossible Things	Tom DeMarco and Timothy Lister
 critical thinking	critical-thinking.html	4	quotes	Belief is the end of Observation	Milton Glaser
+critical thinking	critical-thinking.html	4	quotes	Be more curious about ideas	Marie Curie
 critical thinking	critical-thinking.html	4	quotes	Capitalism as a Market Society	Yanis Varoufakis
 critical thinking	critical-thinking.html	4	quotes	The Celestial Teapot	Bertrand Russell
 critical thinking	critical-thinking.html	4	quotes	The Columbia Disaster	Dennis Stauffer
@@ -300,6 +306,7 @@ diversity	diversity.html	4	quotes	Public morality	Robert B. Reich
 diversity	diversity.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
 diversity	diversity.html	4	quotes	Ten Commandments for Teachers	Bertrand Russell
 diversity	diversity.html	4	quotes	We don't even own suits	Apple
+economics	economics.html	4	quotes	Economies that enable us to thrive	Kate Raworth
 education	education.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 education	education.html	4	quotes	Conscious Improvement for the Masses	Edward Luce
 education	education.html	4	quotes	Cost of Education	Derek Bok
@@ -482,6 +489,7 @@ individuals	individuals.html	4	quotes	The Undisputed Sovereignty of the Human Be
 individuals	individuals.html	4	quotes	Vital and Significant Forms of Art	Raymond Chandler
 individuals	individuals.html	4	quotes	We All Derive From the Same Source	Henry Miller
 individuals	individuals.html	4	quotes	Wriggling	E. M. Forster
+integral	integral.html	4	quotes	An assembly that meshes over a specific problem	John Summers
 integral	integral.html	4	quotes	The Beautiful, the Good and the True	Ken Wilber
 integral	integral.html	4	quotes	A book is a man's best friend	Groucho Marx
 integral	integral.html	4	quotes	Everybody Has Some Important Pieces of the Truth	Ken Wilber
@@ -492,6 +500,7 @@ integral	integral.html	4	quotes	Mastery of Inner and Outer Worlds	Carl Jung
 integral	integral.html	4	quotes	Only Connect	E. M. Forster
 integral	integral.html	4	quotes	The Rainbow Bridge	E. M. Forster
 integral	integral.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
+integral	integral.html	4	quotes	Superstition is not mere intellectual error	Edmund Crispin
 integral	integral.html	4	quotes	Technology married with the humanities	Steve Jobs
 integral	integral.html	4	quotes	We are idealists and we are realists	Alan Lightman
 liberty	liberty.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
@@ -597,6 +606,7 @@ progress	progress.html	4	quotes	Changing the World	Margaret Mead
 progress	progress.html	4	quotes	Conservatives and Progressives	G. K. Chesterton
 progress	progress.html	4	quotes	Critical Thinking Followed by Action	Dalai Lama
 progress	progress.html	4	quotes	Daily Acts of Trivia	Robert Heinlein
+progress	progress.html	4	quotes	Economies that enable us to thrive	Kate Raworth
 progress	progress.html	4	quotes	Faster Horses	Henry Ford
 progress	progress.html	4	quotes	A Happy Man	Albert Einstein
 progress	progress.html	4	quotes	I Dream Things That Never Were	George Bernard Shaw
@@ -622,6 +632,7 @@ progress	progress.html	4	quotes	You are going to have to make it different	Jacob
 property	property.html	4	quotes	National parks and reserves	John F. Kennedy
 reciprocity	reciprocity.html	4	quotes	By Gifts One Makes Slaves	Peter Freuchen
 religion	religion.html	4	quotes	The Celestial Teapot	Bertrand Russell
+religion	religion.html	4	quotes	A church you could bear	Leif Enger
 religion	religion.html	4	quotes	God and Morality	Frans de Waal
 religion	religion.html	4	quotes	Her faith had twisted very early in her childhood	Lauren Groff
 religion	religion.html	4	quotes	If triangles had a god	Montesquieu
@@ -669,6 +680,7 @@ society	society.html	4	quotes	The economy is too important to leave to the econo
 society	society.html	4	quotes	The eternal struggle between good and evil	David Sloan Wilson
 society	society.html	4	quotes	Flexible cooperation with strangers	Yuval Noah Harari
 society	society.html	4	quotes	Freedom of Judgment	Baruch Spinoza
+society	society.html	4	quotes	The freedom to enact other forms of social existence	David Graeber and David Wengrow
 society	society.html	4	quotes	Frivolous and fanciful distinctions	James Madison
 society	society.html	4	quotes	The great primeval contract of eternal society	Edmund Burke
 society	society.html	4	quotes	The group of people that you would both help feed and help defend	Sebastian Junger
@@ -723,6 +735,7 @@ sustainability	sustainability.html	4	quotes	Managing our planetary household	Kat
 sustainability	sustainability.html	4	quotes	A Planet-Sized Problem	E. O. Wilson
 sustainability	sustainability.html	4	quotes	Quality of Children vs. Quantity	Margaret Mead
 sustainability	sustainability.html	4	quotes	Unprecedented growth in human power	Yuval Noah Harari
+sustainability	sustainability.html	4	quotes	Your generation must come to terms with the environment	Rachel Carson
 systemic	systemic.html	4	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
 systemic	systemic.html	4	quotes	Capitalism as a Market Society	Yanis Varoufakis
 systemic	systemic.html	4	quotes	Competition is not separable from endless flavors of cooperation	Richard Powers
@@ -770,12 +783,14 @@ value creation	value-creation.html	4	quotes	You have to create more than you con
 wisdom	wisdom.html	4	quotes	We must discover wisdom for ourselves	Marcel Proust
 wonder	wonder.html	4	quotes	Art and Spirit	Ken Wilber
 wonder	wonder.html	4	quotes	Bathing in mystery and confusion	Carl Sagan
+wonder	wonder.html	4	quotes	A burst of astonishment at our own existence	G. K. Chesterton
 wonder	wonder.html	4	quotes	Competition is not separable from endless flavors of cooperation	Richard Powers
 wonder	wonder.html	4	quotes	Dreams Come True	John Updike
 wonder	wonder.html	4	quotes	Finish every day and be done with it	Ralph Waldo Emerson
 wonder	wonder.html	4	quotes	The Golden Eternity	Jack Kerouac
 wonder	wonder.html	4	quotes	The Half-Finished Heaven	Tomas Tranströmer
 wonder	wonder.html	4	quotes	A mind is blown	Michael Chabon
+wonder	wonder.html	4	quotes	A miraculous world	G. K. Chesterton
 wonder	wonder.html	4	quotes	The Mysterious	Albert Einstein
 wonder	wonder.html	4	quotes	Mysticism has kept men sane	G. K. Chesterton
 wonder	wonder.html	4	quotes	The original naiveté	Henri Matisse

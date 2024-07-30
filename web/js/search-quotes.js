@@ -36,6 +36,12 @@ let searchQuotes = [
 		content: "Labor is prior to and independent of capital Capital is only the fruit of labor and could never have existed if labor had not first existed Labor is the superior of capital and deserves much the higher consideration Abraham Lincoln American statesman and lawyer Speech to Congress "
 	},
 	{
+		title: "Computer Errors",
+		date: "1968",
+    url: "quotes/computer-errors.html",
+		content: "I know there s a proverb which says To err is human but a human error is nothing to what a computer can do if it tries Agatha Christie  Halloween Party "
+	},
+	{
 		title: "Simple things should be simple, complex things should be possible",
 		date: "",
     url: "quotes/simple-things-should-be-simple-complex-things-should-be-possible.html",
@@ -660,10 +666,22 @@ let searchQuotes = [
 		content: "But there are all different kinds of freedom and the kind that is most precious you will not hear much talked about in the great outside world of winning and achieving and displaying The really important kind of freedom involves attention and awareness and discipline and effort and being able truly to care about other people and to sacrifice for them over and over in myriad petty little unsexy ways every day That is real freedom The alternative is unconsciousness the default setting the rat race the constant gnawing sense of having had and lost some infinite thing David Foster Wallace American author of novels, short stories and essays Commencement Address at Kenyon College "
 	},
 	{
+		title: "The freedom to enact other forms of social existence",
+		date: "2021",
+    url: "quotes/the-freedom-to-enact-other-forms-of-social-existence.html",
+		content: "If something did go terribly wrong in human history and given the current state of the world it s hard to deny something did then perhaps it began to go wrong precisely when people started losing that freedom to imagine and enact other forms of social existence to such a degree that some now feel this particular type of freedom hardly even existed or was barely exercised for the greater part of human history David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
+	},
+	{
 		title: "Many humans just don't like their families",
 		date: "2021",
     url: "quotes/many-humans-just-dont-like-their-families.html",
 		content: "There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship many humans just don t like their families very much And this appears to be just as true of present day hunter gatherers as anybody else Many seem to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
+	},
+	{
+		title: "Three basic forms of social liberty",
+		date: "2021",
+    url: "quotes/three-basic-forms-of-social-liberty.html",
+		content: "But for us the key point to remember is that we are not talking here about freedom as an abstract ideal or formal principle as in Liberty Equality and Fraternity Over the course of these pages we have instead talked about basic forms of social liberty which one might actually put into practice 1 the freedom to move away or relocate from one s surroundings 2 the freedom to ignore or disobey commands issued by others and 3 the freedom to shape entirely new social realities or shift back and forth between different ones David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
 	},
 	{
 		title: "Very large social units are imaginary",
@@ -711,7 +729,7 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
@@ -729,7 +747,7 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -741,13 +759,13 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -759,37 +777,37 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -928,6 +946,18 @@ let searchQuotes = [
 		date: "1947",
     url: "quotes/all-must-be-held-valuable-or-none.html",
 		content: " But none of us has the right to assess the value of a human existence All must be held valuable or none The death of Christ and the death of Socrates Fen added dryly suggest that our judgments are scarcely infallible And the evil of Nazism lay precisely in this that a group of men began to differentiate between the value of their fellow beings and to act on their conclusions It isn t a habit which I for one would like to encourage Edmund Crispin British mystery author Swan Song "
+	},
+	{
+		title: "Mistrust of experts",
+		date: "1950",
+    url: "quotes/mistrust-of-experts.html",
+		content: "Mistrust of experts in spite of all that the apologists for technocracy can advance against it is deeply rooted in the English character and Fen whose habit of mind was not cosmopolitan shared in it abundantly Edmund Crispin British mystery author Sudden Vengeance "
+	},
+	{
+		title: "Superstition is not mere intellectual error",
+		date: "1950",
+    url: "quotes/superstition-is-not-mere-intellectual-error.html",
+		content: "Superstition is not mere intellectual error it is a part of the emotional life and the worldly wise who suppress it do so at the risk of impoverishing their souls an eventuality which for the most part they do not succeed in avoiding Edmund Crispin British mystery author Sudden Vengeance "
 	},
 	{
 		title: "The Inner Life of the Artist",
@@ -1102,6 +1132,18 @@ let searchQuotes = [
 		date: "1888",
     url: "quotes/a-why-to-live.html",
 		content: "He who has a why to live can bear almost any how Friedrich Nietzsche German philosopher Twilight of the Idols "
+	},
+	{
+		title: "A burst of astonishment at our own existence",
+		date: "",
+    url: "quotes/a-burst-of-astonishment-at-our-own-existence.html",
+		content: "No man knows how much he is an optimist even when he calls himself a pessimist because he has not really measured the depths of his debt to whatever created him and enabled him to call himself anything At the back of our brains there is a forgotten blaze or burst of astonishment at our own existence The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder so that a man sitting in a chair might suddenly understand that he is actually alive and be happy G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic  "
+	},
+	{
+		title: "A miraculous world",
+		date: "",
+    url: "quotes/a-miraculous-world.html",
+		content: "What was wonderful about childhood is that anything in it was a wonder It was not merely a world full of miracles it was a miraculous world G. K. Chesterton English writer, philosopher, lay theologian, and literary and art critic  "
 	},
 	{
 		title: "No true patriot",
@@ -1282,6 +1324,12 @@ let searchQuotes = [
 		date: "1964",
     url: "quotes/we-all-derive-from-the-same-source.html",
 		content: "Every day we slaughter our finest impulses That is why we get a heartache when we read those lines written by the hand of a master and recognize them as our own as the tender shoots which we stifled because we lacked the faith to believe in our own powers our own criterion of truth and beauty Every man when he gets quiet when he becomes desperately honest with himself is capable of uttering profound truths We all derive from the same source there is no mystery about the origin of things We are all part of creation all kings all poets all musicians we have only to open up only to discover what is already there Henry Miller American writer and artist Henry Miller on Writing "
+	},
+	{
+		title: "On Turning Eighty",
+		date: "1972",
+    url: "quotes/on-turning-eighty.html",
+		content: "If at eighty you re not a cripple or an invalid if you have your health if you still enjoy a good walk a good meal with all the trimmings if you can sleep without first taking a pill if birds and flowers mountains and sea still inspire you you are a most fortunate individual and you should get down on your knees morning and night and thank the good Lord for his savin and keepin power If you are young in years but already weary in spirit already on the way to becoming an automaton it may do you good to say to your boss under your breath of course Fuck you Jack You don t own me If you can fall in love again and again if you can forgive your parents for the crime of bringing you into the world if you are content to get nowhere just take each day as it comes if you can forgive as well as forget if you can keep from growing sour surly bitter and cynical man you ve got it half licked Henry Miller American writer and artist On Turning Eighty "
 	},
 	{
 		title: "Capitalists who worship only at the feet of capitalism",
@@ -1575,7 +1623,7 @@ let searchQuotes = [
 		title: "Climate Changers",
 		date: "2006",
     url: "quotes/climate-changers.html",
-		content: "We urgently need to stabilise and reduce human numbers There is no way that a population of nine billion the UN s medium forecast for 2050 can meet its energy needs without unacceptable damage to the planet and a great deal of human misery We need to think about climate changers human beings and their numbers as well as climate change It is the elephant in the room that nobody wants to talk about Unless we reduce the human population humanely through family planning nature will do it for us through violence epidemics or starvation John Guillebaud  The Independent "
+		content: "We urgently need to stabilise and reduce human numbers There is no way that a population of nine billion the UN s medium forecast for 2050 can meet its energy needs without unacceptable damage to the planet and a great deal of human misery We need to think about climate changers human beings and their numbers as well as climate change It is the elephant in the room that nobody wants to talk about Unless we reduce the human population humanely through family planning nature will do it for us through violence epidemics or starvation John Guillebaud Emeritus Professor of Family Planning and Reproductive Health at University College London The Independent "
 	},
 	{
 		title: "Conventional Views",
@@ -1642,6 +1690,12 @@ let searchQuotes = [
 		date: "1848",
     url: "quotes/the-increase-of-wealth-is-not-boundless.html",
 		content: "The increase of wealth is not boundless A stationary condition of capital and population implies no stationary state of human improvement There would be as much scope as ever for all kinds of mental culture and moral and social progress as much room for improving the art of living and much more likelihood of it being improved when minds ceased to be engrossed by the art of getting on John Stuart Mill English philosopher, political economist, Member of Parliament (MP) and civil servant  "
+	},
+	{
+		title: "An assembly that meshes over a specific problem",
+		date: "2024-05-24",
+    url: "quotes/an-assembly-that-meshes-over-a-specific-problem.html",
+		content: "To manifest possibility in the zone of dialogical imagination David Graeber learned there was no need to persuade everybody to agree on every issue You don t even want to achieve ideological uniformity he averred An assembly that meshes over a definition of a specific problem and a commitment to a specific course of action forms a community of purpose without a community of definition The rules of discourse can support a revisable consensus Do not blow up minor moral differences into mortal threats Do extend the benefit of the doubt Do not reduce perspectives to a juxtaposition of opposite extremes Do look for zones of affinity If such rules do not yield a creative synthesis that everybody can accept then the rules can change Deliberative assemblies when properly facilitated encompass a plurality of perspectives from a perspective that refuses to impose itself as a worldview The crux is that everybody gets a say John Summers  David Graeber’s Magic Words "
 	},
 	{
 		title: "Prime training for permanent underclasses",
@@ -1714,6 +1768,12 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/managing-our-planetary-household.html",
 		content: "The word economics was coined by the philosopher Xenophon in Ancient Greece Combining oikos meaning household with nomos meaning rules or norms he invented the art of household management and it could not be more relevant today This century we need some pretty insightful managers to guide our planetary household and ones who are ready to pay attention to the needs of all of its inhabitants Kate Raworth English economist Doughnut Economics: 7 Ways to Think Like a 21st Century Economist "
+	},
+	{
+		title: "Economies that enable us to thrive",
+		date: "2024-05-13",
+    url: "quotes/economies-that-enable-us-to-thrive.html",
+		content: "Instead of pursuing endless growth it is time to pursue wellbeing for all people as part of a thriving world with policymaking that is designed in the service of this goal This results in a very different conception of progress in the place of endless growth we seek a dynamic balance one that aims to meet the essential needs of every person while protecting the life supporting systems of our planetary home And since we are the inheritors of economies that need to grow whether or not they make us thrive a critical challenge in high income countries is to create economies that enable us to thrive whether or not they grow Kate Raworth English economist What does progress look like on a planet at its limit? "
 	},
 	{
 		title: "Diversity Helps Your Business -- But Not The Way You Think",
@@ -1860,6 +1920,18 @@ let searchQuotes = [
 		content: "An unholy alliance between wealthy plutocrats practitioners of white identity politics and religious ideologues has produced a reactionary conservative party and they re systematically rigging the rules to keep themselves in power Leah Greenberg and Ezra Levin  We Are Indivisible "
 	},
 	{
+		title: "A church you could bear",
+		date: "2024",
+    url: "quotes/a-church-you-could-bear.html",
+		content: "We stayed with the blues and Francie sensing a vein of covenant sang in her scratchiest aching voice the reason we cajoled her into the band to start with and it began to resemble what I once imagined church might be like a church you could bear where people laughed and enjoyed each other and did not care if they were right all the time or if other people were wrong Leif Enger American author I Cheerfully Refuse "
+	},
+	{
+		title: "To refuse Apocalypse in all its forms",
+		date: "2024",
+    url: "quotes/to-refuse-apocalypse-in-all-its-forms.html",
+		content: "She said the church was a broken compass That our job always and forever was to refuse Apocalypse in all its forms and work cheerfully against it Leif Enger American author I Cheerfully Refuse "
+	},
+	{
 		title: "Our Reply to Violence",
 		date: "",
     url: "quotes/our-reply-to-violence.html",
@@ -1954,6 +2026,12 @@ let searchQuotes = [
 		date: "1952",
     url: "quotes/merely-thoroughly-outrageous.html",
 		content: "He made the discovery with a certain amount of relief since it took him at least out of the region of pure fantasy and into the merely thoroughly outrageous with which as a modern he was by now more or less familiar Margery Allingham English mystery novelist The Tiger in the Smoke "
+	},
+	{
+		title: "Be more curious about ideas",
+		date: "1937",
+    url: "quotes/be-more-curious-about-ideas.html",
+		content: "Be less curious about people and more curious about ideas Marie Curie Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity  "
 	},
 	{
 		title: "Do the Right Thing",
@@ -2124,6 +2202,12 @@ let searchQuotes = [
 		content: "Search for what is good and strong and beautiful in your society and elaborate from there Push outward Always create from what you already have Then you will know what to do Michel Foucault  unknown "
 	},
 	{
+		title: "Bargaining away the experience of being alive",
+		date: "1968",
+    url: "quotes/bargaining-away-the-experience-of-being-alive.html",
+		content: "That seems to me the great American danger we re all in that we ll bargain away the experience of being alive for the appearance of it Mike Nichols   "
+	},
+	{
 		title: "Belief is the end of Observation",
 		date: "27 Jun 2020",
     url: "quotes/belief-is-the-end-of-observation.html",
@@ -2250,6 +2334,12 @@ let searchQuotes = [
 		content: "Man has long talked somewhat arrogantly about the conquest of nature now he has the power to achieve his boast It is our misfortune it may well be our final tragedy that this power has not been tempered with wisdom but has been marked by irresponsibility that there is all too little awareness that man is part of nature and that the price of conquest may well be the destruction of man himself Rachel Carson American marine biologist, writer, and conservationist Rachel Carson Speech at Scripps College "
 	},
 	{
+		title: "Your generation must come to terms with the environment",
+		date: "1962-06",
+    url: "quotes/your-generation-must-come-to-terms-with-the-environment.html",
+		content: "The stream of time moves forward and mankind moves with it Your generation must come to terms with the environment You must face realities instead of taking refuge in ignorance and evasion of truth Yours is a grave and sobering responsibility but it is also a shining opportunity You go out into a world where mankind is challenged as it has never been challenged before to prove its maturity and its mastery not of nature but of itself Therein lies our hope and our destiny Rachel Carson American marine biologist, writer, and conservationist 1962 Commencement Address at Scripps College "
+	},
+	{
 		title: "A foolish consistency",
 		date: "1841",
     url: "quotes/a-foolish-consistency.html",
@@ -2307,7 +2397,7 @@ let searchQuotes = [
 		title: "Most advertising an insane irrelevance",
 		date: "1961",
     url: "quotes/most-advertising-an-insane-irrelevance.html",
-		content: "It is often said that our society is too materialist and that advertising reflects this But it seems to me that in this respect our society is quite evidently not materialist enough and that this paradoxically is the result of a failure in social meaning values and ideals If we were sensibly materialist in that part of our living in which we use things we should find most advertising to be of an insane irrelevance Beer would be enough for us without the additional promise that in drinking it we show ourselves to be manly young in heart or neighborly A washing machine would be a useful machine to wash clothes rather than an indication that we are forward looking or an object of envy to our neighbors Raymond Williams  New Left Review "
+		content: "It is often said that our society is too materialist and that advertising reflects this But it seems to me that in this respect our society is quite evidently not materialist enough and that this paradoxically is the result of a failure in social meaning values and ideals If we were sensibly materialist in that part of our living in which we use things we should find most advertising to be of an insane irrelevance Beer would be enough for us without the additional promise that in drinking it we show ourselves to be manly young in heart or neighborly A washing machine would be a useful machine to wash clothes rather than an indication that we are forward looking or an object of envy to our neighbors Raymond Williams Welsh socialist writer, academic, novelist and critic influential within the New Left New Left Review "
 	},
 	{
 		title: "Wonderment is the first passion of all",
@@ -2451,7 +2541,7 @@ let searchQuotes = [
 		title: "Moving across the city's great broken body",
 		date: "1968",
     url: "quotes/moving-across-the-citys-great-broken-body.html",
-		content: "I had to admit to myself that I lived for nights like these moving across the city s great broken body making connections among its millions of cells I had a crazy wish or fantasy that some day before I died if I made all the right neural connections the citty would come all the way alive Like the Bride of Frankenstein Ross MacDonald Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar The Instant Enemy "
+		content: "I had to admit to myself that I lived for nights like these moving across the city s great broken body making connections among its millions of cells I had a crazy wish or fantasy that some day before I died if I made all the right neural connections the city would come all the way alive Like the Bride of Frankenstein Ross MacDonald Ross Macdonald is the main pseudonym that was used by the American-Canadian writer of crime fiction Kenneth Millar The Instant Enemy "
 	},
 	{
 		title: "Thinking should be generous and have a good appetite",
@@ -2661,7 +2751,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",
@@ -2673,13 +2763,13 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
