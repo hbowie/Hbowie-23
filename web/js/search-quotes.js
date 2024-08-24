@@ -567,7 +567,7 @@ let searchQuotes = [
 		title: "Quality Matters",
 		date: "2011",
     url: "quotes/quality-matters.html",
-		content: "Quality matters and much of the evidence suggests that while developing countries are encouraging and fostering meritocracy their Western rivals are increasingly approaching academe with an egalitarian flare more access of course with the benefit of widening educational opportunity even if at the expense of quality Dambisa Moyo  How the West was Lost "
+		content: "Quality matters and much of the evidence suggests that while developing countries are encouraging and fostering meritocracy their Western rivals are increasingly approaching academe with an egalitarian flare more access of course with the benefit of widening educational opportunity even if at the expense of quality Dambisa Moyo A Zambian-born economist and author, known for her analysis of macroeconomics and global affairs How the West was Lost "
 	},
 	{
 		title: "That community asks for and gets chaos",
@@ -603,7 +603,7 @@ let searchQuotes = [
 		title: "Torturing the Data",
 		date: "1954",
     url: "quotes/torturing-the-data.html",
-		content: "If you torture the data long enough it will confess to anything Darrell Huff  How to Lie With Statistics "
+		content: "If you torture the data long enough it will confess to anything Darrell Huff American writer How to Lie With Statistics "
 	},
 	{
 		title: "Thinking's a Dizzy Business",
@@ -627,19 +627,19 @@ let searchQuotes = [
 		title: "Life is a series of daring adventures from a secure base",
 		date: "March 3, 2017",
     url: "quotes/life-is-a-series-of-daring-adventures-from-a-secure-base.html",
-		content: "Human development research offers a different formula All of life is a series of daring adventures from a secure base If government can create a framework in which people grow up amid healthy families nurturing schools thick communities and a secure safety net then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy David Brooks  Trumpism at Its Best, Straight Up "
+		content: "Human development research offers a different formula All of life is a series of daring adventures from a secure base If government can create a framework in which people grow up amid healthy families nurturing schools thick communities and a secure safety net then they will have the resources and audacity to thrive in a free global economy and a diversifying skills economy David Brooks A Canadian-born American conservative political and cultural commentator who writes for *The New York Times* Trumpism at Its Best, Straight Up "
 	},
 	{
 		title: "Life is more like settling a sequence of villages",
 		date: "28 May 2018",
     url: "quotes/life-is-more-like-settling-a-sequence-of-villages.html",
-		content: "Life is not really an individual journey Life is more like settling a sequence of villages You help build a community at home at work in your town and then you go off and settle more villages David Brooks  The Strange Failure of the Educated Elite "
+		content: "Life is not really an individual journey Life is more like settling a sequence of villages You help build a community at home at work in your town and then you go off and settle more villages David Brooks A Canadian-born American conservative political and cultural commentator who writes for *The New York Times* The Strange Failure of the Educated Elite "
 	},
 	{
 		title: "No Philosophy of Family Life",
 		date: "March 2020",
     url: "quotes/no-philosophy-of-family-life.html",
-		content: "In other words while social conservatives have a philosophy of family life they can t operationalize because it no longer is relevant progressives have no philosophy of family life at all because they don t want to seem judgmental The sexual revolution has come and gone and it s left us with no governing norms of family life no guiding values no articulated ideals On this most central issue our shared culture often has nothing relevant to say and so for decades things have been falling apart David Brooks  The Nuclear Family was a Mistake "
+		content: "In other words while social conservatives have a philosophy of family life they can t operationalize because it no longer is relevant progressives have no philosophy of family life at all because they don t want to seem judgmental The sexual revolution has come and gone and it s left us with no governing norms of family life no guiding values no articulated ideals On this most central issue our shared culture often has nothing relevant to say and so for decades things have been falling apart David Brooks A Canadian-born American conservative political and cultural commentator who writes for *The New York Times* The Nuclear Family was a Mistake "
 	},
 	{
 		title: "Symbolic Language",
@@ -729,7 +729,7 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
@@ -741,13 +741,13 @@ let searchQuotes = [
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -759,13 +759,13 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -777,7 +777,7 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
@@ -789,19 +789,19 @@ let searchQuotes = [
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",

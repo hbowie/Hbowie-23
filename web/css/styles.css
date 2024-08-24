@@ -68,6 +68,25 @@ blockquote:before {
     color: #8b6854;
 }
 
+.quote-from {
+	margin-block-start: 0.1rem;
+	margin-block-end: 0.5rem;
+	margin: 0.1rem 0 0.5rem 0;
+	padding: 0.25rem 40px;
+	line-height: 1.45;
+	position: relative;
+	/* color: #383838; */
+}
+
+.quote-from:before {
+	display: block;
+	padding-left: 10px;
+	content: "\2014";
+	position: absolute;
+	left: 0;
+	/* color: #8b6854; */
+}
+
 /* --------------------------------------------------
 
 	Headings
@@ -211,6 +230,20 @@ img.micro-image {
 	margin-top: 0.5em;
 }
 
+.rounded {
+	border-radius: .25rem;
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+.image-credit {
+	text-align: center;
+	font-size: 0.9rem;
+}
+
 /* --------------------------------------------------
 
 	Tables
@@ -250,8 +283,23 @@ td {
 
 * -------------------------------------------------- */
 
-.readmore {
+a.readmore {
+	display: inline-block;
 	float: left;
+	padding: 8px 16px;
+	background-color: #ac7a59;
+	color: #493734;
+	text-align: center;
+	text-decoration: none;
+	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	border-radius: 8px;
+	border: 0;
+}
+
+a.readmore:hover {
+	background-color: #ac7a59;
+	text-decoration: none;
 }
 
 .pubdate {

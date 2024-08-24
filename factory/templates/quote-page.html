@@ -30,23 +30,22 @@
 					=$body&o$=
 				</blockquote>
 
-				<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
-
+				<p class="quote-from"><a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=
 <?if "=$knownworktitle$=" ?>
-				<p>From =$theworktypeslug$=
+						from =$the-work-type-slug$=
 <?if "=$worklink$=" ?>
-					<a href="=$worklink$=" class="ext-link" target="_blank" rel="noopener">
+						<a href="=$worklink$=" class="ext-link" target="_blank" rel="noopener">
 <?endif?>
 <?if =$majorwork$= eq true ?>
-					<cite>=$worktitle$=</cite>
+							<cite>=$work-title$=</cite>
 <?else?>
-					&ldquo;=$worktitle$=&rdquo;
+							&ldquo;=$work-title$=&rdquo;
 <?endif?>
 <?if "=$worklink$=" ?>
-					</a>
+						</a>
 <?endif?>
-				</p>
 <?endif?>
+					</p>
 
 <?if "=$work-rights-slug$="?>
 				<p>=$work-rights-slug$=</p>
