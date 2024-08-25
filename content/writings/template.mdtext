@@ -2,9 +2,13 @@ Title: <title>
 
 Subtitle: 
 
-Class: <class: , general, reference, song, song-post >
+Class: <class: , general, header, reference, song, song-post >
 
 Tags: <tags>
+
+Seq: <seq>
+
+Level: <level: 1 - book; 2 - topic; 3 - essay; >
 
 Index: <index>
 

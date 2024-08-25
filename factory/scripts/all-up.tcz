@@ -17,6 +17,7 @@ script	include			micro
 script	include			topics
 script	include			tags
 script	include			static
+script	include			tree
 
 <!-- Open the Web Browser to the Home Page -->
 

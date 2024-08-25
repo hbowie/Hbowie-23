@@ -4,7 +4,7 @@ Title Set by User: false
 
 Link: /Users/hbowie/Sites/HBowie-23/content/writings
 
-Sort Parm: 0
+Sort Parm: 1
 
 Sort Descending: false
 
@@ -12,7 +12,7 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 18
+Last Index Selected: 132
 
 Mirror Auto Index: false
 
@@ -22,7 +22,9 @@ Minimum Body Edit View Height: 15.0
 
 Title Display Option: h1
 
-Display Mode: streamlined
+Display Mode: normal
+
+Outline Tab: true
 
 Override Custom Display: false
 
@@ -44,7 +46,7 @@ Note File Format: nnk
 
 Hash Tags: false
 
-Window Numbers: 210.0;179.0;1394.0;1227.0;500.0;
+Window Numbers: 1060.0;0.0;1394.0;1410.0;500.0;
 
-Column Widths: date: 80, 177, 300; author: 100, 200, 1000; tags: 50, 100, 1200; klass: 60, 80, 150; seq: 30, 80, 1500; statusdigit: 20, 30, 50; dateadded: 100, 180, 1500; x: 12, 20, 1500; rank: 50, 80, 250; title: 200, 471, 1500; datemod: 100, 180, 250; 
+Column Widths: datemod: 100, 180, 250; rank: 50, 80, 250; statusdigit: 20, 30, 50; date: 80, 177, 300; dateadded: 100, 180, 1500; seq: 30, 80, 1500; title: 200, 471, 1500; x: 12, 20, 1500; klass: 60, 80, 150; tags: 50, 100, 1200; author: 100, 200, 1000; 
 
