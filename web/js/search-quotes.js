@@ -156,6 +156,12 @@ let searchQuotes = [
 		content: "Of all the will toward the ideal in mankind only a small part can manifest itself in public action All the rest of this force must be content with small and obscure deeds The sum of these however is a thousand times stronger than the acts of those who receive wide public recognition The latter compared to the former are like the foam on the waves of a deep ocean Albert Schweitzer Alsatian theologian, organist, writer, humanitarian, philosopher, and physician Leading Quietly: An Unorthodox Guide to Doing the Right Thing "
 	},
 	{
+		title: "All children of our Earth",
+		date: "",
+    url: "quotes/all-children-of-our-earth.html",
+		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
+	},
+	{
 		title: "No person in America should be too poor to live",
 		date: "28 Jun 2018",
     url: "quotes/no-person-in-america-should-be-too-poor-to-live.html",
@@ -384,6 +390,12 @@ let searchQuotes = [
 		content: "Many orthodox people speak as though it were the business of skeptics to disprove received dogmas rather than of dogmatics to prove them This is of course a mistake If I were to suggest that between the Earth and Mars there is a china teapot revolving about the sun in an elliptical orbit nobody would be able to disprove my assertion provided I were careful to add that the teapot is too small to be revealed even by our most powerful telescopes But if I were to go on to say that since my assertion cannot be disproved it is intolerable presumption on the part of human reason to doubt it I should rightly be thought to be talking nonsense If however the existence of such a teapot were affirmed in ancient books taught as the sacred truth every Sunday and instilled into the minds of children at school hesitation to believe in its existence would become a mark of eccentricity and entitle the doubter to the attentions of the psychiatrist in an enlightened age or of the Inquisitor in an earlier time Bertrand Russell British polymath, philosopher, logician, mathematician, historian, writer, social critic, political activist, and Nobel laureate Is There A God? "
 	},
 	{
+		title: "How to Grow Old",
+		date: "1953",
+    url: "quotes/how-to-grow-old.html",
+		content: "Make your interests gradually wider and more impersonal until bit by bit the walls of the ego recede and your life becomes increasingly merged in the universal life An individual human existence should be like a river small at first narrowly contained within its banks and rushing passionately past rocks and over waterfalls Gradually the river grows wider the banks recede the waters flow more quietly and in the end without any visible break they become merged in the sea and painlessly lose their individual being Bertrand Russell British polymath, philosopher, logician, mathematician, historian, writer, social critic, political activist, and Nobel laureate How to Grow Old "
+	},
+	{
 		title: "We must welcome the stranger",
 		date: "25 Jan 2023",
     url: "quotes/we-must-welcome-the-stranger.html",
@@ -411,7 +423,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -478,6 +490,12 @@ let searchQuotes = [
 		date: "1980",
     url: "quotes/bathing-in-mystery-and-confusion.html",
 		content: "I don t mean to suggest that we have the final answers we are bathing in mystery and confusion on many subjects and I think that will always be our destiny The universe will always be much richer than our ability to understand it Carl Sagan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator Conversations with Carl Sagan "
+	},
+	{
+		title: "Skepticism and Openness",
+		date: "1987",
+    url: "quotes/skepticism-and-openness.html",
+		content: "It seems to me what is called for is an exquisite balance between two conflicting needs the most skeptical scrutiny of all hypotheses that are served up to us and at the same time a great openness to new ideas Obviously those two modes of thought are in some tension But if you are able to exercise only one of these modes whichever one it is you re in deep trouble Some ideas are better than others The machinery for distinguishing them is an essential tool in dealing with the world and especially in dealing with the future And it is precisely the mix of these two modes of thought that is central to the success of science Carl Sagan American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator The Burden of Skepticism "
 	},
 	{
 		title: "Books are key to understanding the world",
@@ -735,7 +753,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -753,7 +771,7 @@ let searchQuotes = [
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -783,13 +801,13 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -1221,19 +1239,19 @@ let searchQuotes = [
 		title: "My Life Belongs to the Whole Community",
 		date: "",
     url: "quotes/my-life-belongs-to-the-whole-community.html",
-		content: "This is the true joy in life the being used for a purpose recognized by yourself as a mighty one the being a force of nature instead of a feverish selfish little clod of ailments and grievances complaining that the world will not devote itself to making you happy I am of the opinion that my life belongs to the whole community and as long as I live it is my privilege to do for it whatever I can I want to be thoroughly used up when I die for the harder I work the more I live I rejoice in life for its own sake Life is no brief candle for me It is a sort of splendid torch which I have got hold of for the moment and I want to make it burn as brightly as possible before handing it on to future generations George Bernard Shaw   "
+		content: "This is the true joy in life the being used for a purpose recognized by yourself as a mighty one the being a force of nature instead of a feverish selfish little clod of ailments and grievances complaining that the world will not devote itself to making you happy I am of the opinion that my life belongs to the whole community and as long as I live it is my privilege to do for it whatever I can I want to be thoroughly used up when I die for the harder I work the more I live I rejoice in life for its own sake Life is no brief candle for me It is a sort of splendid torch which I have got hold of for the moment and I want to make it burn as brightly as possible before handing it on to future generations George Bernard Shaw Irish playwright, critic, polemicist and political activist  "
 	},
 	{
 		title: "Progress Depends on the Unreasonable Man",
 		date: "1903",
     url: "quotes/progress-depends-on-the-unreasonable-man.html",
-		content: "The reasonable man adapts himself to the world the unreasonable one persists in trying to adapt the world to himself Therefore all progress depends on the unreasonable man George Bernard Shaw  Maxims for Revolutionists "
+		content: "The reasonable man adapts himself to the world the unreasonable one persists in trying to adapt the world to himself Therefore all progress depends on the unreasonable man George Bernard Shaw Irish playwright, critic, polemicist and political activist Maxims for Revolutionists "
 	},
 	{
 		title: "I Dream Things That Never Were",
 		date: "1921",
     url: "quotes/i-dream-things-that-never-were.html",
-		content: "You see things and you say Why But I dream things that never were and I say Why not George Bernard Shaw  Back to Methuselah "
+		content: "You see things and you say Why But I dream things that never were and I say Why not George Bernard Shaw Irish playwright, critic, polemicist and political activist Back to Methuselah "
 	},
 	{
 		title: "Politics and the Debasement of Language",
@@ -2262,6 +2280,18 @@ let searchQuotes = [
 		content: "At the core of all societies I will show is the social suite 1 The capacity to have and recognize individual identity 2 Love for partners and offspring 3 Friendship 4 Social networks 5 Cooperation 6 Preference for one s own group that is in group bias 7 Mild hierarchy that is relative egalitarianism 8 Social learning and teaching Nicholas Christakis Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
 	},
 	{
+		title: "Unlike cynicism, hopefulness is hard-earned",
+		date: "2022-04",
+    url: "quotes/unlike-cynicism-hopefulness-is-hard-earned.html",
+		content: "Unlike cynicism hopefulness is hard earned makes demands upon us and can often feel like the most indefensible and lonely place on Earth Hopefulness is not a neutral position either It is adversarial It is the warrior emotion that can lay waste to cynicism Each redemptive or loving act as small as you like Valerio such as reading to your little boy or showing him a thing you love or singing him a song or putting on his shoes keeps the devil down in the hole It says the world and its inhabitants have value and are worth defending It says the world is worth believing in In time we come to find that it is so Nick Cave Australian musician, writer and actor The Red Hand Files "
+	},
+	{
+		title: "The language of religion and poetry",
+		date: "1927",
+    url: "quotes/the-language-of-religion-and-poetry.html",
+		content: "We ought to remember that religion uses language in quite a different way from science The language of religion is more closely related to the language of poetry than to the language of science True we are inclined to think that science deals with information about objective facts and poetry with subjective feelings Hence we conclude that if religion does indeed deal with objective truths it ought to adopt the same criteria of truth as science But I myself find the division of the world into an objective and a subjective side much too arbitrary The fact that religions through the ages have spoken in images parables and paradoxes means simply that there are no other ways of grasping the reality to which they refer But that does not mean that it is not a genuine reality And splitting this reality into an objective and a subjective side won t get us very far Niels Bohr Danish physicist Physics and Beyond: Encounters and Conversations "
+	},
+	{
 		title: "The Other Side of Complexity",
 		date: "",
     url: "quotes/the-other-side-of-complexity.html",
@@ -2562,6 +2592,12 @@ let searchQuotes = [
 		content: "If you do something every day it s a system If you re waiting to achieve it someday in the future it s a goal O ne should have a system instead of a goal The system versus goals model can be applied to most human endeavours In the world of dieting losing twenty pounds is a goal but eating right is a system In the exercise realm running a marathon in under four hours is a goal but exercising daily is a system In business making a million dollars is a goal but being a serial entrepreneur is a system Goal oriented people exist in a state of continuous pre success failure at best and permanent failure at worst if things never work out Systems people succeed every time they apply their systems in the sense that they did what they intended to do The goals people are fighting the feeling of discouragement at each turn The systems people are feeling good every time they apply their system That s a big difference in terms of maintaining your personal energy in the right direction Scott Adams American author and cartoonist How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life "
 	},
 	{
+		title: "The Myth of Simple Truths",
+		date: "2016-01-04",
+    url: "quotes/the-myth-of-simple-truths.html",
+		content: "It would be a wonderful world were the Simple Truth Thesis true Our political task simply would be to empower those who know the simple truth and rebuke the fools who do not But the Simple Truth Thesis is not true In fact it s a fairytale soothing but ultimately unfit for a serious mind For any Big Question there are several defensible positions it is precisely this feature that makes them big Of course to say that a position is defensible is not to say that it s true To oppose the Simple Truth Thesis is not to embrace relativism which is itself a version of the Simple Truth view nor is it to give up on the idea that there is truth it is rather to give up on the view that the truth is always simple Scott F. Aikin and Robert B. Talisse  The Myth of Simple Truths "
+	},
+	{
 		title: "Ceremonies are designed to",
 		date: "2016",
     url: "quotes/ceremonies-are-designed-to.html",
@@ -2751,7 +2787,7 @@ let searchQuotes = [
 		title: "Generosity is the robust strategy",
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",
@@ -2763,7 +2799,7 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",

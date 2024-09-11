@@ -1,10 +1,10 @@
-Title: <title> 
+Title: <title>
 
-Tags: <tags> 
+Tags: <tags>
 
-Type: pick-from: Principle, Value, alias 
+Type: <pickfrom: Principle, Value, alias >
 
-Seq: <seq> 
+Seq: <seq>
 
-Body:  
+Body: 
 

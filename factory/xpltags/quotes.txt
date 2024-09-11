@@ -19,6 +19,7 @@ USA	usa.html	4	quotes	Ism-mania	Robert Riskin
 USA	usa.html	4	quotes	The Makers of Things	Barack Obama
 USA	usa.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 USA	usa.html	4	quotes	We love America in a James Baldwin kind of way	Megan Rapinoe
+aging	aging.html	4	quotes	How to Grow Old	Bertrand Russell
 aging	aging.html	4	quotes	On Turning Eighty	Henry Miller
 art	art.html	4	quotes	Art and Spirit	Ken Wilber
 art	art.html	4	quotes	Art has to transform life itself	Lawrence Ferlinghetti
@@ -41,6 +42,7 @@ art	art.html	4	quotes	Excitement from Art	Anthony Burgess
 art	art.html	4	quotes	God and Morality	Frans de Waal
 art	art.html	4	quotes	History as Postmodern Collage	Joe Boyd
 art	art.html	4	quotes	The Inner Life of the Artist	Edward Hopper
+art	art.html	4	quotes	The language of religion and poetry	Niels Bohr
 art	art.html	4	quotes	Life is not like formula fiction	Anne Lamott
 art	art.html	4	quotes	Little I recognized as music	Joe Boyd
 art	art.html	4	quotes	The Loftiest and Purest Art	Walt Whitman
@@ -88,6 +90,7 @@ change	change.html	4	quotes	Change is the one constant when it comes to culture	
 communication	communication.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 communication	communication.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 community	community.html	4	quotes	An assembly that meshes over a specific problem	John Summers
+connection	connection.html	4	quotes	All children of our Earth	Aleksandr Aleksandrov
 connection	connection.html	4	quotes	The better angels of our nature	Abraham Lincoln
 connection	connection.html	4	quotes	By Gifts One Makes Slaves	Peter Freuchen
 connection	connection.html	4	quotes	The Challenge of Swing	Wynton Marsalis
@@ -170,6 +173,7 @@ critical thinking	critical-thinking.html	4	quotes	Model II Decision-Making	Chris
 critical thinking	critical-thinking.html	4	quotes	Model II Values	Chris Argyris and Donald Schön
 critical thinking	critical-thinking.html	4	quotes	Most advertising an insane irrelevance	Raymond Williams
 critical thinking	critical-thinking.html	4	quotes	Muddled thinking and self-deception	Margery Allingham
+critical thinking	critical-thinking.html	4	quotes	The Myth of Simple Truths	Scott F. Aikin and Robert B. Talisse
 critical thinking	critical-thinking.html	4	quotes	Nirvana Antipattern	William J. Brown, Hays W. McCormick III and Scott W. Thomas
 critical thinking	critical-thinking.html	4	quotes	No Perfect Answer	Barack Obama
 critical thinking	critical-thinking.html	4	quotes	Occasions When the Intellect Retires Gracefully	Margery Allingham
@@ -183,6 +187,7 @@ critical thinking	critical-thinking.html	4	quotes	Reversible vs. Irreversible De
 critical thinking	critical-thinking.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
 critical thinking	critical-thinking.html	4	quotes	Seeking ways to disagree with myself	Yanis Varoufakis
 critical thinking	critical-thinking.html	4	quotes	Six Impossible Things Before Breakfast	Lewis Carroll
+critical thinking	critical-thinking.html	4	quotes	Skepticism and Openness	Carl Sagan
 critical thinking	critical-thinking.html	4	quotes	Successful Planning	Dashiell Hammett
 critical thinking	critical-thinking.html	4	quotes	Symbolic Language	David Christian
 critical thinking	critical-thinking.html	4	quotes	Taking a Fence Down	G. K. Chesterton
@@ -383,6 +388,7 @@ evolution	evolution.html	4	quotes	Small groups are a fundamental unit of human s
 evolution	evolution.html	4	quotes	Which side will lose by winning	Richard Powers
 evolution	evolution.html	4	quotes	A working simple system	John Gall
 experimentation	experimentation.html	4	quotes	But above all, try something	Franklin D. Roosevelt
+faith	faith.html	4	quotes	Unlike cynicism, hopefulness is hard-earned	Nick Cave
 family	family.html	4	quotes	Many humans just don't like their families	David Graeber and David Wengrow
 governance	governance.html	4	quotes	Balance is Required to Maintain Democracy	Wynton Marsalis
 governance	governance.html	4	quotes	The best thing we can do is treat each other better	Barack Obama
@@ -419,6 +425,7 @@ governance	governance.html	4	quotes	Two ideas of government	William Jennings Bry
 governance	governance.html	4	quotes	We need governments to provide clear pathways	Larry Fink
 governance	governance.html	4	quotes	When Growth Becomes a Supreme Good	Yuval Noah Harari
 governance	governance.html	4	quotes	The World Empire enforces World Peace	Yuval Noah Harari
+hope	hope.html	4	quotes	Unlike cynicism, hopefulness is hard-earned	Nick Cave
 humanism	humanism.html	4	quotes	All must be held valuable, or none	Edmund Crispin
 humanism	humanism.html	4	quotes	Apes and Humans	Carl Sagan and Ann Druyan
 humanism	humanism.html	4	quotes	Art presents us with a window into the minds of these people	Genevieve von Petzinger
@@ -637,6 +644,7 @@ religion	religion.html	4	quotes	God and Morality	Frans de Waal
 religion	religion.html	4	quotes	Her faith had twisted very early in her childhood	Lauren Groff
 religion	religion.html	4	quotes	If triangles had a god	Montesquieu
 religion	religion.html	4	quotes	An Integral God	Ken Wilber
+religion	religion.html	4	quotes	The language of religion and poetry	Niels Bohr
 religion	religion.html	4	quotes	Larger, freer, and more loving	James Baldwin
 religion	religion.html	4	quotes	Moral Religion	Albert Einstein
 religion	religion.html	4	quotes	The Most Dangerous of Devotions	E. O. Wilson

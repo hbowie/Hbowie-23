@@ -12,7 +12,7 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 132
+Last Index Selected: 121
 
 Mirror Auto Index: false
 
@@ -22,7 +22,7 @@ Minimum Body Edit View Height: 15.0
 
 Title Display Option: h1
 
-Display Mode: normal
+Display Mode: streamlined
 
 Outline Tab: true
 
@@ -44,9 +44,9 @@ Web Book Folder: /Users/hbowie/Sites/notenik-web/knowledge-base
 
 Note File Format: nnk
 
-Hash Tags: false
+Hash Tags: notenik-field
 
-Window Numbers: 1060.0;0.0;1394.0;1410.0;500.0;
+Window Numbers: 127.0;0.0;1223.0;1410.0;505.0;
 
-Column Widths: datemod: 100, 180, 250; rank: 50, 80, 250; statusdigit: 20, 30, 50; date: 80, 177, 300; dateadded: 100, 180, 1500; seq: 30, 80, 1500; title: 200, 471, 1500; x: 12, 20, 1500; klass: 60, 80, 150; tags: 50, 100, 1200; author: 100, 200, 1000; 
+Column Widths: statusdigit: 20, 30, 50; datemod: 100, 180, 250; x: 12, 20, 1500; dateadded: 100, 180, 1500; klass: 60, 80, 150; date: 80, 177, 300; rank: 50, 80, 250; title: 200, 393, 1500; seq: 30, 80, 1500; author: 100, 200, 1000; tags: 50, 100, 1200; 
 

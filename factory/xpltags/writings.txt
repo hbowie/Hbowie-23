@@ -5,7 +5,6 @@ Christmas	christmas.html	3	writings	Christmas (Baby Please Come Home)	Ellie Gree
 Christmas	christmas.html	3	writings	Christmas Song by Dave Matthews	Dave Matthews
 Christmas	christmas.html	3	writings	Reflections on the Christian Message	
 Christmas	christmas.html	3	writings	What Christmas Means to Me	
-Christmas	christmas.html	3	writings	Christmas Favorites from The Practical Utopian	
 Christmas	christmas.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
 Christmas	christmas.html	3	writings	Father Christmas - Song by The Kinks	
 Christmas	christmas.html	3	writings	Merry Christmas Baby - Song	
@@ -114,12 +113,12 @@ cultural evolution	cultural-evolution.html	3	writings	Developmental Levels
 cultural evolution	cultural-evolution.html	3	writings	Developmental Levels as Evolving Social Structures	
 cultural evolution	cultural-evolution.html	3	writings	Core Design Principles for The Efficacy of Groups	
 cultural evolution	cultural-evolution.html	3	writings	Evolution and Its Implications	
-cultural evolution	cultural-evolution.html	3	writings	Cultural Evolution	
-cultural evolution	cultural-evolution.html	3	writings	Human Nature	
+cultural evolution	cultural-evolution.html	3	writings	Human Culture and its Evolution	
 cultural evolution	cultural-evolution.html	3	writings	Patterns of Human Cooperation	
 cultural evolution	cultural-evolution.html	3	writings	Rebuilding Trust in Our Large Institutions	
 cultural evolution	cultural-evolution.html	3	writings	Religion, Storytelling and Art	
 cultural evolution	cultural-evolution.html	3	writings	The Systemic Era	
+cultural evolution	cultural-evolution.html	3	writings	What Does It Mean to be Human?	
 cultural evolution	cultural-evolution.html	3	writings	Understanding Human History	
 cultural evolution	cultural-evolution.html	3	writings	Cooperation, Competition and Coercion	
 cultural evolution	cultural-evolution.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
@@ -193,7 +192,7 @@ ethics	ethics.html	3	writings	The Rotary Four-Way Test
 ethics	ethics.html	3	writings	Ring Them Bells	Bob Dylan
 evil	evil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 evolution	evolution.html	3	writings	Evolution and Its Implications	
-evolution	evolution.html	3	writings	Human Nature	
+evolution	evolution.html	3	writings	What Does It Mean to be Human?	
 evolution	evolution.html	3	writings	Life is Complicated	
 family	family.html	3	writings	I Don't Like Half The Folks I Love	Paul Thorn and Billy Maddox
 freedom	freedom.html	3	writings	Angel from Montgomery	John Prine
@@ -202,6 +201,7 @@ god	god.html	3	writings	Quiet About It	Jesse Winchester
 god	god.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 god	god.html	3	writings	Reflections on the Christian Message	
 god	god.html	3	writings	Ring Them Bells	Bob Dylan
+god	god.html	3	writings	Step by Step	Jesse Winchester
 governance	governance.html	3	writings	The Four Essential Attributes of any Organization	
 governance	governance.html	3	writings	Leadership and Followership: 21 Key Observations	
 governance	governance.html	3	writings	Patterns of Human Cooperation	
@@ -231,7 +231,6 @@ governance	governance.html	3	writings	The Issues Swirling around Spotify and its
 governance	governance.html	3	writings	Undoing Trumpism	
 home	home.html	3	writings	Train to Birmingham	John Hiatt
 human development	human-development.html	3	writings	They All Laughed	George and Ira Gershwin
-humanism	humanism.html	3	writings	800 Pound Jesus	Billy Maddox and Paul Thorn
 humanism	humanism.html	3	writings	And When I Die	Laura Nyro
 humanism	humanism.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 humanism	humanism.html	3	writings	Come On Up to the House	Tom Waits
@@ -242,15 +241,14 @@ humanism	humanism.html	3	writings	The Village Green Preservation Society	Ray Dav
 humanism	humanism.html	3	writings	The Weight	Robbie Robertson
 humanism	humanism.html	3	writings	Will the Circle be Unbroken	A.P. Carter
 humanism	humanism.html	3	writings	Humanism and the Practical Utopian	
-humanism	humanism.html	3	writings	Human Nature	
 humanism	humanism.html	3	writings	Rejiggering Our Religion	
 humanism	humanism.html	3	writings	Religion, Storytelling and Art	
+humanism	humanism.html	3	writings	What Does It Mean to be Human?	
 humanism	humanism.html	3	writings	Why I Call Myself a Practopian	
 humanism	humanism.html	3	writings	A Guide To Becoming	
 humanism	humanism.html	3	writings	A Resumption of our Humanity	
 humanism	humanism.html	3	writings	Ring Them Bells	Bob Dylan
 humanism	humanism.html	3	writings	Paul Thorn and his 800 Pound Jesus	
-humanism	humanism.html	3	writings	Christmas Favorites from The Practical Utopian	
 humanism	humanism.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
 humanism	humanism.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
 humanism	humanism.html	3	writings	Boogie Woogie Santa Claus	Leon René
@@ -278,7 +276,7 @@ integral	integral.html	3	writings	A Practopian Approach to Gun Issues in the US
 integral	integral.html	3	writings	What Trump Gets Right	
 integrity	integrity.html	3	writings	The Last Trip to Tulsa	Neil Young
 liberation	liberation.html	3	writings	All Along The Watchtower	Bob Dylan
-liberation	liberation.html	3	writings	Education	Ray Davies
+liberation	liberation.html	3	writings	Education - Song by The Kinks	Ray Davies
 liberation	liberation.html	3	writings	It's About Time	Dennis Wilson, Bob Burchman and Alan Jardine
 liberation	liberation.html	3	writings	King Harvest (Has Surely Come)	Robbie Robertson
 liberation	liberation.html	3	writings	Like A Rolling Stone	Bob Dylan
@@ -319,7 +317,6 @@ parenthood	parenthood.html	3	writings	Christmas Time Back Home - Song by The Cou
 parenthood	parenthood.html	3	writings	Christmas Time's A-Coming	
 parenthood	parenthood.html	3	writings	Santa Claus is Coming to Town	
 play	play.html	3	writings	Settin' the Woods on Fire	Fred Rose and Ed G. Nelson
-play	play.html	3	writings	Playing with Language and "Settin' the Woods on Fire"	
 progress	progress.html	3	writings	A Universal Improvement Process	
 progress	progress.html	3	writings	Understanding Human History	
 progress	progress.html	3	writings	Dethroning the False God of User Experience Design	
@@ -332,7 +329,6 @@ protest	protest.html	3	writings	For What It's Worth	Stephen Stills
 rain	rain.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 rain	rain.html	3	writings	Come On In My Kitchen	Robert Johnson
 rain	rain.html	3	writings	Rain	John Lennon and Paul McCartney
-religion	religion.html	3	writings	800 Pound Jesus	Billy Maddox and Paul Thorn
 religion	religion.html	3	writings	Quiet About It	Jesse Winchester
 religion	religion.html	3	writings	The Weight	Robbie Robertson
 religion	religion.html	3	writings	Will the Circle be Unbroken	A.P. Carter
@@ -344,6 +340,7 @@ religion	religion.html	3	writings	Reasons for Belief
 religion	religion.html	3	writings	Reflections on the Christian Message	
 religion	religion.html	3	writings	Why I Call Myself a Practopian	
 religion	religion.html	3	writings	Ring Them Bells	Bob Dylan
+religion	religion.html	3	writings	Step by Step	Jesse Winchester
 religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	
 religion	religion.html	3	writings	What Christmas Means to Me	
 religion	religion.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
@@ -362,6 +359,7 @@ sin	sin.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
 society	society.html	3	writings	The Village Green Preservation Society	Ray Davies
 society	society.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
 society	society.html	3	writings	Core Design Principles for The Efficacy of Groups	
+society	society.html	3	writings	The Social Suite	
 society	society.html	3	writings	The Truth About Capitalism	
 society	society.html	3	writings	We Are Multi-Tribal	
 society	society.html	3	writings	Patterns of Human Cooperation	
@@ -419,7 +417,6 @@ technology	technology.html	3	writings	Thank God for Elon Musk!
 technology	technology.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
 technology	technology.html	3	writings	Keeping to the Cackle with AI	
 technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
-technology	technology.html	3	writings	An Overdue Update from The Practical Utopian	
 technology	technology.html	3	writings	Popping the Hood with the Notenik App	
 tools	tools.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
 value creation	value-creation.html	3	writings	The Four Essential Attributes of any Organization	
@@ -436,7 +433,6 @@ value creation	value-creation.html	3	writings	Kindness by Design
 value creation	value-creation.html	3	writings	Thank God for Elon Musk!	
 value creation	value-creation.html	3	writings	Social Distancing and our Essential Nature	
 value creation	value-creation.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
-value creation	value-creation.html	3	writings	An Overdue Update from The Practical Utopian	
 value creation	value-creation.html	3	writings	Undoing Trumpism	
 value creation	value-creation.html	3	writings	Earned Value Management (EVM) for Mere Mortals	
 values	values.html	3	writings	All Along The Watchtower	Bob Dylan
@@ -451,5 +447,4 @@ written word	written-word.html	3	writings	Religious Freedom
 written word	written-word.html	3	writings	The Progressive Problem	
 written word	written-word.html	3	writings	Why I Use Markdown (And Why You Should Too)	
 written word	written-word.html	3	writings	Free Speech at the Crossroads	
-written word	written-word.html	3	writings	Playing with Language and "Settin' the Woods on Fire"	
 written word	written-word.html	3	writings	Keeping to the Cackle with AI	
