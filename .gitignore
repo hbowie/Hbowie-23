@@ -7,3 +7,4 @@ web/fonts/*
 /resources
 /import
 *.zip
+.nova

@@ -1,0 +1,31 @@
+<?output "../includes-gen/featured-quote.html"?>
+<?nextrec?>
+			<article class="front-page-card">
+				<p>
+					<span class="section-name">
+						<a class="implicit" href="quotes/=$title&f$=.html">
+							Featured Quote:
+						</a>
+					</span>
+				</p>
+				
+				<h2>
+					<a class="implicit" href="quotes/=$title&f$=.html">
+						=$title&h$=
+					</a>
+				</h2>
+				
+				<blockquote>
+					=$body&o$=
+				</blockquote>
+				
+				<p class="quote-from">
+					<a href="authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=
+				</p>
+				
+				<div>
+					<a class="readmore" href="latest-quotes.html">Latest Quotes</a>
+				</div>
+				<div class="clearboth"></div>
+			</article>
+<?loop?>

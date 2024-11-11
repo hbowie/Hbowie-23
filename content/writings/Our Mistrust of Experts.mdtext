@@ -1,0 +1,86 @@
+Title:  Our Mistrust of Experts
+
+Seq:    99.13
+
+Level:  3 - essay
+
+Status: 4 - In Work
+
+Short ID: miex
+
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
+Minutes to Read: 3
+
+Date Added: 2024-10-18 13:00:53 -0700
+
+Date Modified: 2024-10-18 15:41:00 -0700
+
+Timestamp: 20241018200053
+
+Body:
+
+A friend sent me a note recently, calling my attention to an [article in the NY Times](https://www.nytimes.com/2024/10/16/magazine/dei-university-michigan.html) concerning the implementation of DEI (Diversity, Equity and Inclusion) initiatives at my alma mater, the University of Michigan. 
+
+And while I don't have a lot to say on this particular subject, it did strike me that the creation of special departments devoted solely to DEI seemed problematic.
+
+And this got me thinking of reasons why this particular organizational strategy might be a bad one.  
+
+And my thinking prompted me to begin a ramble through my extensive [collection of quotations](https://hbowie.net/latest-quotes.html), to see what might be relevant. 
+
+Let's see what I was able to come up with. 
+
+## Instructive Words from Others
+
+First of all, there's this one. 
+
+> Mistrust of experts, in spite of all that the apologists for technocracy can advance against it, is deeply rooted in the English character, and Fen, whose habit of mind was not cosmopolitan, shared in it abundantly. 
+
+{:quote-from:Edmund Crispin|1950|Book|Sudden Vengeance|https://en.wikipedia.org/wiki/Edmund_Crispin|}
+
+This one surprised me when I came across it, coming as it did in 1950 from an academic writing a book about a fictional detective who is also an academic. 
+
+But it makes a nice foundation for our thinking, indicating that a mistrust of "experts" is not simply a modern phenomenon caused by political polarization, but one with deep roots in our cultures and societies. 
+
+Here's the next one. 
+
+> Prior to Steve Jobs’ return to Apple, there was a decent centralized usability team equipped with those fancy rooms with one-way mirrors and video cameras. I’m certain these folks did significant work, but when Jobs returned, he shut it down and he cast the design teams to the wind. Each product team inherited part of the former usability team.
+
+{:quote-from:Michael Lopp|2007|Book|Managing Humans: Biting and Humorous Tales of a Software Engineering Manager|https://en.wikipedia.org/wiki/Michael_Lopp|}
+
+Note that a "centralized usability team" would consist of a group of usabilty (later called user experience) *experts* who would provide consulting and assistance to product development teams, but would not actually be reponsible for any particular product. 
+
+And here's a quote from the *[Manifesto for Agile Software Development](https://agilemanifesto.org)*:
+
+> We are uncovering better ways of developing software *by doing it* [*emphasis mine*] and helping others do it.
+
+And for those unfamiliar with the history of software development, you should know that the Agile Manifesto was largely a reaction to the growing influence of various [Capability Maturity Models](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) promoting the creation of [Software Engineering Process Groups](https://en.wikipedia.org/wiki/Software_Engineering_Process_Group), which were independent groups of *experts* on software process improvement — but not people who were actually developing any software. 
+
+And here's another quote. 
+
+> Jazz is the most flexible art form ever because it believes in the good taste of individuals. It believes in our ability to make reasonable choices. It takes a chance on our decision-making skills instead of legislating our freedom away with written restrictions and restrictive hierarchies. In jazz, the size of your heart and your ability to play determine your position in the band. The philosophy of jazz is rooted in the elevation and enrichment of people, plain ol' folks.
+
+{:quote-from:Wynton Marsalis|2008|Book|Moving to Higher Ground: How Jazz Can Change Your Life|https://en.wikipedia.org/wiki/Wynton_Marsalis|https://wyntonmarsalis.org/books/title/moving-to-higher-ground-how-jazz-can-change-your-life}
+
+
+And here's just one more. 
+
+> One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there. Somehow, in the act of making something with a great deal of care and love, something’s transmitted there. 
+
+{:quote-from:Steve Jobs|2007|||https://en.wikipedia.org/wiki/Steve_Jobs|}
+
+## My Own Takeaways
+
+So what are my take-aways here?
+
+1. We humans are genetically wired to cooperate with others in small teams in order to make wonderful things, with a great deal of care and love. We can make all sorts of things, but these things must have real value for other humans, and we must care deeply about the quality of our work, and our products.
+
+2.Independent groups of experts have no access to any authentic feedback loops about the value of their work, and so tend to become unmoored from any deep understanding of the value proposition of their efforts. 
+
+3. Even if they start with the best intentions, independent groups of experts tend over time to place excessive value on their own fields of expertise, and whatever sorts of advisory products (plans, guides, procedures, etc.)  that they might independently produce. 
+
+4. Independent groups of experts inevitably produce unhealthy relationships between these consultative groups and the groups actually producing these "wonderful things" because, when problems occur (as they always do), there is no joint ownership, but rather a descent into aggressive finger-pointing, with the experts blaming a faulty implementation of their expertise, and the actual makers blaming the bad (or incomplete) advice dispensed by the experts.  

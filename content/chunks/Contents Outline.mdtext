@@ -1,0 +1,57 @@
+Title:  Contents Outline
+
+Body:
+
+This site's content falls into a number of different categories. Feel free to drill down into any area that interests you. [Stay connected](connect.html) through one or more of several avenues. 
+
+{:outline-headings}
+
+## Hot Off The Press...
+
+See a list of my [latest original writings](latest-original.html), as well as the [latest quotes added](latest-quotes.html) to my commonplace book. Visit the [Discourse Forum](https://discourse.notenik.app) for the latest Notenik news. 
+
+## Software
+
+Notenik is my note-taking, web-making, content-managing app, written in Swift, using AppKit, exclusively for the Mac. Find out more at [Notenik.app](https://notenik.app).
+
+*Big Ideas in Software Development* is my web book about software development. You can find it at [SoftDevBigIdeas.com](https://softdevbigideas.com).
+
+## Songs and Music
+
+I've written many pieces discussing songs that I've found compelling in one way or another.  I talk about their themes and meanings, as well as how they work. 
+
++ [Songs Index](songs.html) -- A list of content on this site. 
++ [Lexicon of Song](https://lexiconofsong.org) -- A separate site offering this content. 
++ [Reason to Rock](https://reasontorock.com) -- A separate site offering an entire online book discussing the aesthetics of rock music. 
+
+## General Essays
+
+Here's an [alphabetical list](essays.html) of essays I've written on a variety of topics. I've culled out any dated, topical pieces, so what's left should still be useful reading. 
+
+You can also see a list of all my original essays [grouped by primary topic](tree.html), which makes them a bit easier to sort through. 
+
+## Reference Summaries
+
+I've written a number of pieces that serve as convenient summaries of ideas and models more extensively described by others. I've broken out a [convenient list of these](reference.html).
+
+## My Commonplace Book
+
+One of my uses for Notenik is to maintain a [digital commonplace book][dcp], containing brief quotations from others that I have found meaningful. This content can be accessed in a number of different ways. 
+
++ [Authors Index](authors/index.html) -- A sortable list of all cited authors
++ [Latest Additions](latest-quotes.html) -- The most recent quotes added. 
++ [Random Quote](quotes/random.html) -- Pull up a random entry
+
+[dcp]: https://www.nytimes.com/2021/02/10/technology/personaltech/make-digital-commonplace-book.html
+
+## Recurring Topics
+
+I use tags to identify various types of content touching on particular topics. You can use the [tags cloud](tags/index.html) to find content on particular topics.
+
+## Finding Stuff
+
+See the [alphabetical index](site-index.html) for an index to significant terms, authors and creators referenced from my original writings hosted on this site. Or just [search](search.html) for something. 
+
+## Credits
+
+See the [Credits page](credits.html) for credits and licensing.

@@ -1,0 +1,17 @@
+<?nextrec?>
+<?output "../includes-gen/=$title&f$=-chunk.html"?>
+			<article class="front-page-card">
+				<p>
+					<span class="section-name">
+						=$title$=:
+					</span>
+				</p>
+<?if "=$imagename$=" ?>
+				<p>
+					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+				</p>
+<?endif?>
+				=$body&o$=
+				
+			</article>
+<?loop?>

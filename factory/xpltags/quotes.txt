@@ -73,6 +73,7 @@ art	art.html	4	quotes	We All Derive From the Same Source	Henry Miller
 art	art.html	4	quotes	Why People Sing	Linda Ronstadt
 art	art.html	4	quotes	Words that are empowered that make your hair stand on end	Allen Ginsberg
 art	art.html	4	quotes	The world is failing precisely because	Richard Powers
+attitude	attitude.html	4	quotes	You can't dance cheerfully	Rex Stout
 autonomy	autonomy.html	4	quotes	Three basic forms of social liberty	David Graeber and David Wengrow
 balance	balance.html	4	quotes	Balance is Required to Maintain Democracy	Wynton Marsalis
 balance	balance.html	4	quotes	A Completely Free Market	Yuval Noah Harari
@@ -277,6 +278,7 @@ cultural evolution	cultural-evolution.html	4	quotes	We have the capacity to envi
 cultural evolution	cultural-evolution.html	4	quotes	Why study history?	Yuval Noah Harari
 cultural evolution	cultural-evolution.html	4	quotes	You have your position because of the events of history	Martin Luther King Jr.
 culture	culture.html	4	quotes	Change is the one constant when it comes to culture	Wade Davis
+dance	dance.html	4	quotes	You can't dance cheerfully	Rex Stout
 death	death.html	4	quotes	Dying is a very dull, dreary affair	W. Somerset Maugham
 democracy	democracy.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 democracy	democracy.html	4	quotes	Americans' faith in democracy is at a record low	Leah Greenberg and Ezra Levin
@@ -296,6 +298,7 @@ democracy	democracy.html	4	quotes	What would a new social compact look like?	Edw
 democracy	democracy.html	4	quotes	Writing off half of society as deplorable	Edward Luce
 design	design.html	4	quotes	Design is the fundamental soul of a man-made creation	Steve Jobs
 design	design.html	4	quotes	Economics is essentially a question of design	Kate Raworth
+design	design.html	4	quotes	Engineer and designer need to party together	Michael Lopp
 design	design.html	4	quotes	We have wonderful arguments	Steve Jobs
 diversity	diversity.html	4	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
 diversity	diversity.html	4	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
@@ -546,6 +549,7 @@ love	love.html	4	quotes	Integrity and Conviction	Wynton Marsalis
 love	love.html	4	quotes	It's sports and it's all love	Moritz Wagner
 love	love.html	4	quotes	Love is the ultimate and the highest goal	Victor Frankl
 love	love.html	4	quotes	The Love of What We are Doing	Wynton Marsalis
+love	love.html	4	quotes	Making something with a great deal of care and love	Steve Jobs
 love	love.html	4	quotes	The moment we cease to hold each other	James Baldwin
 love	love.html	4	quotes	Only Connect	E. M. Forster
 love	love.html	4	quotes	The original naiveté	Henri Matisse
@@ -741,6 +745,7 @@ sustainability	sustainability.html	4	quotes	Having Fewer Children and Grandchild
 sustainability	sustainability.html	4	quotes	The Human Experiment is Now in Question	Bill McKibben
 sustainability	sustainability.html	4	quotes	Managing our planetary household	Kate Raworth
 sustainability	sustainability.html	4	quotes	A Planet-Sized Problem	E. O. Wilson
+sustainability	sustainability.html	4	quotes	The pulse of nature	Hermann Hesse
 sustainability	sustainability.html	4	quotes	Quality of Children vs. Quantity	Margaret Mead
 sustainability	sustainability.html	4	quotes	Unprecedented growth in human power	Yuval Noah Harari
 sustainability	sustainability.html	4	quotes	Your generation must come to terms with the environment	Rachel Carson
@@ -756,6 +761,8 @@ systemic	systemic.html	4	quotes	We don't even own suits	Apple
 systemic	systemic.html	4	quotes	Which side will lose by winning	Richard Powers
 systemic	systemic.html	4	quotes	A working simple system	John Gall
 systemic	systemic.html	4	quotes	The World Empire enforces World Peace	Yuval Noah Harari
+teams	teams.html	4	quotes	Engineer and designer need to party together	Michael Lopp
+technology	technology.html	4	quotes	Engineer and designer need to party together	Michael Lopp
 technology	technology.html	4	quotes	My brain felt hungry	Ezra Klein
 technology	technology.html	4	quotes	Social media is hyperactive	Ian Bogost
 technology	technology.html	4	quotes	To distract the watchdog of the mind	Marshall McLuhan

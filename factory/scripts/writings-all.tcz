@@ -11,7 +11,14 @@ filter	set		params
 sort	clear			
 sort	add	ascending	Title	
 sort	set		params	
-template	webroot			
 template	webroot			/Users/hbowie/Sites/HBowie-23/web
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/search-original.js
+template	generate			
+filter	clear			
+filter	add	ge	Status	9
+filter	add	eq	Class	general
+filter	add	eq	Featured	true
+filter	set		params	
+template	webroot			/Users/hbowie/Sites/HBowie-23/web
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/featured-essay.html
 template	generate			

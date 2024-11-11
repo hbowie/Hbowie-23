@@ -1,0 +1,36 @@
+<?output "../includes-gen/featured-essay.html"?>
+<?nextrec?>
+			<article class="front-page-card">
+				<p>
+					<span class="section-name">
+						<a class="implicit" href="writings/=$title&f$=.html">
+							Featured Essay:
+						</a>
+					</span>
+				</p>
+				
+				<h2>
+					<a class="implicit" href="writings/=$title&f$=.html">
+						=$title&h$=
+					</a>
+				</h2>
+				
+<?if "=$imagename$=" ?>
+				<p>
+					<a class="implicit" href="writings/=$title&f$=.html">
+						<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+					</a>
+				</p>
+<?endif?>
+				
+				=$teaser&w1o$=
+				
+				<div>
+					<a class="readmore" href="writings/=$title&f$=.html">read more...</a>
+					<p class="pubdate">
+						=$date&dd MMM yyy$=
+					</p>
+				</div>
+				<div class="clearboth"></div>
+			</article>
+<?loop?>

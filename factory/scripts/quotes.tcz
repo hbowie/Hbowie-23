@@ -4,7 +4,7 @@ module	action	modifier	object	value
 
 input	set		xpltags	false
 input	set		dirdepth	1
-input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/quotes
+input	open	notenik-defined		#PATH#../../content/quotes
 filter	clear			
 filter	set		params	
 sort	clear			
@@ -12,26 +12,32 @@ sort	add	ascending	author
 sort	add	ascending	date	
 sort	add	ascending	title	
 sort	set		params	
-template	webroot			/Users/hbowie/Sites/HBowie-23/web
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quote-page.html
+template	webroot			#PATH#../../web
+template	open			#PATH#../templates/quote-page.html
 template	generate			
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/author-quotes.html
+template	open			#PATH#../templates/author-quotes.html
 template	generate			
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quote-random.html
+template	open			#PATH#../templates/quote-random.html
 template	generate			
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/search-quotes.js
+template	open			#PATH#../templates/search-quotes.js
 template	generate			
 sort	clear			
 sort	add	descending	date-added	
 sort	set		params	
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/latest-quotes.html
+template	open			#PATH#../templates/latest-quotes.html
+template	generate			
+filter	clear			
+filter	add	eq	Featured	true
+filter	set		params	
+template	webroot			#PATH#../../web
+template	open			#PATH#../templates/featured-quote.html
 template	generate			
 
 <!-- Explode Tags for Quotes -->
 
 input	set		xpltags	true
 input	set		dirdepth	1
-input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/quotes
+input	open	notenik-defined		#PATH#../../content/quotes
 filter	clear
 filter	add	ne	Tag	
 filter	set		params
@@ -40,7 +46,7 @@ sort	set		params
 sort	add	ascending	Tag
 sort	add	ascending	Title
 sort	set		params
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quotes-xpltags.txt
+template	open			#PATH#../templates/quotes-xpltags.txt
 template	generate
-template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/quotes-for-tag.html
+template	open			#PATH#../templates/quotes-for-tag.html
 template	generate

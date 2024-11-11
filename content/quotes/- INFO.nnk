@@ -12,11 +12,11 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 450
+Last Index Selected: 489
 
 Mirror Auto Index: false
 
-Display Body Label: false
+Display Body Label: true
 
 Minimum Body Edit View Height: 5.0
 
@@ -44,7 +44,7 @@ Note File Format: nnk
 
 Hash Tags: notenik-field
 
-Window Numbers: 228.0;124.0;1150.0;1091.0;500.0;
+Window Numbers: 365.0;66.0;1160.0;748.0;500.0;
 
-Column Widths: rank: 50, 80, 250; author: 100, 200, 1500; x: 12, 20, 50; klass: 60, 80, 150; date: 80, 120, 500; dateadded: 100, 243, 1500; tags: 50, 100, 1200; title: 200, 224, 1500; datemod: 100, 180, 250; seq: 30, 80, 250; statusdigit: 20, 30, 50; 
+Column Widths: tags: 50, 100, 1200; dateadded: 100, 243, 1500; x: 12, 20, 50; datemod: 100, 180, 250; rank: 50, 80, 250; klass: 60, 80, 150; date: 80, 120, 500; author: 100, 200, 1500; seq: 30, 80, 250; statusdigit: 20, 30, 50; title: 200, 224, 1500; 
 

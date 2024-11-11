@@ -159,7 +159,7 @@ let searchQuotes = [
 		title: "All children of our Earth",
 		date: "",
     url: "quotes/all-children-of-our-earth.html",
-		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
+		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Russian cosmonaut Blueprint: The Evolutionary Origins of a Good Society "
 	},
 	{
 		title: "No person in America should be too poor to live",
@@ -423,7 +423,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -747,13 +747,13 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -771,25 +771,25 @@ let searchQuotes = [
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
@@ -801,25 +801,25 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -1366,6 +1366,12 @@ let searchQuotes = [
 		date: "2010",
     url: "quotes/the-tautness-of-this-resonant-connection.html",
 		content: "No matter what the form all art seems to produce a similar sensation of timelessness of implicit order of connectedness It is as if the work of art had sounded some deep note and caused sympathetic vibration in a hidden string a string whose one end is secured in the human heart and from there ascends towards some unknowable summit the existence of the termination point affirmed only by the tautness of this resonant connection Herb Bowie American author and software developer Reason to Rock: Rock Music as Art Form "
+	},
+	{
+		title: "The pulse of nature",
+		date: "1904",
+    url: "quotes/the-pulse-of-nature.html",
+		content: "I wanted to teach people to listen to the pulse of nature to partake of the wholeness of life and not forget under the pressure of their petty destinies that we are not gods and have not created ourselves but are children of the earth part of the cosmos Hermann Hesse German-Swiss poet, novelist, and painter Peter Camenzind "
 	},
 	{
 		title: "Social media is hyperactive",
@@ -2208,6 +2214,12 @@ let searchQuotes = [
 		content: " And your remarks on the text Mr Gott declared are merely a muddle Yes Gott said Mike meekly You see Mike you haven t any <em>brain< em> really No of course not said Mike You must just keep to the cackle and write nicely You write very nicely Yes said Mike dubiously Keep off thinking things out and you ll do well In fact you ll go far Michael Innes Pseudonym for John Innes Mackintosh Stewart, a Scottish novelist and academic The Seven Suspects "
 	},
 	{
+		title: "Engineer and designer need to party together",
+		date: "2007",
+    url: "quotes/engineer-and-designer-need-to-party-together.html",
+		content: "Prior to Steve Jobs return to Apple there was a decent centralized usability team equipped with those fancy rooms with one way mirrors and video cameras I m certain these folks did significant work but when Jobs returned he shut it down and he cast the design teams to the wind Each product team inherited part of the former usability team Now I arrived after this reorganization occurred so I don t know the actual reasoning but I do know I never saw those usability labs used once and I would argue that in the past decade Apple has created some of the most usable products out there My opinion is that the choice to spread the usability design function across the engineering team was intended to send a clear message engineer and designer need to party more together I can t imagine building a team responsible for consumer products where engineers and designers weren t constantly meddling in each other s business Yes they often argue from completely opposite sides of the brain Yes it is often a battle of art and science but engineering and design want exactly the same thing They want the intense satisfaction of knowing they successfully built something that matters Michael Lopp a blogger, software engineering manager, and webcomic author Managing Humans: Biting and Humorous Tales of a Software Engineering Manager "
+	},
+	{
 		title: "Couldn’t everyone’s life become a work of art?",
 		date: "",
     url: "quotes/couldnt-everyones-life-become-a-work-of-art.html",
@@ -2229,19 +2241,19 @@ let searchQuotes = [
 		title: "Belief is the end of Observation",
 		date: "27 Jun 2020",
     url: "quotes/belief-is-the-end-of-observation.html",
-		content: "What you do is you have an idea and you hold it in your mind as long as it s useful And then when it turns out not to be useful discard it But the idea of clinging to belief as a basis for your life which is what most people do is terrifying because belief is the end of observation You believe something you stop seeing everything else Clearly that is not desirable And yet it s the way most people live Milton Glaser  Design is Not Appearance: My Interview with Milton Glaser "
+		content: "What you do is you have an idea and you hold it in your mind as long as it s useful And then when it turns out not to be useful discard it But the idea of clinging to belief as a basis for your life which is what most people do is terrifying because belief is the end of observation You believe something you stop seeing everything else Clearly that is not desirable And yet it s the way most people live Milton Glaser American graphic designer Design is Not Appearance: My Interview with Milton Glaser "
 	},
 	{
 		title: "Design is not Appearance",
 		date: "27 Jun 2020",
     url: "quotes/design-is-not-appearance.html",
-		content: "Design is not appearance but a way of thinking about information and conveying ideas to others That s really what I do I am so interested in having ideas That idea that your role in the culture is to inform and delight is so sweet Not to persuade not to persuade Milton Glaser  Design is Not Appearance: My Interview with Milton Glaser "
+		content: "Design is not appearance but a way of thinking about information and conveying ideas to others That s really what I do I am so interested in having ideas That idea that your role in the culture is to inform and delight is so sweet Not to persuade not to persuade Milton Glaser American graphic designer Design is Not Appearance: My Interview with Milton Glaser "
 	},
 	{
 		title: "The lie of retirement",
 		date: "27 Jun 2020",
     url: "quotes/the-lie-of-retirement.html",
-		content: "One of the great lies of American culture is the lie of retirement that at a certain point in your life at 65 for god sakes you re ready to go to Florida and stare out the window for the next 30 years Where in the world did that idea come from Well we know where it came from The government was trying to have young people enter the workforce right So it invented this thing called retirement where people stop doing the most essential things of their lives I mean lose their purpose I have so much purpose left Milton Glaser  Design is Not Appearance: My Interview with Milton Glaser "
+		content: "One of the great lies of American culture is the lie of retirement that at a certain point in your life at 65 for god sakes you re ready to go to Florida and stare out the window for the next 30 years Where in the world did that idea come from Well we know where it came from The government was trying to have young people enter the workforce right So it invented this thing called retirement where people stop doing the most essential things of their lives I mean lose their purpose I have so much purpose left Milton Glaser American graphic designer Design is Not Appearance: My Interview with Milton Glaser "
 	},
 	{
 		title: "We're part of something continuous",
@@ -2257,9 +2269,9 @@ let searchQuotes = [
 	},
 	{
 		title: "It's sports and it's all love",
-		date: "18 Mar 2018",
+		date: "2018-03-18",
     url: "quotes/its-sports-and-its-all-love.html",
-		content: "At the end of the day it s sports and it s all love I feel for both sides Commenting on stopping on the court after a game to console Devin Davis an opponent who was sobbing on the court despondent over missing two crucual free throws Moritz Wagner   "
+		content: "At the end of the day it s sports and it s all love I feel for both sides Commenting on having stopped to console Devin Davis a college basketball opponent who was sobbing on the court despondent at the end of the game over missing two crucial free throws Moritz Wagner   "
 	},
 	{
 		title: "Amusing ourselves to death",
@@ -2272,6 +2284,12 @@ let searchQuotes = [
 		date: "1515",
     url: "quotes/introduction-of-a-new-order-of-things.html",
 		content: "And it ought to be remembered that there is nothing more difficult to take in hand more perilous to conduct or more uncertain in its success than to take the lead in the introduction of a new order of things Because the innovator has for enemies all those who have done well under the old conditions and lukewarm defenders in those who may do well under the new This coolness arises partly from fear of the opponents who have the laws on their side and partly from the incredulity of men who do not readily believe in new things until they have had a long experience of them Niccolò Machiavelli  The Prince "
+	},
+	{
+		title: "We are innately equipped to cooperate",
+		date: "",
+    url: "quotes/we-are-innately-equipped-to-cooperate.html",
+		content: "Living socially places special demands on us and many cognitive capacities and behavioral repertoires evolved in order for us to cope For example we are innately equipped to cooperate and living in cooperative groups favors certain genetic predispositions related to kindness and reciprocity Nicholas A. Christakis Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
 	},
 	{
 		title: "The Social Suite",
@@ -2434,6 +2452,12 @@ let searchQuotes = [
 		date: "1649",
     url: "quotes/wonderment-is-the-first-passion-of-all.html",
 		content: "When our first encounter with some object takes us by surprise and we judge it to be new or very different from what we have previously experienced or from what we expected it to be this causes us to wonder at it and be astonished And because this can happen before we have any knowledge of whether the thing is beneficial to us or not it seems to me that wonderment is the first passion of all And it has no contrary because if the object that presents itself has nothing in itself to surprise us we are not moved by it in any way and we consider it without any passion René Descartes French philosopher, mathematician, and scientist The Passions of the Soul "
+	},
+	{
+		title: "You can't dance cheerfully",
+		date: "1958",
+    url: "quotes/you-cant-dance-cheerfully.html",
+		content: "As a dancing partner Rose Tuttle was not a bargain She was equipped for it physically and she had some idea of rhythm that wasn t it it was her basic attitude She danced cheerfully and of course that was no good You can t dance cheerfully Dancing is too important It can be wild or solemn or gay or lewd or art for art s sake but it can t be cheerful Rex Stout  Champagne for One "
 	},
 	{
 		title: "Evolutionary Drive Towards Complexity",
@@ -2682,6 +2706,12 @@ let searchQuotes = [
 		content: "My model of management is the Beatles The reason I say that is because each of the key people in the Beatles kept the others from going off in the directions of their bad tendencies They sort of kept each other in check And then when they split up they never did anything as good It was the chemistry of a small group of people and that chemistry was greater than the sum of the parts Steve Jobs American business magnate, industrial designer, investor, and media proprietor Brent Schlender's Conversations with Steve Jobs "
 	},
 	{
+		title: "Making something with a great deal of care and love",
+		date: "2007",
+    url: "quotes/making-something-with-a-great-deal-of-care-and-love.html",
+		content: "One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there And you never meet the people You never shake their hands You never hear their story or tell yours But somehow in the act of making something with a great deal of care and love something s transmitted there And it s a way of expressing to the rest of our species our deep appreciation So we need to be true to who we are and remember what s really important to us Steve Jobs American business magnate, industrial designer, investor, and media proprietor  "
+	},
+	{
 		title: "Where the Puck is Going to Be",
 		date: "2007",
     url: "quotes/where-the-puck-is-going-to-be.html",
@@ -2820,6 +2850,12 @@ let searchQuotes = [
 		content: " note that this implicit recognition of the right side traits by the excellent companies is directly at the expense of more traditional left brain business practices causes to fight for are a long way from thirty quarterly MBO objectives The intimate team or small division ignores scale economies Allowing freedom of expression by thousands of quality circles flies in the face of the one best way of traditional production organization Tom Peters and Robert H. Waterman Jr.  In Search of Excellence: Lessons from America”s Best-Run Companies "
 	},
 	{
+		title: "Nature must govern technology",
+		date: "1976",
+    url: "quotes/nature-must-govern-technology.html",
+		content: "If we re ever going to get the world back on a natural footing back in tune with natural rhythyms if we re going to nurture the Earth and protect it and have fun with it and learn from it which is what mothers do with their children then we ve got to put technology an aggressive masculine system in its proper place which is that of a tool to be used sparingly joyfully gently and only in the fullest cooperation with nature Nature must govern technology not the other way around Tom Robbins American novelist Even Cowgirls Get the Blues "
+	},
+	{
 		title: "The World is a Wonderfully Weird Place",
 		date: "2007",
     url: "quotes/the-world-is-a-wonderfully-weird-place.html",
@@ -2899,7 +2935,7 @@ let searchQuotes = [
 	},
 	{
 		title: "We have the capacity to envision a better future and make it a reality",
-		date: "06 Aug 2020",
+		date: "2020-08-06",
     url: "quotes/we-have-the-capacity-to-envision-a-better-future-and-make-it-a-reality.html",
 		content: "Many people interpret the invisible hand concept as saying we should just take our hands off the steering wheel like there s nothing we should do I don t agree with that Humans aren t designed to accept the world as is so to just say whatever is denying what makes us thrive as a species More than any other creature on Earth we have the capacity to envision a better future and make it a reality We are askers of the question What kind of world do we want And perhaps even more importantly we can ask the follow up question How do we build that Victor Hwang Tech CEO and author Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
 	},
