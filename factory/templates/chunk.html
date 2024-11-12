@@ -8,10 +8,23 @@
 				</p>
 <?if "=$imagename$=" ?>
 				<p>
-					<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+<?if "=$image-link$=" ?>
+					<a href="=$image-link$=" class="implicit">
+<?endif?>
+						<img class="img-fluid rounded" src="=$relative$=images/=$imagename&f$=" alt="=$imagealt$=">
+<?if "=$image-link$=" ?>
+					</a>
+<?endif?>
 				</p>
 <?endif?>
 				=$body&o$=
+				
+<?if "=$button-text$=" ?>
+				<div>
+					<a class="readmore" href="=$button-link$=">=$button-text$=</a>
+				</div>
+<?endif?>
+				<div class="clearboth"></div>
 				
 			</article>
 <?loop?>
