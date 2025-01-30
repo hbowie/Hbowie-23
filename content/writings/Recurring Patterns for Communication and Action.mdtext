@@ -1,0 +1,226 @@
+Title:  Recurring Patterns for Communication and Action
+
+Class:  general
+
+Seq:    5.19
+
+Level:  3 - essay
+
+Short ID: rpca
+
+Featured: false
+
+Greatest Hits: false
+
+Minutes to Read: 3
+
+Date Added: 2025-01-23 12:12:43 -0800
+
+Date Modified: 2025-01-23 19:59:55 -0800
+
+Timestamp: 20250123201243
+
+Page Style:
+
+.beige
+{
+	color: #630;
+	font-weight: 500;
+	background-color: #F5F5DC;
+}
+.purple
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #8B00FF;
+}
+.red
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #CA0018;
+}
+.blue
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: blue;
+}
+.orange
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #FF8E01;
+}
+.green
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #019B2D;
+}
+.yellow
+{
+	color: #000;
+	font-weight: 500;
+	background-color: yellow;
+}
+
+
+Body:
+
+In which I hope to offer a useful model for considering the ways in which we humans communicate and take action. 
+
+But first, some acknowledgments. 
+
+## Sources 
+
+I first came across these patterns when reading Ken Wilber's book *A Brief History of Everything*, back in 1997 or so. Wilber describes these as levels of development. 
+
+But Wilber references the work of Beck and Cowan, which built on earlier work by Clare Graves, and so I then read the *Spiral Dynamics* book, from 1996. 
+
+And then I somehow stumbled across a more recent book by Hanzi Freinacht, in which he refers back to the work by Graves, Beck and Cowan as the "awkward uncle" of some of his work, and acknowledges that this model of "Value Memes," or "vMemes" (as they are called by Beck and Cowan) "catches something vital," and that, once you see them, "it's certainly hard to look away." 
+
+This has been true for me as well. And so this model, in one form or another, has continued to fascinate me over the years: it just seems to make so much sense, and to explain so much.
+
+So I've given it a lot of thought to this over the last quarter century. 
+
+And here is where I've ended up (or at least currently sit). 
+
+## The Patterns
+
+I've found it most useful to think of these various *developmental levels*, or *value memes*, as recurring patterns for human communication and action. I don't think that any of these patterns are inherently superior to any of the others, and I think it best to consider each pattern as having both advantages and disadvantages, and that it is best to call upon each of these as needed, and as they best fit the current circumstances of an individual, organization or society. 
+
+I want to present these first in the form of a table, to make it easy to see them as a collection, before drilling down into individual patterns. 
+
+These are the columns contained in the table. 
+
+Seq
+: The sequence numbers are assigned to imply a normal developmental sequence, and to create the usual order in which they are presented.
+
+Title
+: The title represents a very brief description of each pattern. 
+
+Color
+: Colors were originally assigned by Graves, Beck and Cowan (but then futzed with by Wilber and his group, over time). I'm just using the original Spiral Dynamics colors here. 
+
+Self vs. Group 
+: Beck and Cowan observed that these things tend to bounce back and forth between an asssertion of the importance of the self, and the importance of the collective. I've found this to be an important insight, and so am including it here. 
+
+Description
+: Some descriptive words and phrases that apply to each pattern.
+
+<table>
+<tr>
+<th>
+Seq</th>
+<th>
+Title</th>
+<th>
+Color</th>
+<th>
+Self vs Group</th>
+<th>
+Description </th>
+</tr>
+<tr>
+<td>
+1</td>
+<td>
+Archaic / Instinctive</td>
+<td class="beige">
+Beige</td>
+<td>
+self</td>
+<td>
+Focused solely on immediate survival needs; minimal sense of self; behavior based on natural instincts and reflexes; concern only for physical self and physical environment; nothing that we would recognize as society or culture. </td>
+</tr>
+<tr>
+<td>
+2</td>
+<td>
+Magical / Animistic</td>
+<td class="purple">
+Purple</td>
+<td>
+group</td>
+<td>
+Beginning to differentiate self from world, and elements of world from one another, and to intuit causal relationships, but no accurate understanding of these relationships; impulsive, possessing faith in magic and superheroes; tribal kinship bonds, ethnic tribes, ancestral stories, superstitious beliefs. </td>
+</tr>
+<tr>
+<td>
+3</td>
+<td>
+Tribal / Power Gods</td>
+<td class="red">
+Red</td>
+<td>
+self</td>
+<td>
+Egocentric; asserting self for dominance, conquest and power; evident in feudal empires and criminal gangs; people organize themselves based on power hierarchies, with the most powerful individuals leading the weaker; might makes right.  </td>
+</tr>
+<tr>
+<td>
+4</td>
+<td>
+Traditional / Mythic Order</td>
+<td class="blue">
+Blue</td>
+<td>
+group</td>
+<td>
+People organize themselves around mythic, fundamentalist principles of truth, with groups requiring close conformity to their particular principles, but with no reliable way to make value judgments comparing one group&#8217;s &#8220;truth&#8221; to another&#8217;s; group membership now based on professed allegiance and obedience to shared principles, rather than on family ties or geography or membership in gangs; fundamental principles held to be absolute and unvarying; belief in the law and in an authoritarian hierarchy from which the law is passed down. </td>
+</tr>
+<tr>
+<td>
+5</td>
+<td>
+Modern / Rational</td>
+<td class="orange">
+Orange</td>
+<td>
+self</td>
+<td>
+Society advances based on use of the scientific method; quantitative methods are introduced that allow people to make objective decisions about what is true and what is false; truth is determined based on the testing of a variety of hypotheses, rather than reference to an absolute authority; oriented towards achievement of results. </td>
+</tr>
+<tr>
+<td>
+6</td>
+<td>
+Postmodern / Pluralistic</td>
+<td class="green">
+Green</td>
+<td>
+group</td>
+<td>
+Egalitarian; relativistic; situational; accepting of fluid affiliations; acknowledges that there are multiple, valid ways of perceiving reality, and tries to accept all people and life forms by placing value on diversity; may be seen as a means of accommodating multiple tribes, gangs and mythic orders within a single, overarching social order; consensus-based decision-making. </td>
+</tr>
+<tr>
+<td>
+7</td>
+<td>
+Integral / Adaptive</td>
+<td class="yellow">
+Yellow</td>
+<td>
+both</td>
+<td>
+This is a mode that is aware of all the patterns, and is able to call upon each of  them as needed, or as most appropriate. (Note that I&#8217;m ending the list here, and so somewhat collapsing the original Yellow and Turquoise vMemes into a single pattern, for my purposes.)  </td>
+</tr>
+</table>
+
+Now let me talk about each of these in more detail. 
+
+## 1. Archaic/Instinctive - BEIGE
+
+In this pattern, an individual apprehends their surroundings directly, and responds to stimuli with instinctive action, unmediated by communication with others, or cultural influences, and unburdened by any abstract knowledge.
+
+## 2. Magical/Animistic - PURPLE
+
+In this pattern humans organize themselves into tribes, and try to protect themselves from danger through use of magical symbols, and through appeals to mythical gods and creatures.
+
+This may sound primitive, but every significant modern sports team has its own mascot, its team colors, its symbol/logo, and its traditional heroes. In my case, as a graduate of the University of Michigan, I have the [Block M](https://alumni.umich.edu/michigan-alum/history-lessons-the-block-m-in-brief/), the colors of maize and blue, and the legendary figure of Bo Schembechler. When I come across someone else sporting these colors and symbols, then I acknowledge our tribal bond and shared history by shouting out "Go Blue!" These are all examples of the Magical/Animistic pattern. 
+
+## 3. 
+
+
+These are all examples of the Purple pattern.

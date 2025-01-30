@@ -1,0 +1,326 @@
+Title:  A Modest Proposal for a Reader-Centric Messaging System
+
+Class:  general
+
+Seq:    99.15
+
+Level:  3 - essay
+
+Status: 4 - In Work
+
+Short ID: mprcms
+
+Featured: false
+
+Greatest Hits: false
+
+Minutes to Read: 10
+
+Date Added: 2024-11-12 15:03:19 -0800
+
+Date Modified: 2024-11-12 15:29:46 -0800
+
+Timestamp: 20241112230319
+
+Page Style:
+
+h3 {
+	font-size: 1.2em;
+	margin-bottom: 0;
+	font-weight: lighter;
+}
+
+Body:
+
+## Outline
+
+Following is an outline of the complete proposal. 
+
+{:toc:2-2}
+
+## 1. Goal
+
+I'd like to propose a modern, reader-centric messaging system that is significantly different from anything we know today. 
+
+
+## 2. Scope
+
+Let me break down my goal and explain the scope of my proposal.
+
+
+### 2.1 Message
+
+By *message*, I mean any relatively concise packet of primarily text-based information published by a sender at a specific point in time and intended for viewing by some set of readers at some point in the future. 
+
+
+### 2.2 What We Have Today
+
+The legacy messaging systems we know today include (but are not limited to):
+
++ E-mail
++ Text Messages
++ Social Media Posts
++ Private messages sent via social media platforms
++ Messages sent via special messaging platforms
++ Blogs
++ RSS feeds and Readers
+
+
+### 2.3 Reader-Centric
+
+Let me explain what I mean by *reader-centric*.
+
+It should be clear that for any messaging system there are at least three parties involved:
+
++ Senders
++ Platforms, responsible for recording, transmission and distribution of messages
++ Recipients (aka *Readers*)
+
+Now it seems clear to me that the messaging systems we have today are biased to favor these parties in the following sequence:
+
+1. Platforms
+2. Senders
+3. Readers
+
+In other words, even though the whole point of a message is to communicate something of value to a reader, we poor readers are dead last in terms of the priorities and values recognized and respected by these messaging systems. 
+
+Which is why we are all inundated by so much spam, and why many of us have abandoned some messaging systems altogether (I'm looking at you, email) and have chosen to send all of our messages via one preferred system or another. (For example, I have some friends who seem to communicate exclusively via Facebook Messenger; others only via text messages.) 
+
+Of course most of our platforms today are private and proprietary, and so are motivated by share prices and traffic volumes. So the systems they provide are inevitably biased to favor their interests. 
+
+And, of course, senders want to send. This is especially true for commercial interests and non-profit entities, who seem to think that, if the last email/text message/post they sent didn't generate enough money, then the answer must be to send another one as soon as possible. 
+
+But is there a better way? For us readers, I mean? Might it be possible to design and implement a messaging system designed to put readers first?
+
+I tend to think so. 
+
+So this proposal is for a messaging system biased towards the reader. 
+
+Such a bias will tend to make the entire communications system more effective and efficient (assuming that our goal is to actually provide readers with meaningful, timely and accurate information).
+
+
+### 2.4 Significantly Different
+
+Here's what I mean by *significantly different*.
+
+Each messaging system available today is characterized by a set of inflexible (and often inscrutable) design choices, typically combined with vigorous branding, and often arbitrarily walled off from alternative systems. 
+
+This proposal is for a system built on open standards, giving readers as much control as possible in terms of mixing and matching services and providers, and in filtering, sorting and viewing their messages.
+
+
+## 3. Basic Elements
+
+So, starting with a completely clean slate, what might a modern, reader-centric messaging system look like?
+
+Let me start just by talking about the basic pieces of such a system, in the simplest terms. 
+
+I'll flesh out two sorts of components in the proposal that follows: data to be communicated, generated and stored; and software that can be used to handle the data.
+
+
+### 3.1 Message Elements
+
+Let's start by defining the basic elements of a message. 
+
+At the core of a message is a chunk of **formatted text** attempting to communicate some information. 
+
+One or more **images** (still or moving) may be included with the text. 
+
+The message may be accompanied by a **subject**, otherwise known as a title. 
+
+A **sender** is identified. 
+
+The intended **audience** is identified. The intended audience can be specified as a specific set of recipients, or can be specified with a list name, allowing anyone to subscribe to (i.e. follow) that list.  
+
+The **date and time** of publication is captured.
+
+Each message has a **status**: draft, published, revised, withdrawn, no longer relevant, etc. 
+
+And there may be an optional **antecedent** identified: some earlier message to which this message is responding. 
+
+And there may be some file **attachments**. 
+
+I think that's enough to get us started. We'll talk about other useful characteristics of a message we might want to add a little bit later, but this should be enough for now.
+
+
+### 3.2 Identities
+
+We will need some way of uniquely identifying each person/role/organization that will be sending and receiving messages, and of associating important information with each identity.
+
+An identity should consist of a userid and an Internet domain name -- much like an email address.
+
+We'll talk more about identities later, but this will serve as a conceptual placeholder for now.
+
+
+### 3.3 Relationships
+
+We will also want to track relationships between identities. These should be visible and transparent to, and revokable by, both parties to a relationship. 
+
+Relationships will be taggable so that they may be categorized in various ways.
+
+
+### 3.4 Reader/Writer Apps
+
+Next, we'll need some sort of application software that a human can use to read and write messages, including responses to existing messages.
+
+Many such applications should exist, and users should be able to choose the one(s) they prefer, and should be able to customize, within reasonable limits, the layout and appearance of each application. 
+
+But all of these reader/writer applications should be able to handle all the various sorts of messages of interest to each user.
+
+
+### 3.5 Message Transport
+
+We should have one or more transport systems capable of receiving a message from a sender, and delivering it to the intended audience. 
+
+
+### 3.6 Message Storage
+
+Users may choose to have some of their incoming and outgoing messages stored on a server somewhere for some length of time. Again, multiple message storage providers should be available. 
+
+
+### 3.7 Open Standards
+
+It is of utmost importance that all of the proposed pieces of the system listed above communicate with each other through open, non-proprietary, evolving standards. Any player should be able to participate by contributing any of the software pieces, with either open-source or proprietary code. 
+
+
+### 3.8 So Far, So Good?
+
+That's it for the introductory conceptual outline. Sounds reasonable, doesn't it? Nothing too outlandish so far, right?
+
+OK, let's start adding some useful refinements.
+
+
+## 4. Refinements
+
+Let's see what features we might add to make this system more efficient, effective and useful for readers. 
+
+
+### 4.1 Sender Type
+
+Let's categorize each sender using the following scheme:
+
+**Broadcast** -- An identity used to send messages to others, but not intended to act as a recipient. 
+
+**Individual** -- An identity used by an individual, to send and receive messages on their own behalf. 
+
+**Org Role** -- An identity used to identify a particular role within a particular organization, and equipped to both send and receive messages. 
+
+This sort of category can be helpful for sorting and filtering incoming messages.
+
+
+### 4.2 Message Tagging
+
+Senders should be able to associate tags with their messages, to aid recipients in sorting and filtering them. The types of tags should vary based on the message type (proposed in the next section). 
+
+
+### 4.3 Message Type
+
+A sender should assign one of the following categories to each message. 
+
+**Offer to Sell a Product or Service** -- In other words, an advertisement. Senders should tag these according to the category of product or service being offered. 
+
+**Request for a Donation** -- These should be tagged by general purpose. 
+
+**Request for Action** -- A request for the reader to take some sort of action (other than an offer to sell or a request for a donation). 
+
+**News** -- A first-hand report on a person, organization, project or situation, as reported by an actual observer. 
+
+**Commentary** -- An opinion expressed about some piece of news. A link to the news or thing being commented on should be included, or a news message should be identified as an antecedent.  
+
+If a message is of multiple types, then it should be classified with the first/higher category on the list above.
+
+
+### 4.4 Message Importance
+
+The sender should assign an importance level to each message, ranging from trivial to vitally important.
+
+
+### 4.5 Message Lifetime
+
+The sender should be able to identify an expiration date for a message, or at least an approximate expected duration of significance. Most messages are only of interest for some limited period of time, and they shouldn't stick around longer than that.
+
+
+### 4.6 Message Privacy Level
+
+A range beginning with "For Your Eyes Only" and ending with "public". 
+
+
+### 4.7 Sender Trust Level
+
+Each recipient should be able to provide feedback about each message, indicating how accurately they believe it was categorized by the sender, in terms of sender type, message type, message importance and message duration. The default action of a recipient should be to  provide no feedback. If they wish, they may indicate that the message was read. If they felt that the message was not honestly and accurately categorized, then they should be able to provide negative feedback. Negative feedback from recipients will cause the sender's trust level to decline. Reported reads without negative feedback will cause the sender's trust level to increase. 
+
+Note that, at a minimum, sender trust levels should be maintained for each individual recipient, but they may also be optionally shared and pooled to establish more global trust levels.
+
+Note also that trust levels should be maintained for domain names, as well as for individual user IDs withn a domain, and the domain name trust level should be used to help assign trust levels for new/unrecognized IDs within that domain.
+
+
+### 4.8 Input Streams and Algorithms
+
+Recipients should be able to use all of this data about senders and messages to sort and filter incoming messages in any way they like, into as many input streams as they like. 
+
+There should be an open and standard means of specifying filtering and sorting criteria, so that these can be easily and openly inspected and shared.
+
+
+### 4.9 Business Models
+
+There should be various ways to pay for message storage and transport: by charging senders, by charging recipients, by bundling with other hardware/software, etc. 
+
+However, since an advertisement, by definition, would just be a particular type of message, it should not be possible for any of this to be funded by force-feeding ads to anyone.
+
+In general, it would probably be best for messages directed to specific recipients to be funded by senders, and for messages posted to a list to be funded by subscribers. This sort of arrangement would be most conducive to high-quality message content.
+
+
+## 5. Starting Up
+
+So how do we get the ball rolling on such a project?
+
+I've got a few thoughts.
+
+
+### 5.1 Email Plus
+
+In some ways it might be best to think of this project, and promote it as,  Email 2.0, or Email-Plus. 
+
+A few similarities:
+
++ Open Standards
++ Multiple Providers
++ IDs based on Internet Domain Names
+
+
+### 5.2 Legacy Integration
+
+The new system should be capable of receiving messages from, and sending messages to, as many legacy systems as possible. 
+
+
+### 5.3 Early Adopters
+
+Rolling out a new system like this depends on success with early adopters. 
+
+The obvious beneficiaries here are readers, but readers who are willing to pay for an enhanced messaging service will also quickly become senders to other early adopters. 
+
+Many entities will be initially resistant but, as they find that the people they most want to reach are now only accessible through use of the new system, they will gradually find themselves getting on board. 
+
+As more entities and people use the new system and realize that it's actually more efficient at communicating with their target audiences, usage should continue to grow.
+
+
+## 6. Summation
+
+Does any of this sound familiar?
+
+* I use multiple messaging systems to receive communications of interest from various parties (email, Facebook Messenger, text messages, Twitter, Mastodon, RSS reader, etc.)
+* I have to use several different apps just to keep up with news of interest to me;
+* I have to use different apps to communicate with different parties, depending on what apps they use;
+* All of these messaging systems ply me with advertisements, most of which are poorly focused on my wants and needs;
+* Some of the messages I receive come from unknown and potentially untrustworthy sources;
+* I don't know why I am seeing many of the messages I get (and also don't understand why I'm not seeing others of potentially greater interest);
+* I have to sift through a lot of unwanted messages in order to find the ones that are of actual interest to me;
+* I have trouble finding past messages when I want to refer to them;
+* I have to resort to third-party apps and services (SaneBox, etc.), in combination with my primary apps and services, in order to tame my inbox.
+
+And then consider -- if any of these apply to you -- that all of these troublesome and often frustrating experiences have been *designed in* to the systems we are currently using.
+
+So is it perhaps time for a fundamentally new design?
+
+Past time, I would say.
+
+

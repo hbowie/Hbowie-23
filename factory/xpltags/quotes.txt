@@ -184,6 +184,7 @@ critical thinking	critical-thinking.html	4	quotes	The point of modern propaganda
 critical thinking	critical-thinking.html	4	quotes	Politics and the Debasement of Language	George Orwell
 critical thinking	critical-thinking.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 critical thinking	critical-thinking.html	4	quotes	Public Truth	Robert B. Reich
+critical thinking	critical-thinking.html	4	quotes	Pursue not happiness, but discernment	Marlon Brando
 critical thinking	critical-thinking.html	4	quotes	Reversible vs. Irreversible Decisions	Jeff Bezos
 critical thinking	critical-thinking.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
 critical thinking	critical-thinking.html	4	quotes	Seeking ways to disagree with myself	Yanis Varoufakis
@@ -330,6 +331,7 @@ education	education.html	4	quotes	Learning from Experience	Peter Senge
 education	education.html	4	quotes	Learning how to exercise some control over how and what you think	David Foster Wallace
 education	education.html	4	quotes	Life is a series of daring adventures from a secure base	David Brooks
 education	education.html	4	quotes	The Opposite of Popularizing Economics	Yanis Varoufakis
+education	education.html	4	quotes	Preach a crusade against ignorance	Thomas Jefferson
 education	education.html	4	quotes	Preparing Managers to Manage	Matthew Stewart
 education	education.html	4	quotes	Prime training for permanent underclasses	John Taylor Gatto
 education	education.html	4	quotes	Quality Matters	Dambisa Moyo
@@ -367,6 +369,7 @@ equality	equality.html	4	quotes	Liberalism is not Socialism	Winston Churchill
 equality	equality.html	4	quotes	A multiethnic democracy in which no particular ethnic group is in the majority	Danielle Allen
 equality	equality.html	4	quotes	No person in America should be too poor to live	Alexandria Ocasio-Cortez
 equality	equality.html	4	quotes	Peace with Justice	Dwight D. Eisenhower
+equality	equality.html	4	quotes	The people are what matter to government	Frances Perkins
 equality	equality.html	4	quotes	The Philosophy of Jazz	Wynton Marsalis
 equality	equality.html	4	quotes	A Progressive Annual Tax on Capital	Thomas Piketty
 equality	equality.html	4	quotes	Public morality	Robert B. Reich
@@ -415,6 +418,7 @@ governance	governance.html	4	quotes	Living with the strains of complexity	Daniel
 governance	governance.html	4	quotes	No Perfect Answer	Barack Obama
 governance	governance.html	4	quotes	Nordic societies have simply taken the job of government seriously	Anu Partanen
 governance	governance.html	4	quotes	Our political system is not equipped to deliver solutions	Leah Greenberg and Ezra Levin
+governance	governance.html	4	quotes	The people are what matter to government	Frances Perkins
 governance	governance.html	4	quotes	Preparing Managers to Manage	Matthew Stewart
 governance	governance.html	4	quotes	The producing of good citizens	Juan Louis Vives
 governance	governance.html	4	quotes	A reactionary conservative party	Leah Greenberg and Ezra Levin
@@ -542,6 +546,7 @@ liberty	liberty.html	4	quotes	The World is a Wonderfully Weird Place	Tom Robbins
 love	love.html	4	quotes	The cause which is blocking all progress	G. K. Chesterton
 love	love.html	4	quotes	The difference between construction and creation	G. K. Chesterton
 love	love.html	4	quotes	A diminishing sense of shared humanity	Brené Brown
+love	love.html	4	quotes	The drive to love your partner is universal	Nicholas Christakis
 love	love.html	4	quotes	The Four-Fold Way	Angeles Arrien
 love	love.html	4	quotes	The fundamental goodness of human nature	Thomas Keating
 love	love.html	4	quotes	A Hundred Species of Love	Richard Powers

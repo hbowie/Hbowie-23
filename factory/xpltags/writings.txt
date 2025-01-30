@@ -1,280 +1,284 @@
 Tag	Tag File Name	Seq	Folder	Title	Author
 Americana	americana.html	3	writings	Train to Birmingham	John Hiatt
 Apple	apple.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
-Christmas	christmas.html	3	writings	Auld Lang Syne	Robert Burns
-Christmas	christmas.html	3	writings	Boogie Woogie Santa Claus	Leon René
 Christmas	christmas.html	3	writings	Christmas (Baby Please Come Home)	Ellie Greenwich, Jeff Barry and Phil Spector
+Christmas	christmas.html	3	writings	Christmas Song by Dave Matthews	Dave Matthews
+Christmas	christmas.html	3	writings	Reflections on the Christian Message	
+Christmas	christmas.html	3	writings	What Christmas Means to Me	
+Christmas	christmas.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
+Christmas	christmas.html	3	writings	Father Christmas - Song by The Kinks	
+Christmas	christmas.html	3	writings	Merry Christmas Baby - Song	
+Christmas	christmas.html	3	writings	Christmas Time Back Home - Song by The Country Gentlemen	
+Christmas	christmas.html	3	writings	Please Come Home for Christmas	
+Christmas	christmas.html	3	writings	Holiday in Harlem	
+Christmas	christmas.html	3	writings	Christmas Night in Harlem	
 Christmas	christmas.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
 Christmas	christmas.html	3	writings	Christmas Must Be Tonight	
-Christmas	christmas.html	3	writings	Christmas Night in Harlem	
-Christmas	christmas.html	3	writings	The Christmas Song	
-Christmas	christmas.html	3	writings	Christmas Song by Dave Matthews	Dave Matthews
-Christmas	christmas.html	3	writings	Christmas Time Back Home - Song by The Country Gentlemen	
-Christmas	christmas.html	3	writings	Christmas Time's A-Coming	
-Christmas	christmas.html	3	writings	Father Christmas - Song by The Kinks	
 Christmas	christmas.html	3	writings	Have Yourself a Merry Little Christmas	
-Christmas	christmas.html	3	writings	Holiday in Harlem	
+Christmas	christmas.html	3	writings	Auld Lang Syne	Robert Burns
 Christmas	christmas.html	3	writings	The Little Drummer Boy	
-Christmas	christmas.html	3	writings	Merry Christmas Baby - Song	
 Christmas	christmas.html	3	writings	My Favorite Things	
-Christmas	christmas.html	3	writings	Please Come Home for Christmas	
-Christmas	christmas.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
-Christmas	christmas.html	3	writings	Reflections on the Christian Message	
-Christmas	christmas.html	3	writings	Santa Claus is Coming to Town	
 Christmas	christmas.html	3	writings	Star of Wonder	
-Christmas	christmas.html	3	writings	What Christmas Means to Me	
+Christmas	christmas.html	3	writings	Christmas Time's A-Coming	
+Christmas	christmas.html	3	writings	Boogie Woogie Santa Claus	Leon René
+Christmas	christmas.html	3	writings	The Christmas Song	
+Christmas	christmas.html	3	writings	Santa Claus is Coming to Town	
+US politics	us-politics.html	3	writings	Why It's a Bad Time to be a Conservative	
+US politics	us-politics.html	3	writings	Welcome To The Autonomous States of America	
+US politics	us-politics.html	3	writings	The Progressive Problem	
 US politics	us-politics.html	3	writings	A Baker’s Dozen of Post-Election Thoughts & Feelings	
-US politics	us-politics.html	3	writings	The Big Truth	
-US politics	us-politics.html	3	writings	Calling for a US Sustainability Initiative	
-US politics	us-politics.html	3	writings	The Challenge for Democrats: Playing the Long Game	
-US politics	us-politics.html	3	writings	The Clown Coup	
-US politics	us-politics.html	3	writings	The Dangers of Political Nostalgia	
-US politics	us-politics.html	3	writings	The Decline of the Republican Party - First Gradually and then Suddenly	
-US politics	us-politics.html	3	writings	Diving Back Into Our American Muddle	
-US politics	us-politics.html	3	writings	Does the US Need a New, More Centrist, Political Party?	
 US politics	us-politics.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
-US politics	us-politics.html	3	writings	Have Our Political Parties Turned Into Cults?	
+US politics	us-politics.html	3	writings	Calling for a US Sustainability Initiative	
 US politics	us-politics.html	3	writings	The MAGA Bubble Finally Bursts	
 US politics	us-politics.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
-US politics	us-politics.html	3	writings	The Progressive Problem	
-US politics	us-politics.html	3	writings	The Shocking Truth About Us Liberals	
-US politics	us-politics.html	3	writings	Undoing Trumpism	
-US politics	us-politics.html	3	writings	Welcome To The Autonomous States of America	
-US politics	us-politics.html	3	writings	What Trump Gets Right	
+US politics	us-politics.html	3	writings	The Challenge for Democrats: Playing the Long Game	
 US politics	us-politics.html	3	writings	Where, Exactly, Are the Republicans Headed?	
-US politics	us-politics.html	3	writings	Why It's a Bad Time to be a Conservative	
-USA	usa.html	3	writings	Diving Back Into Our American Muddle	
+US politics	us-politics.html	3	writings	The Decline of the Republican Party - First Gradually and then Suddenly	
+US politics	us-politics.html	3	writings	Does the US Need a New, More Centrist, Political Party?	
+US politics	us-politics.html	3	writings	The Dangers of Political Nostalgia	
+US politics	us-politics.html	3	writings	The Big Truth	
+US politics	us-politics.html	3	writings	Have Our Political Parties Turned Into Cults?	
+US politics	us-politics.html	3	writings	What Trump Gets Right	
+US politics	us-politics.html	3	writings	The Shocking Truth About Us Liberals	
+US politics	us-politics.html	3	writings	Diving Back Into Our American Muddle	
+US politics	us-politics.html	3	writings	The Clown Coup	
+US politics	us-politics.html	3	writings	Undoing Trumpism	
 USA	usa.html	3	writings	Our American Class System	
+USA	usa.html	3	writings	Diving Back Into Our American Muddle	
 aging	aging.html	3	writings	Angel from Montgomery	John Prine
 aging	aging.html	3	writings	Train to Birmingham	John Hiatt
 art	art.html	3	writings	All Along The Watchtower	Bob Dylan
-art	art.html	3	writings	Art and the Eye of the Beholder	
-art	art.html	3	writings	Building a Case for the Detective Story	
-art	art.html	3	writings	Citizen Kane vs. Citizen Bailey	
-art	art.html	3	writings	Dethroning the False God of User Experience Design	
-art	art.html	3	writings	Getting Back to The Feeling	
-art	art.html	3	writings	How to Listen to Music	
 art	art.html	3	writings	The Last Trip to Tulsa	Neil Young
-art	art.html	3	writings	My Advice to Young People of All Ages	
-art	art.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
 art	art.html	3	writings	Rain	John Lennon and Paul McCartney
 art	art.html	3	writings	Rosalita (Come Out Tonight)	Bruce Springsteen
 art	art.html	3	writings	School Day	Chuck Berry
 art	art.html	3	writings	Turn the Page	Bob Seger
 art	art.html	3	writings	When I Paint My Masterpiece	Bob Dylan
+art	art.html	3	writings	Art and the Eye of the Beholder	
+art	art.html	3	writings	My Advice to Young People of All Ages	
+art	art.html	3	writings	Dethroning the False God of User Experience Design	
+art	art.html	3	writings	Citizen Kane vs. Citizen Bailey	
+art	art.html	3	writings	Building a Case for the Detective Story	
+art	art.html	3	writings	How to Listen to Music	
+art	art.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
+art	art.html	3	writings	Getting Back to The Feeling	
 authority	authority.html	3	writings	For What It's Worth	Stephen Stills
-balance	balance.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
 balance	balance.html	3	writings	In Defense of Balance	
-balance	balance.html	3	writings	Kindness by Design	
-balance	balance.html	3	writings	Life is Complicated	
-balance	balance.html	3	writings	My Prayer for a More Integral New Year	
-balance	balance.html	3	writings	Religious Freedom	
 balance	balance.html	3	writings	What To Do About Big Business?	
+balance	balance.html	3	writings	Religious Freedom	
+balance	balance.html	3	writings	Life is Complicated	
+balance	balance.html	3	writings	Kindness by Design	
+balance	balance.html	3	writings	My Prayer for a More Integral New Year	
+balance	balance.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
 balance	balance.html	3	writings	What Trump Gets Right	
 community	community.html	3	writings	King Harvest (Has Surely Come)	Robbie Robertson
 community	community.html	3	writings	Rosalita (Come Out Tonight)	Bruce Springsteen
-connection	connection.html	3	writings	Auld Lang Syne	Robert Burns
-connection	connection.html	3	writings	Christmas Night in Harlem	
-connection	connection.html	3	writings	Christmas Time's A-Coming	
-connection	connection.html	3	writings	Core Design Principles for The Efficacy of Groups	
-connection	connection.html	3	writings	Dethroning the False God of User Experience Design	
-connection	connection.html	3	writings	Father Christmas - Song by The Kinks	
-connection	connection.html	3	writings	Have Yourself a Merry Little Christmas	
-connection	connection.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
-connection	connection.html	3	writings	Managing Our Identity Stacks	
-connection	connection.html	3	writings	My Prayer for a More Integral New Year	
-connection	connection.html	3	writings	Please Come Home for Christmas	
-connection	connection.html	3	writings	Social Distancing and our Essential Nature	
-connection	connection.html	3	writings	We Are Multi-Tribal	
+community	community.html	3	writings	Desperados Under the Eaves	Warren Zevon
 connection	connection.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
+connection	connection.html	3	writings	Core Design Principles for The Efficacy of Groups	
+connection	connection.html	3	writings	We Are Multi-Tribal	
+connection	connection.html	3	writings	Managing Our Identity Stacks	
+connection	connection.html	3	writings	Dethroning the False God of User Experience Design	
+connection	connection.html	3	writings	My Prayer for a More Integral New Year	
+connection	connection.html	3	writings	Father Christmas - Song by The Kinks	
+connection	connection.html	3	writings	Please Come Home for Christmas	
+connection	connection.html	3	writings	Christmas Night in Harlem	
+connection	connection.html	3	writings	Have Yourself a Merry Little Christmas	
+connection	connection.html	3	writings	Auld Lang Syne	Robert Burns
+connection	connection.html	3	writings	Christmas Time's A-Coming	
+connection	connection.html	3	writings	Social Distancing and our Essential Nature	
+connection	connection.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
 cowboys	cowboys.html	3	writings	Angel from Montgomery	John Prine
 cowboys	cowboys.html	3	writings	If I Had a Boat	Lyle Lovett
 cowboys	cowboys.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
-critical thinking	critical-thinking.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
-critical thinking	critical-thinking.html	3	writings	Building a Case for the Detective Story	
-critical thinking	critical-thinking.html	3	writings	The Clown Coup	
-critical thinking	critical-thinking.html	3	writings	The Dangers of Political Nostalgia	
-critical thinking	critical-thinking.html	3	writings	The Decline of the Republican Party - First Gradually and then Suddenly	
-critical thinking	critical-thinking.html	3	writings	Earned Value Management (EVM) for Mere Mortals	
-critical thinking	critical-thinking.html	3	writings	Have Our Political Parties Turned Into Cults?	
-critical thinking	critical-thinking.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
-critical thinking	critical-thinking.html	3	writings	Keeping to the Cackle with AI	
-critical thinking	critical-thinking.html	3	writings	Life is Complicated	
-critical thinking	critical-thinking.html	3	writings	The MAGA Bubble Finally Bursts	
-critical thinking	critical-thinking.html	3	writings	The Nature of God	
-critical thinking	critical-thinking.html	3	writings	Our Three Human Approaches to Dealing with Problems	
-critical thinking	critical-thinking.html	3	writings	Reasons for Belief	
-critical thinking	critical-thinking.html	3	writings	Religious Freedom	
 critical thinking	critical-thinking.html	3	writings	Some Hard Truths About Human Population Growth	
-critical thinking	critical-thinking.html	3	writings	Some Hard-Won Wisdom Concerning Cults	
+critical thinking	critical-thinking.html	3	writings	The Nature of God	
+critical thinking	critical-thinking.html	3	writings	Religious Freedom	
+critical thinking	critical-thinking.html	3	writings	Reasons for Belief	
 critical thinking	critical-thinking.html	3	writings	Understanding Human History	
-critical thinking	critical-thinking.html	3	writings	Where, Exactly, Are the Republicans Headed?	
+critical thinking	critical-thinking.html	3	writings	Some Hard-Won Wisdom Concerning Cults	
+critical thinking	critical-thinking.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
+critical thinking	critical-thinking.html	3	writings	Life is Complicated	
+critical thinking	critical-thinking.html	3	writings	Our Three Human Approaches to Dealing with Problems	
 critical thinking	critical-thinking.html	3	writings	Why I Use Markdown (And Why You Should Too)	
-cultural evolution	cultural-evolution.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
-cultural evolution	cultural-evolution.html	3	writings	Apollo 11 - 2019 film	
-cultural evolution	cultural-evolution.html	3	writings	A Broadcast Consciousness	
-cultural evolution	cultural-evolution.html	3	writings	Building a Case for the Detective Story	
-cultural evolution	cultural-evolution.html	3	writings	Can the US Become a Truly Egalitarian Society?	
-cultural evolution	cultural-evolution.html	3	writings	Christmas Must Be Tonight	
-cultural evolution	cultural-evolution.html	3	writings	Citizen Kane vs. Citizen Bailey	
-cultural evolution	cultural-evolution.html	3	writings	Cooperation, Competition and Coercion	
-cultural evolution	cultural-evolution.html	3	writings	Core Design Principles for The Efficacy of Groups	
+critical thinking	critical-thinking.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
+critical thinking	critical-thinking.html	3	writings	The MAGA Bubble Finally Bursts	
+critical thinking	critical-thinking.html	3	writings	Where, Exactly, Are the Republicans Headed?	
+critical thinking	critical-thinking.html	3	writings	The Decline of the Republican Party - First Gradually and then Suddenly	
+critical thinking	critical-thinking.html	3	writings	The Dangers of Political Nostalgia	
+critical thinking	critical-thinking.html	3	writings	Have Our Political Parties Turned Into Cults?	
+critical thinking	critical-thinking.html	3	writings	Building a Case for the Detective Story	
+critical thinking	critical-thinking.html	3	writings	Keeping to the Cackle with AI	
+critical thinking	critical-thinking.html	3	writings	The Clown Coup	
+critical thinking	critical-thinking.html	3	writings	Earned Value Management (EVM) for Mere Mortals	
 cultural evolution	cultural-evolution.html	3	writings	Developmental Levels	
+cultural evolution	cultural-evolution.html	3	writings	Developmental Levels as Complementary Modes of Behavior	
 cultural evolution	cultural-evolution.html	3	writings	Developmental Levels as Evolving Social Structures	
-cultural evolution	cultural-evolution.html	3	writings	Diving Back Into Our American Muddle	
+cultural evolution	cultural-evolution.html	3	writings	Core Design Principles for The Efficacy of Groups	
 cultural evolution	cultural-evolution.html	3	writings	Evolution and Its Implications	
-cultural evolution	cultural-evolution.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
-cultural evolution	cultural-evolution.html	3	writings	Help! Help! The Robots are Coming!	
 cultural evolution	cultural-evolution.html	3	writings	Human Culture and its Evolution	
-cultural evolution	cultural-evolution.html	3	writings	Lessons to be Learned from the Fall of Afghanistan	
-cultural evolution	cultural-evolution.html	3	writings	Life is Complicated	
-cultural evolution	cultural-evolution.html	3	writings	A Note For Posterity	
 cultural evolution	cultural-evolution.html	3	writings	Patterns of Human Cooperation	
-cultural evolution	cultural-evolution.html	3	writings	The Personal vs. The Institutional	
-cultural evolution	cultural-evolution.html	3	writings	A Practopian Approach to Gun Issues in the US	
-cultural evolution	cultural-evolution.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
 cultural evolution	cultural-evolution.html	3	writings	Rebuilding Trust in Our Large Institutions	
 cultural evolution	cultural-evolution.html	3	writings	Religion, Storytelling and Art	
 cultural evolution	cultural-evolution.html	3	writings	The Systemic Era	
-cultural evolution	cultural-evolution.html	3	writings	Talking Openly about Hierarchy	
-cultural evolution	cultural-evolution.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
-cultural evolution	cultural-evolution.html	3	writings	Understanding Human History	
 cultural evolution	cultural-evolution.html	3	writings	What Does It Mean to be Human?	
+cultural evolution	cultural-evolution.html	3	writings	Understanding Human History	
+cultural evolution	cultural-evolution.html	3	writings	Cooperation, Competition and Coercion	
+cultural evolution	cultural-evolution.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
+cultural evolution	cultural-evolution.html	3	writings	Talking Openly about Hierarchy	
+cultural evolution	cultural-evolution.html	3	writings	A Broadcast Consciousness	
+cultural evolution	cultural-evolution.html	3	writings	Life is Complicated	
+cultural evolution	cultural-evolution.html	3	writings	The Personal vs. The Institutional	
+cultural evolution	cultural-evolution.html	3	writings	Citizen Kane vs. Citizen Bailey	
+cultural evolution	cultural-evolution.html	3	writings	Help! Help! The Robots are Coming!	
+cultural evolution	cultural-evolution.html	3	writings	Can the US Become a Truly Egalitarian Society?	
+cultural evolution	cultural-evolution.html	3	writings	A Practopian Approach to Gun Issues in the US	
+cultural evolution	cultural-evolution.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
+cultural evolution	cultural-evolution.html	3	writings	Building a Case for the Detective Story	
+cultural evolution	cultural-evolution.html	3	writings	Apollo 11 - 2019 film	
+cultural evolution	cultural-evolution.html	3	writings	A Note For Posterity	
+cultural evolution	cultural-evolution.html	3	writings	Christmas Must Be Tonight	
+cultural evolution	cultural-evolution.html	3	writings	Diving Back Into Our American Muddle	
+cultural evolution	cultural-evolution.html	3	writings	Lessons to be Learned from the Fall of Afghanistan	
+cultural evolution	cultural-evolution.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
+cultural evolution	cultural-evolution.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
 death	death.html	3	writings	And When I Die	Laura Nyro
 death	death.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 death	death.html	3	writings	Late For The Sky	Jackson Browne
 death	death.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
-death	death.html	3	writings	Pancho and Lefty	Townes Van Zandt
 death	death.html	3	writings	Will the Circle be Unbroken	A.P. Carter
-democracy	democracy.html	3	writings	The Big Truth	
-democracy	democracy.html	3	writings	The Challenge for Democrats: Playing the Long Game	
-democracy	democracy.html	3	writings	The Dangers of Political Nostalgia	
-democracy	democracy.html	3	writings	The Decline of the Republican Party - First Gradually and then Suddenly	
+death	death.html	3	writings	Pancho and Lefty	Townes Van Zandt
 democracy	democracy.html	3	writings	Democracy	
+democracy	democracy.html	3	writings	The Truth About Capitalism	
+democracy	democracy.html	3	writings	What To Do About Big Business?	
+democracy	democracy.html	3	writings	Religion, Storytelling and Art	
+democracy	democracy.html	3	writings	Why Do We Call It Capitalism?	
 democracy	democracy.html	3	writings	How to Fix Big Tech	
-democracy	democracy.html	3	writings	The Importance of Progressive Activism	
-democracy	democracy.html	3	writings	Is There Any Middle Left?	
-democracy	democracy.html	3	writings	Lessons to be Learned from the Fall of Afghanistan	
-democracy	democracy.html	3	writings	The MAGA Bubble Finally Bursts	
 democracy	democracy.html	3	writings	Of Idiots and Autocrats	
 democracy	democracy.html	3	writings	Our American Class System	
 democracy	democracy.html	3	writings	The Personal vs. The Institutional	
-democracy	democracy.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
-democracy	democracy.html	3	writings	The Progressive Problem	
-democracy	democracy.html	3	writings	Religion, Storytelling and Art	
 democracy	democracy.html	3	writings	The System is Working Very Well, Thank You	
-democracy	democracy.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
-democracy	democracy.html	3	writings	The Truth About Capitalism	
-democracy	democracy.html	3	writings	Ukrainian Lives Matter	
-democracy	democracy.html	3	writings	What To Do About Big Business?	
-democracy	democracy.html	3	writings	What Trump Gets Right	
+democracy	democracy.html	3	writings	The Progressive Problem	
+democracy	democracy.html	3	writings	The MAGA Bubble Finally Bursts	
+democracy	democracy.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
+democracy	democracy.html	3	writings	The Challenge for Democrats: Playing the Long Game	
 democracy	democracy.html	3	writings	Where, Exactly, Are the Republicans Headed?	
-democracy	democracy.html	3	writings	Why Do We Call It Capitalism?	
+democracy	democracy.html	3	writings	The Decline of the Republican Party - First Gradually and then Suddenly	
+democracy	democracy.html	3	writings	The Dangers of Political Nostalgia	
+democracy	democracy.html	3	writings	The Big Truth	
+democracy	democracy.html	3	writings	What Trump Gets Right	
+democracy	democracy.html	3	writings	Is There Any Middle Left?	
+democracy	democracy.html	3	writings	Ukrainian Lives Matter	
+democracy	democracy.html	3	writings	The Importance of Progressive Activism	
+democracy	democracy.html	3	writings	Lessons to be Learned from the Fall of Afghanistan	
+democracy	democracy.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
 depression	depression.html	3	writings	White Room	Jack Bruce and Pete Brown
 design	design.html	3	writings	Kindness by Design	
 devil	devil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
+education	education.html	3	writings	Understanding Human History	
 education	education.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
 education	education.html	3	writings	My Advice to Young People of All Ages	
-education	education.html	3	writings	Understanding Human History	
 emotions	emotions.html	3	writings	For What It's Worth	Stephen Stills
 enchantment	enchantment.html	3	writings	Late For The Sky	Jackson Browne
-equality	equality.html	3	writings	Can the US Become a Truly Egalitarian Society?	
-equality	equality.html	3	writings	Cooperation, Competition and Coercion	
+equality	equality.html	3	writings	The Truth About Capitalism	
 equality	equality.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
-equality	equality.html	3	writings	Father Christmas - Song by The Kinks	
-equality	equality.html	3	writings	The Little Drummer Boy	
+equality	equality.html	3	writings	Cooperation, Competition and Coercion	
 equality	equality.html	3	writings	Our American Class System	
 equality	equality.html	3	writings	The System is Working Very Well, Thank You	
-equality	equality.html	3	writings	The Truth About Capitalism	
+equality	equality.html	3	writings	Can the US Become a Truly Egalitarian Society?	
+equality	equality.html	3	writings	Father Christmas - Song by The Kinks	
+equality	equality.html	3	writings	The Little Drummer Boy	
 equality	equality.html	3	writings	Ukrainian Lives Matter	
-equality	equality.html	3	writings	Undoing Trumpism	
 equality	equality.html	3	writings	Violence at the 94th Academy Awards	
+equality	equality.html	3	writings	Undoing Trumpism	
 ethics	ethics.html	3	writings	Reflections on the Christian Message	
-ethics	ethics.html	3	writings	Ring Them Bells	Bob Dylan
 ethics	ethics.html	3	writings	The Rotary Four-Way Test	
+ethics	ethics.html	3	writings	Ring Them Bells	Bob Dylan
 evil	evil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 evolution	evolution.html	3	writings	Evolution and Its Implications	
-evolution	evolution.html	3	writings	Life is Complicated	
 evolution	evolution.html	3	writings	What Does It Mean to be Human?	
+evolution	evolution.html	3	writings	Life is Complicated	
 family	family.html	3	writings	I Don't Like Half The Folks I Love	Paul Thorn and Billy Maddox
 family	family.html	3	writings	A Note For Posterity	
 freedom	freedom.html	3	writings	Angel from Montgomery	John Prine
 freedom	freedom.html	3	writings	If I Had a Boat	Lyle Lovett
+freedom	freedom.html	3	writings	Desperados Under the Eaves	Warren Zevon
 god	god.html	3	writings	Quiet About It	Jesse Winchester
+god	god.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 god	god.html	3	writings	Reflections on the Christian Message	
 god	god.html	3	writings	Ring Them Bells	Bob Dylan
 god	god.html	3	writings	Step by Step	Jesse Winchester
-god	god.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
-governance	governance.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
-governance	governance.html	3	writings	The Big Truth	
-governance	governance.html	3	writings	The Challenge for Democrats: Playing the Long Game	
-governance	governance.html	3	writings	The Dangers of Political Nostalgia	
-governance	governance.html	3	writings	Diving Back Into Our American Muddle	
-governance	governance.html	3	writings	Does the US Need a New, More Centrist, Political Party?	
-governance	governance.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
 governance	governance.html	3	writings	The Four Essential Attributes of any Organization	
-governance	governance.html	3	writings	Free Speech at the Crossroads	
-governance	governance.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
-governance	governance.html	3	writings	Is There Any Middle Left?	
-governance	governance.html	3	writings	Kindness by Design	
 governance	governance.html	3	writings	Leadership and Followership: 21 Key Observations	
-governance	governance.html	3	writings	Lessons to be Learned from the Fall of Afghanistan	
-governance	governance.html	3	writings	The MAGA Bubble Finally Bursts	
 governance	governance.html	3	writings	Patterns of Human Cooperation	
-governance	governance.html	3	writings	The Personal vs. The Institutional	
-governance	governance.html	3	writings	The Progressive Problem	
 governance	governance.html	3	writings	Rebuilding Trust in Our Large Institutions	
-governance	governance.html	3	writings	Schembechler, Bacon and Leadership	
-governance	governance.html	3	writings	Talking Openly about Hierarchy	
-governance	governance.html	3	writings	Thinking about Abortion(s)	
-governance	governance.html	3	writings	Undoing Trumpism	
-governance	governance.html	3	writings	What Trump Gets Right	
 governance	governance.html	3	writings	Why It's a Bad Time to be a Conservative	
+governance	governance.html	3	writings	Talking Openly about Hierarchy	
+governance	governance.html	3	writings	The Personal vs. The Institutional	
+governance	governance.html	3	writings	Schembechler, Bacon and Leadership	
 governance	governance.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
+governance	governance.html	3	writings	The Progressive Problem	
+governance	governance.html	3	writings	Kindness by Design	
+governance	governance.html	3	writings	Thinking about Abortion(s)	
+governance	governance.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
+governance	governance.html	3	writings	Are Political Parties Doing Us More Harm Than Good?	
+governance	governance.html	3	writings	The MAGA Bubble Finally Bursts	
 governance	governance.html	3	writings	The Widening Spiral of Modern Society	
+governance	governance.html	3	writings	The Challenge for Democrats: Playing the Long Game	
+governance	governance.html	3	writings	Free Speech at the Crossroads	
+governance	governance.html	3	writings	Does the US Need a New, More Centrist, Political Party?	
+governance	governance.html	3	writings	The Dangers of Political Nostalgia	
+governance	governance.html	3	writings	The Big Truth	
+governance	governance.html	3	writings	What Trump Gets Right	
+governance	governance.html	3	writings	Is There Any Middle Left?	
+governance	governance.html	3	writings	Diving Back Into Our American Muddle	
+governance	governance.html	3	writings	Lessons to be Learned from the Fall of Afghanistan	
+governance	governance.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
+governance	governance.html	3	writings	Undoing Trumpism	
 home	home.html	3	writings	Train to Birmingham	John Hiatt
+home	home.html	3	writings	Desperados Under the Eaves	Warren Zevon
 human development	human-development.html	3	writings	They All Laughed	George and Ira Gershwin
 humanism	humanism.html	3	writings	And When I Die	Laura Nyro
-humanism	humanism.html	3	writings	Boogie Woogie Santa Claus	Leon René
 humanism	humanism.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
-humanism	humanism.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
 humanism	humanism.html	3	writings	Come On Up to the House	Tom Waits
 humanism	humanism.html	3	writings	Fruitcakes	Jimmy Buffett
-humanism	humanism.html	3	writings	A Guide To Becoming	
 humanism	humanism.html	3	writings	Hallelujah	Leonard Cohen
-humanism	humanism.html	3	writings	Humanism and the Practical Utopian	
 humanism	humanism.html	3	writings	Late For The Sky	Jackson Browne
-humanism	humanism.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
-humanism	humanism.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
-humanism	humanism.html	3	writings	Rejiggering Our Religion	
-humanism	humanism.html	3	writings	Religion, Storytelling and Art	
-humanism	humanism.html	3	writings	A Resumption of our Humanity	
-humanism	humanism.html	3	writings	Ring Them Bells	Bob Dylan
 humanism	humanism.html	3	writings	The Village Green Preservation Society	Ray Davies
 humanism	humanism.html	3	writings	The Weight	Robbie Robertson
+humanism	humanism.html	3	writings	Will the Circle be Unbroken	A.P. Carter
+humanism	humanism.html	3	writings	Humanism and the Practical Utopian	
+humanism	humanism.html	3	writings	Rejiggering Our Religion	
+humanism	humanism.html	3	writings	Religion, Storytelling and Art	
 humanism	humanism.html	3	writings	What Does It Mean to be Human?	
 humanism	humanism.html	3	writings	Why I Call Myself a Practopian	
-humanism	humanism.html	3	writings	Will the Circle be Unbroken	A.P. Carter
+humanism	humanism.html	3	writings	A Guide To Becoming	
+humanism	humanism.html	3	writings	A Resumption of our Humanity	
+humanism	humanism.html	3	writings	Ring Them Bells	Bob Dylan
+humanism	humanism.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
+humanism	humanism.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
+humanism	humanism.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
+humanism	humanism.html	3	writings	Boogie Woogie Santa Claus	Leon René
 illusion	illusion.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
-imperfection	imperfection.html	3	writings	Dethroning the False God of User Experience Design	
 imperfection	imperfection.html	3	writings	Fruitcakes	Jimmy Buffett
+imperfection	imperfection.html	3	writings	When I Paint My Masterpiece	Bob Dylan
 imperfection	imperfection.html	3	writings	Imperfection	
 imperfection	imperfection.html	3	writings	Life is Complicated	
-imperfection	imperfection.html	3	writings	When I Paint My Masterpiece	Bob Dylan
-individuals	individuals.html	3	writings	Dethroning the False God of User Experience Design	
-individuals	individuals.html	3	writings	A Guide To Becoming	
-individuals	individuals.html	3	writings	Help! Help! The Robots are Coming!	
-individuals	individuals.html	3	writings	My Advice to Young People of All Ages	
+imperfection	imperfection.html	3	writings	Dethroning the False God of User Experience Design	
 individuals	individuals.html	3	writings	The Value of Individuals	
+individuals	individuals.html	3	writings	A Guide To Becoming	
+individuals	individuals.html	3	writings	My Advice to Young People of All Ages	
+individuals	individuals.html	3	writings	Dethroning the False God of User Experience Design	
+individuals	individuals.html	3	writings	Help! Help! The Robots are Coming!	
+integral	integral.html	3	writings	Developmental Levels	
+integral	integral.html	3	writings	An Integral Approach	
+integral	integral.html	3	writings	The Four Quadrants of Human Knowledge	
+integral	integral.html	3	writings	Developmental Levels as Evolving Social Structures	
+integral	integral.html	3	writings	Core Design Principles for The Efficacy of Groups	
+integral	integral.html	3	writings	The Nature of God	
 integral	integral.html	3	writings	A Broadcast Consciousness	
 integral	integral.html	3	writings	Citizen Kane vs. Citizen Bailey	
-integral	integral.html	3	writings	Core Design Principles for The Efficacy of Groups	
-integral	integral.html	3	writings	Developmental Levels	
-integral	integral.html	3	writings	Developmental Levels as Evolving Social Structures	
-integral	integral.html	3	writings	The Four Quadrants of Human Knowledge	
-integral	integral.html	3	writings	An Integral Approach	
 integral	integral.html	3	writings	My Prayer for a More Integral New Year	
-integral	integral.html	3	writings	The Nature of God	
 integral	integral.html	3	writings	A Practopian Approach to Gun Issues in the US	
 integral	integral.html	3	writings	What Trump Gets Right	
 integrity	integrity.html	3	writings	The Last Trip to Tulsa	Neil Young
@@ -285,170 +289,170 @@ liberation	liberation.html	3	writings	King Harvest (Has Surely Come)	Robbie Robe
 liberation	liberation.html	3	writings	Like A Rolling Stone	Bob Dylan
 liberation	liberation.html	3	writings	Rosalita (Come Out Tonight)	Bruce Springsteen
 liberation	liberation.html	3	writings	School Day	Chuck Berry
-liberty	liberty.html	3	writings	Free Speech at the Crossroads	
-liberty	liberty.html	3	writings	Popping the Hood with the Notenik App	
 liberty	liberty.html	3	writings	Religious Freedom	
-liberty	liberty.html	3	writings	Thank God for Elon Musk!	
-liberty	liberty.html	3	writings	Thinking about Abortion(s)	
 liberty	liberty.html	3	writings	Welcome To The Autonomous States of America	
 liberty	liberty.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
+liberty	liberty.html	3	writings	Thinking about Abortion(s)	
+liberty	liberty.html	3	writings	Free Speech at the Crossroads	
+liberty	liberty.html	3	writings	Thank God for Elon Musk!	
+liberty	liberty.html	3	writings	Popping the Hood with the Notenik App	
 life	life.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
-love	love.html	3	writings	Christmas Night in Harlem	
 love	love.html	3	writings	Christmas Song by Dave Matthews	Dave Matthews
-love	love.html	3	writings	Christmas Time Back Home - Song by The Country Gentlemen	
-love	love.html	3	writings	Dethroning the False God of User Experience Design	
 love	love.html	3	writings	Hallelujah	Leonard Cohen
 love	love.html	3	writings	It's About Time	Dennis Wilson, Bob Burchman and Alan Jardine
 love	love.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
-love	love.html	3	writings	Merry Christmas Baby - Song	
-love	love.html	3	writings	More Love	
-love	love.html	3	writings	Please Come Home for Christmas	
-love	love.html	3	writings	Religious Freedom	
 love	love.html	3	writings	Shady Grove	Traditional
 love	love.html	3	writings	Stringing Me Along	Jess Chambers
-mission	mission.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
-mission	mission.html	3	writings	The Four Essential Attributes of any Organization	
+love	love.html	3	writings	More Love	
+love	love.html	3	writings	Religious Freedom	
+love	love.html	3	writings	Dethroning the False God of User Experience Design	
+love	love.html	3	writings	Merry Christmas Baby - Song	
+love	love.html	3	writings	Christmas Time Back Home - Song by The Country Gentlemen	
+love	love.html	3	writings	Please Come Home for Christmas	
+love	love.html	3	writings	Christmas Night in Harlem	
 mission	mission.html	3	writings	The Importance of Mission	
+mission	mission.html	3	writings	The Four Essential Attributes of any Organization	
 mission	mission.html	3	writings	Rebuilding Trust in Our Large Institutions	
 mission	mission.html	3	writings	Schembechler, Bacon and Leadership	
 mission	mission.html	3	writings	Why Michigan’s 42–27 Victory over Ohio State Gives Me Hope for Humanity	
+mission	mission.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
 mystery	mystery.html	3	writings	Come On Up to the House	Tom Waits
 mystery	mystery.html	3	writings	When I Paint My Masterpiece	Bob Dylan
 nature	nature.html	3	writings	King Harvest (Has Surely Come)	Robbie Robertson
+parenthood	parenthood.html	3	writings	Will the Circle be Unbroken	A.P. Carter
 parenthood	parenthood.html	3	writings	Christmas Time Back Home - Song by The Country Gentlemen	
 parenthood	parenthood.html	3	writings	Christmas Time's A-Coming	
 parenthood	parenthood.html	3	writings	Santa Claus is Coming to Town	
-parenthood	parenthood.html	3	writings	Will the Circle be Unbroken	A.P. Carter
 personal development	personal-development.html	3	writings	7 Habits of Highly Effective People	Stephen Covey
 play	play.html	3	writings	Settin' the Woods on Fire	Fred Rose and Ed G. Nelson
-progress	progress.html	3	writings	The Challenge for Democrats: Playing the Long Game	
-progress	progress.html	3	writings	Dethroning the False God of User Experience Design	
-progress	progress.html	3	writings	The Importance of Progressive Activism	
-progress	progress.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
-progress	progress.html	3	writings	Understanding Human History	
 progress	progress.html	3	writings	A Universal Improvement Process	
-property	property.html	3	writings	How to Fix Big Tech	
+progress	progress.html	3	writings	Understanding Human History	
+progress	progress.html	3	writings	Dethroning the False God of User Experience Design	
+progress	progress.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
+progress	progress.html	3	writings	The Challenge for Democrats: Playing the Long Game	
+progress	progress.html	3	writings	The Importance of Progressive Activism	
 property	property.html	3	writings	Why Do We Call It Capitalism?	
+property	property.html	3	writings	How to Fix Big Tech	
 protest	protest.html	3	writings	For What It's Worth	Stephen Stills
 rain	rain.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 rain	rain.html	3	writings	Come On In My Kitchen	Robert Johnson
 rain	rain.html	3	writings	Rain	John Lennon and Paul McCartney
-religion	religion.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
-religion	religion.html	3	writings	The Nature of God	
-religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
 religion	religion.html	3	writings	Quiet About It	Jesse Winchester
-religion	religion.html	3	writings	Reasons for Belief	
-religion	religion.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
-religion	religion.html	3	writings	Reflections on the Christian Message	
+religion	religion.html	3	writings	The Weight	Robbie Robertson
+religion	religion.html	3	writings	Will the Circle be Unbroken	A.P. Carter
+religion	religion.html	3	writings	The Nature of God	
 religion	religion.html	3	writings	Rejiggering Our Religion	
 religion	religion.html	3	writings	Religion, Storytelling and Art	
 religion	religion.html	3	writings	Religious Freedom	
+religion	religion.html	3	writings	Reasons for Belief	
+religion	religion.html	3	writings	Reflections on the Christian Message	
+religion	religion.html	3	writings	Why I Call Myself a Practopian	
 religion	religion.html	3	writings	Ring Them Bells	Bob Dylan
 religion	religion.html	3	writings	Step by Step	Jesse Winchester
-religion	religion.html	3	writings	The Weight	Robbie Robertson
+religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
 religion	religion.html	3	writings	What Christmas Means to Me	
-religion	religion.html	3	writings	Why I Call Myself a Practopian	
-religion	religion.html	3	writings	Will the Circle be Unbroken	A.P. Carter
+religion	religion.html	3	writings	The Rebel Jesus - Song by Jackson Browne	
+religion	religion.html	3	writings	Christmas Bells	Henry Wadsworth Longfellow
 religiosity	religiosity.html	3	writings	Come On Up to the House	Tom Waits
 remembrance	remembrance.html	3	writings	Girl From The North Country	Bob Dylan
 remembrance	remembrance.html	3	writings	Pancho and Lefty	Townes Van Zandt
+science	science.html	3	writings	Science	
+science	science.html	3	writings	Religion, Storytelling and Art	
+science	science.html	3	writings	Our Three Human Approaches to Dealing with Problems	
 science	science.html	3	writings	Apollo 11 - 2019 film	
 science	science.html	3	writings	Earned Value Management (EVM) for Mere Mortals	
-science	science.html	3	writings	Our Three Human Approaches to Dealing with Problems	
-science	science.html	3	writings	Religion, Storytelling and Art	
-science	science.html	3	writings	Science	
 separation	separation.html	3	writings	Christmas (Baby Please Come Home)	Ellie Greenwich, Jeff Barry and Phil Spector
 shelter	shelter.html	3	writings	Come On In My Kitchen	Robert Johnson
 sin	sin.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
-society	society.html	3	writings	Apollo 11 - 2019 film	
-society	society.html	3	writings	Can the US Become a Truly Egalitarian Society?	
-society	society.html	3	writings	Cooperation, Competition and Coercion	
-society	society.html	3	writings	Core Design Principles for The Efficacy of Groups	
-society	society.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
-society	society.html	3	writings	Diving Back Into Our American Muddle	
-society	society.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
-society	society.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
-society	society.html	3	writings	Managing Our Identity Stacks	
-society	society.html	3	writings	Our American Class System	
-society	society.html	3	writings	Our Societal Disconnect	
-society	society.html	3	writings	Patterns of Human Cooperation	
-society	society.html	3	writings	Popping the Hood with the Notenik App	
-society	society.html	3	writings	Rebuilding Trust in Our Large Institutions	
-society	society.html	3	writings	Reframing our Debates about Capitalism	
-society	society.html	3	writings	The Rotary Four-Way Test	
-society	society.html	3	writings	Santa Claus is Coming to Town	
-society	society.html	3	writings	Schembechler, Bacon and Leadership	
-society	society.html	3	writings	The Social Suite	
-society	society.html	3	writings	Social Support Survey	
-society	society.html	3	writings	Some Hard-Won Wisdom Concerning Cults	
-society	society.html	3	writings	The System is Working Very Well, Thank You	
-society	society.html	3	writings	The Truth About Capitalism	
-society	society.html	3	writings	Undoing Trumpism	
 society	society.html	3	writings	The Village Green Preservation Society	Ray Davies
-society	society.html	3	writings	Violence at the 94th Academy Awards	
-society	society.html	3	writings	We Are Multi-Tribal	
 society	society.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
+society	society.html	3	writings	Core Design Principles for The Efficacy of Groups	
+society	society.html	3	writings	The Social Suite	
+society	society.html	3	writings	The Truth About Capitalism	
+society	society.html	3	writings	We Are Multi-Tribal	
+society	society.html	3	writings	Patterns of Human Cooperation	
+society	society.html	3	writings	Rebuilding Trust in Our Large Institutions	
 society	society.html	3	writings	Why Do We Call It Capitalism?	
+society	society.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
+society	society.html	3	writings	Managing Our Identity Stacks	
+society	society.html	3	writings	The Rotary Four-Way Test	
+society	society.html	3	writings	Some Hard-Won Wisdom Concerning Cults	
+society	society.html	3	writings	Cooperation, Competition and Coercion	
+society	society.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
+society	society.html	3	writings	Reframing our Debates about Capitalism	
+society	society.html	3	writings	Social Support Survey	
+society	society.html	3	writings	Our Societal Disconnect	
+society	society.html	3	writings	Our American Class System	
+society	society.html	3	writings	Schembechler, Bacon and Leadership	
+society	society.html	3	writings	The System is Working Very Well, Thank You	
+society	society.html	3	writings	Can the US Become a Truly Egalitarian Society?	
 society	society.html	3	writings	The Widening Spiral of Modern Society	
-sustainability	sustainability.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
-sustainability	sustainability.html	3	writings	Calling for a US Sustainability Initiative	
-sustainability	sustainability.html	3	writings	The Era of Environmental Accommodation is Over	
-sustainability	sustainability.html	3	writings	Our Three Human Approaches to Dealing with Problems	
+society	society.html	3	writings	Apollo 11 - 2019 film	
+society	society.html	3	writings	Santa Claus is Coming to Town	
+society	society.html	3	writings	Diving Back Into Our American Muddle	
+society	society.html	3	writings	Violence at the 94th Academy Awards	
+society	society.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
+society	society.html	3	writings	Undoing Trumpism	
+society	society.html	3	writings	Popping the Hood with the Notenik App	
 sustainability	sustainability.html	3	writings	Some Hard Truths About Human Population Growth	
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	
-sustainability	sustainability.html	3	writings	Why Inflation Will be Hard to Contain	
 sustainability	sustainability.html	3	writings	Why It's a Bad Time to be a Conservative	
-systemic	systemic.html	3	writings	The Big Truth	
-systemic	systemic.html	3	writings	The Challenge for Democrats: Playing the Long Game	
+sustainability	sustainability.html	3	writings	The Era of Environmental Accommodation is Over	
+sustainability	sustainability.html	3	writings	Our Three Human Approaches to Dealing with Problems	
+sustainability	sustainability.html	3	writings	Why Inflation Will be Hard to Contain	
+sustainability	sustainability.html	3	writings	Calling for a US Sustainability Initiative	
+sustainability	sustainability.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
 systemic	systemic.html	3	writings	Core Design Principles for The Efficacy of Groups	
-systemic	systemic.html	3	writings	The Era of Environmental Accommodation is Over	
-systemic	systemic.html	3	writings	Free Speech at the Crossroads	
-systemic	systemic.html	3	writings	Our Three Human Approaches to Dealing with Problems	
-systemic	systemic.html	3	writings	Patterns of Human Cooperation	
-systemic	systemic.html	3	writings	The Personal vs. The Institutional	
-systemic	systemic.html	3	writings	The Systemic Era	
-systemic	systemic.html	3	writings	The System is Working Very Well, Thank You	
-systemic	systemic.html	3	writings	Understanding Human History	
 systemic	systemic.html	3	writings	What To Do About Big Business?	
-technology	technology.html	3	writings	A Broadcast Consciousness	
-technology	technology.html	3	writings	Dethroning the False God of User Experience Design	
-technology	technology.html	3	writings	Free Speech at the Crossroads	
+systemic	systemic.html	3	writings	Patterns of Human Cooperation	
+systemic	systemic.html	3	writings	The Systemic Era	
+systemic	systemic.html	3	writings	Understanding Human History	
+systemic	systemic.html	3	writings	The Era of Environmental Accommodation is Over	
+systemic	systemic.html	3	writings	Our Three Human Approaches to Dealing with Problems	
+systemic	systemic.html	3	writings	The Personal vs. The Institutional	
+systemic	systemic.html	3	writings	The System is Working Very Well, Thank You	
+systemic	systemic.html	3	writings	The Challenge for Democrats: Playing the Long Game	
+systemic	systemic.html	3	writings	Free Speech at the Crossroads	
+systemic	systemic.html	3	writings	The Big Truth	
 technology	technology.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
-technology	technology.html	3	writings	Help! Help! The Robots are Coming!	
 technology	technology.html	3	writings	How to Fix Big Tech	
-technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
-technology	technology.html	3	writings	Keeping to the Cackle with AI	
-technology	technology.html	3	writings	Popping the Hood with the Notenik App	
+technology	technology.html	3	writings	A Broadcast Consciousness	
+technology	technology.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
+technology	technology.html	3	writings	Dethroning the False God of User Experience Design	
+technology	technology.html	3	writings	Help! Help! The Robots are Coming!	
+technology	technology.html	3	writings	Free Speech at the Crossroads	
 technology	technology.html	3	writings	Thank God for Elon Musk!	
 technology	technology.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
-technology	technology.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
+technology	technology.html	3	writings	Keeping to the Cackle with AI	
+technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
+technology	technology.html	3	writings	Popping the Hood with the Notenik App	
 tools	tools.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
-value creation	value-creation.html	3	writings	Dethroning the False God of User Experience Design	
-value creation	value-creation.html	3	writings	Earned Value Management (EVM) for Mere Mortals	
 value creation	value-creation.html	3	writings	The Four Essential Attributes of any Organization	
-value creation	value-creation.html	3	writings	How to Fix Big Tech	
-value creation	value-creation.html	3	writings	Kindness by Design	
-value creation	value-creation.html	3	writings	Rebuilding Trust in Our Large Institutions	
-value creation	value-creation.html	3	writings	Reframing our Debates about Capitalism	
-value creation	value-creation.html	3	writings	Social Distancing and our Essential Nature	
-value creation	value-creation.html	3	writings	The System is Working Very Well, Thank You	
-value creation	value-creation.html	3	writings	Thank God for Elon Musk!	
-value creation	value-creation.html	3	writings	Thinking Differently About Our Economy	
-value creation	value-creation.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
 value creation	value-creation.html	3	writings	The Truth About Capitalism	
-value creation	value-creation.html	3	writings	Undoing Trumpism	
+value creation	value-creation.html	3	writings	Rebuilding Trust in Our Large Institutions	
 value creation	value-creation.html	3	writings	Why Do We Call It Capitalism?	
+value creation	value-creation.html	3	writings	Thinking Differently About Our Economy	
+value creation	value-creation.html	3	writings	How to Fix Big Tech	
+value creation	value-creation.html	3	writings	Reframing our Debates about Capitalism	
+value creation	value-creation.html	3	writings	The System is Working Very Well, Thank You	
 value creation	value-creation.html	3	writings	Why Inflation Will be Hard to Contain	
+value creation	value-creation.html	3	writings	Dethroning the False God of User Experience Design	
+value creation	value-creation.html	3	writings	Kindness by Design	
+value creation	value-creation.html	3	writings	Thank God for Elon Musk!	
+value creation	value-creation.html	3	writings	Social Distancing and our Essential Nature	
+value creation	value-creation.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
+value creation	value-creation.html	3	writings	Undoing Trumpism	
+value creation	value-creation.html	3	writings	Earned Value Management (EVM) for Mere Mortals	
 values	values.html	3	writings	All Along The Watchtower	Bob Dylan
-wonder	wonder.html	3	writings	Christmas Must Be Tonight	
 wonder	wonder.html	3	writings	Hallelujah	Leonard Cohen
 wonder	wonder.html	3	writings	Merry Christmas Baby - Song	
+wonder	wonder.html	3	writings	Christmas Must Be Tonight	
 wonder	wonder.html	3	writings	My Favorite Things	
 wonder	wonder.html	3	writings	Star of Wonder	
-written word	written-word.html	3	writings	Free Speech at the Crossroads	
-written word	written-word.html	3	writings	Keeping to the Cackle with AI	
-written word	written-word.html	3	writings	The Progressive Problem	
+written word	written-word.html	3	writings	The Written Word in the 21st Century	
 written word	written-word.html	3	writings	Religion, Storytelling and Art	
 written word	written-word.html	3	writings	Religious Freedom	
+written word	written-word.html	3	writings	The Progressive Problem	
 written word	written-word.html	3	writings	Why I Use Markdown (And Why You Should Too)	
-written word	written-word.html	3	writings	The Written Word in the 21st Century	
+written word	written-word.html	3	writings	Free Speech at the Crossroads	
+written word	written-word.html	3	writings	Keeping to the Cackle with AI	
