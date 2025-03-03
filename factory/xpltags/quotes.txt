@@ -91,6 +91,7 @@ change	change.html	4	quotes	Change is the one constant when it comes to culture	
 communication	communication.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 communication	communication.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 community	community.html	4	quotes	An assembly that meshes over a specific problem	John Summers
+community	community.html	4	quotes	We internalize new cultural identities and codes	Michael Morris
 connection	connection.html	4	quotes	All children of our Earth	Aleksandr Aleksandrov
 connection	connection.html	4	quotes	The better angels of our nature	Abraham Lincoln
 connection	connection.html	4	quotes	By Gifts One Makes Slaves	Peter Freuchen
@@ -116,6 +117,7 @@ connection	connection.html	4	quotes	No Philosophy of Family Life	David Brooks
 connection	connection.html	4	quotes	Nurturance is a master variable	David Sloan Wilson
 connection	connection.html	4	quotes	Only Connect	E. M. Forster
 connection	connection.html	4	quotes	The only thing that's constant there is other people	Jim Coan
+connection	connection.html	4	quotes	Our tribal instincts are not bugs	Michael Morris
 connection	connection.html	4	quotes	Peaceful ends through peaceful means	Martin Luther King Jr.
 connection	connection.html	4	quotes	People are finally finding out that the guy next door isn't a bad egg	Robert Riskin
 connection	connection.html	4	quotes	Practice kindness all day to everybody	Jack Kerouac
@@ -185,6 +187,7 @@ critical thinking	critical-thinking.html	4	quotes	Politics and the Debasement of
 critical thinking	critical-thinking.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 critical thinking	critical-thinking.html	4	quotes	Public Truth	Robert B. Reich
 critical thinking	critical-thinking.html	4	quotes	Pursue not happiness, but discernment	Marlon Brando
+critical thinking	critical-thinking.html	4	quotes	Rationality is not the strong suit of our species	Michael Morris
 critical thinking	critical-thinking.html	4	quotes	Reversible vs. Irreversible Decisions	Jeff Bezos
 critical thinking	critical-thinking.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	Jeff Bezos and Jason Fried
 critical thinking	critical-thinking.html	4	quotes	Seeking ways to disagree with myself	Yanis Varoufakis
@@ -226,6 +229,7 @@ cultural evolution	cultural-evolution.html	4	quotes	Changing the World	Margaret 
 cultural evolution	cultural-evolution.html	4	quotes	Chaos and Mediocrity	Joe Boyd
 cultural evolution	cultural-evolution.html	4	quotes	Counter-Culture's own values and aesthetics decayed	Joe Boyd
 cultural evolution	cultural-evolution.html	4	quotes	Cultural, as opposed to biological, evolution	Edwin G. Pulleyblank
+cultural evolution	cultural-evolution.html	4	quotes	Culture and psyche are inexorably intertwined	Michael Morris
 cultural evolution	cultural-evolution.html	4	quotes	Culture can be either mutualistic or predatory	Victor Hwang
 cultural evolution	cultural-evolution.html	4	quotes	Cultures as a kind of mental infection	Yuval Noah Harari
 cultural evolution	cultural-evolution.html	4	quotes	The Discomfort of Thought	John F. Kennedy
@@ -262,6 +266,7 @@ cultural evolution	cultural-evolution.html	4	quotes	Our long-term personal and s
 cultural evolution	cultural-evolution.html	4	quotes	Our Social Order Now in a State of Permanent Flux	Yuval Noah Harari
 cultural evolution	cultural-evolution.html	4	quotes	Our species does represent a new evolutionary process	David Sloan Wilson
 cultural evolution	cultural-evolution.html	4	quotes	Push Outward	Michel Foucault
+cultural evolution	cultural-evolution.html	4	quotes	Rationality is not the strong suit of our species	Michael Morris
 cultural evolution	cultural-evolution.html	4	quotes	The Real Problem of Humanity	E. O. Wilson
 cultural evolution	cultural-evolution.html	4	quotes	Religions are great bushy trees	David Sloan Wilson
 cultural evolution	cultural-evolution.html	4	quotes	Sixties Surpluses of Money and Time	Joe Boyd
@@ -270,6 +275,7 @@ cultural evolution	cultural-evolution.html	4	quotes	These principles have no obj
 cultural evolution	cultural-evolution.html	4	quotes	This Highest Kind of Religious Feeling	Albert Einstein
 cultural evolution	cultural-evolution.html	4	quotes	Those who tolerate or encourage evil	Albert Einstein
 cultural evolution	cultural-evolution.html	4	quotes	Thralls to group instincts	Walter Mosley
+cultural evolution	cultural-evolution.html	4	quotes	The Three Tribal Instincts	Michael Morris
 cultural evolution	cultural-evolution.html	4	quotes	The time-worn yoke of their opinions	Ralph Waldo Emerson
 cultural evolution	cultural-evolution.html	4	quotes	The Toxic Mix of Religion and Tribalism	E. O. Wilson
 cultural evolution	cultural-evolution.html	4	quotes	An ultracultural species is born	Brian Hare and Vanessa Woods
@@ -448,6 +454,7 @@ humanism	humanism.html	4	quotes	Monkeys with money and guns	Tom Waits
 humanism	humanism.html	4	quotes	The Most Dangerous of Devotions	E. O. Wilson
 humanism	humanism.html	4	quotes	Only a Human Being	Albert Einstein
 humanism	humanism.html	4	quotes	The Rainbow Bridge	E. M. Forster
+humanism	humanism.html	4	quotes	Rationality is not the strong suit of our species	Michael Morris
 humanism	humanism.html	4	quotes	The Real Problem of Humanity	E. O. Wilson
 humanism	humanism.html	4	quotes	Safe in the hands of a force far greater	Lauren Groff
 humanism	humanism.html	4	quotes	The sort of organisms that interpret and modify their agency	Amélie Rorty
@@ -701,6 +708,7 @@ society	society.html	4	quotes	The freedom to enact other forms of social existen
 society	society.html	4	quotes	Frivolous and fanciful distinctions	James Madison
 society	society.html	4	quotes	The great primeval contract of eternal society	Edmund Burke
 society	society.html	4	quotes	The group of people that you would both help feed and help defend	Sebastian Junger
+society	society.html	4	quotes	Humans are the tribal animal	Michael Morris
 society	society.html	4	quotes	If you'll just rattle your jewelry	John Lennon
 society	society.html	4	quotes	I'll take the big sordid dirty crooked city	Raymond Chandler
 society	society.html	4	quotes	Individualized lifestyles deeply brutalizing to the human spirit	Sebastian Junger

@@ -159,7 +159,7 @@ let searchQuotes = [
 		title: "All children of our Earth",
 		date: "",
     url: "quotes/all-children-of-our-earth.html",
-		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
+		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Russian cosmonaut Blueprint: The Evolutionary Origins of a Good Society "
 	},
 	{
 		title: "No person in America should be too poor to live",
@@ -747,7 +747,7 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
@@ -777,13 +777,13 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -795,13 +795,13 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
@@ -819,7 +819,7 @@ let searchQuotes = [
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -2232,6 +2232,60 @@ let searchQuotes = [
 		content: "Prior to Steve Jobs return to Apple there was a decent centralized usability team equipped with those fancy rooms with one way mirrors and video cameras I m certain these folks did significant work but when Jobs returned he shut it down and he cast the design teams to the wind Each product team inherited part of the former usability team Now I arrived after this reorganization occurred so I don t know the actual reasoning but I do know I never saw those usability labs used once and I would argue that in the past decade Apple has created some of the most usable products out there My opinion is that the choice to spread the usability design function across the engineering team was intended to send a clear message engineer and designer need to party more together I can t imagine building a team responsible for consumer products where engineers and designers weren t constantly meddling in each other s business Yes they often argue from completely opposite sides of the brain Yes it is often a battle of art and science but engineering and design want exactly the same thing They want the intense satisfaction of knowing they successfully built something that matters Michael Lopp a blogger, software engineering manager, and webcomic author Managing Humans: Biting and Humorous Tales of a Software Engineering Manager "
 	},
 	{
+		title: "Cultural complexity began to expand exponentially",
+		date: "2024",
+    url: "quotes/cultural-complexity-began-to-expand-exponentially.html",
+		content: "Once all three tribal instincts the peer instinct the hero instinct and the ancestor instinct were in place in the last hundred thousand years our forebears began to thrive and to live in recognizably human ways Within an evolutionary eyeblink they suddenly had much more sophisticated tools weapons arts and rituals After millions of years of achingly slow change cultural complexity began to expand exponentially The pools of shared knowledge in human communities began to accumulate across generations and adapt to local ecologies This tribe level learning not heightened individual brainpower is the secret to how our kind adapted to widely differing climates and terrains Humans became the earth s dominant species threatened only by our own success Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "Culture and psyche are inexorably intertwined",
+		date: "2024",
+    url: "quotes/culture-and-psyche-are-inexorably-intertwined.html",
+		content: " by the late twentieth century it became hard to miss that cultural patterns of societies and of individuals were in flux Across the world societies were evolving as globalized generations developed new lifestyles through selective retention of their parents ways and heightened borrowing from other traditions Individuals were migrating more than ever but not always assimilating instead maintaining multiple cultural worldviews that they switched between situationally Scholars began to appreciate that it was not simply collective institutions or individual psychologies that determined culture but the interplay between them Cultural institutions shape the individual s mind and the individual s mind shapes cultural institutions Culture and psyche are inexorably intertwined Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "Humans are the tribal animal",
+		date: "2024",
+    url: "quotes/humans-are-the-tribal-animal.html",
+		content: "Humans cooperate based on kinship and friendship but we also have more powerful forms of social glue that other species lack From the early Stone Age we started evolving specialized brain systems that facilitated sharing knowledge in groups If someone in your foraging band figured out how to dislodge coconuts from a tree you would learn by watching and soon the whole group would share the skill Then you could work in closer coordination with each other by following this shared script In this way groups living in different ecologies developed different pools of common knowledge different cultures Members of each group gained increased mutual understanding even if the topic wasn t coconuts the common ground of shared coconut expertise could help in learning other survival relevant skills Group membership became increasingly manifest in behavior making peers more similar predictable and sympathetic Our forebears began to experience the elevating sense of Us an expansion of identity beyond close kinship and direct friendship to a broader group In these larger clans they began to highlight their membership through distinctive styles of dress and self adornment At the same time human brains kept evolving to share new kinds of knowledge such as reputation in these broader groups all of which further boosted our fitness as social animals In time interactions using new forms of knowledge such as ritual coalesced across clans to forge broad networks of sharing in mates resources and knowledge Humans began feeling solidarity with these large communities thousands of other people living in small groups nested within larger groups held together by the glue of common cultural knowledge This form of social organization is not a hive or a troop but a tribe Surviving through sharing knowledge in these solidaristic nested groups is tribal living With apologies to Aristotle it s misleading to call humans the social animal We are more accurately the tribal animal Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "Our tribal instincts are not bugs",
+		date: "2024",
+    url: "quotes/our-tribal-instincts-are-not-bugs.html",
+		content: "Especially in a time of powerful and shifting politics we shouldn t ignore our quintessential human capacities to bond with our communities Nor should we delude ourselves that the thin gruel of rationality and universalism will mobilize people to accomplish desired goals I write as a convert to the advocacy of tribalism I used to consider group related instincts as a detrimental force in human affairs I was raised as you may have been too to see rationality creativity and morality as the hallmarks of humanity and I viewed conformity status seeking and traditionalism as fallibilities But based on what I ve learned from decades as a behavioral scientist I ve come to see my former humanities worldview as naive or at least incomplete Our tribal instincts are not bugs in the system that hinder an otherwise intelligent species They are the distinguishing features of our kind that enabled its evolutionary ascent and still drive many of its greatest achievements today They are not human foibles that hold us back they are human superpowers that create our distinctive cultures Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "Rationality is not the strong suit of our species",
+		date: "2024",
+    url: "quotes/rationality-is-not-the-strong-suit-of-our-species.html",
+		content: "My recommendations are not the typical tips from an academic about how to encourage more rational decisions I think that rationality is not the strong suit of our species We are Homo tributus not Homo economicus Certainly tribal instincts are part of the problem in many pressing conflicts but they also can be and I think have to be part of the solution Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "Three Layers of Tribal Instincts",
+		date: "2024",
+    url: "quotes/three-layers-of-tribal-instincts.html",
+		content: "In this book I peel the onion of our special human talent for sharing with groups to distinguish three layers of tribal instincts They originated in the Stone Age but we can still recognize these evolved systems in our minds and hearts today Our sideways glances at classmates coworkers and neighbors are part of the peer instinct as is our impulse to mesh with their patterns in our everyday inferences and actions Our upward directed fascination with celebrities CEOs MVPs and other elites comes from the hero instinct as do our aspirations for glory and our drive to contribute Our backward gazing nostalgia is part of the ancestor instinct as is the comfort we find in traditions and the duty we feel to maintain them These instincts are like three characters inside every person the conformist who seeks belonging and understanding the contributor who dreams of esteem and tribute and the traditionalist who cherishes continuity Each of these systems has its fallibilities but as we ll see each generally guides people in adaptive directions Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "The Three Tribal Instincts",
+		date: "2024",
+    url: "quotes/the-three-tribal-instincts.html",
+		content: "For a better understanding of the partisan conflict straining US democracy and the role of our evolved group psychology within it we can do better by focusing on the three tribal instincts that we have come to know in this book These are psychological systems for meshing with peers helping the clan and maintaining the tribe These drives have helped human groups survive from the Stone Age to today because they guide constructive collaboration Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "Tribal living is what made us truly human",
+		date: "2024",
+    url: "quotes/tribal-living-is-what-made-us-truly-human.html",
+		content: "In Tribal I hope to reclaim the original meaning of the word as community enabled by shared culture This is how humankind first transcended the narrow bonds of kith and kin to accomplish bigger things in clans And it s how we later ventured into exchange and collaboration with strangers in the broader networks called tribes In these nested groups our forebears first felt the empowering experience of access to myriad individuals and ideas the ongoing experiment that we call society It was an engine for group change and differentiation By showing that tribal living is the source of cultural change and progress I hope to put to rest any lingering association of tribes with stasis and primitivism Tribal living is what made us truly human Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
+		title: "We internalize new cultural identities and codes",
+		date: "2024",
+    url: "quotes/we-internalize-new-cultural-identities-and-codes.html",
+		content: "Contrary to essentialist views of cultural character as set in stone people s cultural conditioning and convictions change over time We internalize new cultural identities and codes with every new community we join Michael Morris works as a cultural psychologist at Columbia University in its Graduate School of Business and its Psychology Department Tribal: How the Cultural Instincts That Divide Us Can Help Bring Us Together "
+	},
+	{
 		title: "Couldn’t everyone’s life become a work of art?",
 		date: "",
     url: "quotes/couldnt-everyones-life-become-a-work-of-art.html",
@@ -2491,7 +2545,7 @@ let searchQuotes = [
 	},
 	{
 		title: "The Paranoid Style in American Politics",
-		date: "Nov 1964",
+		date: "1964-11",
     url: "quotes/the-paranoid-style-in-american-politics.html",
 		content: "American politics has often been an arena for angry minds In recent years we have seen angry minds at work mainly among extreme right wingers who have now demonstrated in the Goldwater movement how much political leverage can be got out of the animosities and passions of a small minority But behind this I believe there is a style of mind that is far from new and that is not necessarily right wing I call it the paranoid style simply because no other word adequately evokes the sense of heated exaggeration suspiciousness and conspiratorial fantasy that I have in mind In using the expression paranoid style I am not speaking in a clinical sense but borrowing a clinical term for other purposes I have neither the competence nor the desire to classify any figures of the past or present as certifiable lunatics In fact the idea of the paranoid style as a force in politics would have little contemporary relevance or historical value if it were applied only to men with profoundly disturbed minds It is the use of paranoid modes of expression by more or less normal people that makes the phenomenon significant Richard Hofstadter American historian and public intellectual Harper's Magazine "
 	},
@@ -2847,13 +2901,13 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",

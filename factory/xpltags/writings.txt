@@ -368,6 +368,7 @@ society	society.html	3	writings	The Village Green Preservation Society	Ray Davie
 society	society.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
 society	society.html	3	writings	Core Design Principles for The Efficacy of Groups	
 society	society.html	3	writings	The Social Suite	
+society	society.html	3	writings	Tribal Instincts	
 society	society.html	3	writings	The Truth About Capitalism	
 society	society.html	3	writings	We Are Multi-Tribal	
 society	society.html	3	writings	Patterns of Human Cooperation	
