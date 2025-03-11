@@ -270,6 +270,7 @@ individuals	individuals.html	3	writings	A Guide To Becoming
 individuals	individuals.html	3	writings	My Advice to Young People of All Ages	
 individuals	individuals.html	3	writings	Dethroning the False God of User Experience Design	
 individuals	individuals.html	3	writings	Help! Help! The Robots are Coming!	
+individuals	individuals.html	3	writings	1952 Vincent Black Lightning	Richard Thompson
 integral	integral.html	3	writings	Developmental Levels	
 integral	integral.html	3	writings	An Integral Approach	
 integral	integral.html	3	writings	The Four Quadrants of Human Knowledge	
@@ -282,6 +283,7 @@ integral	integral.html	3	writings	My Prayer for a More Integral New Year
 integral	integral.html	3	writings	A Practopian Approach to Gun Issues in the US	
 integral	integral.html	3	writings	What Trump Gets Right	
 integrity	integrity.html	3	writings	The Last Trip to Tulsa	Neil Young
+integrity	integrity.html	3	writings	1952 Vincent Black Lightning	Richard Thompson
 liberation	liberation.html	3	writings	All Along The Watchtower	Bob Dylan
 liberation	liberation.html	3	writings	Education - Song by The Kinks	Ray Davies
 liberation	liberation.html	3	writings	It's About Time	Dennis Wilson, Bob Burchman and Alan Jardine
@@ -395,6 +397,7 @@ society	society.html	3	writings	Violence at the 94th Academy Awards
 society	society.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
 society	society.html	3	writings	Undoing Trumpism	
 society	society.html	3	writings	Popping the Hood with the Notenik App	
+stories	stories.html	3	writings	1952 Vincent Black Lightning	Richard Thompson
 sustainability	sustainability.html	3	writings	Some Hard Truths About Human Population Growth	
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	
 sustainability	sustainability.html	3	writings	Why It's a Bad Time to be a Conservative	

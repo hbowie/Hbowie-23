@@ -12,7 +12,7 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 45
+Last Index Selected: 102
 
 Mirror Auto Index: false
 
@@ -42,11 +42,11 @@ Scrolling Sync: true
 
 Web Book Folder: /Users/hbowie/Sites/notenik-web/knowledge-base
 
-Note File Format: nnk
+Note File Format: yaml
 
 Hash Tags: notenik-field
 
-Window Numbers: 54.0;0.0;1142.0;1127.0;505.0;
+Window Numbers: 66.0;0.0;1230.0;1127.0;505.0;
 
-Column Widths: x: 12, 20, 1500; date: 80, 177, 300; klass: 60, 80, 150; datemod: 100, 180, 250; title: 200, 476, 1500; rank: 50, 80, 250; statusdigit: 20, 30, 50; seq: 30, 80, 1500; author: 100, 200, 1000; tags: 50, 100, 1200; dateadded: 100, 180, 1500; 
+Column Widths: statusdigit: 20, 30, 50; seq: 30, 80, 1500; tags: 50, 100, 1200; rank: 50, 80, 250; x: 12, 20, 1500; datemod: 100, 180, 250; date: 80, 177, 300; author: 100, 200, 1000; title: 200, 476, 1500; dateadded: 100, 180, 1500; klass: 60, 80, 150; 
 
