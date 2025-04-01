@@ -1,0 +1,41 @@
+<?output "../../web/portablewisdom/feeds/atom.xml"?>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Portable Wisdom</title>
+  <subtitle>Daily Quotations from the desk of H. Bowie</subtitle>
+  <link href="https://hbowie.net/portablewisdom/feeds/atom.xml" type="application/atom+xml" rel="self" />
+  <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
+  <updated>=$today&yyyy-MM-dd$=T09:00:00Z</updated>
+  <rights>Fair Use</rights>
+  <author>
+	<name>Various</name>
+  </author>
+  <id>https://hbowie.net/portablewisdom/feeds/atom.xml</id>
+<?set count = 0 ?>
+<?nextrec?>
+<?if =$count$= lt 20 ?>
+<?if "=$date-picked$=" ?>
+	<entry>
+	  <title>=$title&x$=</title>
+	  <link rel="related" type="text/html" href="https://hbowie.net/quotes/=$title&f$=.html"/>
+	  <id>https://hbowie.net/portablewisdom/=$date-picked&yyyy-MM-dd$=-=$title&f$=.html</id>
+	  <published>=$datepicked&yyyy-MM-ddTHH:mm:ssz$=</published>
+	  <updated>=$datepicked&yyyy-MM-ddTHH:mm:ssz$=</updated>
+	  <author>
+		<name>=$author$=</name>
+	  </author>
+	  <summary>
+		  =$body&sxo-$=
+	  </summary>
+	  <content type="xhtml">
+	  	<div xmlns="http://www.w3.org/1999/xhtml">
+		  =$body&o$=
+		  <p>&#8211; =$author-work-slug$=</p>
+		</div>
+	  </content>
+	</entry>
+<?endif?>
+<?endif?>
+<?set count += 1 ?>
+<?loop?>
+</feed>

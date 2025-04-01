@@ -1,0 +1,6 @@
+module	action	modifier	object	value
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../../feeds-template-builder
+template	open			#PATH#atom-template-builder.xml
+template	generate			

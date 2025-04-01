@@ -552,6 +552,12 @@ let searchQuotes = [
 		content: "Clearly Model II touches on values that are central to social life and to the traditions of moral philosophy freedom of choice truth and testability the nature of commitment the possibilities for and limitations on openness in communication among individuals the basis for trust and cooperation among human beings the sources of long term personal effectiveness Chris Argyris and Donald Schön American business theorist and professor Theory in Practice: Increasing Personal Effectiveness "
 	},
 	{
+		title: "A myth that a person need only do inner work",
+		date: "1979",
+    url: "quotes/a-myth-that-a-person-need-only-do-inner-work.html",
+		content: "There is a myth sometimes widespread that a person need only do inner work in order to be alive like this that a man is entirely responsible for his own problems and that to cure himself he need only change himself The fact is a person is so far formed by his surroundings that his state of harmony depends entirely on his harmony with his surroundings Christopher Alexander Austrian-born British-American architect and design theorist The Timeless Way of Building "
+	},
+	{
 		title: "Egocentric Existence",
 		date: "1974",
     url: "quotes/egocentric-existence.html",
@@ -759,37 +765,37 @@ let searchQuotes = [
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
@@ -801,19 +807,19 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
@@ -825,7 +831,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -1066,6 +1072,18 @@ let searchQuotes = [
 		date: "1 Dec 2022",
     url: "quotes/an-agenda-of-ambition-and-hope.html",
 		content: "This spirit of fraternity must enable us to build an agenda of ambition and hope as our two countries share the same faith in freedom in democratic values in empowerment through education and work and in progress through science and knowledge Emmanuel Macron French politician who has served as President of France Macron Remarks on 1-Dec-2022 "
+	},
+	{
+		title: "What we need for happiness",
+		date: "1997",
+    url: "quotes/what-we-need-for-happiness.html",
+		content: "And what are our needs for happiness We need to walk just as birds need to fly We need to be around other people We need beauty We need contact with nature And most of all we need not to be excluded We need to feel some sort of equality Enrique Peñalosa A Colombian politician  "
+	},
+	{
+		title: "Great public space is a kind of magical good",
+		date: "2013",
+    url: "quotes/great-public-space-is-a-kind-of-magical-good.html",
+		content: "Most things that people buy in stores give them a lot of satisfaction the moment they buy them But after a few days that satisfaction decreases and months later it completely melts away But great public space is a kind of magical good It never ceases to yield happiness It s almost happiness itself Enrique Peñalosa A Colombian politician Happy City: Transforming our Lives through Urban Design "
 	},
 	{
 		title: "Television mesmerizes people",
@@ -1588,6 +1606,12 @@ let searchQuotes = [
 		date: "2006",
     url: "quotes/sixties-surpluses-of-money-and-time.html",
 		content: "The atmosphere in which music flourished then had a lot to do with economics It was a time of unprecedented prosperity People are supposedly wealthier now yet most feel they haven t enough money and time is at an even greater premium In the sixties we had surpluses of both money and time Friends of mine lived comfortably in Greenwich Village Harvard Square Bayswater Santa Monica and on the Left Bank and were by current standards broke Yet they survived easily on occasional coffee house gigs or part time work Today urbanites must feverishly maximize their economic potential just to maintain a small flat in Hoboken Somerville Hackney Korea Town or Belleville The economy of the sixties cut us a lot of slack leaving time to travel take drugs write songs and rethink the universe Joe Boyd  White Bicycles: Making Music in the 1960s "
+	},
+	{
+		title: "Play is a thing on its own",
+		date: "1938",
+    url: "quotes/play-is-a-thing-on-its-own.html",
+		content: "The incidence of play is not associated with any particular stage of civilization or view of the universe Any thinking person can see at a glance that play is a thing on its own even if his language possesses no general concept to express it Play cannot be denied You can deny if you like nearly all abstractions justice beauty truth goodness mind God You can deny seriousness but not play Johan Huizinga Dutch historian Homo Ludens: A Study of the Play-Element in Culture "
 	},
 	{
 		title: "I must study politics and war",
@@ -2467,7 +2491,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Finish every day and be done with it",
-		date: "8 Apr 1854",
+		date: "1854-04-08",
     url: "quotes/finish-every-day-and-be-done-with-it.html",
 		content: "Finish every day and be done with it For manners and for wise living it is a vice to remember You have done what you could some blunders and absurdities no doubt crept in forget them as fast as you can Tomorrow is a new day You shall begin it well and serenely and with too high a spirit to be cumbered with your old nonsense This day for all that is good and fair It is too dear with its hopes and invitations to waste a moment on the rotten yesterdays Ralph Waldo Emerson American essayist, lecturer, philosopher, abolitionist and poet who led the transcendentalist movement of the mid-19th century To Daughter Ellen "
 	},
@@ -2901,13 +2925,13 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",

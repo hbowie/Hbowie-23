@@ -1,0 +1,29 @@
+Title:  Portable Wisdom
+
+Subtitle: Daily Wisdom from the desk of H. Bowie
+
+Output Path: ../../web/portable-wisdom/feeds/
+
+Template Prefix: portable-wisdom-
+
+Site Link: https://hbowie.net/
+
+Feed Link: https://hbowie.net/portable-wisdom/feeds/
+
+Posts Parent: https://hbowie.net/quotes/
+
+Author: =$author$=
+
+Author Link: =$author-link$=
+
+Rights: Fair Use
+
+Max Count: 20
+
+Body:
+
+A note-taking system cunningly devised by Herb Bowie. 
+
+Learn more at [Notenik.app](https://notenik.app).
+
+You can delete this starting Note after creating one or two of your own.

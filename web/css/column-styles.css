@@ -1,0 +1,321 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+	color: #e7cfb9;
+	background-color: #271c1f;
+	font-family: "concourse_3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16pt;
+	line-height: 1.5;
+}
+
+#wrapper {
+	margin: 10px;
+	max-width: 1400px;
+}
+
+p {
+	margin-block-start: 0.5em; 
+}
+
+img {
+  max-width: 100%;
+}
+
+/* --------------------------------------------------
+
+	3-Column Layout
+
+* -------------------------------------------------- */
+
+.columns {
+	flex-direction: column;
+	column-gap: 0;
+}
+
+.column {
+	
+}
+
+
+
+@media (min-width: 768px) {
+	.columns {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: row;
+		column-gap: 2rem;
+	}
+	
+	.column {
+		flex: 1 200px;
+	} 
+}
+
+/* .column > * {
+	width:calc((100% - 4rem) / 3);
+} */
+
+/* .column > * {
+	width:100%;
+	padding:1rem;
+}
+
+@media (min-width:768px) {
+	.column > * {
+		width:calc(100% / 3);
+	}
+} */
+
+/* --------------------------------------------------
+
+	Links
+
+* -------------------------------------------------- */
+
+a:link {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a:visited {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a:hover {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a:active {
+	color: #e7cfb9;
+	text-decoration: none;
+	border-bottom: 1px dotted #e7cfb9;
+}
+
+a.implicit {
+	text-decoration: none;
+	border: none;
+}
+
+a.ext-link::after {
+	content: "";
+	width: 0.9em;
+	height: 0.9em;
+	margin-left: 0.2em;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23E7CFB9' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+}
+	
+
+/* --------------------------------------------------
+
+	Headings
+
+* -------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	margin-top: 1em;
+	font-size: 1.6rem;
+}
+h2 {
+	font-size: 1.4rem;
+	font-style: normal;
+	font-family: "triplicate_b", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h3 {
+	font-size: 1.2rem;
+	margin-bottom: 0;
+}
+h1.small-header {
+	font-size: 1.6rem;
+}
+
+p.section-name {
+	font-family: "triplicate_a", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-weight: 500;
+	margin-block-end: 0;
+}
+
+/* --------------------------------------------------
+
+	Fonts
+
+* -------------------------------------------------- */
+
+@font-face {
+font-family: concourse_3;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_3;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_3_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_4_caps;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_4_caps_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: concourse_4_caps;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/concourse_4_caps_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_a;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_a_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_a;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_a_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_a;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_a_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_a;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_a_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_b;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_b;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_b;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: triplicate_b;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/triplicate_b_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+font-display: auto;
+src: url('../fonts/heliotrope_4_bold_italic.woff2') format('woff2');
+}

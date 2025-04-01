@@ -10,6 +10,27 @@ This site's content falls into a number of different categories. Feel free to dr
 
 See a list of my [latest original writings](latest-original.html), as well as the [latest quotes added](latest-quotes.html) to my commonplace book. Visit the [Discourse Forum](https://discourse.notenik.app) for the latest Notenik news. 
 
+## Follow/Connect
+
+If you'd like to keep up with my work, and/or connect with me, the following avenues are available. 
+
+### Email
+
++ [herb@hbowie.net](mailto:herb@hbowie.net)
+
+### Source Code
+
++ [GitHub](https://github.com/hbowie)
+
+### Mastodon
+
+I haven't settled on a particular Mastodon server that quite feels like home yet, and so I currently have multiple accounts. 
+
++ <a rel="me" href="https://mindly.social/@hbowie">hbowie@mindly.social</a>
++ <a rel="me" href="https://c.im/@hbowie">hbowie@c.im</a>
++ <a rel="me" href="https://mastodon.social/@hbowie">hbowie@mastodon.social</a>
++ <a rel="me" href="https://mastodon.social/@notenik">notenik@mastodon.social</a>
+
 ## Software
 
 Notenik is my note-taking, web-making, content-managing app, written in Swift, using AppKit, exclusively for the Mac. Find out more at [Notenik.app](https://notenik.app).
@@ -40,6 +61,7 @@ One of my uses for Notenik is to maintain a [digital commonplace book][dcp], con
 
 + [Authors Index](authors/index.html) -- A sortable list of all cited authors
 + [Latest Additions](latest-quotes.html) -- The most recent quotes added. 
++ [Portable Wisdom](portablewisdom/index.html) -- Daily Quotes randomly chosen
 + [Random Quote](quotes/random.html) -- Pull up a random entry
 
 [dcp]: https://www.nytimes.com/2021/02/10/technology/personaltech/make-digital-commonplace-book.html

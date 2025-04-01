@@ -438,6 +438,7 @@ governance	governance.html	4	quotes	Two ideas of government	William Jennings Bry
 governance	governance.html	4	quotes	We need governments to provide clear pathways	Larry Fink
 governance	governance.html	4	quotes	When Growth Becomes a Supreme Good	Yuval Noah Harari
 governance	governance.html	4	quotes	The World Empire enforces World Peace	Yuval Noah Harari
+happiness	happiness.html	4	quotes	What we need for happiness	Enrique Peñalosa
 hope	hope.html	4	quotes	Unlike cynicism, hopefulness is hard-earned	Nick Cave
 humanism	humanism.html	4	quotes	All must be held valuable, or none	Edmund Crispin
 humanism	humanism.html	4	quotes	Apes and Humans	Carl Sagan and Ann Druyan
@@ -614,6 +615,7 @@ parenthood	parenthood.html	4	quotes	That community asks for and gets chaos	Danie
 parenthood	parenthood.html	4	quotes	You can simply focus on raising a human being	Anu Partanen
 patriotism	patriotism.html	4	quotes	No true patriot	G. K. Chesterton
 philosophy	philosophy.html	4	quotes	The limitations of specialization	Richard Feynman
+play	play.html	4	quotes	Play is a thing on its own	Johan Huizinga
 population	population.html	4	quotes	Intelligent guides of family planning	Martin Luther King Jr.
 power	power.html	4	quotes	The more they yearned for omnipotence	Ross MacDonald
 practical	practical.html	4	quotes	Careful, thoughtful, small, practical efforts	Joseph L. Badaracco, Jr.

@@ -24,7 +24,7 @@ Title Display Option: p bold
 
 Display Mode: normal
 
-Outline Tab: false
+Outline Tab: 0
 
 Override Custom Display: false
 
@@ -40,11 +40,13 @@ Ext Links Open in New Windows: true
 
 Scrolling Sync: false
 
+ToC Depth: 3
+
 Note File Format: nnk
 
 Hash Tags: notenik-field
 
-Window Numbers: 1273.0;306.0;1169.0;1031.0;418.0;
+Window Numbers: 45.0;519.0;1169.0;898.0;418.0;
 
-Column Widths: title: 200, 404, 1500; klass: 60, 80, 150; dateadded: 100, 180, 250; datemod: 100, 180, 250; seq: 30, 80, 250; tags: 50, 100, 1200; date: 80, 120, 500; statusdigit: 20, 30, 50; author: 100, 200, 1000; rank: 50, 80, 250; x: 12, 20, 50; 
+Column Widths: seq: 30, 80, 250; tags: 50, 100, 1200; datemod: 100, 180, 250; date: 80, 120, 500; author: 100, 200, 1000; rank: 50, 80, 250; x: 12, 20, 50; dateadded: 100, 180, 250; statusdigit: 20, 30, 50; klass: 60, 80, 150; title: 200, 404, 1500; 
 

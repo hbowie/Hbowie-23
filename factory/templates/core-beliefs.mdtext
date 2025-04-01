@@ -1,0 +1,71 @@
+<?output "../../content/writings/Core Beliefs.mdtext"?>
+Title:  Core Beliefs
+
+Tags:   
+
+Class:  general
+
+Seq:    10.1
+
+Level:  3 - essay
+
+Index:  
+
+Date:   2025-03-21
+
+Status: 9 - Published
+
+Short ID: cobe
+
+Featured: false
+
+Greatest Hits: false
+
+Category: 03 - Canonical
+
+Minutes to Read: 5
+
+Image Name: blue convergence
+
+Image Credit: iStock | phototechno
+
+Image Credit Link: https://www.istockphoto.com/vector/goal-solution-concept-on-blue-background-gm2181852006-600842697
+
+Date Added: 2025-03-21 15:11:07 -0700
+
+Date Modified: 2025-03-21 15:11:07 -0700
+
+Timestamp: 20250321221107
+
+Teaser:
+
+These are the things I believe in — the elements of my personal belief system. Unlike many aspects of my writing, however, these are not meant to be idiosyncratic. In fact, I'm happy to offer these up as a set of principles and values that all of us might find reason to rally around here in the early stages of the 21st century. 
+
+Body:
+
+Following are the things I believe in — the elements of my personal belief system. Unlike many aspects of my writing, however, these are not meant to be idiosyncratic. In fact, I'm happy to offer these up as a set of principles and values that all of us might find reason to rally around here in the early stages of the 21st century. 
+
+These are a set of twenty-eight ideas grouped into six categories. Each idea has a tag associated with it, so feel free to click on the tag button at the end of the description for more information. 
+
+<div class="core-beliefs">
+
+<?set alphaSeq = 1 ?>
+<?nextrec?>
+<?definegroup 1 "=$tags$="?>
+<?ifendgroup 1 ?>
+<?ifnewgroup 1 ?>
+<?if =$type$= ne alias ?>
+## =$alphaSeq&@A$=. =$tags&cuua $=
+
+<?set alphaSeq += 1 ?>
+<?endif?>
+<?endif?>
+<?if =$seq$= ?>
+### =$seq$=. =$title&cuua $=
+
+=$body$= <a class="core-tag" href="../../web/tags/=$title&f$=.html">=$title$=</a>
+
+<?endif?>
+<?loop?>
+
+</div>

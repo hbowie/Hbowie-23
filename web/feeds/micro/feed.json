@@ -12,6 +12,15 @@
     "language": "en-US",
     "items": [
         {
+            "id": "hbowie.net/micro/1952-vincent-black-lightning",
+            "url": "https://hbowie.net/micro/1952-vincent-black-lightning",
+						"external_url": "https://lexiconofsong.org/1952-vincent-black-lightning.html",
+						"title": "1952 Vincent Black Lightning",
+						"image": "https://lexiconofsong.org/images/1952-vincent-black-lightning-richard-thompson.jpg",
+						"content_html": "$
+						"date_published": "2025-03-11T00:00:00Z"
+        },
+        {
             "id": "hbowie.net/micro/notenik-14.4.0-released",
             "url": "https://hbowie.net/micro/notenik-14.4.0-released",
 						"external_url": "https://notenik.app/kb/version-14.4.0.html",
@@ -90,15 +99,6 @@
 						"title": "Notenik 13.4.0 Released",
 						"content_html": "$
 						"date_published": "2023-11-18T00:00:00Z"
-        },
-        {
-            "id": "hbowie.net/micro/they-all-laughed",
-            "url": "https://hbowie.net/micro/they-all-laughed",
-						"external_url": "https://hbowie.net/writings/they-all-laughed.html",
-						"title": "They All Laughed",
-						"image": "https://hbowie.net/images/they-all-laughed-rogers-and-astaire.jpg",
-						"content_html": "$
-						"date_published": "2023-11-02T00:00:00Z"
         }
     ]
 }

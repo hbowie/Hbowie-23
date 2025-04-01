@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>From the author</title>
+<title>Contents Outline</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <style>
 /* The following CSS comes from the darkModeAdjustments 
@@ -17,7 +17,13 @@
     --link-visited-color: Purple;
     --link-active-color: Red;
     --background-active-color: #e0e0e0;
-    --highlight-color: Gainsboro
+    --code-color: #d81b60;
+    --preformatted-color: #444;
+    --accent-bg: #f5f7ff;
+    --border: #898EA4;
+    --highlight-color: Gainsboro;
+    --bg: #fff;
+    --accent-bg: #f5f7ff;
 }
 a.ext-link::after {
     content: "";
@@ -40,7 +46,12 @@ a.ext-link::after {
     --link-visited-color: #cab7ff;
     --link-active-color: #94d8ff;
     --background-active-color: #363636;
-    --highlight-color: DimGray
+    --code-color: #f06292;
+    --preformatted-color: #ccc;
+    --accent-bg: #2b2b2b;
+    --highlight-color: DimGray;
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
   }
     a.ext-link::after {
         content: "";
@@ -74,6 +85,10 @@ a:active {
 }
 /* The following CSS comes from the displayCSS method of the
    DisplayPrefs class within Notenik.                        */
+:root {
+    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    --standard-border-radius: 5px;
+}
 body {
   tab-size: 4;
   margin: 1em;
@@ -81,13 +96,43 @@ body {
   color: var(--text-color);
   line-height: 1.45;
 /* fontCSS insertion starts here */
-font-family: "Concourse 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 15pt;
 /* fontCSS insertion ends here   */
 }
 p {
     margin-top: 0.2em;
     margin-bottom: 0.7em;
+}
+body > footer {
+    margin-top: 4rem;
+    text-align: center;
+}
+/* Consolidate box styling */
+aside, pre, progress {
+  background-color: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
+}
+aside {
+  font-size: 1rem;
+  width: 30%;
+  padding: 0 15px;
+  margin-inline-start: 15px;
+  float: right;
+}
+*[dir="rtl"] aside {
+  float: left;
+}
+
+/* Make aside full-width on mobile */
+@media only screen and (max-width: 720px) {
+  aside {
+    width: 100%;
+    float: none;
+    margin-inline-start: 0;
+  }
 }
 blockquote {
   border-left: 0.4em solid #999;
@@ -239,34 +284,12 @@ a.nav-link:link {
     border-bottom: none;
 }
 
-header {
-    text-align: center;
-}
-
-nav {
-    float: right;
-    font-style: italic;
-}
-
-nav ul {
-    margin-top: 0;
-}
-
-nav ul li {
-    display: inline;
-}
-
-nav ul li a {
-    text-decoration: none;
-    border-bottom: none;
-}
-
 nav ul li a.wiki-link {
     text-decoration: none;
     border-bottom: none;
 }
 
-footer {
+footer.nnk-footer {
     clear: both;
     border-top: 1px dashed var(--text-color);
     margin-top: 1em;
@@ -275,7 +298,7 @@ footer {
     text-align: right;
 }
 
-footer p {
+footer.nnk-footer p {
     padding-top: 0.5em;
 }
 
@@ -352,18 +375,165 @@ summary {
     margin-bottom: 0.5em;
 }
 pre {
-    overflow-x: auto;
+    
+}
+code {
+    font-family: var(--mono-font);
+    color: var(--code-color);
+}
+pre {
+  padding: 1rem 1.4rem;
+  max-width: 100%;
+  overflow-x: auto;
+  color: var(--preformatted-color);
+}
+
+/* Fix embedded code within pre */
+pre code {
+  color: var(--preformatted-color);
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Classes for notices */
+.notice {
+  background: var(--accent-bg);
+  border: 2px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+article, fieldset, dialog {
+  border: 1px solid var(--border);
+  padding: 1rem;
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
+}
+
+article h2:first-child,
+section h2:first-child,
+article h3:first-child,
+section h3:first-child {
+  margin-top: 1rem;
+}
+
+/* Make the header bg full width, but the content inline with body */
+body > header {
+  background-color: var(--accent-bg);
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 0 0.5rem 2rem 0.5rem;
+  grid-column: 1 / -1;
+}
+
+body > header > *:only-child {
+  margin-block-start: 2rem;
+}
+
+body > header h1 {
+  max-width: 1200px;
+  margin: 1rem auto;
+}
+
+body > header p {
+  max-width: 40rem;
+  margin: 1rem auto;
+}
+
+header.nnk-header {
+    background-color: var(--background-color);
+    text-align: center;
+    border-bottom: none;
+    max-width: none;
+    padding: 0 0 0 0;
+}
+
+/* Format navigation */
+header > nav {
+  font-size: 1rem;
+  line-height: 2;
+  padding: 1rem 0 0 0;
+}
+
+/* Use flexbox to allow items to wrap, as needed */
+header > nav ul,
+header > nav ol {
+  align-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* List items are inline elements, make them behave more like blocks */
+header > nav ul li,
+header > nav ol li {
+  display: inline-block;
+}
+
+header > nav a,
+header > nav a:visited {
+  margin: 0 0.5rem 1rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  color: var(--text);
+  display: inline-block;
+  padding: 0.1rem 1rem;
+  text-decoration: none;
+}
+
+header > nav a:hover,
+header > nav a.current,
+header > nav a[aria-current="page"],
+header > nav a[aria-current="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
+  cursor: pointer;
+}
+
+/* Reduce nav side on mobile */
+@media only screen and (max-width: 720px) {
+  header > nav a {
+    border: none;
+    padding: 0;
+    text-decoration: underline;
+    line-height: 1;
+  }
+}
+
+nav.nnk-nav {
+    float: right;
+    font-style: italic;
+}
+
+nav.nnk-nav ul {
+    margin-top: 0;
+}
+
+nav.nnk-nav ul li {
+    display: inline;
+}
+
+nav.nnk-nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
 }
 /* Generated CSS for headings follows. */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Equity A", Helvetica, Arial, sans-serif;
-    font-weight: 400;
+    font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+    font-weight: 600;
     margin-top: 0.7em;
     margin-bottom: 0.2em;
     font-style: normal;
 }
 h1 {
-    text-align: left;
+    text-align: center;
     font-size: 2.0em;
 }
 h2 {
@@ -392,9 +562,174 @@ h6 {
 <body>
 
 <main>
-<p id="fromtheauthor"><strong>From the author</strong></p><img src="files/From the author | photo.jpg" alt="Author Herb Bowie with Golden Retriever Hank, at Discovery Park" title="Author Herb Bowie with Golden Retriever Hank, at Discovery Park" class="notenik-image" /><p>Image Name: photo</p><p>Image Alt: Author Herb Bowie with Golden Retriever Hank, at Discovery Park</p><p>Image Link: <a href="about.html" class="ext-link">about.html</a></p><p>Button Text: Read more...</p><p>Button Link: <a href="about.html" class="ext-link">about.html</a></p><p>Body: </p><h3 id="welcome">Welcome!</h3>
+<p id="contentsoutline"><strong>Contents Outline</strong></p><p>Body: </p><p>This site&#8217;s content falls into a number of different categories. Feel free to drill down into any area that interests you. <a href="connect.html" class="wiki-link">Stay connected</a> through one or more of several avenues. </p>
 
-<p>That&#8217;s me and Hank, in a photo taken at Discovery Park, in Seattle. We&#8217;re glad you&#8217;re here! </p>
+<section id="section-for-hot-off-the-press...">
+
+<details class="heading-2-details">
+
+<summary id="hot-off-the-press..." class="heading-2-summary">
+Hot Off The Press&#8230;</summary>
+
+<p>See a list of my <a href="latest-original.html" class="wiki-link">latest original writings</a>, as well as the <a href="latest-quotes.html" class="wiki-link">latest quotes added</a> to my commonplace book. Visit the <a href="https://discourse.notenik.app" class="ext-link" target="_blank" rel="noopener">Discourse Forum</a> for the latest Notenik news. </p>
+
+</section>
+
+<section id="section-for-follow-connect">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="follow-connect" class="heading-2-summary">
+Follow/Connect</summary>
+
+<p>If you&#8217;d like to keep up with my work, and/or connect with me, the following avenues are available. </p>
+
+<details class="heading-3-details">
+
+<summary id="email" class="heading-3-summary">
+Email</summary>
+<ul>
+<li><a href="mailto:herb@hbowie.net" class="wiki-link">herb@hbowie.net</a> </li>
+</ul>
+</details>
+
+<details class="heading-3-details">
+
+<summary id="source-code" class="heading-3-summary">
+Source Code</summary>
+<ul>
+<li><a href="https://github.com/hbowie" class="ext-link" target="_blank" rel="noopener">GitHub</a> </li>
+</ul>
+</details>
+
+<details class="heading-3-details">
+
+<summary id="mastodon" class="heading-3-summary">
+Mastodon</summary>
+
+<p>I haven&#8217;t settled on a particular Mastodon server that quite feels like home yet, and so I currently have multiple accounts. </p>
+<ul>
+<li><a rel="me" href="https://mindly.social/@hbowie">hbowie@mindly.social</a> </li>
+<li><a rel="me" href="https://c.im/@hbowie">hbowie@c.im</a> </li>
+<li><a rel="me" href="https://mastodon.social/@hbowie">hbowie@mastodon.social</a> </li>
+<li><a rel="me" href="https://mastodon.social/@notenik">notenik@mastodon.social</a> </li>
+</ul>
+
+</section>
+
+<section id="section-for-software">
+</details>
+</details>
+
+<details class="heading-2-details">
+
+<summary id="software" class="heading-2-summary">
+Software</summary>
+
+<p>Notenik is my note-taking, web-making, content-managing app, written in Swift, using AppKit, exclusively for the Mac. Find out more at <a href="https://notenik.app" class="ext-link" target="_blank" rel="noopener">Notenik.app</a>. </p>
+
+<p><em>Big Ideas in Software Development</em> is my web book about software development. You can find it at <a href="https://softdevbigideas.com" class="ext-link" target="_blank" rel="noopener">SoftDevBigIdeas.com</a>. </p>
+
+</section>
+
+<section id="section-for-songs-and-music">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="songs-and-music" class="heading-2-summary">
+Songs and Music</summary>
+
+<p>I&#8217;ve written many pieces discussing songs that I&#8217;ve found compelling in one way or another.  I talk about their themes and meanings, as well as how they work. </p>
+<ul>
+<li><a href="songs.html" class="wiki-link">Songs Index</a> &#8211; A list of content on this site. </li>
+<li><a href="https://lexiconofsong.org" class="ext-link" target="_blank" rel="noopener">Lexicon of Song</a> &#8211; A separate site offering this content. </li>
+<li><a href="https://reasontorock.com" class="ext-link" target="_blank" rel="noopener">Reason to Rock</a> &#8211; A separate site offering an entire online book discussing the aesthetics of rock music. </li>
+</ul>
+
+</section>
+
+<section id="section-for-general-essays">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="general-essays" class="heading-2-summary">
+General Essays</summary>
+
+<p>Here&#8217;s an <a href="essays.html" class="wiki-link">alphabetical list</a> of essays I&#8217;ve written on a variety of topics. I&#8217;ve culled out any dated, topical pieces, so what&#8217;s left should still be useful reading. </p>
+
+<p>You can also see a list of all my original essays <a href="tree.html" class="wiki-link">grouped by primary topic</a>, which makes them a bit easier to sort through. </p>
+
+</section>
+
+<section id="section-for-reference-summaries">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="reference-summaries" class="heading-2-summary">
+Reference Summaries</summary>
+
+<p>I&#8217;ve written a number of pieces that serve as convenient summaries of ideas and models more extensively described by others. I&#8217;ve broken out a <a href="reference.html" class="wiki-link">convenient list of these</a>. </p>
+
+</section>
+
+<section id="section-for-my-commonplace-book">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="my-commonplace-book" class="heading-2-summary">
+My Commonplace Book</summary>
+
+<p>One of my uses for Notenik is to maintain a <a href="https://www.nytimes.com/2021/02/10/technology/personaltech/make-digital-commonplace-book.html" class="ext-link" target="_blank" rel="noopener">digital commonplace book</a>, containing brief quotations from others that I have found meaningful. This content can be accessed in a number of different ways. </p>
+<ul>
+<li><a href="authors/index.html" class="wiki-link">Authors Index</a> &#8211; A sortable list of all cited authors </li>
+<li><a href="latest-quotes.html" class="wiki-link">Latest Additions</a> &#8211; The most recent quotes added. </li>
+<li><a href="portablewisdom/index.html" class="wiki-link">Portable Wisdom</a> &#8211; Daily Quotes randomly chosen </li>
+<li><a href="quotes/random.html" class="wiki-link">Random Quote</a> &#8211; Pull up a random entry </li>
+</ul>
+
+</section>
+
+<section id="section-for-recurring-topics">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="recurring-topics" class="heading-2-summary">
+Recurring Topics</summary>
+
+<p>I use tags to identify various types of content touching on particular topics. You can use the <a href="tags/index.html" class="wiki-link">tags cloud</a> to find content on particular topics. </p>
+
+</section>
+
+<section id="section-for-finding-stuff">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="finding-stuff" class="heading-2-summary">
+Finding Stuff</summary>
+
+<p>See the <a href="site-index.html" class="wiki-link">alphabetical index</a> for an index to significant terms, authors and creators referenced from my original writings hosted on this site. Or just <a href="search.html" class="wiki-link">search</a> for something. </p>
+
+</section>
+
+<section id="section-for-credits">
+</details>
+
+<details class="heading-2-details">
+
+<summary id="credits" class="heading-2-summary">
+Credits</summary>
+
+<p>See the <a href="credits.html" class="wiki-link">Credits page</a> for credits and licensing. </p></details>
+
+</section>
+
 
 <hr />
 

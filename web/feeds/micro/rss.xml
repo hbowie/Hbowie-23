@@ -5,6 +5,16 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <title>1952 Vincent Black Lightning</title>
+	  <link>https://hbowie.net/micro/1952-vincent-black-lightning</link>
+	  <guid>https://hbowie.net/micro/1952-vincent-black-lightning</guid>
+	  <pubDate>Tue, 11 Mar 2025 12:00:00 -0700</pubDate>
+	  <description>
+	  	Just published an appreciation for Richard Thompson&apos;s classic song, &quot;1952 Vincent Black Lightning.&quot;
+
+	  </description>
+	</item>
+	<item>
 	  <title>Notenik 14.4.0 Released</title>
 	  <link>https://hbowie.net/micro/notenik-14.4.0-released</link>
 	  <guid>https://hbowie.net/micro/notenik-14.4.0-released</guid>
@@ -93,17 +103,6 @@ Also, coincidentally, I received a lovely post this morning on the Notenik Disco
 	  <description>
 	  	Version 13.4.0 of Notenik (free and open source) is now available in the Mac App Store. Added &apos;Show in Finder&apos; for note files; added a script include command; improved the display of link fields.  
 
-	  </description>
-	</item>
-	<item>
-	  <title>They All Laughed</title>
-	  <link>https://hbowie.net/micro/they-all-laughed</link>
-	  <guid>https://hbowie.net/micro/they-all-laughed</guid>
-	  <pubDate>Thu, 02 Nov 2023 12:00:00 -0700</pubDate>
-	  <description>
-	  	Published a little appreciation for the Gershwin song, &quot;They All Laughed.&quot;
-
-Available on [HBowie.net](https://hbowie.net/writings/they-all-laughed.html) and also at the [Lexicon of Song](https://lexiconofsong.org).
 	  </description>
 	</item>
   </channel>
