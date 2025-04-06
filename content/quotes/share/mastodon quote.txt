@@ -1,0 +1,19 @@
+<?nextrec?>
+Portable Wisdom Quote of the Day:
+
+=$body$=
+
+<?if "=$work-title$=" ?>
+<?if "=$date$= ?>
+— =$author$=, =$work-title$=, =$date$=
+<?else?>
+— =$author$=, =$work-title$=
+<?endif?>
+<?else?>
+— =$author$= 
+<?endif?>
+
+https://hbowie.net/quotes/=$title&f$=.html
+
+#PortableWisdom
+<?loop?>

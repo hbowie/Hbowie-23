@@ -438,6 +438,7 @@ governance	governance.html	4	quotes	Two ideas of government	William Jennings Bry
 governance	governance.html	4	quotes	We need governments to provide clear pathways	Larry Fink
 governance	governance.html	4	quotes	When Growth Becomes a Supreme Good	Yuval Noah Harari
 governance	governance.html	4	quotes	The World Empire enforces World Peace	Yuval Noah Harari
+happiness	happiness.html	4	quotes	Absorption in something outside us	Adam Gopnik
 happiness	happiness.html	4	quotes	What we need for happiness	Enrique Peñalosa
 hope	hope.html	4	quotes	Unlike cynicism, hopefulness is hard-earned	Nick Cave
 humanism	humanism.html	4	quotes	All must be held valuable, or none	Edmund Crispin
