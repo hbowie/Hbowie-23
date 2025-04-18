@@ -1,0 +1,14 @@
+module	action	modifier	object	value
+
+<!-- Generate second level table of contents -->
+
+input	set		xpltags	true
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../../content/toc
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+template	webroot			#PATH#../../web
+template	open			#PATH#../templates/toc-page.html
+template	generate

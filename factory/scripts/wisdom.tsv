@@ -15,6 +15,8 @@ template	open			#PATH#../templates/wisdom-atom-template.xml
 template	generate			
 template	open			#PATH#../templates/wisdom-latest-card.html
 template	generate			
+template	open			#PATH#../templates/quote-page.html
+template	generate			
 
 <!-- Generate Static Pages, including the Home (index) Page -->
 

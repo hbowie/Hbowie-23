@@ -28,6 +28,7 @@ US politics	us-politics.html	3	writings	Welcome To The Autonomous States of Amer
 US politics	us-politics.html	3	writings	The Progressive Problem	
 US politics	us-politics.html	3	writings	A Baker’s Dozen of Post-Election Thoughts & Feelings	
 US politics	us-politics.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
+US politics	us-politics.html	3	writings	How the Dems Lost It	
 US politics	us-politics.html	3	writings	Calling for a US Sustainability Initiative	
 US politics	us-politics.html	3	writings	The MAGA Bubble Finally Bursts	
 US politics	us-politics.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
@@ -133,6 +134,7 @@ cultural evolution	cultural-evolution.html	3	writings	Citizen Kane vs. Citizen B
 cultural evolution	cultural-evolution.html	3	writings	Help! Help! The Robots are Coming!	
 cultural evolution	cultural-evolution.html	3	writings	Can the US Become a Truly Egalitarian Society?	
 cultural evolution	cultural-evolution.html	3	writings	A Practopian Approach to Gun Issues in the US	
+cultural evolution	cultural-evolution.html	3	writings	How the Dems Lost It	
 cultural evolution	cultural-evolution.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
 cultural evolution	cultural-evolution.html	3	writings	Building a Case for the Detective Story	
 cultural evolution	cultural-evolution.html	3	writings	Apollo 11 - 2019 film	
@@ -281,6 +283,7 @@ integral	integral.html	3	writings	A Broadcast Consciousness
 integral	integral.html	3	writings	Citizen Kane vs. Citizen Bailey	
 integral	integral.html	3	writings	My Prayer for a More Integral New Year	
 integral	integral.html	3	writings	A Practopian Approach to Gun Issues in the US	
+integral	integral.html	3	writings	How the Dems Lost It	
 integral	integral.html	3	writings	What Trump Gets Right	
 integrity	integrity.html	3	writings	The Last Trip to Tulsa	Neil Young
 integrity	integrity.html	3	writings	1952 Vincent Black Lightning	Richard Thompson

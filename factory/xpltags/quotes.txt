@@ -41,6 +41,7 @@ art	art.html	4	quotes	Enemies of Art and Artist	Henry Miller
 art	art.html	4	quotes	Excitement from Art	Anthony Burgess
 art	art.html	4	quotes	God and Morality	Frans de Waal
 art	art.html	4	quotes	History as Postmodern Collage	Joe Boyd
+art	art.html	4	quotes	Human psychology will never be fully explained	Adam Gopnik
 art	art.html	4	quotes	The Inner Life of the Artist	Edward Hopper
 art	art.html	4	quotes	The language of religion and poetry	Niels Bohr
 art	art.html	4	quotes	Life is not like formula fiction	Anne Lamott
@@ -684,6 +685,7 @@ science	science.html	4	quotes	Art, Science and Empire	William Blake
 science	science.html	4	quotes	Chimps and Humans	Carl Sagan and Ann Druyan
 science	science.html	4	quotes	Discoveries and Inventions	Abraham Lincoln
 science	science.html	4	quotes	The exercise of the intellect	Alexis de Tocqueville
+science	science.html	4	quotes	Human psychology will never be fully explained	Adam Gopnik
 science	science.html	4	quotes	The Mysterious	Albert Einstein
 science	science.html	4	quotes	Notions to Explain Nature	Baruch Spinoza
 science	science.html	4	quotes	The only dependable things are humility and looking	Richard Powers
@@ -781,6 +783,7 @@ teams	teams.html	4	quotes	Engineer and designer need to party together	Michael L
 technology	technology.html	4	quotes	Engineer and designer need to party together	Michael Lopp
 technology	technology.html	4	quotes	My brain felt hungry	Ezra Klein
 technology	technology.html	4	quotes	Social media is hyperactive	Ian Bogost
+technology	technology.html	4	quotes	Technological Unemployment	John Maynard Keynes
 technology	technology.html	4	quotes	To distract the watchdog of the mind	Marshall McLuhan
 technology	technology.html	4	quotes	Where the Puck is Going to Be	Steve Jobs
 tools	tools.html	4	quotes	A bicycle for our minds	Steve Jobs

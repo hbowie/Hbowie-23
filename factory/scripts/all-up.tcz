@@ -4,6 +4,7 @@ module	action	modifier	object	value
 
 script	set		log-noise	quiet
 script	include			chunks
+script	include			toc.tsv
 script	include			works
 script	include			quotes
 script	include			authors
