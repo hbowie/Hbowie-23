@@ -1,6 +1,7 @@
 Tag	Tag File Name	Seq	Folder	Title	Author
 Americana	americana.html	3	writings	Train to Birmingham	John Hiatt
 Apple	apple.html	3	writings	Why Mandating 'X' Days a Week in the Office is a Stupid Idea	
+Apple	apple.html	3	writings	Thoughts on AI: Apple and Otherwise	
 Christmas	christmas.html	3	writings	Christmas (Baby Please Come Home)	Ellie Greenwich, Jeff Barry and Phil Spector
 Christmas	christmas.html	3	writings	Christmas Song by Dave Matthews	Dave Matthews
 Christmas	christmas.html	3	writings	Reflections on the Christian Message	
@@ -149,6 +150,7 @@ death	death.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 death	death.html	3	writings	Late For The Sky	Jackson Browne
 death	death.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
 death	death.html	3	writings	Will the Circle be Unbroken	A.P. Carter
+death	death.html	3	writings	My Ride's Here	Warren Zevon & Paul Muldoon
 death	death.html	3	writings	Pancho and Lefty	Townes Van Zandt
 democracy	democracy.html	3	writings	Democracy	
 democracy	democracy.html	3	writings	The Truth About Capitalism	
@@ -352,6 +354,7 @@ religion	religion.html	3	writings	Religious Freedom
 religion	religion.html	3	writings	Reasons for Belief	
 religion	religion.html	3	writings	Reflections on the Christian Message	
 religion	religion.html	3	writings	Why I Call Myself a Practopian	
+religion	religion.html	3	writings	My Ride's Here	Warren Zevon & Paul Muldoon
 religion	religion.html	3	writings	Ring Them Bells	Bob Dylan
 religion	religion.html	3	writings	Step by Step	Jesse Winchester
 religion	religion.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
@@ -432,6 +435,8 @@ technology	technology.html	3	writings	Thank God for Elon Musk!
 technology	technology.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
 technology	technology.html	3	writings	Keeping to the Cackle with AI	
 technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
+technology	technology.html	3	writings	Thoughts on AI: Apple and Otherwise	
+technology	technology.html	3	writings	More Markdown and HTML, Please	
 technology	technology.html	3	writings	Popping the Hood with the Notenik App	
 tools	tools.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
 value creation	value-creation.html	3	writings	The Four Essential Attributes of any Organization	

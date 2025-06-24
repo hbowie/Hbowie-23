@@ -639,6 +639,55 @@ p.nav {
 
 /* --------------------------------------------------
 
+	Streaming Audio for Songs
+
+* -------------------------------------------------- */
+
+.to-listen {
+	display: inline-block;
+	text-decoration: none;
+	border-bottom: 0;
+	border-radius: 0.25rem; 
+	background-color: #ca9972; 
+	color: #201E1F;
+	padding: 1px 12px 1px 12px; 
+	margin: 10px 10px 10px 10px;
+	min-width: 40px; 
+	text-align: center;
+	font-family: concourse_4_caps, 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 0.9rem; 
+	font-weight: 500; 
+	line-height: 1.5;
+	font-family: 'concourse_t4regular', 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	cursor: pointer;
+}
+
+a.to-listen {
+	text-decoration: none;
+	border-bottom: 0;
+	color: #201E1F;
+}
+
+a.to-listen:link {
+	text-decoration: none;
+	border-bottom: 0;
+	color: #201E1F;
+}
+
+a.to-listen:hover {
+	text-decoration: none;
+	border-bottom: 0;
+	color: #201E1F;
+}
+
+a.to-listen:visited {
+	text-decoration: none;
+	border-bottom: 0;
+	color: #201E1F;
+}
+
+/* --------------------------------------------------
+
 	Other
 
 * -------------------------------------------------- */
@@ -662,7 +711,6 @@ button {
 	background-color: #e7cfb9;
 	border-color: #8b6854;
 }
- 
 
 .song-title-slug {
 	font-size: 1.8em;

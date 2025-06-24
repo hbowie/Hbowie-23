@@ -1,0 +1,7 @@
+module	action	modifier	object	value
+sync	open		left	/Users/hbowie/Sites/HBowie-23/content/authors
+sync	open		right	/Users/hbowie/Sites/belief-system-21c/content/authors
+sync	set		direction	bidirectional
+sync	set		respectblanks	false
+sync	set		actions	logonly
+sync	sync			

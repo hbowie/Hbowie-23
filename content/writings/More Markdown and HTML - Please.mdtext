@@ -1,0 +1,94 @@
+Title:  More Markdown and HTML, Please
+
+Tags:   technology
+
+Class:  general
+
+Seq:    15.14
+
+Level:  3 - essay
+
+Index:  Gruber, John; Markdown; iA Writer; 
+
+Date:   2025-06-05
+
+Status: 9 - Published
+
+Short ID: mmhp
+
+Featured: false
+
+Greatest Hits: false
+
+Category: 08 - Technical
+
+Importance: 75
+
+Minutes to Read: 5
+
+Image Name: Markdown mark in blue
+
+Image Alt: Markdown mark
+
+Date Added: 2025-06-05 14:15:50 -0700
+
+Date Modified: 2025-06-23 13:27:26 -0700
+
+Timestamp: 20250605211550
+
+Teaser:
+
+Markdown is admittedly not for everyone, and not equally useful in all contexts, but its usage continues to grow, and arguably has more headroom for further growth. 
+
+
+Body:
+
+I’ve written before about [Why I Use Markdown (And Why You Should Too)](https://hbowie.net/writings/why-i-use-markdown-and-why-you-should-too.html). [^1]
+
+But a recent and interesting confluence of statements has prompted me to take up the proverbial pen to address this subject once again. 
+
+First, there was the [announcement from iA](https://ia.net/topics/apple-design-award-2025) that their Writer software was a 2025 Apple Design Award finalist — relevant in this context because iA Writer is a Markdown-based writing tool, and one that has been around for fifteen years. 
+
+Second, John Gruber recently posted some [thoughts about Markdown](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown) usage on his Daring Fireball blog. Those thoughts included the following:
+
+> Some people find this surprising, but I personally don’t want to use a Markdown notes app. I created Markdown two decades ago and have used it ever since for one thing and one thing only: writing for the web at Daring Fireball. My original description of what it is still stands: “Markdown is a text-to-HTML conversion tool for web writers.” 
+
+Now I think I understand Gruber’s point of view here, and I certainly respect it. 
+
+But I do have further thoughts. 
+
+In the two decades since the creation of Markdown, HTML has become increasingly pervasive in our lives. How many words do people type these days that don’t end up getting converted to HTML for display on the web, or included as HTML in an email? Vanishingly few, I would guess. So haven’t we *all* become web writers? 
+
+And even in cases where people are not generating HTML, it can be argued that this is because HyperText Markup Language has often been arbitrarily and artificially cordoned off for use *only* on the web. It’s easy to share a Word document or a Pages document via email, or to store such a doc in the cloud. And even though (or perhaps *because*) specialized, proprietary software is required to open such files, these sorts of documents flow easily through our communications and storage systems. But when you try using an HTML file, or even a plain text file, in the same way, problems tend to crop up — even though everyone receiving such a file already has access to software that could easily open and display such a document (a text editor and/or a web browser). 
+
+And then we also have the increasing use of plain text on lightweight communications channels. Most of these platforms provide few if any WYSIWYG editing features. Want to embed a hyperlink in your social media post? Sorry, no way to do that (with the notable exception of [Micro.blog](https://micro.blog/), which provides Markdown support). Want to italicize the title of a book or a film in your text message? Sorry, no way to do that either. And so, many of the words people are writing these days end up just being written using plain text — much as people used to write their emails. 
+
+Which brings me to some other [words from Gruber](https://daringfireball.net/projects/markdown/):
+
+> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters, the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
+
+And so, if these things still be true — and I think they are — why not support Markdown on these sorts of lightweight communications channels as well? Because the plain text that people write naturally is already syntactically correct Markdown, and the addition of a little extra Markdown formatting will not impair its readability, even for those situations in which others might view the original text. 
+
+Gruber also has concerns about more widespread Markdown usage because “It’s trivial to create malformed Markdown syntax.” This is certainly true, and the argument has some merit. On the other hand, even malformed Markdown is still easily readable, and editing tools such as iA Writer provide inline formatting hints, without obscuring the formatting characters, making it much harder to accidentally overlook formatting issues. 
+
+And then, finally, there is the nerdiness factor. Gruber likes the WYSIWYG rich text editing interface because “It’s not nerdy at all.”
+
+And again, he’s not wrong. 
+
+But I happen to think that a little nerdiness is a good thing, and that Markdown is just nerdy enough. As I've [commented before](https://hbowie.net/writings/popping-the-hood-with-the-notenik-app.html), I believe one of the problems with our society is that we increasingly divide people into app makers and app users, with the app makers mostly catering to the interests of their large corporate overlords, and the app users being told they have no choice other than to learn how to use the same apps that are being force-fed to everyone else. And part of the key to maintaining this separation is to tell all the app users that they cannot possibly look behind the curtain to see how things are done, because it would be too complex for their tiny and uninformed brains to comprehend. 
+
+But this is nonsense. Everyone deserves to have at least a little look behind the curtains, even if only to see that the people back there are not all that different from those on the other side, that everyone knows just a little bit of how things work, and that it’s always possible for ordinary people to learn more about these things, and even to create their own things. 
+
+As [Steve Jobs once said](https://hbowie.net/quotes/life-can-be-much-broader.html): 
+
+> Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.
+
+I believe Markdown is just nerdy enough to allow a few more people to gain entrance to this magical land in which ordinary people dare to imagine things that never were, and ask ‘Why not?’. 
+
+And so, while I believe Gruber may well be right in his essential point about the Apple Notes app, I think that still leaves a great deal of room for Apple and others to expand their support for Markdown and HTML as universal document formats that are easily accessible to everyone, and that allow everyone a little bit of that joy that comes from seeing the cogs turning in the machine, and not just the product coming out of the other end. 
+
+So, more please. 
+
+More Markdown, and more HTML, in more places. 
+
+[^1]: For those interested in more information on the rise of Markdown usage, see [Markdown and the Slow Fade of the Formatting Fetish](https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish), another post on the iA blog.

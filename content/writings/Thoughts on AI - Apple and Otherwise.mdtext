@@ -1,0 +1,109 @@
+Title:  Thoughts on AI: Apple and Otherwise
+
+Tags:   Apple, technology
+
+Class:  general
+
+Seq:    15.15
+
+Level:  3 - essay
+
+Index:  Apple; AI; 
+
+Date:   2025-06-23
+
+Status: 9 - Published
+
+Short ID: toaao
+
+Featured: true
+
+Greatest Hits: false
+
+Category: 08 - Technical
+
+Importance: 50
+
+Minutes to Read: 4
+
+Image Name: ai-image
+
+Image Alt: generic Ai image
+
+Image Credit: iStock | Vertigo3d
+
+Image Credit Link: https://www.istockphoto.com/photo/digital-abstract-cpu-ai-artificial-intelligence-and-machine-learning-concept-gm2170889984-590791474
+
+Date Added: 2025-06-23 10:19:44 -0700
+
+Date Modified: 2025-06-23 13:30:11 -0700
+
+Timestamp: 20250623171944
+
+Teaser:
+
+There’s been a lot of discussion lately about AI, and Apple’s AI problems in particular, and I have some potentially useful, and perhaps even original, thoughts on these subjects. Amidst all the fascination about the amazing things that AI can do, I think many of us tend to lose sight of some of the *essential characteristics* of this relatively new technology. 
+
+Body:
+
+There’s been a lot of discussion lately about AI, and Apple’s AI problems in particular, and I have some potentially useful, and perhaps even original, thoughts on these subjects.
+
+Amidst all the fascination about the amazing things that AI can do, I think many of us tend to lose sight of some of the *essential characteristics* of this relatively new technology. 
+
+Unlike all preceding computing technology with which we have become familiar, it is non-deterministic. This is a hard thing for us to thoroughly wrap our heads around. In the past, the whole point of a computer was to have a programmer write an algorithm that would consistenly produce the same results, given the same inputs. And the resulting software could be tested to verify its validity. And if the results were wrong, you could assign a programmer to go in and find the bug and fix it. If a software product needed further adjustments, you could send the dev team back to tweak it a bit. And once it was fixed, it would go on working correctly until the end of time. 
+
+None of this is true for AI. These modern AI engines are more like sophisticated guessing machines. You tell them what you want, and they take a guess at a useful answer. It is not *the* answer. It is just a sophisticated guess, generally one of many that might be possible. And it might be a wild-ass guess, or it might be an educated guess. 
+
+And these engines are non-algorithmic. So if you don’t like the results, there’s nothing for a programmer to tweak. 
+
+Playing with these things can be a lot of fun, precisely *because* the results are unpredictable. After all, this is why so many people go to Las Vegas every year, and why sports are so popular.
+
+But this sort of technology presents completely new challenges for management. Software development has always been notoriously hard to manage, but management has responded over the years with sophisticated sets of tools to aid them in this process. (If you want a list of these, take a look at the [PMBOK](https://www.pmi.org/standards/pmbok) or the [CMMI](https://cmmiinstitute.com/cmmi/intro)). And while these techniques have never been completely effective, they have been reassuring, and management has learned to rely on them. 
+
+But these recent forms of AI are fundamentally different. 
+
+And I think it took a while, for Apple in particular, to really understand these essential differences, and their implications.  
+
+So when they saw some in-house prototype that seemed to be pretty good at pulling useful information out of emails and messages, and presenting it neatly to the user when requested, management probably assumed that the software could be further refined, without too much fuss, to increase its accuracy to an acceptable level. 
+
+(And, for Apple, that acceptable accuracy rate would no doubt be pretty high — again, assuming the sort of predictability and reliability that management traditionally expected from software.)
+
+But then, eventually, the truth sank in: This whole management game was just not going to work in the same way with this new stuff. 
+
+And then, it seems, there was this other issue. 
+
+It turns out that the usefulness of a sophisticated guessing machine varies widely, depending on the *context in which it is being used*. 
+
+There are three factors here. 
+
+First, there is the ability to subject the results to some kind of knowledgeable review before relying on them. 
+
+Second, there is the length of time it will take to validate the accuracy of the results. 
+
+Third, there is the seriousness of possible consequences, should the results turn out to be wrong.
+
+Now, somewhat ironically, old-fashioned software coding is one of the few use cases where these issues all work in favor of an AI engine. 
+
++ A programmer can review the code produced by such a guessing machine to see if it looks like what they want;
++ A compiler, often embedded in an IDE, can quickly spot some of the more egregious errors;
++ And then, the programmer can run the code in a test environment to see if it produces the desired results.
+
+But now consider how these same factors play out in the sort of use case Apple was envisioning. 
+
+Let’s say a user needs to pick up someone from the airport, and wants to quickly find out when they are due to arrive. *Siri, when is my mom’s plane coming in?*
+
+Now consider these same three factors for this use case:
+
++ If they had time to review the answer produced by an AI agent, then they wouldn’t need the AI agent at all, since the whole point here is to save them the time it would take to look up the answer for themselves; 
++ If the answer is wrong, then there is no quick way to spot the error;
++ If the user relies on the wrong answer, then they make a trip to the airport at the wrong time, and waste much more time than the AI agent could have possibly saved them. 
+
+And so there is a high likelihood, for this use case, that an AI engine will not provide a really satisfactory solution. Not now, and potentially not ever. 
+
+FWIW, I agree with others that Apple management seems to have made a successful pivot on this whole issue, based on statements made in and around this year’s Developer’s Conference. 
+
+And for others who want to eliminate a bunch of jobs using AI, I would urge them to seriously consider some of these same issues that threw Apple for a loop (although, thankfully, not an infinite one). 
+
+Some of the same factors that make these things such fun toys also limit their usefulness in many real-world situations. 
+
+And these are, as best I can tell, *essential elements* of this technology.

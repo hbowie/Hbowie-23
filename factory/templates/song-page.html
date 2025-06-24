@@ -35,7 +35,26 @@
 				
 				<p class="date-and-mins">=$date&dd MMM yyyy$= &middot; =$minutes-to-read$= min read</p>
 
-				<p class="tags-align">=$tags&gtags/;tag-link; $=</p>
+				<p class="tags-align">Topics: =$tags&gtags/;tag-link; $=</p>
+				
+				<p>
+					To Listen: 
+<?if "=$apple-music-link$=" ?>
+					<a class="to-listen" target="_blank" href="=$apple-music-link$=">
+						Apple Music
+					</a>
+<?endif?>
+<?if "=$youtube-link$=" ?>
+					<a class="to-listen" target="_blank" href="=$youtube-link$=">
+						YouTube
+					</a>
+<?endif?>
+<?if "=$spotify-link$=" ?>
+					<a class="to-listen" target="_blank" href="=$spotify-link$=">
+						Spotify
+					</a>
+<?endif?>
+				</p>
 
 <?if "=$image-name$=" ?>
 <?copyfile "../../content/writings/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
