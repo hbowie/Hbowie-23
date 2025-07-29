@@ -174,6 +174,12 @@ let searchQuotes = [
 		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
 	},
 	{
+		title: "Always difficult decisions needing to be made",
+		date: "2022",
+    url: "quotes/always-difficult-decisions-needing-to-be-made.html",
+		content: "Human affairs were so messy You could do your best to lead a quiet life to keep out of unnecessary conflict to put in your forty years or whatever it was of working to the best of your ability without creating too many ripples but there were always difficult decisions needing to be made And however hard you tried there would be times when you could not avoid causing pain to others because pain and disappointment seemed an inevitable concomitant of human life The moment you accepted any promotion any slight advantage over those below you in the pecking order you had to accept that you might have to do things that others would prefer you not to do make rulings that would dash the hopes of others give one person advantage over another make people do things they would rather not do All this came with seniority all this came with working in a hierarchical organization all this came with simply being human Alexander McCall Smith a Scottish legal scholar and author of fiction The Man with the Silver Saab "
+	},
+	{
 		title: "No person in America should be too poor to live",
 		date: "28 Jun 2018",
     url: "quotes/no-person-in-america-should-be-too-poor-to-live.html",
@@ -295,7 +301,7 @@ let searchQuotes = [
 	},
 	{
 		title: "We don't even own suits",
-		date: "July 19, 2010",
+		date: "2010-07-19",
     url: "quotes/we-dont-even-own-suits.html",
 		content: "When an AT amp T rep suggested Jobs wear a suit to meet with AT amp T s CEO the deputy replied We re Apple We don t wear suits We don t even own suits Apple  The Oft Unhappy Marriage of Apple and AT&amp;T "
 	},
@@ -435,7 +441,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -673,7 +679,7 @@ let searchQuotes = [
 	},
 	{
 		title: "No Philosophy of Family Life",
-		date: "March 2020",
+		date: "2020-03",
     url: "quotes/no-philosophy-of-family-life.html",
 		content: "In other words while social conservatives have a philosophy of family life they can t operationalize because it no longer is relevant progressives have no philosophy of family life at all because they don t want to seem judgmental The sexual revolution has come and gone and it s left us with no governing norms of family life no guiding values no articulated ideals On this most central issue our shared culture often has nothing relevant to say and so for decades things have been falling apart David Brooks A Canadian-born American conservative political and cultural commentator who writes for *The New York Times* The Nuclear Family was a Mistake "
 	},
@@ -771,7 +777,7 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
@@ -789,19 +795,19 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
@@ -819,19 +825,19 @@ let searchQuotes = [
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -849,7 +855,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -1800,6 +1806,18 @@ let searchQuotes = [
 		content: "What we re doing now is trying to think like nature in the sense that we are aware that species that have gone before us have disappeared from the face of the Earth We d like to use our intelligence and our creative capacity to prolong our presence on the face of the Earth as long as possible It requires therefore that we develop the kinds of tactics and strategies amongst ourselves so as to assure that this can occur to assure that we will not destroy ourselves or the planet to make it uninhabitable and to allow the fullness of the potential of the individual to be expressed to flower Jonas Salk  with Bill Moyers "
 	},
 	{
+		title: "Liberation from the tasks that had given meaning to life",
+		date: "2015",
+    url: "quotes/liberation-from-the-tasks-that-had-given-meaning-to-life.html",
+		content: "The aim of the Internet and its associated technologies was to liberate humanity from the tasks making things learning things remembering things that had previously given meaning to life and thus had constituted life Now it seemed as if the only task that meant anything was search engine optimization Jonathan Franzen American novelist and essayist. Purity "
+	},
+	{
+		title: "Nature made a mockery of information technology",
+		date: "2015",
+    url: "quotes/nature-made-a-mockery-of-information-technology.html",
+		content: "Down in the meadow by the river rapids by the tumble of wet boulders a large woodpecker was drumming on a hollow tree A buzzard eagle soared past the vertical face of a red pinnacle Warm late morning air currents were stirring the woods along the road creating a tapestry of light and shadow so fine grained and chaotic in its shiftings that no computer on earth could have modeled it Nature even on the most local of scales made a mockery of information technology Even augmented by tech the human brain was paltry infinitesimal in comparison to the universe Jonathan Franzen American novelist and essayist. Purity "
+	},
+	{
 		title: "Careful, thoughtful, small, practical efforts",
 		date: "2002",
     url: "quotes/careful-thoughtful-small-practical-efforts.html",
@@ -2353,13 +2371,13 @@ let searchQuotes = [
 	},
 	{
 		title: "Belief is the end of Observation",
-		date: "27 Jun 2020",
+		date: "2020-06-27",
     url: "quotes/belief-is-the-end-of-observation.html",
 		content: "What you do is you have an idea and you hold it in your mind as long as it s useful And then when it turns out not to be useful discard it But the idea of clinging to belief as a basis for your life which is what most people do is terrifying because belief is the end of observation You believe something you stop seeing everything else Clearly that is not desirable And yet it s the way most people live Milton Glaser American graphic designer Design is Not Appearance: My Interview with Milton Glaser "
 	},
 	{
 		title: "Design is not Appearance",
-		date: "27 Jun 2020",
+		date: "2020-06-27",
     url: "quotes/design-is-not-appearance.html",
 		content: "Design is not appearance but a way of thinking about information and conveying ideas to others That s really what I do I am so interested in having ideas That idea that your role in the culture is to inform and delight is so sweet Not to persuade not to persuade Milton Glaser American graphic designer Design is Not Appearance: My Interview with Milton Glaser "
 	},
@@ -2898,6 +2916,12 @@ let searchQuotes = [
 		content: "Humankind has not woven the web of life We are but one thread within it Whatever we do to the web we do to ourselves All things are bound together All things connect Ted Perry  unknown "
 	},
 	{
+		title: "The main cause of capitalism's problems is overpopulation",
+		date: "2024",
+    url: "quotes/the-main-cause-of-capitalisms-problems-is-overpopulation.html",
+		content: "Despite its successes and perhaps because of them capitalism created or could not prevent the creation of the two problems that now threaten its survival enormous economic inequalities both between and within countries and the largely worsening if not the destruction of the natural environment As we have analyzed in a previous chapter the main cause of these problems is overpopulation in relation to the resources provided by the Earth Theodore P. Lianos Professor Emeritus, Athens University of Economics and Business Capitalism, Degrowth and the Steady State Economy Debating Future Economic Models "
+	},
+	{
 		title: "Those Sharp, Scratchy, Harsh, Almost Unpleasant Guys",
 		date: "",
     url: "quotes/those-sharp-scratchy-harsh-almost-unpleasant-guys.html",
@@ -2949,13 +2973,13 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
@@ -2968,6 +2992,24 @@ let searchQuotes = [
 		date: "2003",
     url: "quotes/belief-in-impossible-things.html",
 		content: "There is probably no job on earth for which an ability to believe six impossible things before breakfast is more of a requirement than software project management We are routinely expected to work ourselves into a state of believing in a deadline a budget or a performance factor that time subsequently may prove to be impossible Tom DeMarco and Timothy Lister American software engineer, author, and consultant Waltzing with Bears: Managing Risk on Software Projects "
+	},
+	{
+		title: "American decline",
+		date: "1962",
+    url: "quotes/american-decline.html",
+		content: "Not only did tarnish appear on our image of American virtue not only did disillusion occur when the hypocrisy of American ideals was discovered but we began to sense that what we had originally seen as the American Golden Age was actually the decline of an era The worldwide outbreak of revolution against colonialism and imperialism the entrenchment of totalitarian states the menace of war overpopulation international disorder supertechnology these trends were testing the tenacity of our own commitment to democracy and freedom and our abilities to visualize their application to a world in upheaval Tom Hayden American social and political activist, author, and politician The Port Huron Statement "
+	},
+	{
+		title: "Mankind desperately needs revolutionary leadership",
+		date: "1962",
+    url: "quotes/mankind-desperately-needs-revolutionary-leadership.html",
+		content: "Although our own technology is destroying old and creating new forms of social organization men still tolerate meaningless work and idleness While two thirds of mankind suffers under nourishment our own upper classes revel amidst superfluous abundance Although world population is expected to double in forty years the nations still tolerate anarchy as a major principle of international conduct and uncontrolled exploitation governs the sapping of the earth s physical resources Although mankind desperately needs revolutionary leadership America rests in national stalemate its goals ambiguous and tradition bound instead of informed and clear its democratic system apathetic and manipulated rather than of by and for the people Tom Hayden American social and political activist, author, and politician The Port Huron Statement "
+	},
+	{
+		title: "We may be the last generation in the experiment with living",
+		date: "1962",
+    url: "quotes/we-may-be-the-last-generation-in-the-experiment-with-living.html",
+		content: "Our work is guided by the sense that we may be the last generation in the experiment with living But we are a minority the vast majority of our people regard the temporary equilibriums of our society and world as eternally functional parts In this is perhaps the outstanding paradox we ourselves are imbued with urgency yet the message of our society is that there is no viable alternative to the present Beneath the reassuring tones of the politicians beneath the common opinion that America will muddle through beneath the stagnation of those who have closed their minds to the future is the pervading feeling that there simply are no alternatives that our times have witnessed the exhaustion not only of Utopias but of any new departures as well Feeling the press of complexity upon the emptiness of life people are fearful of the thought that at any moment things might be thrust out of control They fear change itself since change might smash whatever invisible framework seems to hold back chaos for them now For most Americans all crusades are suspect threatening The fact that each individual sees apathy in his fellows perpetuates the common reluctance to organize for change The dominant institutions are complex enough to blunt the minds of their potential critics and entrenched enough to swiftly dissipate or entirely repel the energies of protest and reform thus limiting human expectancies Then too we are a materially improved society and by our own improvements we seem to have weakened the case for further change Tom Hayden American social and political activist, author, and politician The Port Huron Statement "
 	},
 	{
 		title: "Freedom of Expression in Business",

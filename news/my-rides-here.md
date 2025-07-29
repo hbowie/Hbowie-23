@@ -2,6 +2,7 @@
 
 Warren Zevon was recently (and, for many fans, finally!) inducted into the [Rock & Roll Hall of Fame](https://rockhall.com/inductees/warren-zevon/) this year, so it seems an appropriate time to highlight one of his many great songs.
 
+If you'd rather read this piece in your web browser, you can find it on [HBowie.net](https://hbowie.net/writings/my-rides-here.html) and also at the [Lexicon of Song](https://lexiconofsong.org/my-rides-here.html).
 
 ----
 
@@ -75,7 +76,7 @@ So now let's tackle the second verse.
 > And carry us away, Jim,  
 > Across the San Jacinto."  
 
-The reference to Houston places us in Texas, as does the reference to bluebonnets, a "a blue-flowered lupine, especially common in Texas." But it also invokes the name of Sam Houston, who played a prominent role in the [Texas Revolution](https://en.wikipedia.org/wiki/Texas_Revolution), which gives us a little more context for Zevon's thoughts. The singer is now galloping, so again we're in a Western story of some kind. But then Zevon is "wrestling with an angel," placing us back in a some sort of eternal landscape, while the next line again manages a sort of cultural equivalence, saying the singer's companion was "working on a sonnet." 
+The reference to Houston places us in Texas, as does the reference to bluebonnets, a "a blue-flowered lupine, especially common in Texas." But it also invokes the name of Sam Houston, who played a prominent role in the [Texas Revolution](https://en.wikipedia.org/wiki/Texas_Revolution), which gives us a little more context for Zevon's thoughts. The singer is now galloping, so again we're in a Western story of some kind. But then Zevon is "wrestling with an angel," placing us back in some sort of eternal landscape, while the next line again manages a sort of cultural equivalence, saying the singer's companion was "working on a sonnet." 
 
 The seraphim is another reference to angels, this time to their highest order. The pinto is a reference to a horse, presumably the one the companion is currently riding. And the [Battle of San Jacinto](https://en.wikipedia.org/wiki/Battle_of_San_Jacinto) was the final and decisive battle of the aforementioned Texas Revolution. 
 

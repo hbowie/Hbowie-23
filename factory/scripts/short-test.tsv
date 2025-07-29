@@ -1,0 +1,16 @@
+module	action	modifier	object	value
+
+<!-- Generate Javascript to Search Original Writings -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/HBowie-23/content/writings
+filter	clear			
+filter	add	ge	Status	9
+filter	set		params	
+sort	clear			
+sort	add	ascending	Title	
+sort	set		params	
+template	webroot			/Users/hbowie/Sites/HBowie-23/web
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/short-2.html
+template	generate			

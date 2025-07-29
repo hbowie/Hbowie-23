@@ -152,6 +152,7 @@ death	death.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
 death	death.html	3	writings	Will the Circle be Unbroken	A.P. Carter
 death	death.html	3	writings	My Ride's Here	Warren Zevon & Paul Muldoon
 death	death.html	3	writings	Pancho and Lefty	Townes Van Zandt
+death	death.html	3	writings	Remembering Hank	
 democracy	democracy.html	3	writings	Democracy	
 democracy	democracy.html	3	writings	The Truth About Capitalism	
 democracy	democracy.html	3	writings	What To Do About Big Business?	
@@ -179,6 +180,7 @@ democracy	democracy.html	3	writings	A Traditional Remedy for the Facebook Proble
 depression	depression.html	3	writings	White Room	Jack Bruce and Pete Brown
 design	design.html	3	writings	Kindness by Design	
 devil	devil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
+diversity	diversity.html	3	writings	It Takes All Kinds	
 education	education.html	3	writings	Understanding Human History	
 education	education.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
 education	education.html	3	writings	My Advice to Young People of All Ages	

@@ -33,6 +33,7 @@
 
 <?set count = 0 ?>
 <?nextrec?>
+<?if "=$class$=" ne "header" ?>
 <?set count += 1 ?>
 <?if =$count$= lt 8 ?>
 				<h3><a class="implicit" href="writings/=$title&f$=.html">=$title&h$=</a></h3>
@@ -47,6 +48,7 @@
 				</div>
 				<div class="clearboth"></div>
 				<hr />
+<?endif?>
 <?endif?>
 <?loop?>
 			</main>

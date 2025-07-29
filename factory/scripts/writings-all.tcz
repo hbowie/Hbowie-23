@@ -14,6 +14,10 @@ sort	set		params
 template	webroot			/Users/hbowie/Sites/HBowie-23/web
 template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/search-original.js
 template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/short.html
+template	generate			
+template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/short-2.html
+template	generate			
 filter	clear			
 filter	add	ge	Status	9
 filter	add	eq	Class	general

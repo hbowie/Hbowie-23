@@ -3,5 +3,17 @@ sync	open		left	/Users/hbowie/Sites/HBowie-23/content/authors
 sync	open		right	/Users/hbowie/Sites/belief-system-21c/content/authors
 sync	set		direction	bidirectional
 sync	set		respectblanks	false
-sync	set		actions	logonly
+sync	set		actions	logsummary
+sync	sync			
+sync	open		left	/Users/hbowie/Sites/HBowie-23/content/works
+sync	open		right	/Users/hbowie/Sites/belief-system-21c/content/works
+sync	set		direction	bidirectional
+sync	set		respectblanks	false
+sync	set		actions	logsummary
+sync	sync			
+sync	open		left	/Users/hbowie/Sites/HBowie-23/content/quotes
+sync	open		right	/Users/hbowie/Sites/belief-system-21c/content/quotes
+sync	set		direction	bidirectional
+sync	set		respectblanks	false
+sync	set		actions	logsummary
 sync	sync			
