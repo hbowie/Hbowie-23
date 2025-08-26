@@ -610,6 +610,7 @@ mission	mission.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart
 mission	mission.html	4	quotes	A world that is tolerable	Walter Mosley
 mission	mission.html	4	quotes	Your company’s purpose is its north star	Larry Fink
 music	music.html	4	quotes	Notation not to be confused with music itself	Winthrop Sargeant
+nature	nature.html	4	quotes	Nature made a mockery of information technology	Jonathan Franzen
 parenthood	parenthood.html	4	quotes	I must study politics and war	John Adams
 parenthood	parenthood.html	4	quotes	The institution of the family	Daniel Patrick Moynihan
 parenthood	parenthood.html	4	quotes	Life is a series of daring adventures from a secure base	David Brooks

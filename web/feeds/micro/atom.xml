@@ -5,12 +5,12 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/feeds/micro/atom.xml"/>
 	<id>https://hbowie.net/feeds/micro/atom.xml</id>
-	<updated>2025-07-29T18:48:27Z</updated>
+	<updated>2025-08-23T08:13:19Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<entry>
 	  <title>1952 Vincent Black Lightning</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/1952-vincent-black-lightning"/>
-	  <link rel="alternate" type="image/https://lexiconofsong.org/images/1952-vincent-black-lightning-richard-thompson.jpg" href="https://lexiconofsong.org/images/1952-vincent-black-lightning-richard-thompson.jpg"/>
+	  <link rel="alternate" type="image/jpg" href="https://lexiconofsong.org/images/1952-vincent-black-lightning-richard-thompson.jpg"/>
 	  <id>https://hbowie.net/micro/1952-vincent-black-lightning</id>
 	  <published>2025-03-11T12:00:00Z</published>
 	  <updated>2025-03-11T22:52:49Z</updated>
@@ -25,7 +25,7 @@
 	<entry>
 	  <title>Notenik 14.4.0 Released</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.4.0-released"/>
-	  <link rel="alternate" type="image/https://notenik.app/images/notenik-logo.png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
 	  <id>https://hbowie.net/micro/notenik-14.4.0-released</id>
 	  <published>2024-04-30T12:00:00Z</published>
 	  <updated>2024-05-01T01:51:21Z</updated>
@@ -40,7 +40,7 @@
 	<entry>
 	  <title>Some Hard Truths About Human Population Growth</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/some-hard-truths-about-human-population-growth"/>
-	  <link rel="alternate" type="image/https://practopian.org/images/some-hard-truths-about-human-population-growth-istock.jpg.jpg" href="https://practopian.org/images/some-hard-truths-about-human-population-growth-istock.jpg.jpg"/>
+	  <link rel="alternate" type="image/jpg" href="https://practopian.org/images/some-hard-truths-about-human-population-growth-istock.jpg.jpg"/>
 	  <id>https://hbowie.net/micro/some-hard-truths-about-human-population-growth</id>
 	  <published>2024-04-25T12:00:00Z</published>
 	  <updated>2024-05-01T01:33:57Z</updated>
@@ -55,7 +55,7 @@
 	<entry>
 	  <title>Notenik 14.3.0 Released</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.3.0-released"/>
-	  <link rel="alternate" type="image/https://notenik.app/images/notenik-logo.png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
 	  <id>https://hbowie.net/micro/notenik-14.3.0-released</id>
 	  <published>2024-04-20T12:00:00Z</published>
 	  <updated>2024-05-01T01:15:20Z</updated>
@@ -70,7 +70,7 @@
 	<entry>
 	  <title>Notenik 14.2.0 Released</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.2.0-released"/>
-	  <link rel="alternate" type="image/https://notenik.app/images/notenik-logo.png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
 	  <id>https://hbowie.net/micro/notenik-14.2.0-released</id>
 	  <published>2024-03-30T12:00:00Z</published>
 	  <updated>2024-05-01T01:17:32Z</updated>
@@ -85,7 +85,7 @@
 	<entry>
 	  <title>Notenik 14.1.0 Released</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.1.0-released"/>
-	  <link rel="alternate" type="image/https://notenik.app/images/notenik-logo.png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
 	  <id>https://hbowie.net/micro/notenik-14.1.0-released</id>
 	  <published>2024-03-12T12:00:00Z</published>
 	  <updated>2024-05-01T01:20:32Z</updated>
@@ -100,7 +100,7 @@
 	<entry>
 	  <title>Notenik 14.0.0 Released</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-14.0.0-released"/>
-	  <link rel="alternate" type="image/https://notenik.app/images/notenik-logo.png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
 	  <id>https://hbowie.net/micro/notenik-14.0.0-released</id>
 	  <published>2024-02-27T12:00:00Z</published>
 	  <updated>2024-05-01T01:22:16Z</updated>
@@ -115,7 +115,7 @@
 	<entry>
 	  <title>Reflections on the Christian Message</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/reflections-on-the-christian-message"/>
-	  <link rel="alternate" type="image/https://practopian.org/images/reflections-on-the-christian-message-lake-wanaga.jpg.jpg" href="https://practopian.org/images/reflections-on-the-christian-message-lake-wanaga.jpg.jpg"/>
+	  <link rel="alternate" type="image/jpg" href="https://practopian.org/images/reflections-on-the-christian-message-lake-wanaga.jpg.jpg"/>
 	  <id>https://hbowie.net/micro/reflections-on-the-christian-message</id>
 	  <published>2023-12-04T12:00:00Z</published>
 	  <updated>2024-05-01T01:36:25Z</updated>
@@ -130,7 +130,7 @@
 	<entry>
 	  <title>Notenik 13.5.0 Released</title>
 	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/notenik-13.5.0-released"/>
-	  <link rel="alternate" type="image/https://notenik.app/images/notenik-logo.png" href="https://notenik.app/images/notenik-logo.png"/>
+	  <link rel="alternate" type="image/png" href="https://notenik.app/images/notenik-logo.png"/>
 	  <id>https://hbowie.net/micro/notenik-13.5.0-released</id>
 	  <published>2023-12-01T12:00:00Z</published>
 	  <updated>2024-05-01T01:24:23Z</updated>

@@ -58,4 +58,3 @@ Feel free to join the movement.[^2]
 
 [^2]: There are several songs out there that use this saying as their title, and it turns out that I kind of like the [one recorded by George Strait](https://music.apple.com/us/album/it-takes-all-kinds/1440841573?i=1440841860).
 
-

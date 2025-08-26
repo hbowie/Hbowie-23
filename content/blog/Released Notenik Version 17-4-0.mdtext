@@ -1,0 +1,18 @@
+Title:  Released Notenik Version 17.4.0
+
+Tags:   notenik
+
+Link:   https://notenik.app/kb/version-17.4.0.html
+
+Class:  general
+
+Date:   2025-08-10
+
+Date Modified: 2025-08-12 16:00:26 +0200
+
+Body:
+
+The Seq field has been opened up to allow multiple values, separated by semicolons; the shortcut keys used to navigate a collection index have been updated to avoid a conflict with normal macOS key combinations used for text editing; added an option to write note lines containing labels only, without any data. 
+
+All of these improvements resulted from user suggestions made on the [Notenik Discourse Forum](https://discourse.notenik.app/). 
+

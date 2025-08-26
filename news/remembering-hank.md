@@ -1,0 +1,167 @@
+# Remembering Hank
+
+
+
+----
+
+
+![](https://hbowie.net/images/remembering-hank-hank.jpg)
+
+I still remember the first time we laid eyes on Hank. 
+
+## A Walk in the Park
+
+Pauline and I had lost our last Golden Retriever a year earlier, and I still wasn’t sure I was ready for another. But Pauline had enrolled with a local Golden rescue organization, and they had pretty quickly called and asked if we were interested in meeting a potential adoptee, a male that was only six months old. 
+
+It was a sunny day in May, and we met Hank and his current owner in a park somewhere, on neutral territory. 
+
+And then, when we saw Hank, I quickly realized the gravity of the decision we were about to make. 
+
+Because Hank was tail-waggingly perfect. 
+
+So there was no question of passing on him, and holding out for a *better* dog. 
+
+Because I couldn’t imagine what a better dog would look like. 
+
+And so began life with Hank. 
+
+## Catching Air
+
+Hank was a big, long, athletic dog. Once in the early days I remember taking a stuffed toy away from him and putting it on top of an office cabinet that was close to six feet high. 
+
+But I had left a piece of the toy visible to him.
+
+I could see he had his eye on it. 
+
+And then, in the next instant, I saw him launch himself.  
+
+I was sure disaster was imminent. Because, truth to tell, the cabinet on which the toy was sitting was a self-assembed pair of kits, one on top of the other, and I could envision Hank hitting them and the whole shaky structure come tumbling down. 
+
+But Hank never came into contact with either cabinet. He simply went straight up several feet, took the exposed piece in his mouth, lifted the toy out, and then gracefully descended back to earth with it neatly captured. 
+
+## Over the Edge
+
+I remembered another time when we had driven with Hank to a family reunion. The event was being held in a series of lodges located on a bluff above a river. There was a wooden fence near the top of the bluff, to make sure no one accidentally fell over and tumbled down to the bottom. 
+
+But Hank loved water. And when we pulled in, he was thirsty. And when we let him out of the car he headed straight for the edge. 
+
+And then plunged straight over it. 
+
+It was a steep descent, but not a precipitous one, and we could see that Hank had made it safely to the bottom, slipping and sliding as he went. 
+
+So I began to look downstream, to see some spot where we could get down to the river try to retrieve our Retriever. 
+
+But then, before we could move very far, we saw Hank reappear at his original spot, his head showing first, and his back legs still pushing until he was fully back at the top. 
+
+Refreshed and no longer thirsty. 
+
+## Traveling with Royalty
+
+Walking with Hank always made me feel like part of a star’s entourage. People would frequently stop to pet him and/or admire him, and Hank was always gracious about accepting such attention, as if he understood that people were not meant to be able to resist him. Pauline and I were often told that we must spend a lot of time grooming him, because his coat looked so beautiful. But the truth, which we sometimes admitted, was that this was simply his natural state. 
+
+Possibly Hank’s favorite spot in the world was Cannon Beach, a spot in Oregon that allowed dogs to roam offleash, and that offered miles of sand and waves and — if we were lucky! — some expired aquatic denizen upon which Hank could blissfully roll. 
+
+After which he would stand, give himself a good shake, and immediately appear to have just strolled out of a fashionable grooming establishment. 
+
+I recall another time when Hank and I were waiting outside of a natural foods co-op, with Hank sitting, watching the door through which Pauline had recently passed, waiting for her to reappear. 
+
+As we were waiting we were approached by a local who said that he had previously been a professional photographer and, if he were not retired, he would now be asking our permission to put Hank on a magazine cover. 
+
+And so it went. 
+
+## Canine Intelligence
+
+Hank was a smart dog, and had what I would call a functional intelligence. He was not particularly good at following commands whose purpose he could not ascertain, but he was sensitive to the humans around him, and certainly learned words that I would frequently use with him, and would oblige with the expected action, if he reasonably could. 
+
+Hank walked regularly with three different people in his life: me, Pauline and Mike, a good neighbor and friend and, as far as Hank was concerned, another member of his family. And we all walked him differently, with different leads, and different expectations. And, of course, he learned to easily adapt to whichever one of us was taking him out on any particular stroll. 
+
+## Watchful Eyes
+
+Hank had his family, and he knew who they were, and would do his best to keep them close by. 
+
+I remember a time when Pauline, Hank and I were walking in a busy shopping mall, and Pauline had to venture into a crowded store to purchase some little item she needed. Hank and I had removed ourselves to the top of an adjoining parking structure, and had secured a vantage point from which we could keep our four eyes on that last door though which Pauline had passed, which was certainly at least fifty yards away from us. It took several minutes for Pauline to find the desired item and make her way through checkout, and there was a steady stream of people going in and out of the store. 
+
+And then at some point, I noticed Hank’s head was turning slowly, no longer fixed on the door that I was still watching. 
+
+I followed his gaze and saw that I had missed Pauline when she had come back out. 
+
+But Hank hadn’t. 
+
+Hank was never allowed onto our furniture, and never seemed to think that he belonged in such a place, so he was never one of these dogs you see barking at passersby from their perch on the back of a family sofa. 
+
+But he was just tall enough to look out of our dining room window, with four legs still on the floor, if he had any reason to. 
+
+And so, when Pauline and I were returning home, we would sometimes see the top of his head watching us as we got out of our car and were walking up to the front door. 
+
+And similarly, if we told him that our adult son, Stephen, was coming soon, he would go to that same window and keep a lookout until he arrived (and then greet him excitely at the door). 
+
+## A Boon Companion
+
+I retired from an office job when Hank was about three, while Pauline was still working, and so Hank and I were each other’s daily company. 
+
+We took each other on a regular neighborhood walk of at least 30 minutes and, despite living in Seattle, a city not known for its dry climate, there was rarely a day when we did not get out for our amble together. 
+
+I walked Hank with a long, adjustable lead, and so there was never a question of me listening to music or a podcast while on these walks: my attention was always on Hank and the surrounding environment, to make sure that no one experienced any serious misadventures. 
+
+I only remember one time when my attention became distracted for any length of time, as I was talking to a neighbor. 
+
+Hank had been keeping his eyes on another dog walking across the street from us. 
+
+But while I was talking to our neighbor, the other dog had crossed the street, and was now passing about thirty feet away from us. 
+
+It would not have been a problem if I had shortened the lead and secured it with the available clamp. 
+
+But I hadn’t. 
+
+And so Hank got a good running start. 
+
+It was an odd sensation. One moment I was in mid-sentence, still facing the neighbor, completely vertical, and then the very next moment I was somehow on the ground, completely horizontal, still trying to finish that sentence. 
+
+My Apple watch told me that I seemed to have take a hard fall. 
+
+And, indeed, I had. 
+
+Luckily I was standing on the neighbor’s parking strip, which had a nice healthy lawn, and so I had a cushioned landing. 
+
+(I perhaps forgot to mention earlier that Hank was always friendly with other people, but not necessarily so with fellow canines.)
+
+## Tangled Up
+
+During my retirement I was often at the desk in my home office, and Hank’s favorite spot during these times was at my feet — under the desk. And while I tried to keep the various cords and cables down there reasonably tamed, Hank had a habit of rolling on his back while beneath the desk, and his long legs would sometimes get caught in one of those wires. 
+
+Generally this would come to my attention some time after I had gotten up and left the desk, and then at some point stopped to wonder what had happened to Hank. 
+
+And so I would find him under the desk, restrained by a cable or two. 
+
+Now I had seen Hank break the end of a leash when he was determined to take a run at something, so I knew he could easily have freed himself by pushing against his restraints. 
+
+But he never did. He never barked or made any noise when in such a situation. He just waited patienly until I noticed the issue, and came over and manipulated the wires until he was once again free to accompany me. 
+
+## Camping Once Again
+
+Hank finally turned twelve at the end of last year. He had shown some signs of decline in the preceding few months, and Pauline and I had begun to wonder how much longer he would grace our lives but, despite some ups and downs, he generally was in good spirits and still faithfully and happily took me out on our daily promenade. 
+
+Hank loved to go out camping with us, and a couple of months ago we took him down into Oregon, where we met up with our son and daughter-in-law. We all had a great weekend, with Hank ambling over the trails with us, and taking a swim in the nearby river. 
+
+But then, Sunday morning, he was struggling. He could barely walk, and soon lay down in the woods. Our son knew of a reputable emergency vet in Portland, and he helped get us packed up, and picked Hank up and laid him gently in the back of our SUV. 
+
+When we got to the vet, the people there immediately recognized that Hank was in crisis, and made sure we were prepared to hear that this might be the end of the road. 
+
+When the time came, all four of us — Pauline, Stephen, Shannon and I — were there, with hands on Hank, looking into his eyes, until they closed for the last time, and we felt that powerful body finally still. 
+
+## Reflections
+
+I know that many dogs seem special and irreplaceable to those with whom they spend their lives, while these same creatures often seem merely more-or-less doglike to other folks.  
+
+And so, if you have read this far, I appreciate you taking a few minutes to help pay tribute to our special guy, and to perhaps better understand the depth of the loss suffered by those of us who were closest to him. 
+
+I am not a religious believer, nor even someone who believes in anything substantial that I would call *spirit*. 
+
+But dogs such as Hank — as well as many people — gradually reveal some sort of unique inner essence to us, if we become close enough to them, and travel long enough by their sides. 
+
+And when such a being dies, it is certainly a hard thing to believe that this essence has simply vanished along with the body in a sudden poof. How could something so intangible, and yet so very real, suddenly be no more, simply because its seeming physical vessel has suddenly returned to clay? 
+
+But memories live on. 
+
+And Hank will remain in the hearts of those who knew him for as long as life and cherished memories remain.
+

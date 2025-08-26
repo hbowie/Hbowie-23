@@ -414,6 +414,7 @@ sustainability	sustainability.html	3	writings	Our Three Human Approaches to Deal
 sustainability	sustainability.html	3	writings	Why Inflation Will be Hard to Contain	
 sustainability	sustainability.html	3	writings	Calling for a US Sustainability Initiative	
 sustainability	sustainability.html	3	writings	8 Big Lessons We Can Learn from the Pandemic	
+sustainability	sustainability.html	3	writings	The Era of Destructive Tech is Upon Us	
 systemic	systemic.html	3	writings	Core Design Principles for The Efficacy of Groups	
 systemic	systemic.html	3	writings	What To Do About Big Business?	
 systemic	systemic.html	3	writings	Patterns of Human Cooperation	
@@ -437,6 +438,7 @@ technology	technology.html	3	writings	Thank God for Elon Musk!
 technology	technology.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
 technology	technology.html	3	writings	Keeping to the Cackle with AI	
 technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
+technology	technology.html	3	writings	The Era of Destructive Tech is Upon Us	
 technology	technology.html	3	writings	Thoughts on AI: Apple and Otherwise	
 technology	technology.html	3	writings	More Markdown and HTML, Please	
 technology	technology.html	3	writings	Popping the Hood with the Notenik App	

@@ -1,0 +1,22 @@
+Title:  Released Notenik Version 17.4.1
+
+Tags:   Xcode, notenik
+
+Class:  general
+
+Date:   2025-08-12
+
+Date Modified: 2025-08-12 16:08:32 +0200
+
+Body:
+
+Turns out there was a fatal bug in 17.4.0, which caused Notenik to crash when creating a new collection (or opening any collection containing only one note). 
+
+This turned out to be a rookie coding error — trying to access the first item in a list with a subscript of 1, instead of a subscript of 0. 
+
+I can't believe I coded this, and imagine it was an XCode "hallucination" that I let slip by my fingers without correction. 
+
+XCode's "suggestions" are often helpful, but this is a bit of a red flag for me. 
+
+I'll have to be more careful and intentional in the future. 
+

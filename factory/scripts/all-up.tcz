@@ -22,6 +22,7 @@ script	include			topics
 script	include			tags
 script	include			static
 script	include			tree
+script	include			blog.tsv
 
 <!-- Open the Web Browser to the Home Page -->
 
