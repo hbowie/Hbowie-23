@@ -4,7 +4,7 @@ Tags: <tags>
 
 Author: <lookup: authors> 
 
-Work Type: <worktype> 
+Work Type: <work-type> 
 
 Work Minor Title:  
 
@@ -21,6 +21,20 @@ Work Rights Holder:
 Publisher:  
 
 Publisher City:  
+
+Status: 0 - Interested; 2 - Acquired; 4 - Reading Now; 6 - Finished; 8 - Gave Up; 9 - Dispositioned; 
+
+Form: <pick-from: Apple Book, ePub, Kindle, hardback, paperback >
+
+Access Link: <link>
+
+Date Read: <date>
+
+Rating: <rank: 1 - terrible; 2 - disappointing; 3 - ok; 4 - great; 5 - fave; >
+
+Disposition: <pick-from: passed on, retained, >
+
+Timestamp: 
 
 Work Notes: <body> 
 

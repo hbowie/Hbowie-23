@@ -1,9 +1,50 @@
+<?set page-number = 0 ?>
+<?set post-count = 20 ?>
+<?nextrec?>
+<?set post-count += 1 ?>
+<?if =$post-count$= > 20 ?>
+<?set page-number += 1 ?>
+<?set post-count = 1 ?>
+<?endif?>
+<?definegroup 1 =$page-number$= ?>
+<?ifendgroup 1 ?>
+			</main>
+			<nav>
+				<p class="nav">
+					&#187;
+					<a class="implicit" href="../index.html">
+						Home
+					</a>
+<?if =$page-number$= gt =$last-page-number$= ?>
+					&#187;
+					<a class="implicit" href="index-=$page-number$=.html">
+						Next
+					</a>
+<?endif?>
+<?if =$last-page-number$= gt 1 ?>
+					&#187;
+					<a class="implicit" href="index.html">
+						Blog
+					</a>
+<?endif?>
+				</p>
+			</nav>
+<?include "../includes/footer.html" ?>
+		</div>  <!-- end of wrapper div -->
+	</body>
+</html>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?if =$page-number$= eq 1 ?>
 <?output "../../web/blog/index.html" ?>
+<?else?>
+<?output "../../web/blog/index-=$page-number$=.html" ?>
+<?endif?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>Herb's Blog | From the Desk of H. Bowie</title>
+		<title>Herb's Blog page =$page-number$= | From the Desk of H. Bowie</title>
 		<meta name="description" content="Blog from the desk of Herb Bowie" />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 <?include "../includes/head-links.html" ?>
@@ -25,13 +66,18 @@
 					</span>
 				</p>
 				
+<?if =$page-number$= eq 1 ?>
 				<h2>The Latest Announcements, Pronouncements &amp; Prognostications</h2>
 
 				<p>Take these for what you will: these are items of at least some little importance to me, but not necessarily of great interest to others. An <a href="atom.xml">Atom web feed</a> is available, for those who may be interested. </p>
+<?else?>
+				<h2>Page =$page-number$=</h2>
+<?endif?>
 
-<?set count = 0 ?>
-<?nextrec?>
-<?set count += 1 ?>
+				<hr />
+
+<?endif?>
+				
 				<h3>
 					<a class="implicit" href="posts/=$title&f$=.html">
 <?if "=$class$=" eq finished ?>
@@ -63,19 +109,5 @@
 				</div>
 				<div class="clearboth"></div>
 				<hr />
-<?endif?>
-<?endif?>
+<?set last-page-number = =$page-number$= ?>
 <?loop?>
-			</main>
-			<nav>
-				<p class="nav">
-					&#187;
-					<a class="implicit" href="../index.html">
-						Home
-					</a>
-				</p>
-			</nav>
-<?include "../includes/footer.html" ?>
-		</div>  <!-- end of wrapper div -->
-	</body>
-</html>

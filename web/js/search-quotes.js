@@ -432,6 +432,12 @@ let searchQuotes = [
 		content: "Put simply between ecological destruction and technological hubris the human experiment is now in question The stakes feel very high and the odds very long and the trends very ominous Bill McKibben American environmentalist, author, and journalist Falter: Has the Human Game Begun to Play Itself Out? "
 	},
 	{
+		title: "Man is nobler than the universe",
+		date: "1670",
+    url: "quotes/man-is-nobler-than-the-universe.html",
+		content: "When the universe has crushed him man will still be nobler than that which kills him because he knows that he is dying and of its victory the universe knows nothing Blaise Pascal French mathematician, physicist, inventor, philosopher, and Catholic writer Pensées "
+	},
+	{
 		title: "The Team, The Team, The Team",
 		date: "1983",
     url: "quotes/the-team-the-team-the-team.html",
@@ -795,7 +801,7 @@ let searchQuotes = [
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -807,19 +813,19 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
@@ -831,7 +837,7 @@ let searchQuotes = [
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Relationships among groups",
@@ -849,7 +855,7 @@ let searchQuotes = [
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -909,7 +915,7 @@ let searchQuotes = [
 		title: "What Democracy Is",
 		date: "3 July 1943",
     url: "quotes/what-democracy-is.html",
-		content: "We received a letter from the Writers War Board the other day asking for a statement on The Meaning of Democracy It presumably is our duty to comply with such a request and it is certainly our pleasure Surely the Board knows what democracy is It is the line that forms on the right It is the don t in don t shove It is the hole in the stuffed shirt through which the sawdust slowly trickles it is the dent in the high hat Democracy is the recurrent suspicion that more than half of the people are right more than half of the time It is the feeling of privacy in voting booths the feeling of communion in the libraries the feeling of vitality everywhere Democracy is a letter to the editor Democracy is the score at the beginning of the ninth It is an idea which hasn t been disproved yet a song the words of which have not gone bad It s the mustard on the hot dog and the cream in the rationed coffee Democracy is a request from a War Board in the middle of a morning in the middle of a war wanting to know what democracy is E. B. White  E. B. White on “The Meaning of Democracy” "
+		content: "We received a letter from the Writers War Board the other day asking for a statement on The Meaning of Democracy It presumably is our duty to comply with such a request and it is certainly our pleasure Surely the Board knows what democracy is It is the line that forms on the right It is the don t in don t shove It is the hole in the stuffed shirt through which the sawdust slowly trickles it is the dent in the high hat Democracy is the recurrent suspicion that more than half of the people are right more than half of the time It is the feeling of privacy in voting booths the feeling of communion in the libraries the feeling of vitality everywhere Democracy is a letter to the editor Democracy is the score at the beginning of the ninth It is an idea which hasn t been disproved yet a song the words of which have not gone bad It s the mustard on the hot dog and the cream in the rationed coffee Democracy is a request from a War Board in the middle of a morning in the middle of a war wanting to know what democracy is E. B. White American writer E. B. White on “The Meaning of Democracy” "
 	},
 	{
 		title: "Only Connect",
@@ -1006,6 +1012,12 @@ let searchQuotes = [
 		date: "1950",
     url: "quotes/superstition-is-not-mere-intellectual-error.html",
 		content: "Superstition is not mere intellectual error it is a part of the emotional life and the worldly wise who suppress it do so at the risk of impoverishing their souls an eventuality which for the most part they do not succeed in avoiding Edmund Crispin British mystery author Sudden Vengeance "
+	},
+	{
+		title: "Conflict of interests and beliefs was inescapable",
+		date: "2018",
+    url: "quotes/conflict-of-interests-and-beliefs-was-inescapable.html",
+		content: "Conflict of interests and beliefs was to the liberal mind inescapable If tamed and turned to competition in a stable political order conflict could nevertheless bear fruit as argument experiment and exchange When liberals took conflict for inevitable and competition its peaceable form for desirable they excluded or demoted social virtues that their political rivals favored To liberals competition in the town square laboratory or market place encouraged bargaining creativity and initiative whereas social harmony stifled or silenced them Conservatives who saw harmony in tradition and socialists who saw harmony in fraternity were each quick to insist that liberal ideals grossly distorted the true picture of society Edmund Fawcett British political journalist and author Liberalism: The Life of an Idea, 2nd ed. "
 	},
 	{
 		title: "The Inner Life of the Artist",
@@ -1308,6 +1320,12 @@ let searchQuotes = [
 		content: "A scrupulous writer in every sentence that he writes will ask himself at least four questions thus What am I trying to say What words will express it What image or idiom will make it clearer Is this image fresh enough to have an effect And he will probably ask himself two more Could I put it more shortly Have I said anything that is avoidably ugly But you are not obliged to go to all this trouble You can shirk it by simply throwing your mind open and letting the ready made phrases come crowding in They will construct your sentences for you even think your thoughts for you to a certain extent and at need they will perform the important service of partially concealing your meaning even from yourself It is at this point that the special connection between politics and the debasement of language becomes clear George Orwell English novelist, essayist, journalist and critic Politics and the English Language "
 	},
 	{
+		title: "In front of your nose",
+		date: "1946-03-22",
+    url: "quotes/in-front-of-your-nose.html",
+		content: "The point is that we are all capable of believing things which we know to be untrue and then when we are finally proved wrong impudently twisting the facts so as to show that we were right Intellectually it is possible to carry on this process for an indefinite time the only check on it is that sooner or later a false belief bumps up against solid reality usually on a battlefield George Orwell English novelist, essayist, journalist and critic In Front of Your Nose "
+	},
+	{
 		title: "Progress Depends on Retentiveness",
 		date: "1906",
     url: "quotes/progress-depends-on-retentiveness.html",
@@ -1590,6 +1608,18 @@ let searchQuotes = [
 		content: "Oh there s a thin line between Saturday night and Sunday morning Jimmy Buffet  Fruitcakes "
 	},
 	{
+		title: "The Trust Framework",
+		date: "",
+    url: "quotes/the-trust-framework.html",
+		content: "There is wide agreement on the basics of the trust framework And what makes it work What Frances Frei calls authenticity could also be called honesty integrity or character When people judge your authenticity they re looking at three things What do you think What do you say How do you act If I think you are authentic and you promise to do something I trust you will do your best to keep your promise Because that s what authentic people do If authenticity is about you empathy is about how you feel about others Do you care about them Do you want them to succeed and thrive Do you really listen to them If the answer is yes you are even more trustworthy Empathy could also be called benevolence or caring The third element logic is your ability to deliver It s one thing to be honest and caring but delivering on your promises requires more than good intentions You need whatever it takes plans skills training experience whatever for you to get the job done Logic could also be called competence or capability Jimmy Wales American Internet entrepreneur and former financial trader. Most notably, he co-founded Wikipedia, a nonprofit free encyclopedia. The Seven Rules of Trust: A Blueprint for Building Things That Last "
+	},
+	{
+		title: "People love connecting with other people",
+		date: "2025",
+    url: "quotes/people-love-connecting-with-other-people.html",
+		content: "People love connecting with other people We get together we talk we imagine We cooperate and build new things We form communities Those communities become part of our individual identities And none of that requires top down control and direction It is simply human nature It is how our species rolls Jimmy Wales American Internet entrepreneur and former financial trader. Most notably, he co-founded Wikipedia, a nonprofit free encyclopedia. The Seven Rules of Trust: A Blueprint for Building Things That Last "
+	},
+	{
 		title: "Chaos and Mediocrity",
 		date: "2006",
     url: "quotes/chaos-and-mediocrity.html",
@@ -1663,7 +1693,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Let us accept our own responsibility for the future",
-		date: "18 Feb 1958",
+		date: "1958-02-18",
     url: "quotes/let-us-accept-our-own-responsibility-for-the-future.html",
 		content: "Let us not despair but act Let us not seek the Republican answer or the Democratic answer but the right answer Let us not seek to fix the blame for the past let us accept our own responsibility for the future John F. Kennedy American politician who served as the 35th president of the United States Loyola College Alumni Banquet "
 	},
@@ -2031,7 +2061,7 @@ let searchQuotes = [
 		title: "Our Reply to Violence",
 		date: "",
     url: "quotes/our-reply-to-violence.html",
-		content: "This will be our reply to violence to make music more intensely more beautifully more devotedly than ever before Leonard Bernstein  unknown "
+		content: "This will be our reply to violence to make music more intensely more beautifully more devotedly than ever before Leonard Bernstein American conductor, composer, pianist, music educator, author, and humanitarian unknown "
 	},
 	{
 		title: "Deeper convictions of the heart",
@@ -2478,6 +2508,12 @@ let searchQuotes = [
 		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity extends across a significant portion of one s life and has some structure it s the sort of thing that one can tell a story about It often connects to religion and spirituality and often connects to flow leading to the experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous but none of these additional features are essential Paul Bloom Canadian American psychologist The Sweet Spot "
 	},
 	{
+		title: "People's perceptions of affordability",
+		date: "2025-11-30",
+    url: "quotes/peoples-perceptions-of-affordability.html",
+		content: "Moreover I would argue that three important concepts that are especially poorly captured by standard economic numbers underlie people s perceptions of affordability economic inclusion security and fairness By economic inclusion I mean the ability to purchase the goods and services that allow someone to feel like a member in full standing of American society By security I mean a feeling based not just on current real income but also an assurance that severe hardship isn t just a stretch of bad luck away Lastly I would also argue that perceptions of affordability are often intertwined with perceptions of fairness people are especially upset about high prices when they feel that they are being taken advantage of Paul Krugman American economist Paul Krugman on Affordability, Part I "
+	},
+	{
 		title: "The Ultimate Democracy",
 		date: "2012",
     url: "quotes/the-ultimate-democracy.html",
@@ -2503,7 +2539,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Facts are Facts",
-		date: "Feb 18, 2017",
+		date: "2017-02-18",
     url: "quotes/facts-are-facts.html",
 		content: "Facts are facts they are ascertainable through honest open minded and diligent reporting truth is attainable by laying fact upon fact much like the construction of a cathedral and truth is not merely in the eye of the beholder Peter Kann  Time Magazine "
 	},
@@ -2511,7 +2547,7 @@ let searchQuotes = [
 		title: "Learning from Experience",
 		date: "1990",
     url: "quotes/learning-from-experience.html",
-		content: "The most powerful learning comes from direct experience But what happens when we can no longer observe the consequences of our actions Herein lies the core <em>learning dilemma< em> that confronts organizations <em> we learn best from experience but we never directly experience the consequences of many of our most important decisions < em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades Peter Senge  The Fifth Discipline: The Art and Practice of the Learning Organization "
+		content: "The most powerful learning comes from direct experience But what happens when we can no longer observe the consequences of our actions Herein lies the core <em>learning dilemma< em> that confronts organizations <em> we learn best from experience but we never directly experience the consequences of many of our most important decisions < em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades Peter Senge American systems scientist and author The Fifth Discipline: The Art and Practice of the Learning Organization "
 	},
 	{
 		title: "The conquest of nature",
@@ -2545,7 +2581,7 @@ let searchQuotes = [
 	},
 	{
 		title: "Start with romance and build to a reality",
-		date: "12 Nov 1971",
+		date: "1971-11-12",
     url: "quotes/start-with-romance-and-build-to-a-reality.html",
 		content: "I think it s part of the nature of man to start with romance and build to a reality There s hardly a scientist or an astronaut I ve met who wasn t beholden to some romantic before him who led him to doing something in life Ray Bradbury American author and screenwriter Mars and the Mind of Man "
 	},
@@ -2724,6 +2760,12 @@ let searchQuotes = [
 		content: "Q What ideals have you embraced from Steve Jobs A The importance of doing everything you do to your very best And that the journey is the reward If you do things well one at a time you end up in a really good place Don t get ahead of yourself Control the things you can Ron Johnson  The Seattle Times "
 	},
 	{
+		title: "Anybody can become an American",
+		date: "1988-11-07",
+    url: "quotes/anybody-can-become-an-american.html",
+		content: "America represents something universal in the human spirit I received a letter not long ago from a man who said You can go to Japan to live but you cannot become Japanese You can go to France and you d live and not become a Frenchman You can go to live in Germany or Turkey and you won t become a German or a Turk But then he added Anybody from any corner of the world can come to America to live and become an American Ronald Reagan American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. Ronald Reagan's Remarks on 7 Nov 1988 "
+	},
+	{
 		title: "The more they yearned for omnipotence",
 		date: "1962",
     url: "quotes/the-more-they-yearned-for-omnipotence.html",
@@ -2800,6 +2842,12 @@ let searchQuotes = [
 		date: "",
     url: "quotes/people-with-passion.html",
 		content: "People with passion can change the world for the better Steve Jobs American business magnate, industrial designer, investor, and media proprietor unknown "
+	},
+	{
+		title: "We built it for ourselves",
+		date: "1985",
+    url: "quotes/we-built-it-for-ourselves.html",
+		content: "We think the Mac will sell zillions but we didn t build the Mac for anybody else We built it for ourselves We were the group of people who were going to judge whether it was great or not We weren t going to go out and do market research We just wanted to build the best thing we could build When you re a carpenter making a beautiful chest of drawers you re not going to use a piece of plywood on the back even though it faces the wall and nobody will ever see it You ll know it s there so you re going to use a beautiful piece of wood on the back For you to sleep well at night the aesthetic the quality has to be carried all the way through Steve Jobs American business magnate, industrial designer, investor, and media proprietor Steve Jobs Interview from 1985 Playboy magazine "
 	},
 	{
 		title: "Selling sugared water",
@@ -3192,34 +3240,100 @@ let searchQuotes = [
 		content: "There s class warfare all right but it s my class the rich class that s making war and we re winning Warren Buffett  New York Times "
 	},
 	{
+		title: "Civilization defined as social order promoting cultural creation",
+		date: "1968",
+    url: "quotes/civilization-defined-as-social-order-promoting-cultural-creation.html",
+		content: "We have defined civilization as social order promoting cultural creation It is political order secured through custom morals and law and economic order secured through a continuity of production and exchange it is cultural creation through freedom and facilities for the origination expression testing and fruition of ideas letters manners and arts It is an intricate and precarious web of human relationships laboriously built and readily destroyed Will Durant American historian and philosopher, The Lessons of History "
+	},
+	{
+		title: "Democracy has done more good than any other form of government.",
+		date: "1968",
+    url: "quotes/democracy-has-done-more-good-than-any-other-form-of-government..html",
+		content: "All deductions having been made democracy has done less harm and more good than any other form of government It gave to human existence a zest and camaraderie that outweighed its pitfalls and defects It gave to thought and science and enterprise the freedom essential to their operation and growth It broke down the walls of privilege and class and in each generation it raised up ability from every rank and place Will Durant American historian and philosopher The Lessons of History "
+	},
+	{
+		title: "Every economic system must rely upon some form of the profit motive",
+		date: "1968",
+    url: "quotes/every-economic-system-must-rely-upon-some-form-of-the-profit-motive.html",
+		content: "The experience of the past leaves little doubt that every economic system must sooner or later rely upon some form of the profit motive to stir individuals and groups to productivity Substitutes like slavery police supervision or ideological enthusiasm prove too unproductive too expensive or too transient Normally and generally men are judged by their ability to produce except in war when they are ranked according to their ability to destroy Will Durant American historian and philosopher, The Lessons of History "
+	},
+	{
+		title: "Evolution in man has been social rather than biological",
+		date: "1968",
+    url: "quotes/evolution-in-man-has-been-social-rather-than-biological.html",
+		content: "Evolution in man during recorded time has been social rather than biological it has proceeded not by heritable variations in the species but mostly by economic political intellectual and moral innovation transmitted to individuals and generations by imitation custom or education Custom and tradition within a group correspond to type and heredity in the species and to instincts in the individual they are ready adjustments to typical and frequently repeated situations New situations however do arise requiring novel unstereotyped responses hence development in the higher organisms requires a capacity for experiment and innovation the social correlates of variation and mutation Social evolution is an interplay of custom with origination Will Durant American historian and philosopher, The Lessons of History "
+	},
+	{
+		title: "The first condition of freedom is its limitation",
+		date: "1968",
+    url: "quotes/the-first-condition-of-freedom-is-its-limitation.html",
+		content: "Since men love freedom and the freedom of individuals in society requires some regulation of conduct the first condition of freedom is its limitation make it absolute and it dies in chaos So the prime task of government is to establish order organized central force is the sole alternative to incalculable and disruptive force in private hands Will Durant American historian and philosopher The Lessons of History "
+	},
+	{
+		title: "The full fruitage of instruction",
+		date: "1968",
+    url: "quotes/the-full-fruitage-of-instruction.html",
+		content: "But what would be the full fruitage of instruction if every child should be schooled till at least his twentieth year and should find free access to the universities libraries and museums that harbor and offer the intellectual and artistic treasures of the race Consider education not as the painful accumulation of facts and dates and reigns nor merely the necessary preparation of the individual to earn his keep in the world but as the transmission of our mental moral technical and aesthetic heritage as fully as possible to as many as possible for the enlargement of man s understanding control embellishment and enjoyment of life Will Durant American historian and philosopher The Lessons of History "
+	},
+	{
+		title: "History is a fragment of biology",
+		date: "1968",
+    url: "quotes/history-is-a-fragment-of-biology.html",
+		content: "History is a fragment of biology the life of man is a portion of the vicissitudes of organisms on land and sea Sometimes wandering alone in the woods on a summer day we hear or see the movement of a hundred species of flying leaping creeping crawling burrowing things The startled animals scurry away at our coming the birds scatter the fish disperse in the brook Suddenly we perceive to what a perilous minority we belong on this impartial planet and for a moment we feel as these varied denizens clearly do that we are passing interlopers in their natural habitat Then all the chronicles and achievements of man fall humbly into the history and perspective of polymorphous life all our economic competition our strife for mates our hunger and love and grief and war are akin to the seeking mating striving and suffering that hide under these fallen trees or leaves or in the waters or on the boughs Will Durant American historian and philosopher, The Lessons of History "
+	},
+	{
+		title: "Life is competition",
+		date: "1968",
+    url: "quotes/life-is-competition.html",
+		content: "So the first biological lesson of history is that life is competition Competition is not only the life of trade it is the trade of life peaceful when food abounds violent when the mouths outrun the food Animals eat one another without qualm civilized men consume one another by due process of law Cooperation is real and increases with social development but mostly because it is a tool and form of competition we co operate in our group our family community club church party race or nation in order to strengthen our group in its competition with other groups Competing groups have the qualities of competing individuals acquisitiveness pugnacity partisanship pride Will Durant American historian and philosopher The Lessons of History "
+	},
+	{
+		title: "Moral codes adjust themselves to conditions",
+		date: "1968",
+    url: "quotes/moral-codes-adjust-themselves-to-conditions.html",
+		content: "Morals are the rules by which a society exhorts as laws are the rules by which it seeks to compel its members and associations to behavior consistent with its order security and growth A little knowledge of history stresses the variability of moral codes and concludes that they are negligible because they differ in time and place and sometimes contradict each other A larger knowledge stresses the universality of moral codes and concludes to their necessity Moral codes differ because they adjust themselves to historical and environmental conditions Will Durant American historian and philosopher The Lessons of History "
+	},
+	{
+		title: "No cure for racial antipathies except a broadened education",
+		date: "1968",
+    url: "quotes/no-cure-for-racial-antipathies-except-a-broadened-education.html",
+		content: " Racial antipathies have some roots in ethnic origin but they are also generated perhaps predominantly by differences of acquired culture of language dress habits morals or religion There is no cure for such antipathies except a broadened education A knowledge of history may teach us that civilization is a cooperative product that nearly all peoples have contributed to it it is our common heritage and debt and the civilized soul will reveal itself in treating every man or woman however lowly as a representative of one of these creative and contributory groups Will Durant American historian and philosopher, The Lessons of History "
+	},
+	{
+		title: "What History Has To Say",
+		date: "1968",
+    url: "quotes/what-history-has-to-say.html",
+		content: "Since man is a moment in astronomic time a transient guest of the earth a spore of his species a scion of his race a composite of body character and mind a member of a family and a community a believer or doubter of a faith a unit in an economy perhaps a citizen in a state or a soldier in an army we may ask under the corresponding heads astronomy geology geography biology ethnology psychology morality religion economics politics and war what history has to say about the nature conduct and prospects of man It is a precarious enterprise and only a fool would try to compress a hundred centuries into a hundred pages of hazardous conclusions We proceed Will Durant American historian and philosopher The Lessons of History "
+	},
+	{
 		title: "Art, Science and Empire",
 		date: "",
     url: "quotes/art-science-and-empire.html",
-		content: "The foundation of empire is art and science Remove them or degrade them and the empire is no more Empire follows art and not vice versa as Englishmen suppose William Blake  unknown "
+		content: "The foundation of empire is art and science Remove them or degrade them and the empire is no more Empire follows art and not vice versa as Englishmen suppose William Blake English poet, painter, and printmaker unknown "
 	},
 	{
 		title: "Expectations of holiness",
 		date: "",
     url: "quotes/expectations-of-holiness.html",
-		content: "It is not because angels are holier than men or devils that makes them angels but because they do not expect holiness from one another but from God only William Blake  unknown "
+		content: "It is not because angels are holier than men or devils that makes them angels but because they do not expect holiness from one another but from God only William Blake English poet, painter, and printmaker unknown "
 	},
 	{
 		title: "Minute Particulars",
 		date: "",
     url: "quotes/minute-particulars.html",
-		content: "He who would do good to another must do it in Minute Particulars general Good is the plea of the scoundrel hypocrite and flatterer for Art and Science cannot exist but in minutely organized Particulars William Blake  unknown "
+		content: "He who would do good to another must do it in Minute Particulars general Good is the plea of the scoundrel hypocrite and flatterer for Art and Science cannot exist but in minutely organized Particulars William Blake English poet, painter, and printmaker unknown "
 	},
 	{
 		title: "To see a world in a grain of sand",
 		date: "",
     url: "quotes/to-see-a-world-in-a-grain-of-sand.html",
-		content: "To see a world in a grain of sand And heaven in a wild flower Hold infinity in the palm of your hand And eternity in an hour William Blake  The Portable William Blake "
+		content: "To see a world in a grain of sand And heaven in a wild flower Hold infinity in the palm of your hand And eternity in an hour William Blake English poet, painter, and printmaker The Portable William Blake "
 	},
 	{
 		title: "More than enough",
 		date: "1793",
     url: "quotes/more-than-enough.html",
-		content: "You never know what is enough unless you know what is more than enough William Blake  The Marriage of Heaven and Hell "
+		content: "You never know what is enough unless you know what is more than enough William Blake English poet, painter, and printmaker The Marriage of Heaven and Hell "
 	},
 	{
 		title: "Nirvana Antipattern",

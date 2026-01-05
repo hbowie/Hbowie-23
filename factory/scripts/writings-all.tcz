@@ -20,7 +20,6 @@ template	open			/Users/hbowie/Sites/HBowie-23/factory/templates/short-2.html
 template	generate			
 filter	clear			
 filter	add	ge	Status	9
-filter	add	eq	Class	general
 filter	add	eq	Featured	true
 filter	set		params	
 template	webroot			/Users/hbowie/Sites/HBowie-23/web

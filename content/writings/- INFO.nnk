@@ -4,15 +4,15 @@ Title Set by User: false
 
 Link: /Users/hbowie/Sites/HBowie-23/content/writings
 
-Sort Parm: 2
+Sort Parm: 1
 
-Sort Descending: true
+Sort Descending: false
 
 Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 16
+Last Index Selected: 180
 
 Mirror Auto Index: false
 
@@ -22,7 +22,9 @@ Minimum Body Edit View Height: 40.0
 
 Title Display Option: h1
 
-Display Mode: normal
+Tags Display: above-title
+
+Display Mode: streamlined
 
 Outline Tab: 1
 
@@ -48,7 +50,9 @@ Note File Format: nnk
 
 Hash Tags: notenik-field
 
-Window Numbers: 101.0;0.0;1283.0;898.0;500.0;
+Window Numbers: 707.0;1.0;869.0;1409.0;0.0;
 
-Column Widths: tags: 50, 100, 1200; author: 100, 200, 1000; date: 80, 177, 300; title: 200, 471, 1500; rank: 50, 80, 250; seq: 30, 80, 1500; datemod: 100, 180, 250; dateadded: 100, 180, 1500; klass: 60, 80, 150; statusdigit: 20, 30, 50; x: 12, 20, 1500; 
+Column Widths: x: 12, 20, 1500; title: 200, 471, 1500; date: 80, 177, 300; tags: 50, 100, 1200; seq: 30, 80, 1500; dateadded: 100, 180, 1500; datemod: 100, 180, 250; author: 100, 200, 1000; klass: 60, 80, 150; statusdigit: 20, 30, 50; rank: 50, 80, 250; 
+
+Note Picker Action: Copy Title
 

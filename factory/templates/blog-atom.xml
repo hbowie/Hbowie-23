@@ -15,7 +15,7 @@
 	<entry>
 		<title>
 <?if "=$class$=" eq finished ?>
-			=$finished-work-slug&ox$=
+			=$finished-work-slug&x$=
 <?else?>
 			=$title&x$=
 <?endif?>
@@ -33,7 +33,7 @@
 	   </author>
 	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
 		  <![CDATA[=$body&o$= 
-<?if =$rating$= ?>		  
+<?if =$rating$= ?>
 		  <p>rating: =$rating&^r0,1,&#9733;^$=</p>
 <?endif?>
 <?if "=$link$=" ?>

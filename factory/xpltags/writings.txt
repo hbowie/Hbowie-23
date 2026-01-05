@@ -30,6 +30,7 @@ US politics	us-politics.html	3	writings	The Progressive Problem
 US politics	us-politics.html	3	writings	A Baker’s Dozen of Post-Election Thoughts & Feelings	
 US politics	us-politics.html	3	writings	Five Takeaways from the First 2024 Presidential Debate	
 US politics	us-politics.html	3	writings	How the Dems Lost It	
+US politics	us-politics.html	3	writings	Trump 2.0: Some Insights and Observations	
 US politics	us-politics.html	3	writings	Calling for a US Sustainability Initiative	
 US politics	us-politics.html	3	writings	The MAGA Bubble Finally Bursts	
 US politics	us-politics.html	3	writings	The Progressive Path Forward - A 12-State Strategy	
@@ -64,6 +65,7 @@ art	art.html	3	writings	Building a Case for the Detective Story
 art	art.html	3	writings	How to Listen to Music	
 art	art.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
 art	art.html	3	writings	Getting Back to The Feeling	
+art	art.html	3	writings	The Problem with AI Art	
 authority	authority.html	3	writings	For What It's Worth	Stephen Stills
 balance	balance.html	3	writings	In Defense of Balance	
 balance	balance.html	3	writings	What To Do About Big Business?	
@@ -186,6 +188,7 @@ education	education.html	3	writings	Have We Passed The Point of Maximum Useful T
 education	education.html	3	writings	My Advice to Young People of All Ages	
 emotions	emotions.html	3	writings	For What It's Worth	Stephen Stills
 enchantment	enchantment.html	3	writings	Late For The Sky	Jackson Browne
+enchantment	enchantment.html	3	writings	Pay It No Mind	Sarah Jarosz and John Leventhal
 equality	equality.html	3	writings	The Truth About Capitalism	
 equality	equality.html	3	writings	The Devastating Tragedy of our Vanishing Middle Class	
 equality	equality.html	3	writings	Cooperation, Competition and Coercion	
@@ -204,6 +207,7 @@ evil	evil.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 evolution	evolution.html	3	writings	Evolution and Its Implications	
 evolution	evolution.html	3	writings	What Does It Mean to be Human?	
 evolution	evolution.html	3	writings	Life is Complicated	
+faith	faith.html	3	writings	Pay It No Mind	Sarah Jarosz and John Leventhal
 family	family.html	3	writings	I Don't Like Half The Folks I Love	Paul Thorn and Billy Maddox
 family	family.html	3	writings	A Note For Posterity	
 freedom	freedom.html	3	writings	Angel from Montgomery	John Prine
@@ -334,6 +338,8 @@ parenthood	parenthood.html	3	writings	Christmas Time's A-Coming
 parenthood	parenthood.html	3	writings	Santa Claus is Coming to Town	
 personal development	personal-development.html	3	writings	7 Habits of Highly Effective People	Stephen Covey
 play	play.html	3	writings	Settin' the Woods on Fire	Fred Rose and Ed G. Nelson
+population	population.html	3	writings	Please, Can We Just Have Fewer Children?	
+population	population.html	3	writings	Some Hard Truths About Human Population Growth	
 progress	progress.html	3	writings	A Universal Improvement Process	
 progress	progress.html	3	writings	Understanding Human History	
 progress	progress.html	3	writings	Dethroning the False God of User Experience Design	
@@ -406,6 +412,7 @@ society	society.html	3	writings	The Issues Swirling around Spotify and its Conte
 society	society.html	3	writings	Undoing Trumpism	
 society	society.html	3	writings	Popping the Hood with the Notenik App	
 stories	stories.html	3	writings	1952 Vincent Black Lightning	Richard Thompson
+sustainability	sustainability.html	3	writings	Please, Can We Just Have Fewer Children?	
 sustainability	sustainability.html	3	writings	Some Hard Truths About Human Population Growth	
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	
 sustainability	sustainability.html	3	writings	Why It's a Bad Time to be a Conservative	
@@ -438,6 +445,7 @@ technology	technology.html	3	writings	Thank God for Elon Musk!
 technology	technology.html	3	writings	A Traditional Remedy for the Facebook Problem: Competition	
 technology	technology.html	3	writings	Keeping to the Cackle with AI	
 technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
+technology	technology.html	3	writings	The Problem with AI Art	
 technology	technology.html	3	writings	The Era of Destructive Tech is Upon Us	
 technology	technology.html	3	writings	Thoughts on AI: Apple and Otherwise	
 technology	technology.html	3	writings	More Markdown and HTML, Please	

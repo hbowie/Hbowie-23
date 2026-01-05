@@ -1,0 +1,180 @@
+# Trump 2.0: Some Insights and Observations
+
+If you'd rather read this piece in your web browser, you can find it on [HBowie.net](https://hbowie.net/writings/trump-2.0-some-insights-and-observations.html).
+
+
+----
+
+
+![Godzilla King of the Monsters action figure toy](https://hbowie.net/images/trump-2.0-some-insights-and-observations-godzilla-model.jpg)
+
+I know, I know, it seems like everything has already been said, what more can possibly be left?
+
+And yet I find that most of the narratives being broadcast about what’s going on under Trump 2.0 fit neatly into a very few predictable and predetermined viewpoints projected by our political extremes.
+
+Which only serve to obscure some more interesting patterns, I think. 
+
+So let’s talk about them. 
+
+## 1. A Mad Obsession with the Past
+
+I don’t use the word *mad* lightly. He wants to get rid of wind turbines and solar power and mail-in voting and LED lightbulbs, because...why, exactly? (Even his own political advisers are trying to tell him that mail-in voting is *good* for his voters.)
+
+And he wants to restore all of those grand-looking statues of confederate generals that once graced our streets (and terrified many of the descendants of slaves walking and driving along those same boulevards).
+
+The only consistent pattern here is that he wants everything back just the way he experienced it forty or fifty years ago, when he was young. 
+
+If he were just another senior citizen enjoying a well-deserved retirement, we would simply call this *nostalgia*. 
+
+But we need another word for it when he has the power to erase every advance that’s happened over the last half-a-century, and is intent on systematically exercising that power. 
+
+## 2. A Love for Visible Law and Order
+
+He wants a nice neat wall to keep out illegal immigrants. He wants to deport everyone who is here illegally, even if they might be otherwise law-abiding, productive members of our American society, even if they might have served with honor in our own military, even if they are currently busy on the front lines fighting a dangerous forest fire, even if it means separating people from neighbors, friends and family who care about them. 
+
+And he wants to eliminate crime, homelessness, drugs, graffiti and trash from our city streets. 
+
+## 3. Shortsighted Simplemindedness 
+
+There’s an important truth pointed out at some length by [Peter Senge][senge]:
+
+> The most powerful learning comes from direct experience. But what happens when we can no longer observe the consequences of our actions? Herein lies the core <em>learning dilemma</em> that confronts organizations:<em> we learn best from experience but we never directly experience the consequences of many of our most important decisions.</em> The most critical decisions made in organizations have systemwide consequences that stretch over years or decades.
+
+And then, perhaps more to the point, there’s this one from [H. L. Mencken][mencken]: 
+
+> There is always an easy solution to every human problem -- neat, plausible and wrong.
+
+Trump and the members of his administration seem intent on finding and pursuing every possible wrong solution to every complex human problem they can find, and all of these efforts seem intent on direct manipulation of the supericial aspect of each problem, while ignoring root causes and second- or third-order effects of their actions. 
+
+## 4. Simplistic Economic Indicators
+
+There are only two economic indicators that Trump cares about. 
+
+1. Stock market indices. 
+
+2. Interest rates. 
+
+What’s amazing is that he’s somehow convinced the markets that everything is going to be groovy, because they’re hitting new highs on a regular basis. And one way or another, he will soon get the Fed to lower interest rates. And that’s really all he cares about in terms of numbers. And, of course, these are also the most meaningful and visible numbers for average citizens who are not economists. 
+
+## 5. Remarkable Restraint for a Monster
+
+I grew up during the sixties and early seventies. 
+
+This was the era of Civil Rights and the Vietnam War. 
+
+[Dozens of people were brazenly murdered][civil] just for being black, or for daring to demonstrate in favor of civil rights. 
+
+Thousands of young people were drafted and sent to fight on foreign soil, with [over fifty thousand dying there][nam]. 
+
+Four unarmed students were [shot and killed][kent] by our National Guard simply for turning out on their own college campus to protest the war in Vietnam. 
+
+And one of our presidents was forced to resign because he sent criminals to break into the headquarters of his opponents in order to gain some political advantage. 
+
+Now don’t get me wrong: I’m no Trump fan, and I know that he and his cronies have done some pretty terrible things. 
+
+But on the other hand I find it interesting that none of his actions (at least so far, and as far as I know) have been quite this terrible, or at least not this kind of terrible. 
+
+So if you want to call him a monster, or compare him to Hitler, you might be getting out ahead of your skis a bit. 
+
+In some important senses, we’ve already had far worse. 
+
+## 6. Favors a Powerful Hero over a Large Bureaucracy
+
+In this, I have to confess, he is not too different from the rest of us. 
+
+After all, who doesn’t love *Star Wars* and stories of the rag-tag rebels who toppled an imperial dynasty? And isn’t this the same narrative we all learned from our history books about our own American revolution? 
+
+And so, when he takes over, first, his own party’s political apparatus, and then, the vast legions of the federal government, are we surprised that he sees himself as the hero, and sees all of these carefully designed checks and balances as just so much nonsense that’s getting in the way of doing what’s right? 
+
+## 7. Little Respect for Lawyers
+
+I read an interesting piece recently pointing out that, while China is run by engineers, the US is run by lawyers. 
+
+But I'm old enough to remember listening to [NPR's Car Talk][cartalk] on a regular basis, and one of the points they made repeatedly was that no one really likes lawyers. In fact, they pointed out that lawyers were some of the only people who were trusted even less than auto mechanics!
+
+Which is relevant, because when politicians and commentators on the left complain about all the rules and precedents that Trump is breaking, guess what they manage to sound like: lawyers!
+
+And, for most people, that's not a good thing. 
+
+## 8. Acts Like Who He Is
+
+When friends told me that Trump was a businessman, and so would run government like a business, I tried to warn them. 
+
+There are businesses, and then there are businesses.
+
+If you were talking about someone who has been an effective CEO of one or two large and complex organizations — someone like [Alan Mulally][mulally], for example — then I would be happy to concede your point. 
+
+But keep in mind who we’re talking about here. 
+
+He started out as a spoiled rich kid, and a draft dodger. 
+
+And then he owned a bunch of hotels and golf courses, and made a bunch of real estate deals, using money he had inherited. 
+
+And then he became a media celebrity by playing an unpredictable boss on a staged “reality” tv show. 
+
+And then he scammed a bunch of people by selling them worthless books and courses. 
+
+And in all of these endeavors he has consistently betrayed a sort of naive instinct for taking advantage of people and situations, but in none of them has he shown any skills at teaming with others, or analyzing complex situations, or designing complex products or systems, or using the talents of people who are experts in their own fields. 
+
+And so, no surprise, he’s trying to run our country like some combination of a luxury resort and a TV show (along with a crooked poker game going on in the back room). 
+
+## 9. Making Hay Out of Liberal Excesses
+
+Let’s just talk about DEI for a minute, shall we? 
+
+First, let’s be clear that the principles of diversity, equity and inclusion are important, for many reasons, and in many contexts. 
+
+But when we bundle these three words together, and capitalize them, and then form an abbreviation from them, we are no longer talking about principles. We’re now talking about branding. And then when we go on to create organizational departments that are reponsible for doing something about DEI, and have “DEI” as part of their titles, then we’ve created a new bureaucracy (see point # 6 above) and are arguably more focused on appearances than on issues of greater substance. And then when such organizations — like all such organizations — go on to justify their own existence, and defend and extend their power, they start doing things that are arguably not terribly productive for the larger organizations that they ostensibly serve. 
+
+And so these sorts of things become big fat targets for right-wing media, and for Trump and his cronies. 
+
+And then the Republicans make political hay from them. 
+
+And this same sort of story seems to repeat itself, with the left declaring sanctuary cities, and trying to demonize Immigrations and Customs Enforcement, and arguing for open borders and unrestricted immigration, and for decriminalization of drug use on our streets, and for turning our sidewalks and parks into homeless encampments, and trying to make every school kid read a book casting members of our LGBTQ+ communities in favorable lights, and trying to recast the stories of our American history to put all the emphasis on our many failings. 
+
+It’s all well-intentioned but also tends to go overboard, and so plays right into the hands of our right-wing media and politicians. 
+
+## Conclusions
+
+I was talking to my son about some of this stuff recently and, when he started to give me a look clearly indicating his wonderment at how far I was willing to go with this kind of thinking, I told him then what I will tell you now: I didn’t really have a clear destination in mind. 
+
+But now that I’ve got all this stuff laid out, I think there are a few useful conclusions that might be drawn by the Democrats. 
+
+1. Trump is drawing on a number of popular sentiments to keep his base loyal, and these are providing him with some surprisingly strong and resilient support. 
+
+2. Trump is carefully avoiding inflicting immediate and obvious damage to our citizens and to our economy, which is providing him with a sort of firewall protecting him from the worst criticism. 
+
+3. Executive posturing is not really attractive to anyone. No one wants to watch a sort of Godzilla vs. Mothra showdown between Trump and various Democratic governors and mayors. In any event, Trump is likely to prevail in such a showdown, which leaves us exactly... where? 
+
+4. Democrats need to back away from some of their more extreme positions, and stop providing the right wing with endless fodder for their attacks. 
+
+5. Even though Trump the man is the most obvious target for Democrats, continuing attempts to try to portray him as the monster destroying democracy are not likely to be persuasive to his followers. 
+
+6. Along those lines, Democrats need to be willing to recognize that those who voted for Trump are not a [basket of deplorables][basket], but rather ordinary American citizens with valid concerns that were not being resolved or even recognized by the Democratic party. If you continually berate people for being stupid or immoral or both, then you cannot really expect them to ever vote for you. 
+
+7. What’s missing is legislation. It will be hard to hang Trump for enforcing the law and projecting his power: that’s sort of what executive leaders are supposed to do, right? But if the Democrats can put together a strong and concise and sensible legislative agenda, based on issues already on the minds of voters, and then unify behind that, then they will be attacking the Republicans where they are most vulnerable, and might actually pick up enough seats in the midterms to once again be in a position to wield some actual power in DC. 
+
+Think of this piece as a sort of blueprint of the current Death Star hanging over us. 
+
+It's pointless to try to mount an attack on the heavily fortified parts of the fortress. 
+
+But if the rebel leaders are smart, they might be able to deliver a well-placed legislative projectile into a vulnerable chink in the armor. 
+
+For all of our sakes, let's hope they're paying attention. 
+
+[mencken]: https://hbowie.net/authors/h-l-mencken.html
+
+[senge]: https://hbowie.net/authors/peter-senge.html
+
+[civil]: https://www.splcenter.org/civil-rights-martyrs/
+
+[nam]: https://dcas.dmdc.osd.mil/dcas/app/conflictCasualties/vietnam/vietnamSum
+
+[kent]: https://en.wikipedia.org/wiki/Kent_State_shootings
+
+[mulally]: https://en.wikipedia.org/wiki/Alan_Mulally
+
+[basket]: https://en.wikipedia.org/wiki/Basket_of_deplorables
+
+[cartalk]: https://www.npr.org/podcasts/510208/car-talk
+

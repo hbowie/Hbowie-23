@@ -17,7 +17,13 @@
     --link-visited-color: Purple;
     --link-active-color: Red;
     --background-active-color: #e0e0e0;
-    --highlight-color: Gainsboro
+    --code-color: #d81b60;
+    --preformatted-color: #444;
+    --accent-bg: #f5f7ff;
+    --border: #898EA4;
+    --highlight-color: Gainsboro;
+    --bg: #fff;
+    --accent-bg: #f5f7ff;
 }
 a.ext-link::after {
     content: "";
@@ -40,7 +46,12 @@ a.ext-link::after {
     --link-visited-color: #cab7ff;
     --link-active-color: #94d8ff;
     --background-active-color: #363636;
-    --highlight-color: DimGray
+    --code-color: #f06292;
+    --preformatted-color: #ccc;
+    --accent-bg: #2b2b2b;
+    --highlight-color: DimGray;
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
   }
     a.ext-link::after {
         content: "";
@@ -72,27 +83,79 @@ a:active {
 .search-results {
     background-color: var(--highlight-color);
 }
+/* End of darkModeAdjustments code. */
 /* The following CSS comes from the displayCSS method of the
    DisplayPrefs class within Notenik.                        */
+:root {
+    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    --standard-border-radius: 5px;
+}
 body {
   tab-size: 4;
-  margin: 1em;
+  margin: 1em 1em 1em 1.1em;
+  max-width: 50em; 
   background-color: var(--background-color);
   color: var(--text-color);
-  line-height: 1.45;
-/* fontCSS insertion starts here */
-font-family: "Heliotrope 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-size: 16pt;
+  line-height: 1.45;/* fontCSS insertion starts here */
+font-family: "Century Supra B", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 15pt;
 /* fontCSS insertion ends here   */
 }
+img { max-width: 100%; border: 4px solid gray; }
+/* body { max-width: 33em; margin: 0 auto; float: none; } */
 p {
     margin-top: 0.2em;
     margin-bottom: 0.7em;
+}
+body > footer {
+    margin-top: 4rem;
+    text-align: center;
+}
+/* Consolidate box styling */
+aside, pre, progress {
+  background-color: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
+}
+aside {
+  font-size: 1rem;
+  width: 30%;
+  padding: 0 15px;
+  margin-inline-start: 15px;
+  float: right;
+}
+*[dir="rtl"] aside {
+  float: left;
+}
+
+/* Make aside full-width on mobile */
+@media only screen and (max-width: 720px) {
+  aside {
+    width: 100%;
+    float: none;
+    margin-inline-start: 0;
+  }
 }
 blockquote {
   border-left: 0.4em solid #999;
   margin-left: 0;
   padding-left: 1em;
+}
+.quote-from {
+    margin-block-start: 0.1rem;
+    margin-block-end: 0.5rem;
+    margin: 0.1rem 0 0.5rem 0;
+    padding: 0.25rem 2.6em;
+    line-height: 1.45;
+    position: relative;
+}
+.quote-from:before {
+    display: block;
+    padding-left: 1.4em;
+    content: "\2014";
+    position: absolute;
+    left: 0;
 }
 figure {
   margin-left: 0.2em;
@@ -113,7 +176,22 @@ img {
   height: auto;
 }
 
+/* --------------------------------------------------
+
+  Lists
+
+* -------------------------------------------------- */
+
 li { margin-top: 0.2em; margin-bottom: 0.2em; }
+p.nnk-tags-repl-nav-up {
+        font-style: italic;
+}
+p.nnk-tags {
+        font-style: italic;
+        width: 100%;
+        text-align: right;
+        clear: both;
+}
 ul.checklist { list-style-type: none; }
 ul.tags-list { list-style-type: none; }
 ul.tags-cloud {
@@ -138,6 +216,50 @@ ul.tags-cloud a {
   min-width: 40px;
   text-align: center;
 }
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+ul.outline-ul {
+    list-style-type: none;
+}
+ul.outline-list {
+    list-style-type: none;
+}
+ul.outline-ul-within-details {
+    list-style-type: none;
+}
+li.outline-li-bullet {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0;
+}
+details > summary:first-of-type {
+    list-style-position: outside;
+}
+/* --------------------------------------------------
+
+  Other stuff
+
+* -------------------------------------------------- */
 figure.notenik-quote-attrib {
     margin-left: 2em;
     margin-right: 2em;
@@ -151,16 +273,7 @@ figure.notenik-quote-attrib blockquote {
 figure.notenik-quote-attrib figcaption {
     text-align: right;
 }
-ol.notenik-biblio-list {
-  list-style-type: none;
-  margin-left: 0;
-  padding-left: 0;
-}
-ol.notenik-biblio-list li {
-  margin-left: 3em;
-  text-indent: -3em;
-  margin-bottom: 1em;
-}
+
 cite.notenik-cite-major {
   font-style: italic;
 }
@@ -171,11 +284,6 @@ cite.notenik-cite-minor {
     font-style: italic;
     text-align: center;
     margin-top: 0;
-}
-ul.notenik-toc {
-  list-style-type: none; /* Remove bullets */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
 }
 table.notenik-calendar {
   table-layout: fixed;
@@ -209,6 +317,11 @@ a.wiki-link {
     border-bottom: 1px dotted;
 }
 
+a.hashtag {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
 a.ext-link {
     text-decoration: none;
     border-bottom: 1px dotted;
@@ -219,34 +332,17 @@ a.nav-link:link {
     border-bottom: none;
 }
 
-header {
-    text-align: center;
-}
-
-nav {
-    float: right;
-    font-style: italic;
-}
-
-nav ul {
-    margin-top: 0;
-}
-
-nav ul li {
-    display: inline;
-}
-
-nav ul li a {
-    text-decoration: none;
-    border-bottom: none;
-}
-
 nav ul li a.wiki-link {
     text-decoration: none;
     border-bottom: none;
 }
 
-footer {
+.nnk-header a:link {
+    text-decoration: none;
+    border-bottom: none; 
+}
+
+footer.nnk-footer {
     clear: both;
     border-top: 1px dashed var(--text-color);
     margin-top: 1em;
@@ -255,7 +351,7 @@ footer {
     text-align: right;
 }
 
-footer p {
+footer.nnk-footer p {
     padding-top: 0.5em;
 }
 
@@ -310,30 +406,158 @@ footer p {
     margin-left: -2.2em;
     margin-bottom: 0.5em;
 }
+pre {
+    
+}
+code {
+    font-family: var(--mono-font);
+    color: var(--code-color);
+}
+pre {
+  padding: 1rem 1.4rem;
+  max-width: 100%;
+  overflow-x: auto;
+  color: var(--preformatted-color);
+}
 
-ul.outline-ul {
-    list-style-type: none;
-}
-ul.outline-ul-within-details {
-    list-style-type: none;
-    margin-left: 0;
-    padding-left: 5px;
-}
-li.outline-li-bullet {
-    list-style-type: disc;
-    list-style-position: inside;
+/* Fix embedded code within pre */
+pre code {
+  color: var(--preformatted-color);
+  background: none;
+  margin: 0;
+  padding: 0;
 }
 
-details {
-    margin-left: 2.2em;
+/* Classes for notices */
+.notice {
+  background: var(--accent-bg);
+  border: 2px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  padding: 1.5rem;
+  margin: 2rem 0;
 }
-summary {
-    margin-left: -2.2em;
-    margin-bottom: 0.5em;
+
+article, fieldset, dialog {
+  border: 1px solid var(--border);
+  padding: 1rem;
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
 }
-/* Generated CSS for headings follows. */
+
+article h2:first-child,
+section h2:first-child,
+article h3:first-child,
+section h3:first-child {
+  margin-top: 1rem;
+}
+
+/* Make the header bg full width, but the content inline with body */
+body > header {
+  background-color: var(--accent-bg);
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 0 0.5rem 2rem 0.5rem;
+  grid-column: 1 / -1;
+}
+
+body > header > *:only-child {
+  margin-block-start: 2rem;
+}
+
+body > header h1 {
+  max-width: 1200px;
+  margin: 1rem auto;
+}
+
+body > header p {
+  max-width: 40rem;
+  margin: 1rem auto;
+}
+
+header.nnk-header {
+    background-color: var(--background-color);
+    text-align: center;
+    border-bottom: none;
+    max-width: none;
+    padding: 0 0 0 0;
+}
+
+/* Format navigation */
+header > nav {
+  font-size: 1rem;
+  line-height: 2;
+  padding: 1rem 0 0 0;
+}
+
+/* Use flexbox to allow items to wrap, as needed */
+header > nav ul,
+header > nav ol {
+  align-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* List items are inline elements, make them behave more like blocks */
+header > nav ul li,
+header > nav ol li {
+  display: inline-block;
+}
+
+header > nav a,
+header > nav a:visited {
+  margin: 0 0.5rem 1rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  color: var(--text);
+  display: inline-block;
+  padding: 0.1rem 1rem;
+  text-decoration: none;
+}
+
+header > nav a:hover,
+header > nav a.current,
+header > nav a[aria-current="page"],
+header > nav a[aria-current="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
+  cursor: pointer;
+}
+
+/* Reduce nav side on mobile */
+@media only screen and (max-width: 720px) {
+  header > nav a {
+    border: none;
+    padding: 0;
+    text-decoration: underline;
+    line-height: 1;
+  }
+}
+
+nav.nnk-nav {
+    float: right;
+    font-style: italic;
+}
+
+nav.nnk-nav ul {
+    margin-top: 0;
+}
+
+nav.nnk-nav ul li {
+    display: inline;
+}
+
+nav.nnk-nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}/* Generated CSS for headings follows. */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Heliotrope 4", Helvetica, Arial, sans-serif;
+    font-family: "Heliotrope 3", Helvetica, Arial, sans-serif;
     font-weight: 400;
     margin-top: 0.7em;
     margin-bottom: 0.2em;
@@ -341,27 +565,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
     text-align: center;
-    font-size: 2.2em;
+    font-size: 2.0em;
 }
 h2 {
     text-align: left;
-    font-size: 2.0em;
+    font-size: 1.8em;
 }
 h3 {
     text-align: left;
-    font-size: 1.8em;
+    font-size: 1.6em;
 }
 h4 {
     text-align: left;
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 h5 {
     text-align: left;
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 h6 {
     text-align: left;
-    font-size: 1.2em;
+    font-size: 1.0em;
 }
 
 </style>
@@ -369,38 +593,62 @@ h6 {
 <body>
 
 <main>
-<p><em><a href="notenik://expand?path=/Users/hbowie/Library/Mobile%20Documents/com~apple~CloudDocs/Family%20Cloud/Family%20Notes/&tag=games" style="text-decoration: none">games</a></em></p><h1 id="tichu-rules">Tichu Rules</h1>
+<p class="nnk-tags"><a href="notenik://expand?path=/Users/hbowie/Sites/HBowie-23/content/family&tag=games" style="text-decoration: none">games</a></p><h1 id="tichurules" style="clear:both">Tichu Rules</h1>
 <p>Tichu is a card game primarily classified as a shedding game that includes elements of Bridge, Daihinmin, and Poker. </p>
 <ul>
-<li><a href="#number-of-players" class="wiki-link">Number of Players</a></li>
-<li><a href="#objective" class="wiki-link">Objective</a></li>
-<li><a href="#seating" class="wiki-link">Seating</a></li>
-<li><a href="#sequence-of-play" class="wiki-link">Sequence of Play</a></li>
-<li><a href="#cards-used" class="wiki-link">Cards Used</a></li>
-<li><a href="#the-deal" class="wiki-link">The Deal</a></li>
-<li><a href="#passing-cards" class="wiki-link">Passing Cards</a></li>
-<li><a href="#the-tichu-bet" class="wiki-link">The Tichu Bet</a></li>
-<li><a href="#the-play" class="wiki-link">The Play</a></li>
-<li><a href="#valid-card-combinations" class="wiki-link">Valid Card Combinations</a></li>
-<li><a href="#special-cards" class="wiki-link">Special Cards</a>
+<li>
+<a href="#number-of-players" class="wiki-link">Number of Players</a></li>
+<li>
+<a href="#objective" class="wiki-link">Objective</a></li>
+<li>
+<a href="#seating" class="wiki-link">Seating</a></li>
+<li>
+<a href="#sequence-of-play" class="wiki-link">Sequence of Play</a></li>
+<li>
+<a href="#cards-used" class="wiki-link">Cards Used</a></li>
+<li>
+<a href="#the-deal" class="wiki-link">The Deal</a></li>
+<li>
+<a href="#passing-cards" class="wiki-link">Passing Cards</a></li>
+<li>
+<a href="#the-tichu-bet" class="wiki-link">The Tichu Bet</a></li>
+<li>
+<a href="#the-play" class="wiki-link">The Play</a></li>
+<li>
+<a href="#valid-card-combinations" class="wiki-link">Valid Card Combinations</a></li>
+<li>
+<a href="#special-cards" class="wiki-link">Special Cards</a>
 <ul>
-<li><a href="#the-mah-jong" class="wiki-link">The Mah Jong</a></li>
-<li><a href="#the-hound" class="wiki-link">The Hound</a></li>
-<li><a href="#the-phoenix" class="wiki-link">The Phoenix</a></li>
-<li><a href="#the-dragon" class="wiki-link">The Dragon</a></li>
+<li>
+<a href="#the-mah-jong" class="wiki-link">The Mah Jong</a></li>
+<li>
+<a href="#the-hound" class="wiki-link">The Hound</a></li>
+<li>
+<a href="#the-phoenix" class="wiki-link">The Phoenix</a></li>
+<li>
+<a href="#the-dragon" class="wiki-link">The Dragon</a></li>
 </ul>
 </li>
-<li><a href="#scoring" class="wiki-link">Scoring</a>
+<li>
+<a href="#scoring" class="wiki-link">Scoring</a>
 <ul>
-<li><a href="#first-out-scoring" class="wiki-link">First Out Scoring</a></li>
-<li><a href="#card-scoring" class="wiki-link">Card Scoring</a></li>
+<li>
+<a href="#first-out-scoring" class="wiki-link">First Out Scoring</a></li>
+<li>
+<a href="#card-scoring" class="wiki-link">Card Scoring</a></li>
 </ul>
 </li>
 </ul>
+
+<section id="section-for-number-of-players">
 
 <h2 id="number-of-players">Number of Players</h2>
 
 <p>Four players, consisting of two teams of two players each. </p>
+
+</section>
+
+<section id="section-for-objective">
 
 <h2 id="objective">Objective</h2>
 
@@ -408,17 +656,33 @@ h6 {
 
 <p>In general, teams can score points by capturing point cards (fives, tens, kings) when they take tricks, and also by playing all their cards and emptying their hands before their opponents. </p>
 
+</section>
+
+<section id="section-for-seating">
+
 <h2 id="seating">Seating</h2>
 
 <p>Each player sits across from their teammate so that play alternates between the two teams. </p>
+
+</section>
+
+<section id="section-for-sequence-of-play">
 
 <h2 id="sequence-of-play">Sequence of Play</h2>
 
 <p>The game is traditionally run counter clockwise, but is frequently played clockwise. </p>
 
+</section>
+
+<section id="section-for-cards-used">
+
 <h2 id="cards-used">Cards Used</h2>
 
 <p>The game is played with a deck of 56 cards, consisting of a 52-card deck of four suits (Jade, Sword, Pagoda, Star) plus four special cards (Mah Jong, Hound, Phoenix, Dragon). Within each suit, cards run from deuce through Ace, with Aces being high. A standard 52-card deck with 4 jokers (marked to indicate the special cards) can also be used. </p>
+
+</section>
+
+<section id="section-for-the-deal">
 
 <h2 id="the-deal">The Deal</h2>
 
@@ -432,13 +696,25 @@ h6 {
 
 <p>After players have either called a Grand Tichu or waived their opportunity to do so, the remaining six cards may be dealt to each player. (Alternatively, the remaining six cards may be dealt onto the table in front of each player earlier, in which case each player simply picks up and examines their remaining six cards once they have called Grand Tichu or decided not to do so.) </p>
 
+</section>
+
+<section id="section-for-passing-cards">
+
 <h2 id="passing-cards">Passing Cards</h2>
 
 <p>After all cards have been dealt, each player passes one card to each of the other players, so that all players pick a total of three cards to pass, and then receive three replacement cards that are passed to them. </p>
 
+</section>
+
+<section id="section-for-the-tichu-bet">
+
 <h2 id="the-tichu-bet">The Tichu Bet</h2>
 
 <p>Any player who has not alreacy bet a Grand Tichu can now call Tichu at any point after all cards have been dealt, and before they play their first card. This represents a 100-point bet that they (not their partner) will be the first to go out by playing all of the cards in their hand. Again, zero to four players may place such bets. </p>
+
+</section>
+
+<section id="section-for-the-play">
 
 <h2 id="the-play">The Play</h2>
 
@@ -466,23 +742,39 @@ h6 {
 
 <p>The tailender (the last player with any cards) hands over the cards remaining in their hand to their opponents and the tricks they won to the winner (the player who has gone out first in the hand). </p>
 
+</section>
+
+<section id="section-for-valid-card-combinations">
+
 <h2 id="valid-card-combinations">Valid Card Combinations</h2>
 
 <p>Cards may be combined in the following ways. Again, except for the exceptions noted below, once a particular card combination is led, following plays for that trick must be of the same combination. </p>
 <ul>
-<li>Single Card </li>
-<li>Pair of two cards with the same ranks </li>
-<li>Two or more consecutive pairs (for example, 55667788) </li>
-<li>Three of a kind &#8211; three cards of matching ranks </li>
-<li>Straight of at least five cards in length, regardless of suit/color (remember that Aces are high) </li>
-<li>Full house (three of a kind plus a pair) </li>
-<li>Four of a kind &#8211; this combination is the first of two possible combinations designated as bombs, meaning that they can be played at any time, no matter what card combination was led, and can only be beaten by a higher bomb </li>
-<li>Straight flush of at least five cards, which is the second card combination designated as a bomb (see description above) </li>
+<li>
+Single Card </li>
+<li>
+Pair of two cards with the same ranks </li>
+<li>
+Two or more consecutive pairs (for example, 55667788) </li>
+<li>
+Three of a kind &#8211; three cards of matching ranks </li>
+<li>
+Straight of at least five cards in length, regardless of suit/color (remember that Aces are high) </li>
+<li>
+Full house (three of a kind plus a pair) </li>
+<li>
+Four of a kind &#8211; this combination is the first of two possible combinations designated as bombs, meaning that they can be played at any time, no matter what card combination was led, and can only be beaten by a higher bomb </li>
+<li>
+Straight flush of at least five cards, which is the second card combination designated as a bomb (see description above) </li>
 </ul>
 
 <p>Note that a straight flush beats four of a kind, and a longer straight flush beats a shorter one. </p>
 
-<p>Note also that the Phoenix may or may not be used as part of a bomb, depending on house rules. We play that it can be used this way.  </p>
+<p>Note also that the Phoenix may not be used as part of a bomb.  </p>
+
+</section>
+
+<section id="section-for-special-cards">
 
 <h2 id="special-cards">Special Cards</h2>
 
@@ -510,9 +802,13 @@ h6 {
 
 <p>The Phoenix may be played in two different ways. </p>
 <ul>
-<li><p>As a single card, it beats whatever previous card was last played, but will not beat any higher cards that are subsequently played. (In other words, one can think of it as taking a value 0.5 higher than the last card played.) If it is led as a single card, then any single card other than the Mah Jong can beat it. Iin other words, it can be thought of as having a value of 1.5 when led.) </p></li>
-<li><p>The other way to play the Phoenix is as a wild card, in order to form some desired card combination. </p></li>
+<li>
+<p>As a single card, it beats whatever previous card was last played, but will not beat any higher cards that are subsequently played. (In other words, one can think of it as taking a value 0.5 higher than the last card played.) If it is led as a single card, then any single card other than the Mah Jong can beat it. Iin other words, it can be thought of as having a value of 1.5 when led.) </p></li>
+<li>
+<p>The other way to play the Phoenix is as a wild card, in order to form some desired card combination. </p></li>
 </ul>
+
+<p>(Note, however, that the Phoenix may not be used a part of a Bomb.) </p>
 
 <p>Note that these two modes of play cannot be mixed: specifically, a Phoenix may not be played as the high card following an Ace in a straight, as if it were an Ace and a half.  </p>
 
@@ -526,9 +822,13 @@ h6 {
 
 <p>If the trick is won with the Dragon, the trick is given to the player&#8217;s opponent (you choose which one). </p>
 
-<p>However, if the dragon is bombed, the player who played the largest bomb on the trick takes the entire trick for themselves (including the Dragon). </p>
+<p>However, if the Dragon is bombed, the player who played the largest bomb on the trick takes the entire trick for themselves (including the Dragon). </p>
 
 <p>As we will see later in <a href="#card-scoring" class="wiki-link">Card Scoring</a>, the Dragon is worth 25 points. </p>
+
+</section>
+
+<section id="section-for-scoring">
 
 <h2 id="scoring">Scoring</h2>
 
@@ -594,6 +894,9 @@ h6 {
 </table>
 
 <p>Note that the total card score for each round will be a total of 100 points. </p>
+
+</section>
+
 
 <hr />
 

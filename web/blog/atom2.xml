@@ -5,13 +5,332 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2025-08-26T21:48:51Z</updated>
+	<updated>2026-01-05T17:20:35Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
 		<email>herb@hbowie.net</email>
 		<uri>https://hbowie.net/</uri>
 	</author>
+	<entry>
+		<title>
+			Released Notenik Version 18.1.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.1.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18.1.0</id>
+	  <published>2025-12-12T12:00:00Z</published>
+	  <updated>2025-12-15T17:28:29Z</updated>
+	  <content>
+Additional improvements targeted on web book publishing. 
+
+
+related link: https://notenik.app/kb/version-18.1.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Finished reading *The Hunter* by Tana French
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-the-hunter-by-tana-french.html"/>
+	  <id>https://hbowie.net/blog/posts/finished-reading-the-hunter-by-tana-french</id>
+	  <published>2025-12-01T12:00:00Z</published>
+	  <updated>2025-12-02T01:23:40Z</updated>
+	  <content>
+This is a sequel to *The Searcher*, featuring the same characters. Pretty good, but not quite as fun as the first book, since we already know the main characters, and they don&apos;t evolve a whole lot in this book. 
+
+
+rating: &#9733;&#9733;&#9733;
+
+related link: https://www.theguardian.com/books/2024/mar/11/the-hunter-by-tana-french-review-sequel-to-the-searcher
+
+#Books
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 18.0.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.0.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18.0.0</id>
+	  <published>2025-11-14T12:00:00Z</published>
+	  <updated>2025-11-14T18:25:38Z</updated>
+	  <content>
+Further improvements mostly focused on web book publishing. 
+
+
+related link: https://notenik.app/kb/version-18.0.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 17.9.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.9.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.9.0</id>
+	  <published>2025-10-30T12:00:00Z</published>
+	  <updated>2025-11-14T18:24:13Z</updated>
+	  <content>
+Some additional Tahoe refinements, plus some improvements for web book publishing. 
+
+
+related link: https://notenik.app/kb/version-17.9.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;The Problem with AI Art&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-problem-with-ai-art.html"/>
+	  <id>https://hbowie.net/blog/posts/published-the-problem-with-ai-art</id>
+	  <published>2025-10-17T12:00:00Z</published>
+	  <updated>2025-10-17T23:49:11Z</updated>
+	  <content>
+Published a new piece on the problems I see with AI-generated &quot;art&quot;. The web is full of opinions on the subject, so I thought I would add my thoughts to the mix — with some original insights and observations, hopefully. 
+
+
+related link: https://hbowie.net/writings/the-problem-with-ai-art.html
+
+#Ai #Art
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 17.8.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.8.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.8.0</id>
+	  <published>2025-10-14T12:00:00Z</published>
+	  <updated>2025-10-17T23:44:08Z</updated>
+	  <content>
+Fixed a few problems, and added an export scripting module, so that a web book can be exported via a Notenik script.
+
+
+related link: https://notenik.app/kb/version-17.8.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;Pay It No Mind&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-pay-it-no-mind.html"/>
+	  <id>https://hbowie.net/blog/posts/published-pay-it-no-mind</id>
+	  <published>2025-10-07T12:00:00Z</published>
+	  <updated>2025-10-07T22:20:14Z</updated>
+	  <content>
+“Pay It No Mind” is a lovely little song from Sarah Jarosz, and seems like a perfect accompaniment for the times we find ourselves in, so I wrote up a little appreciation for it. 
+
+
+related link: https://hbowie.net/writings/pay-it-no-mind.html
+
+#Songs
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Finished watching *Unforgotten Season 6* by Chris Lang
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-watching-unforgotten-season-6.html"/>
+	  <id>https://hbowie.net/blog/posts/finished-watching-unforgotten-season-6</id>
+	  <published>2025-10-01T12:00:00Z</published>
+	  <updated>2025-10-02T16:45:19Z</updated>
+	  <content>
+Finished watching the PBS Masterpiece Mystery series season 6 of Unforgotten, and it was really good. I&apos;ve watched lots of Masterpiece Mystery shows and similar fare, and after a while they seem to lean more into the appeal of their folksy detectives, and away from their plots and characters. This series went completely in the opposite direction. So many rich characters, and so much great acting, and so many interesting stories within the story! And very contemporary and topical, in interesting and unexpected ways. Good stuff!
+
+
+rating: &#9733;&#9733;&#9733;&#9733;
+
+related link: https://www.pbs.org/wgbh/masterpiece/shows/unforgotten/
+
+#Unforgotten
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 17.7.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.7.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.7.0</id>
+	  <published>2025-09-29T12:00:00Z</published>
+	  <updated>2025-10-07T22:20:43Z</updated>
+	  <content>
+Fixed a few problems, some caused by Tahoe, some just bugs accidentally introduced by me. 
+
+
+related link: https://notenik.app/kb/version-17.7.0.html
+
+#Notenik #Pkm #Tahoe
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Finished watching *American Utopia* by David Byrne
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/watched-american-utopia.html"/>
+	  <id>https://hbowie.net/blog/posts/watched-american-utopia</id>
+	  <published>2025-09-21T12:00:00Z</published>
+	  <updated>2025-09-22T23:45:08Z</updated>
+	  <content>
+I enjoyed this. Spike Lee&apos;s direction seems to do a good job of translating the stage production to film, without any obtrusive directorial flourishes. It&apos;s a good mix of music, and it&apos;s remarkable to see the barefoot musicans also performing as dancers, aided by technology that allows them to flow around the stage and around each other without any wires. It&apos;s a moving display of the ability of humans to remain connected to one another, in terms of music and dance and mood and intention, despite their distinctively individual roles and abilities and appearances. The overall theme of connection reminded me a bit of this quote from Ross MacDonald:
+
+&gt; I had to admit to myself that I lived for nights like these, moving across the city’s great broken body, making connections among its millions of cells. I had a crazy wish or fantasy that some day before I died, if I made all the right neural connections, the city would come all the way alive. Like the Bride of Frankenstein.
+
+rating: &#9733;&#9733;&#9733;&#9733;
+
+related link: https://en.wikipedia.org/wiki/American_Utopia_(film)
+
+#Film
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 17.6.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.6.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.6.0</id>
+	  <published>2025-09-20T12:00:00Z</published>
+	  <updated>2025-09-20T17:44:45Z</updated>
+	  <content>
+Just made my first post-Tahoe release for Notenik, with the following changes: Updated app icon for Tahoe; tweaked some UI details for Tahoe; added optional linkage between Class and Level fields; added a new Long Title field type, for use when a longer title should replace the traditional one at the note display level. 
+
+
+related link: https://notenik.app/kb/version-17.6.0.html
+
+#Notenik #Pkm #Tahoe
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Finished watching *Highest 2 Lowest* by Spike Lee
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/watched-highest-2-lowest.html"/>
+	  <id>https://hbowie.net/blog/posts/watched-highest-2-lowest</id>
+	  <published>2025-09-18T12:00:00Z</published>
+	  <updated>2025-09-18T15:42:54Z</updated>
+	  <content>
+I really enjoyed this film. There are just so many interesting facets to it. Denzel Washington is so entertaining, and completely inhabits his role. Dean Winter — the actor who plays the chaos agent  in the Allstate &quot;mayhem&quot; commercials — plays a white detective, and gets to reprise that role when he is plowing his police car through a crowd while in pursuit of a suspect. (References to &quot;mayhem&quot; are also amusingly dropped into the script from time to time.) The film is part crime film, part action film, but ultimately is a meditation on what matters most in our lives, and how we have to let go of some things, and risk losing others, in order to keep the things that are most important. 
+
+
+rating: &#9733;&#9733;&#9733;&#9733;
+
+related link: https://en.wikipedia.org/wiki/Highest_2_Lowest
+
+#Film
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Finished reading *Marble Hall Murders* by Anthony Horowitz
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-marble-hall-murders-by-anthony-horowitz.html"/>
+	  <id>https://hbowie.net/blog/posts/finished-reading-marble-hall-murders-by-anthony-horowitz</id>
+	  <published>2025-09-17T12:00:00Z</published>
+	  <updated>2025-10-24T17:25:54Z</updated>
+	  <content>
+This is the third book in the Magpie Murders series, and was an enjoyable read. But the author is a screenwriter as well as a book writer, and the first two books were made into very successful TV shows, and this third book feels a little more like a warmup for the TV script than a book that needed to be written for its own sake. The novelty to the series is that there are parallel mysteries unfolding — one in a partially finished novel by a character within the story, and one happening with the story&apos;s author and her editor and their associates. What proved a bit disappointing to me in this book was that the detective in the outside story was so completely isolated. Would have helped me if she had had some kind of faithful sidekick or companion.  
+
+
+rating: &#9733;&#9733;&#9733;
+
+related link: https://anthonyhorowitz.com/books/title/marble-hall-murders
+
+#Books
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Finished reading *Birnam Wood* by Eleanor Catton
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-birnam-wood-by-eleanor-catton.html"/>
+	  <id>https://hbowie.net/blog/posts/finished-reading-birnam-wood-by-eleanor-catton</id>
+	  <published>2025-09-06T12:00:00Z</published>
+	  <updated>2025-09-06T16:53:47Z</updated>
+	  <content>
+Well written, with interesting characters, but did not ultimately thrill me. 
+
+
+rating: &#9733;&#9733;&#9733;
+
+related link: https://en.wikipedia.org/wiki/Birnam_Wood_(novel)
+
+#Books
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Notenik Reviewed at Mac Sources
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/notenik-reviewed-at-mac-sources.html"/>
+	  <id>https://hbowie.net/blog/posts/notenik-reviewed-at-mac-sources</id>
+	  <published>2025-09-04T12:00:00Z</published>
+	  <updated>2025-09-04T17:50:40Z</updated>
+	  <content>
+Notenik had a nice review from the Mac Sources site. In addition to being very positive, I thought it was very thorough and well-written. 
+
+
+related link: https://macsources.com/notenik-review/
+
+#MacApps #Notenik
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;Trump 2.0: Some Insights and Observations&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-trump-2.0-some-insights-and-observations.html"/>
+	  <id>https://hbowie.net/blog/posts/published-trump-2.0-some-insights-and-observations</id>
+	  <published>2025-09-03T12:00:00Z</published>
+	  <updated>2025-09-03T18:54:21Z</updated>
+	  <content>
+A lot is being said about Trump 2.0 on an hourly basis, but most of the viewpoints expressed seem to be the same ones over and over. But I think there are some interesting (and perhaps useful) patterns that are not being talked about much. 
+
+
+related link: https://hbowie.net/writings/trump-2.0-some-insights-and-observations.html
+
+#Democrats #Republicans #Trump #UsPolitics
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;The Era of Destructive Tech is Upon Us&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-era-of-destructive-tech-is-upon-us.html"/>
+	  <id>https://hbowie.net/blog/posts/published-the-era-of-destructive-tech-is-upon-us</id>
+	  <published>2025-08-28T12:00:00Z</published>
+	  <updated>2025-08-28T15:13:57Z</updated>
+	  <content>
+Wrote most of this a while ago, but just got around to publishing it. 
+
+
+related link: https://hbowie.net/writings/the-era-of-destructive-tech-is-upon-us.html
+
+#Tech
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 17.5.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.5.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.5.0</id>
+	  <published>2025-08-27T12:00:00Z</published>
+	  <updated>2025-08-27T18:59:26Z</updated>
+	  <content>
+This new version includes various small enhancements useful for web page formatting. Details available in the Knowledge Base at Notenik.app. Download for free from the Mac App Store. 
+
+
+related link: https://notenik.app/kb/version-17.5.0.html
+
+#Notenik
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Finished reading *Gabriel&apos;s Moon* by William Boyd
@@ -21,14 +340,14 @@
 	  <published>2025-08-24T12:00:00Z</published>
 	  <updated>2025-08-24T19:22:56Z</updated>
 	  <content>
-		  First book I&apos;ve read by this author. A sort of origin story for a British spy starting to work in the early sixties. Seems to be the start of a planned series. Well written, thoroughly engaging. Lots of interesting historical references. If this book brings something new to the genre, then I suppose it would be the provision of a convincing back story for why and how a young man would become involved in such an activity, and what sort of young man that might be. 
+First book I&apos;ve read by this author. A sort of origin story for a British spy starting to work in the early sixties. Seems to be the start of a planned series. Well written, thoroughly engaging. Lots of interesting historical references. If this book brings something new to the genre, then I suppose it would be the provision of a convincing back story for why and how a young man would become involved in such an activity, and what sort of young man that might be. 
 
 
-		  rating: &#9733;&#9733;&#9733;
+rating: &#9733;&#9733;&#9733;
 
-		  related link: https://en.wikipedia.org/wiki/Gabriel%27s_Moon
+related link: https://en.wikipedia.org/wiki/Gabriel%27s_Moon
 
-		  #Books
+#Books
 	  </content>
 	</entry>
 	<entry>
@@ -40,308 +359,14 @@
 	  <published>2025-08-20T12:00:00Z</published>
 	  <updated>2025-08-21T07:29:18Z</updated>
 	  <content>
-		  An interesting read. Would have been even more interesting if I were British and reading it when it first came out. A bit of a mystery and a bit of a horror story, and also a political satire. 
+An interesting read. Would have been even more interesting if I were British and reading it when it first came out. A bit of a mystery and a bit of a horror story, and also a political satire. 
 
 
-		  rating: &#9733;&#9733;&#9733;
+rating: &#9733;&#9733;&#9733;
 
-		  related link: https://en.wikipedia.org/wiki/What_a_Carve_Up!_(novel)
+related link: https://en.wikipedia.org/wiki/What_a_Carve_Up!_(novel)
 
-		  #Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Junior World Cycling Championship in The Netherlands
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/junior-world-cycling-championship-in-the-netherlands.html"/>
-	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/junior-world-cycling-championship-in-the-netherlands-photo.jpg"/>
-	  <id>https://hbowie.net/blog/posts/junior-world-cycling-championship-in-the-netherlands</id>
-	  <published>2025-08-18T12:00:00Z</published>
-	  <updated>2025-08-19T18:09:20Z</updated>
-	  <content>
-		  We’re in Apeldoorn to see and support our grand-niece who is representing New Zealand in the world junior cycling championship races being held here this week (and being advertised on the posters in the background). She does endurance track racing, and is a very talented and determined young woman!
-
-
-		  #Cycling #Family
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Visit to the Magritte Museum
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/visit-to-the-magritte-museum.html"/>
-	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/visit-to-the-magritte-museum-photo.jpg"/>
-	  <id>https://hbowie.net/blog/posts/visit-to-the-magritte-museum</id>
-	  <published>2025-08-14T12:00:00Z</published>
-	  <updated>2025-08-15T08:53:26Z</updated>
-	  <content>
-		  Visited the Magritte museum today in Brussels, and was happy to come across his painting “L&apos;Empire des Lumières”, which was the inspiration for the album cover for Jackson Browne&apos;s *Late for the Sky*, about which I have written extensively at ReasonToRock.com. 
-
-
-		  related link: https://lexiconofsong.org/late-for-the-sky.html
-
-		  #Songs
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.4.1
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.4.1.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.4.1</id>
-	  <published>2025-08-12T12:00:00Z</published>
-	  <updated>2025-08-12T14:08:32Z</updated>
-	  <content>
-		  Turns out there was a fatal bug in 17.4.0, which caused Notenik to crash when creating a new collection (or opening any collection containing only one note). 
-
-This turned out to be a rookie coding error — trying to access the first item in a list with a subscript of 1, instead of a subscript of 0. 
-
-I can&apos;t believe I coded this, and imagine it was an XCode &quot;hallucination&quot; that I let slip by my fingers without correction. 
-
-XCode&apos;s &quot;suggestions&quot; are often helpful, but this is a bit of a red flag for me. 
-
-I&apos;ll have to be more careful and intentional in the future.
-
-		  #Xcode #Notenik
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Blog Creation
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/blog-creation.html"/>
-	  <id>https://hbowie.net/blog/posts/blog-creation</id>
-	  <published>2025-08-12T12:00:00Z</published>
-	  <updated>2025-08-15T08:59:04Z</updated>
-	  <content>
-		  Starting work on this new blog. This is as much for myself, as for anyone else (although I do plan to publish it on the web, and vis RSS). 
-
-I&apos;ve realized recently that I&apos;ve been too much constrained by other people&apos;s ideas of what such a thing should look like. 
-
-So my starting point is to create a new Notenik collection for myself, to keep track of ideas/achievements and so on. 
-
-If other people are interested in following and/or commenting, then that is fine. But my goal here is first and foremost to create something for myself, not to attract followers.
-
-Also note that I am backfilling some content relating to past accomplishments, and not just starting at this point and moving forward.
-
-		  #Blog
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.4.0
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.4.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.4.0</id>
-	  <published>2025-08-10T12:00:00Z</published>
-	  <updated>2025-08-12T14:00:26Z</updated>
-	  <content>
-		  The Seq field has been opened up to allow multiple values, separated by semicolons; the shortcut keys used to navigate a collection index have been updated to avoid a conflict with normal macOS key combinations used for text editing; added an option to write note lines containing labels only, without any data. 
-
-All of these improvements resulted from user suggestions made on the [Notenik Discourse Forum](https://discourse.notenik.app/).
-
-		  related link: https://notenik.app/kb/version-17.4.0.html
-
-		  #Notenik
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *The Proof of My Innocence* by Jonathan Coe
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-the-proof-of-my-innocence-by-jonathan-coe.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-the-proof-of-my-innocence-by-jonathan-coe</id>
-	  <published>2025-08-06T12:00:00Z</published>
-	  <updated>2025-08-12T14:39:58Z</updated>
-	  <content>
-		  I thought this was a fantastic read, mixing together social commentary, murder mystery plus insights on the rationale for storytelling, as well as demonstrating the effects of different sorts of narrative styles. And Coe manages to juggle all of these different interests while still delivering a darned good story. Also of note: Coe does a good job of broadening his social commentary to include American as as well as British readers, so one need not be an expert on British politics to follow along. 
-
-
-		  rating: &#9733;&#9733;&#9733;&#9733;&#9733;
-
-		  related link: https://www.europaeditions.com/book/9798889660927/the-proof-of-my-innocence
-
-		  #Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Lexicon of Song - 300 clicks in 28 days
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/lexicon-of-song-300-clicks-in-28-days.html"/>
-	  <id>https://hbowie.net/blog/posts/lexicon-of-song-300-clicks-in-28-days</id>
-	  <published>2025-08-03T12:00:00Z</published>
-	  <updated>2025-08-15T07:08:15Z</updated>
-	  <content>
-		  Just recently registered the *Lexicon of Song* site with Google Search, and people seem to be finding it. Cool. 
-
-
-		  related link: https://lexiconofsong.org/
-
-		  #Songs #Web
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;Remembering Hank&quot;
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-remembering-hank.html"/>
-	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-remembering-hank-photo.jpg"/>
-	  <id>https://hbowie.net/blog/posts/published-remembering-hank</id>
-	  <published>2025-07-29T12:00:00Z</published>
-	  <updated>2025-08-16T11:00:48Z</updated>
-	  <content>
-		  I still remember the first time we laid eyes on Hank. It was a sunny day in May, and we met him and his current owner in a park somewhere nearby, on neutral territory. And then, when we saw Hank, I quickly realized the gravity of the decision we were about to make. Because Hank was tail-waggingly perfect. So there was no question of passing on him, and holding out for a *better* dog. Because I couldn’t imagine what a better dog would look like. 
-
-
-		  related link: https://hbowie.net/writings/remembering-hank.html
-
-		  #Remembrance
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;It Takes All Kinds&quot;
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-it-takes-all-kinds.html"/>
-	  <id>https://hbowie.net/blog/posts/published-it-takes-all-kinds</id>
-	  <published>2025-07-09T12:00:00Z</published>
-	  <updated>2025-08-16T11:01:13Z</updated>
-	  <content>
-		  Seems a pity that this timeworn expression is not heard much anymore: &quot;It takes all kinds.&quot; Could express appreciation or grudging tolerance. Either seems vastly preferable to most of what we hear today about others who are different from us. 
-
-
-		  related link: https://hbowie.net/writings/it-takes-all-kinds.html
-
-		  #Diversity
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;Thoughts on AI: Apple and Otherwise&quot;
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-thoughts-on-ai-apple-and-otherwise.html"/>
-	  <id>https://hbowie.net/blog/posts/published-thoughts-on-ai-apple-and-otherwise</id>
-	  <published>2025-06-23T12:00:00Z</published>
-	  <updated>2025-08-16T11:01:29Z</updated>
-	  <content>
-		  There’s been a lot of discussion lately about AI, and Apple’s AI problems in particular, and I have some potentially useful, and perhaps even original, thoughts on these subjects. Amidst all the fascination about the amazing things that AI can do, I think many of us tend to lose sight of some of the *essential characteristics* of this relatively new technology. 
-
-
-		  related link: https://hbowie.net/writings/thoughts-on-ai-apple-and-otherwise.html
-
-		  #Ai #Apple #Tech
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;More Markdown and HTML, Please&quot;
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-more-markdown-and-html-please.html"/>
-	  <id>https://hbowie.net/blog/posts/published-more-markdown-and-html-please</id>
-	  <published>2025-06-05T12:00:00Z</published>
-	  <updated>2025-08-16T11:01:42Z</updated>
-	  <content>
-		  Markdown is admittedly not for everyone, and not equally useful in all contexts, but its usage continues to grow, and arguably has more headroom for further growth.
-
-
-		  related link: https://hbowie.net/writings/more-markdown-and-html-please.html
-
-		  
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *So Far Gone* by Jess Walter
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-so-far-gone-by-jess-walter.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-so-far-gone-by-jess-walter</id>
-	  <published>2025-05-01T12:00:00Z</published>
-	  <updated>2025-08-13T09:56:33Z</updated>
-	  <content>
-		  A bit of a thriller, with some social and philosophical commentary thrown in for good measure. I really enjoyed it!
-
-
-		  rating: &#9733;&#9733;&#9733;&#9733;
-
-		  related link: https://www.harpercollins.com/products/so-far-gone-jess-walter
-
-		  #Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *The Man with the Silver Saab* by Alexander McCall Smith
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-the-man-with-the-silver-saab-by-alexander-mccall-smith.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-the-man-with-the-silver-saab-by-alexander-mccall-smith</id>
-	  <published>2025-04-01T12:00:00Z</published>
-	  <updated>2025-08-13T10:20:25Z</updated>
-	  <content>
-		  Solid, entertaining, with interesting characters and a dry sense of humor. 
-
-
-		  rating: &#9733;&#9733;&#9733;
-
-		  related link: https://www.alexandermccallsmith.co.uk/
-
-		  #Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *Purity* by Jonathan Franzen
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-purity-by-jonathan-franzen.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-purity-by-jonathan-franzen</id>
-	  <published>2025-02-01T12:00:00Z</published>
-	  <updated>2025-08-13T10:17:00Z</updated>
-	  <content>
-		  Good book (partially set in and around Santa Cruz, CA!) that brings together disparate characters and experiences into a convincing and haunting narrative. 
-
-
-		  rating: &#9733;&#9733;&#9733;&#9733;
-
-		  related link: https://en.wikipedia.org/wiki/Purity_(novel)
-
-		  #Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *Capitalism, Degrowth and the Steady State Economy Debating Future Economic Models* by Theodore P. Lianos
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-capitalism-degrowth-and-the-steady-state-economy.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-capitalism-degrowth-and-the-steady-state-economy</id>
-	  <published>2025-02-01T12:00:00Z</published>
-	  <updated>2025-08-13T10:42:34Z</updated>
-	  <content>
-		  This is a bracing little read. Lots of writers these days toss around the possibility of some alternative to capitalism being a preferable economic model without indulging in very many specifics about how such a thing would work, or how such a change would come about. The author here takes a somewhat rigorous (and mercifully brief) approach to examining various alternatives, and concludes that most of these won&apos;t hold water, and finally lands on a degrowth/steady state economy as our necessary future.  
-
-
-		  rating: &#9733;&#9733;&#9733;&#9733;&#9733;
-
-		  related link: https://link.springer.com/book/10.1007/978-3-031-60247-4
-
-		  #Books #Economics
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *Creation Lake* by Rachel Kushner
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-creation-lake-by-rachel-kushner.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-creation-lake-by-rachel-kushner</id>
-	  <published>2024-06-01T12:00:00Z</published>
-	  <updated>2025-08-13T09:59:05Z</updated>
-	  <content>
-		  Loved this modern take on a spy story, with an undercover agent and a number of interesting philosophical threads. 
-
-
-		  rating: &#9733;&#9733;&#9733;&#9733;&#9733;
-
-		  #Books
+#Books
 	  </content>
 	</entry>
 </feed>

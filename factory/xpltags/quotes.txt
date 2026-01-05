@@ -9,6 +9,7 @@ TecFiction	tecfiction.html	4	quotes	An Irreplaceable Compact	Edmund Crispin
 US Politics	us-politics.html	4	quotes	Bringing the worldview associated with sports-talk radio to politics	Jim Geraghty
 US Politics	us-politics.html	4	quotes	The post-materialist turn in global politics	Ezra Klein
 USA	usa.html	4	quotes	American decline	Tom Hayden
+USA	usa.html	4	quotes	Anybody can become an American	Ronald Reagan
 USA	usa.html	4	quotes	Bargaining away the experience of being alive	Mike Nichols
 USA	usa.html	4	quotes	A Coke is a Coke	Andy Warhol
 USA	usa.html	4	quotes	The Credibility of a Comedian	Jon Stewart
@@ -93,7 +94,10 @@ change	change.html	4	quotes	Change is the one constant when it comes to culture	
 communication	communication.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 communication	communication.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
 community	community.html	4	quotes	An assembly that meshes over a specific problem	John Summers
+community	community.html	4	quotes	People love connecting with other people	Jimmy Wales
 community	community.html	4	quotes	We internalize new cultural identities and codes	Michael Morris
+competition	competition.html	4	quotes	Conflict of interests and beliefs was inescapable	Edmund Fawcett
+competition	competition.html	4	quotes	Life is competition	Will Durant
 connection	connection.html	4	quotes	All children of our Earth	Aleksandr Aleksandrov
 connection	connection.html	4	quotes	The better angels of our nature	Abraham Lincoln
 connection	connection.html	4	quotes	By Gifts One Makes Slaves	Peter Freuchen
@@ -118,6 +122,7 @@ connection	connection.html	4	quotes	Only Connect	E. M. Forster
 connection	connection.html	4	quotes	The only thing that's constant there is other people	Jim Coan
 connection	connection.html	4	quotes	Peaceful ends through peaceful means	Martin Luther King Jr.
 connection	connection.html	4	quotes	People are finally finding out that the guy next door isn't a bad egg	Robert Riskin
+connection	connection.html	4	quotes	People love connecting with other people	Jimmy Wales
 connection	connection.html	4	quotes	Practice kindness all day to everybody	Jack Kerouac
 connection	connection.html	4	quotes	Public morality	Robert B. Reich
 connection	connection.html	4	quotes	Records we made together in the sixties	Joe Boyd
@@ -219,6 +224,7 @@ cultural evolution	cultural-evolution.html	4	quotes	the biological evolution of 
 cultural evolution	cultural-evolution.html	4	quotes	The brightest goat in the herd	Yuval Noah Harari
 cultural evolution	cultural-evolution.html	4	quotes	Changing the World	Margaret Mead
 cultural evolution	cultural-evolution.html	4	quotes	Chaos and Mediocrity	Joe Boyd
+cultural evolution	cultural-evolution.html	4	quotes	Civilization defined as social order promoting cultural creation	Will Durant
 cultural evolution	cultural-evolution.html	4	quotes	Counter-Culture's own values and aesthetics decayed	Joe Boyd
 cultural evolution	cultural-evolution.html	4	quotes	Cultural, as opposed to biological, evolution	Edwin G. Pulleyblank
 cultural evolution	cultural-evolution.html	4	quotes	Culture and psyche are inexorably intertwined	Michael Morris
@@ -229,6 +235,7 @@ cultural evolution	cultural-evolution.html	4	quotes	Egocentric Existence	Clare W
 cultural evolution	cultural-evolution.html	4	quotes	The entire pageant of human history	David Sloan Wilson
 cultural evolution	cultural-evolution.html	4	quotes	The Eternal Struggle for Human Rights	Albert Einstein
 cultural evolution	cultural-evolution.html	4	quotes	Evolutionary success and individual suffering	Yuval Noah Harari
+cultural evolution	cultural-evolution.html	4	quotes	Evolution in man has been social rather than biological	Will Durant
 cultural evolution	cultural-evolution.html	4	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
 cultural evolution	cultural-evolution.html	4	quotes	Fear of Missing Out	Yuval Noah Harari
 cultural evolution	cultural-evolution.html	4	quotes	The Fragile Constructs of History	Eamonn Kelly
@@ -280,12 +287,14 @@ cultural evolution	cultural-evolution.html	4	quotes	We have the capacity to envi
 cultural evolution	cultural-evolution.html	4	quotes	Why study history?	Yuval Noah Harari
 cultural evolution	cultural-evolution.html	4	quotes	You have your position because of the events of history	Martin Luther King Jr.
 culture	culture.html	4	quotes	Change is the one constant when it comes to culture	Wade Davis
+culture	culture.html	4	quotes	Moral codes adjust themselves to conditions	Will Durant
 dance	dance.html	4	quotes	You can't dance cheerfully	Rex Stout
 death	death.html	4	quotes	Dying is a very dull, dreary affair	W. Somerset Maugham
 democracy	democracy.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 democracy	democracy.html	4	quotes	Americans' faith in democracy is at a record low	Leah Greenberg and Ezra Levin
 democracy	democracy.html	4	quotes	The Credibility of a Comedian	Jon Stewart
 democracy	democracy.html	4	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
+democracy	democracy.html	4	quotes	Democracy has done more good than any other form of government.	Will Durant
 democracy	democracy.html	4	quotes	Democracy is Worst Form of Government	Winston Churchill
 democracy	democracy.html	4	quotes	Mass Movements and Boredom	Eric Hoffer
 democracy	democracy.html	4	quotes	A multiethnic democracy in which no particular ethnic group is in the majority	Danielle Allen
@@ -319,12 +328,14 @@ diversity	diversity.html	4	quotes	Seeing the Bigger Picture from Multiple Angles
 diversity	diversity.html	4	quotes	Ten Commandments for Teachers	Bertrand Russell
 diversity	diversity.html	4	quotes	We don't even own suits	Apple
 economics	economics.html	4	quotes	Economies that enable us to thrive	Kate Raworth
+economics	economics.html	4	quotes	People's perceptions of affordability	Paul Krugman
 education	education.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 education	education.html	4	quotes	Conscious Improvement for the Masses	Edward Luce
 education	education.html	4	quotes	Cost of Education	Derek Bok
 education	education.html	4	quotes	Defending the pursuit of learning	John F. Kennedy
 education	education.html	4	quotes	Education demands a certain daring	James Baldwin
 education	education.html	4	quotes	The evil in the world comes almost always from ignorance	Albert Camus
+education	education.html	4	quotes	The full fruitage of instruction	Will Durant
 education	education.html	4	quotes	Hands that must work	Lauretta Bender
 education	education.html	4	quotes	Ignorant and Free	Thomas Jefferson
 education	education.html	4	quotes	I must study politics and war	John Adams
@@ -369,6 +380,7 @@ equality	equality.html	4	quotes	A law against private jets	Abigail Disney
 equality	equality.html	4	quotes	Liberal democracy's strongest glue is economic growth	Edward Luce
 equality	equality.html	4	quotes	Liberalism is not Socialism	Winston Churchill
 equality	equality.html	4	quotes	A multiethnic democracy in which no particular ethnic group is in the majority	Danielle Allen
+equality	equality.html	4	quotes	No cure for racial antipathies except a broadened education	Will Durant
 equality	equality.html	4	quotes	No person in America should be too poor to live	Alexandria Ocasio-Cortez
 equality	equality.html	4	quotes	Peace with Justice	Dwight D. Eisenhower
 equality	equality.html	4	quotes	The people are what matter to government	Frances Perkins
@@ -405,8 +417,10 @@ governance	governance.html	4	quotes	Balance is Required to Maintain Democracy	Wy
 governance	governance.html	4	quotes	The best thing we can do is treat each other better	Barack Obama
 governance	governance.html	4	quotes	A Completely Free Market	Yuval Noah Harari
 governance	governance.html	4	quotes	Conservatives and Progressives	G. K. Chesterton
+governance	governance.html	4	quotes	Democracy has done more good than any other form of government.	Will Durant
 governance	governance.html	4	quotes	Democracy is Worst Form of Government	Winston Churchill
 governance	governance.html	4	quotes	Every Body cries, a Union is absolutely necessary	Benjamin Franklin
+governance	governance.html	4	quotes	The first condition of freedom is its limitation	Will Durant
 governance	governance.html	4	quotes	Good Management is Like The Beatles	Steve Jobs
 governance	governance.html	4	quotes	Governance is essential	Tim O'Reilly
 governance	governance.html	4	quotes	Government has a final responsibility for the well-being of its citizenship	Franklin D. Roosevelt
@@ -441,6 +455,7 @@ governance	governance.html	4	quotes	When Growth Becomes a Supreme Good	Yuval Noa
 governance	governance.html	4	quotes	The World Empire enforces World Peace	Yuval Noah Harari
 happiness	happiness.html	4	quotes	Absorption in something outside us	Adam Gopnik
 happiness	happiness.html	4	quotes	What we need for happiness	Enrique Peñalosa
+history	history.html	4	quotes	What History Has To Say	Will Durant
 hope	hope.html	4	quotes	Unlike cynicism, hopefulness is hard-earned	Nick Cave
 humanism	humanism.html	4	quotes	Apes and Humans	Carl Sagan and Ann Druyan
 humanism	humanism.html	4	quotes	Art presents us with a window into the minds of these people	Genevieve von Petzinger
@@ -530,11 +545,14 @@ integral	integral.html	4	quotes	Seeing the Bigger Picture from Multiple Angles	J
 integral	integral.html	4	quotes	Superstition is not mere intellectual error	Edmund Crispin
 integral	integral.html	4	quotes	Technology married with the humanities	Steve Jobs
 integral	integral.html	4	quotes	We are idealists and we are realists	Alan Lightman
+integrity	integrity.html	4	quotes	We built it for ourselves	Steve Jobs
+liberalism	liberalism.html	4	quotes	Conflict of interests and beliefs was inescapable	Edmund Fawcett
 liberty	liberty.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 liberty	liberty.html	4	quotes	Between Stimulus and Response	Rollo May
 liberty	liberty.html	4	quotes	The Challenge of Swing	Wynton Marsalis
 liberty	liberty.html	4	quotes	Cockpits with Instruments Controlled by Gremlins	Robert D. Austin
 liberty	liberty.html	4	quotes	The Extent of Freedom in All of its Dimensions	Anthony M. Kennedy
+liberty	liberty.html	4	quotes	The first condition of freedom is its limitation	Will Durant
 liberty	liberty.html	4	quotes	Freedom of Expression in Business	Tom Peters and Robert H. Waterman Jr.
 liberty	liberty.html	4	quotes	Freedom of Judgment	Baruch Spinoza
 liberty	liberty.html	4	quotes	The heart of liberty	Anthony M. Kennedy
@@ -802,10 +820,13 @@ technology	technology.html	4	quotes	Technological Unemployment	John Maynard Keyn
 technology	technology.html	4	quotes	To distract the watchdog of the mind	Marshall McLuhan
 technology	technology.html	4	quotes	Where the Puck is Going to Be	Steve Jobs
 tools	tools.html	4	quotes	A bicycle for our minds	Steve Jobs
+trust	trust.html	4	quotes	The Trust Framework	Jimmy Wales
+truth	truth.html	4	quotes	In front of your nose	George Orwell
 value creation	value-creation.html	4	quotes	An agenda of ambition and hope	Emmanuel Macron
 value creation	value-creation.html	4	quotes	Capitalists who worship only at the feet of capitalism	Herb Bowie
 value creation	value-creation.html	4	quotes	Economics is essentially a question of design	Kate Raworth
 value creation	value-creation.html	4	quotes	Economies that make us thrive	Kate Raworth
+value creation	value-creation.html	4	quotes	Every economic system must rely upon some form of the profit motive	Will Durant
 value creation	value-creation.html	4	quotes	Exponential growth in a finite world	Kenneth Boulding
 value creation	value-creation.html	4	quotes	The growth of firms	Edith Penrose
 value creation	value-creation.html	4	quotes	The increase of wealth is not boundless	John Stuart Mill
