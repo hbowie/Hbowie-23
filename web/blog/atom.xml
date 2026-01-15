@@ -5,8 +5,27 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom.xml"/>
 	<id>https://hbowie.net/blog/atom.xml</id>
-	<updated>2026-01-05T17:20:35Z</updated>
+	<updated>2026-01-15T20:48:37Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
+	<entry>
+		<title>
+			Released Notenik Version 18.2.0
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.2.0.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-18.2.0</id>
+	  <published>2026-02-07T12:00:00Z</published>
+	  <updated>2026-01-08T18:33:25Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>Added new Markdown commands to generate useful HTML head metadata when exporting a Web Book as a site. </p> 
+		  <p><a href="https://notenik.app/kb/version-18.2.0.html">notenik.app/kb/version-18.2.0.html</a></p>
+		  <p>#Notenik #Pkm</p>
+		  ]]>
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Released Notenik Version 18.1.0
@@ -378,26 +397,6 @@
 		  <![CDATA[<p>First book I&#8217;ve read by this author. A sort of origin story for a British spy starting to work in the early sixties. Seems to be the start of a planned series. Well written, thoroughly engaging. Lots of interesting historical references. If this book brings something new to the genre, then I suppose it would be the provision of a convincing back story for why and how a young man would become involved in such an activity, and what sort of young man that might be. </p> 
 		  <p>rating: &#9733;&#9733;&#9733;</p>
 		  <p><a href="https://en.wikipedia.org/wiki/Gabriel%27s_Moon">en.wikipedia.org/wiki/Gabriel%27s_Moon</a></p>
-		  <p>#Books</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *What a Carve Up!* by Jonathan Coe
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-the-winshaw-legacy-by-jonathan-coe.html"/>
-	  <id>https://hbowie.net/blog/finished-reading-the-winshaw-legacy-by-jonathan-coe</id>
-	  <published>2025-08-20T12:00:00Z</published>
-	  <updated>2025-08-21T07:29:18Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>An interesting read. Would have been even more interesting if I were British and reading it when it first came out. A bit of a mystery and a bit of a horror story, and also a political satire. </p> 
-		  <p>rating: &#9733;&#9733;&#9733;</p>
-		  <p><a href="https://en.wikipedia.org/wiki/What_a_Carve_Up!_(novel)">en.wikipedia.org/wiki/What_a_Carve_Up!_(novel)</a></p>
 		  <p>#Books</p>
 		  ]]>
 	  </content>

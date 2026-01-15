@@ -5,13 +5,30 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2026-01-05T17:20:35Z</updated>
+	<updated>2026-01-15T20:48:37Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
 		<email>herb@hbowie.net</email>
 		<uri>https://hbowie.net/</uri>
 	</author>
+	<entry>
+		<title>
+			Released Notenik Version 18.2.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.2.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18.2.0</id>
+	  <published>2026-02-07T12:00:00Z</published>
+	  <updated>2026-01-08T18:33:25Z</updated>
+	  <content>
+Added new Markdown commands to generate useful HTML head metadata when exporting a Web Book as a site. 
+
+
+related link: https://notenik.app/kb/version-18.2.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Released Notenik Version 18.1.0
@@ -346,25 +363,6 @@ First book I&apos;ve read by this author. A sort of origin story for a British s
 rating: &#9733;&#9733;&#9733;
 
 related link: https://en.wikipedia.org/wiki/Gabriel%27s_Moon
-
-#Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *What a Carve Up!* by Jonathan Coe
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-the-winshaw-legacy-by-jonathan-coe.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-the-winshaw-legacy-by-jonathan-coe</id>
-	  <published>2025-08-20T12:00:00Z</published>
-	  <updated>2025-08-21T07:29:18Z</updated>
-	  <content>
-An interesting read. Would have been even more interesting if I were British and reading it when it first came out. A bit of a mystery and a bit of a horror story, and also a political satire. 
-
-
-rating: &#9733;&#9733;&#9733;
-
-related link: https://en.wikipedia.org/wiki/What_a_Carve_Up!_(novel)
 
 #Books
 	  </content>

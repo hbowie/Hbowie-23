@@ -95,6 +95,7 @@ connection	connection.html	3	writings	The Issues Swirling around Spotify and its
 cowboys	cowboys.html	3	writings	Angel from Montgomery	John Prine
 cowboys	cowboys.html	3	writings	If I Had a Boat	Lyle Lovett
 cowboys	cowboys.html	3	writings	Whenever Kindness Fails	Robert Earl Keen
+critical thinking	critical-thinking.html	3	writings	New Speedway Boogie	Robert Hunter and Jerry Garcia
 critical thinking	critical-thinking.html	3	writings	Some Hard Truths About Human Population Growth	
 critical thinking	critical-thinking.html	3	writings	The Nature of God	
 critical thinking	critical-thinking.html	3	writings	Religious Freedom	
@@ -151,6 +152,7 @@ death	death.html	3	writings	And When I Die	Laura Nyro
 death	death.html	3	writings	Box of Rain	Robert Hunter and Phil Lesh
 death	death.html	3	writings	Late For The Sky	Jackson Browne
 death	death.html	3	writings	Long Black Veil	Danny Dill and Marijohn Wilkin
+death	death.html	3	writings	New Speedway Boogie	Robert Hunter and Jerry Garcia
 death	death.html	3	writings	Will the Circle be Unbroken	A.P. Carter
 death	death.html	3	writings	My Ride's Here	Warren Zevon & Paul Muldoon
 death	death.html	3	writings	Pancho and Lefty	Townes Van Zandt
@@ -218,6 +220,7 @@ god	god.html	3	writings	Sympathy For The Devil	Keith Richards and Mick Jagger
 god	god.html	3	writings	Reflections on the Christian Message	
 god	god.html	3	writings	Ring Them Bells	Bob Dylan
 god	god.html	3	writings	Step by Step	Jesse Winchester
+governance	governance.html	3	writings	New Speedway Boogie	Robert Hunter and Jerry Garcia
 governance	governance.html	3	writings	The Four Essential Attributes of any Organization	
 governance	governance.html	3	writings	Leadership and Followership: 21 Key Observations	
 governance	governance.html	3	writings	Patterns of Human Cooperation	

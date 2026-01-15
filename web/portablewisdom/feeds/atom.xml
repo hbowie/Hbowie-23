@@ -4,12 +4,31 @@
   <subtitle>Daily Quotations from the desk of H. Bowie</subtitle>
   <link href="https://hbowie.net/portablewisdom/feeds/atom.xml" type="application/atom+xml" rel="self" />
   <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-  <updated>2026-01-05T09:00:00Z</updated>
+  <updated>2026-01-15T09:00:00Z</updated>
   <rights>Fair Use</rights>
   <author>
 	<name>Various</name>
   </author>
   <id>https://hbowie.net/portablewisdom/feeds/atom.xml</id>
+	<entry>
+	  <title>Rough consensus and running code</title>
+	  <link rel="related" type="text/html" href="https://hbowie.net/quotes/rough-consensus-and-running-code.html"/>
+	  <id>https://hbowie.net/portablewisdom/2026-01-15-rough-consensus-and-running-code.html</id>
+	  <published>2026-01-15T20:30:35Z</published>
+	  <updated>2026-01-15T20:30:35Z</updated>
+	  <author>
+		<name>David D. Clark</name>
+	  </author>
+	  <summary>
+		  We reject: kings, presidents, and voting. We believe in: rough consensus and running code. 
+	  </summary>
+	  <content type="xhtml">
+	  	<div xmlns="http://www.w3.org/1999/xhtml">
+		  <p>We reject: kings, presidents, and voting. We believe in: rough consensus and running code. </p>
+		  <p>&#8211; David D. Clark, from  the presentation &#8220;A Cloudy Crystal Ball -- Visions of the Future&#8221;, 1992, &#x0a9; David Clark</p>
+		</div>
+	  </content>
+	</entry>
 	<entry>
 	  <title>National parks and reserves</title>
 	  <link rel="related" type="text/html" href="https://hbowie.net/quotes/national-parks-and-reserves.html"/>
@@ -378,29 +397,6 @@
 
 <p>&#8211; Down-and-out pitcher Long John Willoughby to industrialist D.B. Norton </p>
 		  <p>&#8211; Robert Riskin, from  the film <cite>Meet John Doe</cite>, 1941</p>
-		</div>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Engineer and designer need to party together</title>
-	  <link rel="related" type="text/html" href="https://hbowie.net/quotes/engineer-and-designer-need-to-party-together.html"/>
-	  <id>https://hbowie.net/portablewisdom/2025-04-23-engineer-and-designer-need-to-party-together.html</id>
-	  <published>2025-04-23T15:28:43Z</published>
-	  <updated>2025-04-23T15:28:43Z</updated>
-	  <author>
-		<name>Michael Lopp</name>
-	  </author>
-	  <summary>
-		  Prior to Steve Jobs’ return to Apple, there was a decent centralized usability team equipped with those fancy rooms with one-way mirrors and video cameras. 
-	  </summary>
-	  <content type="xhtml">
-	  	<div xmlns="http://www.w3.org/1999/xhtml">
-		  <p>Prior to Steve Jobs’ return to Apple, there was a decent centralized usability team equipped with those fancy rooms with one-way mirrors and video cameras. I’m certain these folks did significant work, but when Jobs returned, he shut it down and he cast the design teams to the wind. Each product team inherited part of the former usability team. </p>
-
-<p>Now, I arrived after this reorganization occurred, so I don’t know the actual reasoning, but I do know I never saw those usability labs used once and I would argue that in the past decade Apple has created some of the most usable products out there. My opinion is that the choice to spread the usability design function across the engineering team was intended to send a clear message: engineer and designer need to party more… together. </p>
-
-<p>I can’t imagine building a team responsible for consumer products where engineers and designers weren’t constantly meddling in each other’s business. Yes, they often argue from completely opposite sides of the brain. Yes, it is often a battle of art and science, but engineering and design want exactly the same thing. They want the intense satisfaction of knowing they successfully built something that matters. </p>
-		  <p>&#8211; Michael Lopp, from  the book <cite>Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</cite>, 2007</p>
 		</div>
 	  </content>
 	</entry>
