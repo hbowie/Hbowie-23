@@ -283,6 +283,14 @@ a.implicit:hover {
 	text-decoration: none;
 	border-bottom: 1px dotted #e7cfb9;
 }
+a.silent {
+	text-decoration: none;
+	border: none;
+}
+a.silent:hover {
+	text-decoration: none;
+	border: none;
+}
 
     a.ext-link::after {
         content: "";

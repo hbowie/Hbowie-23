@@ -266,6 +266,7 @@ humanism	humanism.html	3	writings	Religion, Storytelling and Art
 humanism	humanism.html	3	writings	What Does It Mean to be Human?	
 humanism	humanism.html	3	writings	Why I Call Myself a Practopian	
 humanism	humanism.html	3	writings	A Guide To Becoming	
+humanism	humanism.html	3	writings	My Education in Racial Superiority	
 humanism	humanism.html	3	writings	A Resumption of our Humanity	
 humanism	humanism.html	3	writings	Ring Them Bells	Bob Dylan
 humanism	humanism.html	3	writings	Paul Thorn and his 800 Pound Jesus	Billy Maddox and Paul Thorn
@@ -405,6 +406,7 @@ society	society.html	3	writings	Our Societal Disconnect
 society	society.html	3	writings	Our American Class System	
 society	society.html	3	writings	Schembechler, Bacon and Leadership	
 society	society.html	3	writings	The System is Working Very Well, Thank You	
+society	society.html	3	writings	My Education in Racial Superiority	
 society	society.html	3	writings	Can the US Become a Truly Egalitarian Society?	
 society	society.html	3	writings	The Widening Spiral of Modern Society	
 society	society.html	3	writings	Apollo 11 - 2019 film	

@@ -5,7 +5,7 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2026-01-15T20:48:37Z</updated>
+	<updated>2026-02-07T23:41:46Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
@@ -14,12 +14,63 @@
 	</author>
 	<entry>
 		<title>
+			Published &quot;Over Seventy Important Things&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-over-seventy-important-things.html"/>
+	  <id>https://hbowie.net/blog/posts/published-over-seventy-important-things</id>
+	  <published>2026-01-30T12:00:00Z</published>
+	  <updated>2026-01-30T17:22:11Z</updated>
+	  <content>
+My new web book, at AboutHumans.net, now catalogs over seventy Important Things to Know About Humans! This is a crazy number, because we usually oversimplify our understandings of our own natures to fit into some straightforward models. But we are complex beasts!
+
+
+related link: https://abouthumans.net/over-seventy-important-things.html
+
+#Humanism
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 18.3.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.3.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18.3.0</id>
+	  <published>2026-01-29T12:00:00Z</published>
+	  <updated>2026-01-29T21:16:02Z</updated>
+	  <content>
+Various and sundry improvements including some new/enhanced provisions for outlining. Also a new starter pack focused on use of the PARA organizational method (making good use of outlining). 
+
+
+related link: https://notenik.app/kb/version-18.3.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;New Speedway Boogie&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-new-speedway-boogie.html"/>
+	  <id>https://hbowie.net/blog/posts/published-new-speedway-boogie</id>
+	  <published>2026-01-16T12:00:00Z</published>
+	  <updated>2026-01-16T21:18:26Z</updated>
+	  <content>
+&quot;New Speedway Boogie&quot; is a song prompted by the tragedy at Altamont over fifty years ago, but it has plenty of meaning for us today as well. 
+
+
+related link: https://hbowie.net/writings/new-speedway-boogie.html
+
+#GratefulDead #Songs
+	  </content>
+	</entry>
+	<entry>
+		<title>
 			Released Notenik Version 18.2.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.2.0.html"/>
 	  <id>https://hbowie.net/blog/posts/released-notenik-version-18.2.0</id>
-	  <published>2026-02-07T12:00:00Z</published>
-	  <updated>2026-01-08T18:33:25Z</updated>
+	  <published>2026-01-07T12:00:00Z</published>
+	  <updated>2026-01-16T21:15:54Z</updated>
 	  <content>
 Added new Markdown commands to generate useful HTML head metadata when exporting a Web Book as a site. 
 
@@ -312,59 +363,6 @@ A lot is being said about Trump 2.0 on an hourly basis, but most of the viewpoin
 related link: https://hbowie.net/writings/trump-2.0-some-insights-and-observations.html
 
 #Democrats #Republicans #Trump #UsPolitics
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;The Era of Destructive Tech is Upon Us&quot;
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-era-of-destructive-tech-is-upon-us.html"/>
-	  <id>https://hbowie.net/blog/posts/published-the-era-of-destructive-tech-is-upon-us</id>
-	  <published>2025-08-28T12:00:00Z</published>
-	  <updated>2025-08-28T15:13:57Z</updated>
-	  <content>
-Wrote most of this a while ago, but just got around to publishing it. 
-
-
-related link: https://hbowie.net/writings/the-era-of-destructive-tech-is-upon-us.html
-
-#Tech
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.5.0
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.5.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-17.5.0</id>
-	  <published>2025-08-27T12:00:00Z</published>
-	  <updated>2025-08-27T18:59:26Z</updated>
-	  <content>
-This new version includes various small enhancements useful for web page formatting. Details available in the Knowledge Base at Notenik.app. Download for free from the Mac App Store. 
-
-
-related link: https://notenik.app/kb/version-17.5.0.html
-
-#Notenik
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *Gabriel&apos;s Moon* by William Boyd
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-gabriels-moon-by-william-boyd.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-gabriels-moon-by-william-boyd</id>
-	  <published>2025-08-24T12:00:00Z</published>
-	  <updated>2025-08-24T19:22:56Z</updated>
-	  <content>
-First book I&apos;ve read by this author. A sort of origin story for a British spy starting to work in the early sixties. Seems to be the start of a planned series. Well written, thoroughly engaging. Lots of interesting historical references. If this book brings something new to the genre, then I suppose it would be the provision of a convincing back story for why and how a young man would become involved in such an activity, and what sort of young man that might be. 
-
-
-rating: &#9733;&#9733;&#9733;
-
-related link: https://en.wikipedia.org/wiki/Gabriel%27s_Moon
-
-#Books
 	  </content>
 	</entry>
 </feed>

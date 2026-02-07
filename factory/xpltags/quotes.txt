@@ -76,6 +76,7 @@ autonomy	autonomy.html	4	quotes	Freedom of Judgment	Baruch Spinoza
 autonomy	autonomy.html	4	quotes	The heart of liberty	Anthony M. Kennedy
 autonomy	autonomy.html	4	quotes	Independence, freedom and opportunity for every member of society	Anu Partanen
 autonomy	autonomy.html	4	quotes	Inextricably Linked in Freedom	Wynton Marsalis
+autonomy	autonomy.html	4	quotes	The largest and highest sphere	Harriet Taylor
 autonomy	autonomy.html	4	quotes	Man must believe in an open future	Colin Wilson
 autonomy	autonomy.html	4	quotes	The Most Precious Kind of Freedom	David Foster Wallace
 autonomy	autonomy.html	4	quotes	The Philosophy of Jazz	Wynton Marsalis
@@ -312,6 +313,8 @@ design	design.html	4	quotes	Design is the fundamental soul of a man-made creatio
 design	design.html	4	quotes	Economics is essentially a question of design	Kate Raworth
 design	design.html	4	quotes	Engineer and designer need to party together	Michael Lopp
 design	design.html	4	quotes	We have wonderful arguments	Steve Jobs
+development	development.html	4	quotes	Human development in its richest diversity	Wilhelm von Humboldt
+development	development.html	4	quotes	Placed on this earth to unfold their faculties	Mary Wollstonecraft
 diversity	diversity.html	4	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
 diversity	diversity.html	4	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
 diversity	diversity.html	4	quotes	Diversity Helps Your Business -- But Not The Way You Think	Katherine Phillips
