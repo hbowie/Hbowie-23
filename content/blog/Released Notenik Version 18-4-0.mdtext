@@ -1,0 +1,16 @@
+Title:  Released Notenik Version 18.4.0
+
+Tags:   Notenik, PKM
+
+Link:   https://notenik.app/kb/version-18.4.0.html
+
+Class:  general
+
+Date:   2026-02-10
+
+Date Modified: 2026-02-10 11:27:04 -0800
+
+Body:
+
+Provided a way to use subfolders, but specify some that should not be treated as Notenik collections (in response to a user request). Plus some other minor refinements. 
+

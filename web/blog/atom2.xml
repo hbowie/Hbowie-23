@@ -5,13 +5,47 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2026-02-07T23:41:46Z</updated>
+	<updated>2026-02-11T17:03:03Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
 		<email>herb@hbowie.net</email>
 		<uri>https://hbowie.net/</uri>
 	</author>
+	<entry>
+		<title>
+			Published &quot;My Education in Racial Superiority&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-my-education-in-racial-superiority.html"/>
+	  <id>https://hbowie.net/blog/posts/published-my-education-in-racial-superiority</id>
+	  <published>2026-02-11T12:00:00Z</published>
+	  <updated>2026-02-11T17:02:41Z</updated>
+	  <content>
+I am, to all appearances, white, and my ancestry, as far as it can be determined, is mostly European.
+
+But please don’t hold that against me.
+
+related link: https://hbowie.net/writings/my-education-in-racial-superiority.html
+
+#Humanism #Race
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 18.4.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.4.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18.4.0</id>
+	  <published>2026-02-10T12:00:00Z</published>
+	  <updated>2026-02-10T19:27:04Z</updated>
+	  <content>
+Provided a way to use subfolders, but specify some that should not be treated as Notenik collections (in response to a user request). Plus some other minor refinements.
+
+related link: https://notenik.app/kb/version-18.4.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Published &quot;Over Seventy Important Things&quot;
@@ -22,7 +56,6 @@
 	  <updated>2026-01-30T17:22:11Z</updated>
 	  <content>
 My new web book, at AboutHumans.net, now catalogs over seventy Important Things to Know About Humans! This is a crazy number, because we usually oversimplify our understandings of our own natures to fit into some straightforward models. But we are complex beasts!
-
 
 related link: https://abouthumans.net/over-seventy-important-things.html
 
@@ -38,8 +71,7 @@ related link: https://abouthumans.net/over-seventy-important-things.html
 	  <published>2026-01-29T12:00:00Z</published>
 	  <updated>2026-01-29T21:16:02Z</updated>
 	  <content>
-Various and sundry improvements including some new/enhanced provisions for outlining. Also a new starter pack focused on use of the PARA organizational method (making good use of outlining). 
-
+Various and sundry improvements including some new/enhanced provisions for outlining. Also a new starter pack focused on use of the PARA organizational method (making good use of outlining).
 
 related link: https://notenik.app/kb/version-18.3.0.html
 
@@ -55,8 +87,7 @@ related link: https://notenik.app/kb/version-18.3.0.html
 	  <published>2026-01-16T12:00:00Z</published>
 	  <updated>2026-01-16T21:18:26Z</updated>
 	  <content>
-&quot;New Speedway Boogie&quot; is a song prompted by the tragedy at Altamont over fifty years ago, but it has plenty of meaning for us today as well. 
-
+&quot;New Speedway Boogie&quot; is a song prompted by the tragedy at Altamont over fifty years ago, but it has plenty of meaning for us today as well.
 
 related link: https://hbowie.net/writings/new-speedway-boogie.html
 
@@ -72,8 +103,7 @@ related link: https://hbowie.net/writings/new-speedway-boogie.html
 	  <published>2026-01-07T12:00:00Z</published>
 	  <updated>2026-01-16T21:15:54Z</updated>
 	  <content>
-Added new Markdown commands to generate useful HTML head metadata when exporting a Web Book as a site. 
-
+Added new Markdown commands to generate useful HTML head metadata when exporting a Web Book as a site.
 
 related link: https://notenik.app/kb/version-18.2.0.html
 
@@ -89,8 +119,7 @@ related link: https://notenik.app/kb/version-18.2.0.html
 	  <published>2025-12-12T12:00:00Z</published>
 	  <updated>2025-12-15T17:28:29Z</updated>
 	  <content>
-Additional improvements targeted on web book publishing. 
-
+Additional improvements targeted on web book publishing.
 
 related link: https://notenik.app/kb/version-18.1.0.html
 
@@ -106,8 +135,7 @@ related link: https://notenik.app/kb/version-18.1.0.html
 	  <published>2025-12-01T12:00:00Z</published>
 	  <updated>2025-12-02T01:23:40Z</updated>
 	  <content>
-This is a sequel to *The Searcher*, featuring the same characters. Pretty good, but not quite as fun as the first book, since we already know the main characters, and they don&apos;t evolve a whole lot in this book. 
-
+This is a sequel to *The Searcher*, featuring the same characters. Pretty good, but not quite as fun as the first book, since we already know the main characters, and they don&apos;t evolve a whole lot in this book.
 
 rating: &#9733;&#9733;&#9733;
 
@@ -125,8 +153,7 @@ related link: https://www.theguardian.com/books/2024/mar/11/the-hunter-by-tana-f
 	  <published>2025-11-14T12:00:00Z</published>
 	  <updated>2025-11-14T18:25:38Z</updated>
 	  <content>
-Further improvements mostly focused on web book publishing. 
-
+Further improvements mostly focused on web book publishing.
 
 related link: https://notenik.app/kb/version-18.0.0.html
 
@@ -142,8 +169,7 @@ related link: https://notenik.app/kb/version-18.0.0.html
 	  <published>2025-10-30T12:00:00Z</published>
 	  <updated>2025-11-14T18:24:13Z</updated>
 	  <content>
-Some additional Tahoe refinements, plus some improvements for web book publishing. 
-
+Some additional Tahoe refinements, plus some improvements for web book publishing.
 
 related link: https://notenik.app/kb/version-17.9.0.html
 
@@ -159,8 +185,7 @@ related link: https://notenik.app/kb/version-17.9.0.html
 	  <published>2025-10-17T12:00:00Z</published>
 	  <updated>2025-10-17T23:49:11Z</updated>
 	  <content>
-Published a new piece on the problems I see with AI-generated &quot;art&quot;. The web is full of opinions on the subject, so I thought I would add my thoughts to the mix — with some original insights and observations, hopefully. 
-
+Published a new piece on the problems I see with AI-generated &quot;art&quot;. The web is full of opinions on the subject, so I thought I would add my thoughts to the mix — with some original insights and observations, hopefully.
 
 related link: https://hbowie.net/writings/the-problem-with-ai-art.html
 
@@ -178,7 +203,6 @@ related link: https://hbowie.net/writings/the-problem-with-ai-art.html
 	  <content>
 Fixed a few problems, and added an export scripting module, so that a web book can be exported via a Notenik script.
 
-
 related link: https://notenik.app/kb/version-17.8.0.html
 
 #Notenik #Pkm
@@ -193,8 +217,7 @@ related link: https://notenik.app/kb/version-17.8.0.html
 	  <published>2025-10-07T12:00:00Z</published>
 	  <updated>2025-10-07T22:20:14Z</updated>
 	  <content>
-“Pay It No Mind” is a lovely little song from Sarah Jarosz, and seems like a perfect accompaniment for the times we find ourselves in, so I wrote up a little appreciation for it. 
-
+“Pay It No Mind” is a lovely little song from Sarah Jarosz, and seems like a perfect accompaniment for the times we find ourselves in, so I wrote up a little appreciation for it.
 
 related link: https://hbowie.net/writings/pay-it-no-mind.html
 
@@ -212,7 +235,6 @@ related link: https://hbowie.net/writings/pay-it-no-mind.html
 	  <content>
 Finished watching the PBS Masterpiece Mystery series season 6 of Unforgotten, and it was really good. I&apos;ve watched lots of Masterpiece Mystery shows and similar fare, and after a while they seem to lean more into the appeal of their folksy detectives, and away from their plots and characters. This series went completely in the opposite direction. So many rich characters, and so much great acting, and so many interesting stories within the story! And very contemporary and topical, in interesting and unexpected ways. Good stuff!
 
-
 rating: &#9733;&#9733;&#9733;&#9733;
 
 related link: https://www.pbs.org/wgbh/masterpiece/shows/unforgotten/
@@ -229,8 +251,7 @@ related link: https://www.pbs.org/wgbh/masterpiece/shows/unforgotten/
 	  <published>2025-09-29T12:00:00Z</published>
 	  <updated>2025-10-07T22:20:43Z</updated>
 	  <content>
-Fixed a few problems, some caused by Tahoe, some just bugs accidentally introduced by me. 
-
+Fixed a few problems, some caused by Tahoe, some just bugs accidentally introduced by me.
 
 related link: https://notenik.app/kb/version-17.7.0.html
 
@@ -266,8 +287,7 @@ related link: https://en.wikipedia.org/wiki/American_Utopia_(film)
 	  <published>2025-09-20T12:00:00Z</published>
 	  <updated>2025-09-20T17:44:45Z</updated>
 	  <content>
-Just made my first post-Tahoe release for Notenik, with the following changes: Updated app icon for Tahoe; tweaked some UI details for Tahoe; added optional linkage between Class and Level fields; added a new Long Title field type, for use when a longer title should replace the traditional one at the note display level. 
-
+Just made my first post-Tahoe release for Notenik, with the following changes: Updated app icon for Tahoe; tweaked some UI details for Tahoe; added optional linkage between Class and Level fields; added a new Long Title field type, for use when a longer title should replace the traditional one at the note display level.
 
 related link: https://notenik.app/kb/version-17.6.0.html
 
@@ -283,8 +303,7 @@ related link: https://notenik.app/kb/version-17.6.0.html
 	  <published>2025-09-18T12:00:00Z</published>
 	  <updated>2025-09-18T15:42:54Z</updated>
 	  <content>
-I really enjoyed this film. There are just so many interesting facets to it. Denzel Washington is so entertaining, and completely inhabits his role. Dean Winter — the actor who plays the chaos agent  in the Allstate &quot;mayhem&quot; commercials — plays a white detective, and gets to reprise that role when he is plowing his police car through a crowd while in pursuit of a suspect. (References to &quot;mayhem&quot; are also amusingly dropped into the script from time to time.) The film is part crime film, part action film, but ultimately is a meditation on what matters most in our lives, and how we have to let go of some things, and risk losing others, in order to keep the things that are most important. 
-
+I really enjoyed this film. There are just so many interesting facets to it. Denzel Washington is so entertaining, and completely inhabits his role. Dean Winter — the actor who plays the chaos agent  in the Allstate &quot;mayhem&quot; commercials — plays a white detective, and gets to reprise that role when he is plowing his police car through a crowd while in pursuit of a suspect. (References to &quot;mayhem&quot; are also amusingly dropped into the script from time to time.) The film is part crime film, part action film, but ultimately is a meditation on what matters most in our lives, and how we have to let go of some things, and risk losing others, in order to keep the things that are most important.
 
 rating: &#9733;&#9733;&#9733;&#9733;
 
@@ -302,8 +321,7 @@ related link: https://en.wikipedia.org/wiki/Highest_2_Lowest
 	  <published>2025-09-17T12:00:00Z</published>
 	  <updated>2025-10-24T17:25:54Z</updated>
 	  <content>
-This is the third book in the Magpie Murders series, and was an enjoyable read. But the author is a screenwriter as well as a book writer, and the first two books were made into very successful TV shows, and this third book feels a little more like a warmup for the TV script than a book that needed to be written for its own sake. The novelty to the series is that there are parallel mysteries unfolding — one in a partially finished novel by a character within the story, and one happening with the story&apos;s author and her editor and their associates. What proved a bit disappointing to me in this book was that the detective in the outside story was so completely isolated. Would have helped me if she had had some kind of faithful sidekick or companion.  
-
+This is the third book in the Magpie Murders series, and was an enjoyable read. But the author is a screenwriter as well as a book writer, and the first two books were made into very successful TV shows, and this third book feels a little more like a warmup for the TV script than a book that needed to be written for its own sake. The novelty to the series is that there are parallel mysteries unfolding — one in a partially finished novel by a character within the story, and one happening with the story&apos;s author and her editor and their associates. What proved a bit disappointing to me in this book was that the detective in the outside story was so completely isolated. Would have helped me if she had had some kind of faithful sidekick or companion.
 
 rating: &#9733;&#9733;&#9733;
 
@@ -321,48 +339,13 @@ related link: https://anthonyhorowitz.com/books/title/marble-hall-murders
 	  <published>2025-09-06T12:00:00Z</published>
 	  <updated>2025-09-06T16:53:47Z</updated>
 	  <content>
-Well written, with interesting characters, but did not ultimately thrill me. 
-
+Well written, with interesting characters, but did not ultimately thrill me.
 
 rating: &#9733;&#9733;&#9733;
 
 related link: https://en.wikipedia.org/wiki/Birnam_Wood_(novel)
 
 #Books
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Notenik Reviewed at Mac Sources
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/notenik-reviewed-at-mac-sources.html"/>
-	  <id>https://hbowie.net/blog/posts/notenik-reviewed-at-mac-sources</id>
-	  <published>2025-09-04T12:00:00Z</published>
-	  <updated>2025-09-04T17:50:40Z</updated>
-	  <content>
-Notenik had a nice review from the Mac Sources site. In addition to being very positive, I thought it was very thorough and well-written. 
-
-
-related link: https://macsources.com/notenik-review/
-
-#MacApps #Notenik
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;Trump 2.0: Some Insights and Observations&quot;
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-trump-2.0-some-insights-and-observations.html"/>
-	  <id>https://hbowie.net/blog/posts/published-trump-2.0-some-insights-and-observations</id>
-	  <published>2025-09-03T12:00:00Z</published>
-	  <updated>2025-09-03T18:54:21Z</updated>
-	  <content>
-A lot is being said about Trump 2.0 on an hourly basis, but most of the viewpoints expressed seem to be the same ones over and over. But I think there are some interesting (and perhaps useful) patterns that are not being talked about much. 
-
-
-related link: https://hbowie.net/writings/trump-2.0-some-insights-and-observations.html
-
-#Democrats #Republicans #Trump #UsPolitics
 	  </content>
 	</entry>
 </feed>

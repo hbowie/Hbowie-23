@@ -5,8 +5,48 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom.xml"/>
 	<id>https://hbowie.net/blog/atom.xml</id>
-	<updated>2026-02-07T23:41:46Z</updated>
+	<updated>2026-02-11T17:03:02Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
+	<entry>
+		<title>
+			Published &quot;My Education in Racial Superiority&quot;
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-my-education-in-racial-superiority.html"/>
+	  <id>https://hbowie.net/blog/published-my-education-in-racial-superiority</id>
+	  <published>2026-02-11T12:00:00Z</published>
+	  <updated>2026-02-11T17:02:41Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>I am, to all appearances, white, and my ancestry, as far as it can be determined, is mostly European. </p>
+
+<p>But please don’t hold that against me. </p> 
+		  <p><a href="https://hbowie.net/writings/my-education-in-racial-superiority.html">hbowie.net/writings/my-education-in-racial-superiority.html</a></p>
+		  <p>#Humanism #Race</p>
+		  ]]>
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 18.4.0
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.4.0.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-18.4.0</id>
+	  <published>2026-02-10T12:00:00Z</published>
+	  <updated>2026-02-10T19:27:04Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>Provided a way to use subfolders, but specify some that should not be treated as Notenik collections (in response to a user request). Plus some other minor refinements. </p> 
+		  <p><a href="https://notenik.app/kb/version-18.4.0.html">notenik.app/kb/version-18.4.0.html</a></p>
+		  <p>#Notenik #Pkm</p>
+		  ]]>
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Published &quot;Over Seventy Important Things&quot;
@@ -359,44 +399,6 @@
 		  <p>rating: &#9733;&#9733;&#9733;</p>
 		  <p><a href="https://en.wikipedia.org/wiki/Birnam_Wood_(novel)">en.wikipedia.org/wiki/Birnam_Wood_(novel)</a></p>
 		  <p>#Books</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Notenik Reviewed at Mac Sources
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/notenik-reviewed-at-mac-sources.html"/>
-	  <id>https://hbowie.net/blog/notenik-reviewed-at-mac-sources</id>
-	  <published>2025-09-04T12:00:00Z</published>
-	  <updated>2025-09-04T17:50:40Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>Notenik had a nice review from the Mac Sources site. In addition to being very positive, I thought it was very thorough and well-written. </p> 
-		  <p><a href="https://macsources.com/notenik-review/">macsources.com/notenik-review/</a></p>
-		  <p>#MacApps #Notenik</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;Trump 2.0: Some Insights and Observations&quot;
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-trump-2.0-some-insights-and-observations.html"/>
-	  <id>https://hbowie.net/blog/published-trump-2.0-some-insights-and-observations</id>
-	  <published>2025-09-03T12:00:00Z</published>
-	  <updated>2025-09-03T18:54:21Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>A lot is being said about Trump 2.0 on an hourly basis, but most of the viewpoints expressed seem to be the same ones over and over. But I think there are some interesting (and perhaps useful) patterns that are not being talked about much. </p> 
-		  <p><a href="https://hbowie.net/writings/trump-2.0-some-insights-and-observations.html">hbowie.net/writings/trump-2.0-some-insights-and-observati...</a></p>
-		  <p>#Democrats #Republicans #Trump #UsPolitics</p>
 		  ]]>
 	  </content>
 	</entry>

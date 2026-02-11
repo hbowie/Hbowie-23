@@ -7,6 +7,15 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 	<title>=$title$= | From the Desk of H. Bowie</title>
 	<meta name="description" content='An Essay on the song "=$title$=" by =$songwriters$=' />
+	<meta property="og:title" content="=$title$=" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="From the Desk of H. Bowie" />
+	<meta property="og:url" content="https://hbowie.net/writings/=$title&f$=.html" />
+	<?if "=$imagename$=" ?>
+		<meta property="og:image" content="https://hbowie.net/images/=$imagename&f$=" />
+	<?else?>
+		<meta property="og:image" content="https://hbowie.net/images/desk.jpg" />
+	<?endif?>
 <?include "../includes/head-links.html" ?>
 </head>
  <!-------------------------------------------------------------------- 
@@ -71,6 +80,8 @@
 <p class="line-spacer"> &nbsp; </p>
 
 =$apple-music-player$=
+
+<?include "../includes/writing-bottom.html" ?>
 			</article>
 			<nav>
 				<p>

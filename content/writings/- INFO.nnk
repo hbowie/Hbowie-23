@@ -52,7 +52,7 @@ Hash Tags: notenik-field
 
 Window Numbers: 1187.0;0.0;1341.0;1410.0;500.0;
 
-Column Widths: klass: 60, 80, 150; seq: 30, 80, 1500; statusdigit: 20, 30, 50; date: 80, 177, 1500; rank: 50, 80, 250; title: 200, 471, 1500; tags: 50, 100, 1200; author: 100, 200, 1000; datemod: 100, 180, 250; dateadded: 100, 180, 1500; x: 12, 20, 1500; 
+Column Widths: tags: 50, 100, 1200; date: 80, 177, 1500; seq: 30, 80, 1500; klass: 60, 80, 150; x: 12, 20, 1500; dateadded: 100, 180, 1500; author: 100, 200, 1000; datemod: 100, 180, 250; title: 200, 471, 1500; rank: 50, 80, 250; statusdigit: 20, 30, 50; 
 
 Note Picker Action: Copy Title
 
