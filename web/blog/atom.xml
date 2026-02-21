@@ -5,8 +5,29 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom.xml"/>
 	<id>https://hbowie.net/blog/atom.xml</id>
-	<updated>2026-02-11T17:03:02Z</updated>
+	<updated>2026-02-21T18:16:03Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
+	<entry>
+		<title>
+			Finished reading *Humanly Possible: Seven Hundred Years of Humanist Freethinking, Inquiry, and Hope* by Sarah Bakewell
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-humanly-possible-by-sarah-bakewell.html"/>
+	  <link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/finished-reading-humanly-possible-by-sarah-bakewell-book-cover.jpg"/>
+	  <id>https://hbowie.net/blog/finished-reading-humanly-possible-by-sarah-bakewell</id>
+	  <published>2026-02-12T12:00:00Z</published>
+	  <updated>2026-02-12T18:18:50Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>An informative, enlightening and interesting account of the history of humanistic thought, introducing us to many of the significant figures originally giving voice to such ideas. </p> 
+		  <p>rating: &#9733;&#9733;&#9733;&#9733;&#9733;</p>
+		  <p><a href="https://literatibookstore.com/book/9780735223394">literatibookstore.com/book/9780735223394</a></p>
+		  <p>#Books #Humanism</p>
+		  ]]>
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Published &quot;My Education in Racial Superiority&quot;
@@ -32,8 +53,8 @@
 		<title>
 			Released Notenik Version 18.4.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.4.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-18.4.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1840.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1840</id>
 	  <published>2026-02-10T12:00:00Z</published>
 	  <updated>2026-02-10T19:27:04Z</updated>
 	  <author>
@@ -70,8 +91,8 @@
 		<title>
 			Released Notenik Version 18.3.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.3.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-18.3.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1830.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1830</id>
 	  <published>2026-01-29T12:00:00Z</published>
 	  <updated>2026-01-29T21:16:02Z</updated>
 	  <author>
@@ -108,8 +129,8 @@
 		<title>
 			Released Notenik Version 18.2.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.2.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-18.2.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1820.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1820</id>
 	  <published>2026-01-07T12:00:00Z</published>
 	  <updated>2026-01-16T21:15:54Z</updated>
 	  <author>
@@ -127,8 +148,8 @@
 		<title>
 			Released Notenik Version 18.1.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.1.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-18.1.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1810.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1810</id>
 	  <published>2025-12-12T12:00:00Z</published>
 	  <updated>2025-12-15T17:28:29Z</updated>
 	  <author>
@@ -166,8 +187,8 @@
 		<title>
 			Released Notenik Version 18.0.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.0.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-18.0.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1800.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1800</id>
 	  <published>2025-11-14T12:00:00Z</published>
 	  <updated>2025-11-14T18:25:38Z</updated>
 	  <author>
@@ -185,8 +206,8 @@
 		<title>
 			Released Notenik Version 17.9.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.9.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-17.9.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1790.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1790</id>
 	  <published>2025-10-30T12:00:00Z</published>
 	  <updated>2025-11-14T18:24:13Z</updated>
 	  <author>
@@ -223,8 +244,8 @@
 		<title>
 			Released Notenik Version 17.8.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.8.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-17.8.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1780.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1780</id>
 	  <published>2025-10-14T12:00:00Z</published>
 	  <updated>2025-10-17T23:44:08Z</updated>
 	  <author>
@@ -281,8 +302,8 @@
 		<title>
 			Released Notenik Version 17.7.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.7.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-17.7.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1770.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1770</id>
 	  <published>2025-09-29T12:00:00Z</published>
 	  <updated>2025-10-07T22:20:43Z</updated>
 	  <author>
@@ -326,8 +347,8 @@
 		<title>
 			Released Notenik Version 17.6.0
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.6.0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-17.6.0</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-1760.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-1760</id>
 	  <published>2025-09-20T12:00:00Z</published>
 	  <updated>2025-09-20T17:44:45Z</updated>
 	  <author>
@@ -378,26 +399,6 @@
 </p> 
 		  <p>rating: &#9733;&#9733;&#9733;</p>
 		  <p><a href="https://anthonyhorowitz.com/books/title/marble-hall-murders">anthonyhorowitz.com/books/title/marble-hall-murders</a></p>
-		  <p>#Books</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *Birnam Wood* by Eleanor Catton
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-birnam-wood-by-eleanor-catton.html"/>
-	  <id>https://hbowie.net/blog/finished-reading-birnam-wood-by-eleanor-catton</id>
-	  <published>2025-09-06T12:00:00Z</published>
-	  <updated>2025-09-06T16:53:47Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>Well written, with interesting characters, but did not ultimately thrill me. </p> 
-		  <p>rating: &#9733;&#9733;&#9733;</p>
-		  <p><a href="https://en.wikipedia.org/wiki/Birnam_Wood_(novel)">en.wikipedia.org/wiki/Birnam_Wood_(novel)</a></p>
 		  <p>#Books</p>
 		  ]]>
 	  </content>

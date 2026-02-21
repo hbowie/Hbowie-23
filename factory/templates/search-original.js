@@ -2,9 +2,9 @@
 let searchOriginal = [
 <?nextrec?>
 	{
-		title: "=$title&p$=",
+		title: "=$title&^tpp$=",
 		date: "=$date&dd MMM yyyy$=",
-    url: "writings/=$title&f$=.html",
+    url: "writings/=$title&^tf$=.html",
 		content: "=$body&p$="
 	},
 <?loop?>

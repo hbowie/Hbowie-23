@@ -16,9 +16,9 @@
 <?if =$count$= lt 20 ?>
 <?if "=$date-picked$=" ?>
 	<entry>
-	  <title>=$title&x$=</title>
-	  <link rel="related" type="text/html" href="https://hbowie.net/quotes/=$title&f$=.html"/>
-	  <id>https://hbowie.net/portablewisdom/=$date-picked&yyyy-MM-dd$=-=$title&f$=.html</id>
+	  <title>=$title&^tx$=</title>
+	  <link rel="related" type="text/html" href="https://hbowie.net/quotes/=$title&^tf$=.html"/>
+	  <id>https://hbowie.net/portablewisdom/=$date-picked&yyyy-MM-dd$=-=$title&^tf$=.html</id>
 	  <published>=$datepicked&yyyy-MM-ddTHH:mm:ssz$=</published>
 	  <updated>=$datepicked&yyyy-MM-ddTHH:mm:ssz$=</updated>
 	  <author>

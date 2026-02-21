@@ -16,8 +16,8 @@
 	</item>
 	<item>
 	  <title>Notenik 14.4.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-14.4.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-14.4.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1440-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1440-released</guid>
 	  <pubDate>Tue, 30 Apr 2024 12:00:00 -0700</pubDate>
 	  <description>
 	  	Notenik 14.4.0 is out, and is available for free from the Mac App Store. This release includes the following improvements: improved YAML parsing, for greater interoperability with Obsidian; a new option to sort a collection of notes by folder + seq + title; a new field type of page style, that can include special CSS to be applied to the display of a specific note; a new bulk edit option that can be used to modify several notes at once; a couple of bug fixes. 
@@ -36,8 +36,8 @@
 	</item>
 	<item>
 	  <title>Notenik 14.3.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-14.3.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-14.3.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1430-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1430-released</guid>
 	  <pubDate>Sat, 20 Apr 2024 12:00:00 -0700</pubDate>
 	  <description>
 	  	Notenik 14.3.0 is out today in the Mac App Store, including support for sub-folders. Happy for great support from the Notenik Discourse community in beta testing this latest release. More info at [notenik.app.](https://notenik.app.) 
@@ -46,8 +46,8 @@
 	</item>
 	<item>
 	  <title>Notenik 14.2.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-14.2.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-14.2.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1420-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1420-released</guid>
 	  <pubDate>Sat, 30 Mar 2024 12:00:00 -0700</pubDate>
 	  <description>
 	  	Version 14.2.0 of my open-source app Notenik is now available for free in the Mac App Store, with improved ability to show random, daily quotes from a commonplace book, as well as other improvements. 
@@ -56,8 +56,8 @@
 	</item>
 	<item>
 	  <title>Notenik 14.1.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-14.1.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-14.1.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1410-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1410-released</guid>
 	  <pubDate>Tue, 12 Mar 2024 12:00:00 -0700</pubDate>
 	  <description>
 	  	Notenik 14.1.0 is out, and available for free from the Mac App Store. This release adds a duration field, and an export to iCal option, both of which are included in the rewrite of the guidance on [Using Notenik as a Travel Planner](https://notenik.app/kb/using-notenik-as-a-travel-planner.html). Notenik might be best described as a Personal Information Utility. 
@@ -66,8 +66,8 @@
 	</item>
 	<item>
 	  <title>Notenik 14.0.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-14.0.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-14.0.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1400-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1400-released</guid>
 	  <pubDate>Tue, 27 Feb 2024 12:00:00 -0700</pubDate>
 	  <description>
 	  	Version 14.0.0 of my Mac app Notenik is out today, and available from the Mac App Store. A Notenik user recently posted a really good description of how Notenik differs from other (generally better-known) tools, and I suggest you [read that](https://discourse.notenik.app/t/why-notenik-vs-logseq-obsidian-or-devonthink/405/3?u=hbowie) if you&apos;re wondering what it is that makes Notenik special. 
@@ -86,8 +86,8 @@
 	</item>
 	<item>
 	  <title>Notenik 13.5.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-13.5.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-13.5.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1350-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1350-released</guid>
 	  <pubDate>Fri, 01 Dec 2023 12:00:00 -0700</pubDate>
 	  <description>
 	  	Another new version of Notenik out today: 13.5.0! Free and open-source, available through the Mac App Store. 
@@ -97,8 +97,8 @@ Also, coincidentally, I received a lovely post this morning on the Notenik Disco
 	</item>
 	<item>
 	  <title>Notenik 13.4.0 Released</title>
-	  <link>https://hbowie.net/micro/notenik-13.4.0-released</link>
-	  <guid>https://hbowie.net/micro/notenik-13.4.0-released</guid>
+	  <link>https://hbowie.net/micro/notenik-1340-released</link>
+	  <guid>https://hbowie.net/micro/notenik-1340-released</guid>
 	  <pubDate>Sat, 18 Nov 2023 12:00:00 -0700</pubDate>
 	  <description>
 	  	Version 13.4.0 of Notenik (free and open source) is now available in the Mac App Store. Added &apos;Show in Finder&apos; for note files; added a script include command; improved the display of link fields.  

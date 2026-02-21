@@ -1,5 +1,5 @@
 <?output "../xpltags/quotes.txt"?>
 Tag	Tag File Name	Seq	Folder	Title	Author
 <?nextrec?>
-=$tag$=	=$tag&f$=.html	4	quotes	=$title$=	=$author$=
+=$tag$=	=$tag&f$=.html	4	quotes	=$title&^t$=	=$author$=
 <?loop?>

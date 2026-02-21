@@ -1,16 +1,16 @@
 <?nextrec?>
-<?output "../../web/writings/=$title&f$=.html"?>
+<?output "../../web/writings/=$title&^tf$=.html"?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-	<title>=$title$= | From the Desk of H. Bowie</title>
+	<title>=$title&^t$= | From the Desk of H. Bowie</title>
 	<meta name="description" content='=$teaser$=' />
-	<meta property="og:title" content="=$title$=" />
+	<meta property="og:title" content="=$title&^t$=" />
 	<meta property="og:type" content="website" />
 	<meta property="og:site_name" content="From the Desk of H. Bowie" />
-	<meta property="og:url" content="https://hbowie.net/writings/=$title&f$=.html" />
+	<meta property="og:url" content="https://hbowie.net/writings/=$title&^tf$=.html" />
 <?if "=$imagename$=" ?>
 	<meta property="og:image" content="https://hbowie.net/images/=$imagename&f$=" />
 <?else?>
@@ -51,7 +51,7 @@
 					</span>
 				</p>
 <?endif?>
-				<h2>=$title&h$=</h2>
+				<h2>=$title&^th$=</h2>
 				
 				<p class="date-and-mins">=$date&dd MMM yyyy$= &middot; =$minutes-to-read$= min read</p>
 				
@@ -83,9 +83,27 @@
 
 =$body&w1o$=
 
-<?include "../includes/writing-bottom.html" ?>
-
 			</article>
+
+			<div>
+<hr/>
+				
+<?if "=$komments-link$=" ?>
+				<p>If you&#8217;d like to comment on this post, or see what others might have said about it, then <a href="=$komments-link$=" class="ext-link" target="_blank">click here</a>.
+				</p> 
+				
+<?endif?>
+				<p>If you&#8217;d like to receive all of my new writings via email, then you can subscribe at <a href="https://news.hbowie.net" class="ext-link" target="_blank">news.hbowie.net</a>.
+				</p>
+				
+<?if "=$shortid$=" ?>
+				<p>If you&#8217;d like a conveniently short link for this piece, you can use <a href="https://hbowie.net/w/=$shortid$=.html">hbowie.net/w/=$shortid$=.html</a>.
+				</p>
+				
+<?endif?>
+				<p>And if you would like to express your appreciation for my work by making a small financial donation, then I&#8217;d be happy for you to <a href="https://ko-fi.com/hbowie" class="ext-link" target="_blank">buy me a coffee</a>. 
+				</p>
+			</div>
 			
 			<nav>
 				<hr />

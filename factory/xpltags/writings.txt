@@ -212,6 +212,9 @@ evolution	evolution.html	3	writings	Life is Complicated
 faith	faith.html	3	writings	Pay It No Mind	Sarah Jarosz and John Leventhal
 family	family.html	3	writings	I Don't Like Half The Folks I Love	Paul Thorn and Billy Maddox
 family	family.html	3	writings	A Note For Posterity	
+film	film.html	3	writings	Citizen Kane vs. Citizen Bailey	
+film	film.html	3	writings	Apollo 11 - 2019 film	
+film	film.html	3	writings	An Appreciation for The Thin Man	
 freedom	freedom.html	3	writings	Angel from Montgomery	John Prine
 freedom	freedom.html	3	writings	If I Had a Boat	Lyle Lovett
 freedom	freedom.html	3	writings	Desperados Under the Eaves	Warren Zevon
@@ -410,6 +413,7 @@ society	society.html	3	writings	My Education in Racial Superiority
 society	society.html	3	writings	Can the US Become a Truly Egalitarian Society?	
 society	society.html	3	writings	The Widening Spiral of Modern Society	
 society	society.html	3	writings	Apollo 11 - 2019 film	
+society	society.html	3	writings	An Appreciation for The Thin Man	
 society	society.html	3	writings	Santa Claus is Coming to Town	
 society	society.html	3	writings	Diving Back Into Our American Muddle	
 society	society.html	3	writings	Violence at the 94th Academy Awards	

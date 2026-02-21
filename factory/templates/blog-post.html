@@ -1,10 +1,10 @@
 <?nextrec?>
-<?output "../../web/blog/posts/=$title&f$=.html" ?>
+<?output "../../web/blog/posts/=$title&^tf$=.html" ?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>Herb's Blog | =$title$=</title>
+		<title>Herb's Blog | =$title&^tp$=</title>
 		<meta name="description" content="Blog post from the desk of Herb Bowie" />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 <?include "../includes/head-links.html" ?>
@@ -32,7 +32,7 @@
 <?if "=$class$=" eq finished ?>
 					=$finished-work-slug&o$=
 <?else?>
-					=$title&h$=
+					=$title&^th$=
 <?endif?>
 				</h3>			
 				

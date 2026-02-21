@@ -13,12 +13,12 @@
 <?set item-count += 1 ?>
 <?if =$item-count$= le 10 ?>
 	<entry>
-	  <title>=$title&x$=</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/=$title&f$="/>
+	  <title>=$title&^tpx$=</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/micro/=$title&^tf$="/>
 <?if "=$imagelink$=" ?>
 	  <link rel="alternate" type="image/=$imagelink&^x$=" href="=$imagelink$="/>
 <?endif?>
-	  <id>https://hbowie.net/micro/=$title&f$=</id>
+	  <id>https://hbowie.net/micro/=$title&^tf$=</id>
 	  <published>=$date&yyyy-MM-dd$=T12:00:00Z</published>
 	  <updated>=$datemodified&yyyy-MM-ddTHH:mm:ssz$=</updated>
 	  <author>

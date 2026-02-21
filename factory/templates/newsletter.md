@@ -7,7 +7,7 @@
 ----
 
 <?if "=$class$=" eq "song" ?>
-## "=$title$="
+## "=$title&^tm$="
 				
 A song written by =$songwriters$= in =$date-of-song$=
 				
@@ -23,7 +23,7 @@ Listening Options:
 <?endif?>
 
 <?if "=$image-name$=" ?>
-![=$image-alt$=](https://hbowie.net/images/=$title&f$=-=$image-name&f$=.jpg)
+![=$image-alt$=](https://hbowie.net/images/=$title&^tf$=-=$image-name&f$=.jpg)
 <?endif?>
 
 =$body$=

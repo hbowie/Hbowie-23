@@ -1,5 +1,5 @@
 <?nextrec?>
-<?output "../../web/=$title&f$=.html"?>
+<?output "../../web/=$title&^tf$=.html"?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +8,7 @@
 <?if "=$title$=" eq "index" ?>
 	<title>From the Desk of H. Bowie</title>
 <?else?>
-	<title>=$title$= | From the Desk of H. Bowie</title>
+	<title>=$title&^t$= | From the Desk of H. Bowie</title>
 <?endif?>
 <?include "../includes/head-links.html" ?>
 </head>
@@ -31,7 +31,7 @@
 		<main>
 			<article>
 <?if "=$title$=" ne "index" ?>
-				<h2><span class="underline">=$title&h$=:</span></h2>
+				<h2><span class="underline">=$title&^th$=:</span></h2>
 <?endif?>
 
 <?if =$imagelink$= ?>

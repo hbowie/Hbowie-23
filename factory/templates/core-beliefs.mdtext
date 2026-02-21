@@ -61,9 +61,9 @@ These are a set of twenty-eight ideas grouped into six categories. Each idea has
 <?endif?>
 <?endif?>
 <?if =$seq$= ?>
-### =$seq$=. =$title&cuua $=
+### =$seq$=. =$title&^tpcuua $=
 
-=$body$= <a class="core-tag" href="../tags/=$title&f$=.html">=$title$=</a>
+=$body$= <a class="core-tag" href="../tags/=$title&^tf$=.html">=$title&^t$=</a>
 
 <?endif?>
 <?loop?>

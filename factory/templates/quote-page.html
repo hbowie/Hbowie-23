@@ -1,12 +1,12 @@
 <?nextrec?>
-<?output "../../web/quotes/=$title&f$=.html"?>
+<?output "../../web/quotes/=$title&^tf$=.html"?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-	<title>Quote: =$title$= | From the Desk of H. Bowie</title>
-	<meta name="description" content='A Quotation from =$author$= concerning "=$title$="' />
+	<title>Quote: =$title&^t$= | From the Desk of H. Bowie</title>
+	<meta name="description" content='A Quotation from =$author$= concerning "=$title&^t$="' />
 <?include "../includes/head-links.html" ?>
 </head>
  <!-------------------------------------------------------------------- 
@@ -27,7 +27,7 @@
 				<p class="daily-quote">Chosen for the <a href="../portablewisdom/index.html">Portable Wisdom feed</a> on =$date-picked&MMMM d, yyyy$=</p>
 
 <?endif?>
-				<h3>&ldquo;=$title$=&rdquo;</h3>
+				<h3>&ldquo;=$title&^th$=&rdquo;</h3>
 
 				<p class="tags-align">=$tags&gtags/;tag-link$=</p>
 
@@ -58,7 +58,7 @@
 
 			<p>
 				&#187;
-				<a class="implicit" href="=$title&f$=.html">
+				<a class="implicit" href="=$title&^tf$=.html">
 					Permalink for Quote
 				</a>
 			</p>

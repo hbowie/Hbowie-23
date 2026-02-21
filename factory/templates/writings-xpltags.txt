@@ -1,5 +1,5 @@
 <?output "../xpltags/writings.txt"?>
 Tag	Tag File Name	Seq	Folder	Title	Author
 <?nextrec?>
-=$tag$=	=$tag&f$=.html	3	writings	=$title$=	=$songwriters$=
+=$tag$=	=$tag&f$=.html	3	writings	=$title&^t$=	=$songwriters$=
 <?loop?>

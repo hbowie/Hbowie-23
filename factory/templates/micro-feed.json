@@ -17,12 +17,12 @@
 <?set item-count ++ ?>
 <?if =$item-count$= <= 10 ?>
         {
-            "id": "hbowie.net/micro/=$title&f$=",
-            "url": "https://hbowie.net/micro/=$title&f$=",
+            "id": "hbowie.net/micro/=$title&^tf$=",
+            "url": "https://hbowie.net/micro/=$title&^tf$=",
 <?if "=$link$=" ?>
 						"external_url": "=$link$=",
 <?endif?>
-						"title": "=$title$=",
+						"title": "=$title&^t$=",
 <?if "=$imagelink$=" ?>
 						"image": "=$imagelink$=",
 <?endif?>

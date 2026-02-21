@@ -317,7 +317,7 @@ development	development.html	4	quotes	Human development in its richest diversity
 development	development.html	4	quotes	Placed on this earth to unfold their faculties	Mary Wollstonecraft
 diversity	diversity.html	4	quotes	Ancient ethnic sores belching fire	Don Beck and Chris Cowan
 diversity	diversity.html	4	quotes	Crosscutting Alliances	Steven Levitsky and Daniel Ziblatt
-diversity	diversity.html	4	quotes	Diversity Helps Your Business -- But Not The Way You Think	Katherine Phillips
+diversity	diversity.html	4	quotes	Diversity Helps Your Business - But Not The Way You Think	Katherine Phillips
 diversity	diversity.html	4	quotes	The Divine Gift of Purely Nonsensical Speech and Action	Edmund Crispin
 diversity	diversity.html	4	quotes	First they came...	Martin Niemöller
 diversity	diversity.html	4	quotes	Homophobia	Ken Wilber

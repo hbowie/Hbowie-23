@@ -2,9 +2,9 @@
 let searchQuotes = [
 <?nextrec?>
 	{
-		title: "=$title$=",
+		title: "=$title&^t$=",
 		date: "=$date$=",
-    url: "quotes/=$title&f$=.html",
+    url: "quotes/=$title&^tf$=.html",
 		content: "=$body&p$= =$author$= =$authorinfo$= =$worktitle$= "
 	},
 <?loop?>

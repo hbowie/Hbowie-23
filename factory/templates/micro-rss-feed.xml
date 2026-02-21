@@ -10,9 +10,9 @@
 <?set item-count += 1 ?>
 <?if =$item-count$= le 10 ?>
 	<item>
-	  <title>=$title&x$=</title>
-	  <link>https://hbowie.net/micro/=$title&f$=</link>
-	  <guid>https://hbowie.net/micro/=$title&f$=</guid>
+	  <title>=$title&^tpx$=</title>
+	  <link>https://hbowie.net/micro/=$title&^tf$=</link>
+	  <guid>https://hbowie.net/micro/=$title&^tf$=</guid>
 	  <pubDate>=$date&EEE, dd MMM yyyy$= 12:00:00 -0700</pubDate>
 	  <description>
 	  	=$body&x$=
