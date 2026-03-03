@@ -1,0 +1,189 @@
+Title:  Why AI is Different
+
+Tags:   technology
+
+Class:  general
+
+Seq:    15.17
+
+Level:  3 - essay
+
+Date:   2026-03-02
+
+Status: 9 - Published
+
+Short ID: whad
+
+Featured: true
+
+Greatest Hits: false
+
+Category: 08 - Technical
+
+Importance: 40
+
+Minutes to Read: 7
+
+Image Name: Wright Brothers Stamp
+
+Image Alt: Wilbur And Orville Wright Stamp
+
+Image Credit: iStock | traveler1116
+
+Image Credit Link: https://www.istockphoto.com/photo/wilbur-and-orville-wright-stamp-gm458933179-22444407
+
+Date Added: 2026-03-02 12:08:57 -0800
+
+Date Modified: 2026-03-03 10:03:08 -0800
+
+Timestamp: 20260302200857
+
+Teaser:
+
+I keep coming across articles comparing AI to new technologies of the past, but I fear they are missing some fundamental differences. 
+
+
+Body:
+
+I keep coming across articles comparing Artificial Intelligence  to new technologies of the past, and expressing various degrees of wonderment at society’s apparent reluctance to fully embrace this latest shiny new thing.  
+
+For example, there’s a recent article from the NY Times: “[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html?smid=nytcore-ios-share).” 
+
+And then there’s a recent piece by Paul Krugman on “[The Economics of Technological Change](https://paulkrugman.substack.com/p/the-economics-of-technological-change)”. 
+
+But such comparisons generally fail to take into account the ways in which the generative AI tools being developed and touted today are fundamentally different from successful new technologies of the past. 
+
+{:toc}
+
+## 1. No Well-Defined Process
+
+Other sorts of technologies have been used to improve existing processes that were both value-creating and well-defined. 
+
+Take the field of accounting, for example. People wearing green eyeshades were totaling up columns of numbers using adding machines before computers came along. The creation of sophisticated computers helped to automate a process whose value was already established, and just made that process faster and more efficient. 
+
+But what exactly are the existing well-defined, value-creating processes that AI tools are supposed to be performing? 
+
+## 2. Reliability (or lack thereof)
+
+All previous technology revolutions made existing processes more reliable. For example, when you enter numbers into a spreadsheet, you don’t have to double-check the math being performed. 
+
+As another example, railroads made transportation more reliable. 
+
+But AI is different: it is a sophisticated guessing machine, not a deterministic calculator of any sort. 
+
+It may have some utility, but its results are not reliable. 
+
+## 3. Absence of Military Origins
+
+Many if not most of our important new technologies were initially developed for military use, and then later adapted for use by civilians. 
+
+Think of the Internet. Or the original mainframe computers. Or nuclear power. Or radar. Or aircraft. 
+
+These military origins are important because they help to underwrite the development of the technology, and because they absorb much of the original risk involved, and because they prove the usefulness and reliability of the technology. 
+
+I haven’t seen any evidence of military funding for the development of these new AI tools. 
+
+## 4. Pace of Deployment
+
+Apple’s first computers were built in a garage. Amazon’s first website only sold books. Microsoft started out only selling a BASIC compiler used by programmers to develop small applications. The first web browser was only used by a few academics. Google started as a research project at Stanford. 
+
+In all of these cases, new technologies were initially deployed with modest ambitions, and proved their worth in small scopes before gradually scaling up after demonstrating some initial success. 
+
+Compare these to AI, where the pace of server infrastructure construction has been so rapid as to already become a factor impacting energy costs for many consumers, even though we are still waiting to see any of this stuff actually prove its worth in terms of making any goods and service cheaper or more valuable. 
+
+## 5. The Nebulosity of the Value Proposition
+
+I keep seeing assertions that AI is going to make businesses more productive by either eliminating the need for some workers, or by making some workers more productive. 
+
+But what exactly is the nature of the work that is to be improved or eliminated? 
+
+And here is where the value proposition seems to become hazy. Because the savings being proposed generally seem to rest on some untested and unverified assumptions that many workers are office drones not really doing much useful work in the first place. 
+
+But if this is the case, then surely this is an existing problem to be addressed by management, not something to be somehow “fixed” with AI. 
+
+Here’s how I might see this playing out in the real world. 
+
++ Executives want to see presentations telling them how well their new policies are working.
++ Employees tasked with fashioning such presentations find that, with the help of AI, they can produce such documents in less time, and looking even more wonderful than before. 
++ Executives are initially impressed with the new presentations, and become enthusiastic about the new AI tools. 
++ But over time, as the presentations get ever flashier, they realize that the AI-driven effects are just giving them headaches and distracting them from the facts that matter. 
++ They also begin to realize that the facts being shown are not as accurate or as relevant as the ones they were used to getting, or as the ones they need. 
++ Following a string of bad decisions, they ban the further use of AI for the making of presentations. 
+
+Now, of course, this is all hypothetical. But that is exactly my point. Because until we understand what work is to be improved, and until we have optimized the existing processes for doing such work, it seems unlikely that AI will create any lasting productivity gains. 
+
+## 6. The Tech Journalist Bias
+
+Many tech journalists have expressed cautious optimism about the usefulness of the new AI tools. 
+
+But there are a couple of inherent biases at work here.
+
++ First, tech journalists like new tech because it gives them something to play with, and something to report on. 
++ Second, the sort of “work” performed by tech journalists does not bear much relationship to the sort of work that produces useful goods and services for consumers. 
+
+As a result, I am so far not much convinced of the general utility of these tools based on usage by the journalists reporting on them. 
+
+## 7. Always Reaping, Never Sowing
+
+Generative AI engines are terribly expensive — and only partially effective — tools for collating and summarizing existing knowledge that is already accessible at little or no cost. 
+
+And so AI is reaping the benefits of knowledge that has already been collected and validated and published. 
+
+But it provides no means for contributing to our common pool of knowledge: no way to give back. 
+
+Let's take an example. 
+
+[StackOverflow](https://meta.stackoverflow.com/) is a site on which technical practitioners can pose questions, offer answers, and rate the usefulness of alternative answers. 
+
+And I'm sure that all of the AI engines make use of this information. 
+
+But then what happens? 
+
+People can ask one of these engines for the answer to a question, and the AI tool can provide an answer. 
+
+But now the user of the information has no way to further contribute their own knowledge. Worse, the AI engine has now eliminated any opportunity to foster a community of helpful experts who can continue to build such a repository. 
+
+This is just one example. Wikipedia is another. GitHub is yet another. 
+
+These are all valuable repositories of information that were built by knowledgable people — often volunteers — who wanted to give back, and to work in community with others. 
+
+But AI engines are actively reaping this knowledge, with the intention to make a profit on it, but with no efforts to continue to grow such knowledge. 
+
+This might sound like a moral judgment, but it's an economic one as well. 
+
+Ask any farmer how well such a model works, and they will quickly tell you that it's not sustainable. 
+
+AI is effectively a societal regression from information agriculture to information foraging. 
+
+## 8. The Displacement Issue
+
+Novel technology has always created displacements: workers performing some tasks are no longer needed, but workers performing other new tasks are now needed in great abundance. 
+
+And so, simultaneous processes of education and culling take place and, while these processes are painful for some, we chalk it up overall to the price of progress. 
+
+(I know, because I was once an English major who taught himself computer programming, and later found myself working with other programmers who were former truck drivers.)
+
+But again, AI is different. 
+
+Other technologies generally removed workers from tasks that were physically demanding, dangerous and/or mind-numbingly rote. And then freed such workers up for work that was more cognitively demanding. 
+
+But with AI, there arise two genuinely thorny questions:
+
+1. If we no longer need humans for their intelligence, and their creative abilities, then what exactly do we need them for? 
+2. If AI can generally perform the sort of work often given to trainees, leaving a business only with a remaining need for experts, then how does a new generation of workers in that field get trained, and who replaces the experts when they retire? 
+
+## Bottom Line
+
+These new AI tools are shape-shifters, continually evolving, and yet stubbornly refusing to be pinned down on important issues, such as the ones I’ve described above. 
+
+So while looking at the histories of new technology adoption can be helpful, such comparisons are also likely to be misleading in important ways. 
+
+Because AI, at the end of the day, is fundamentally different. 
+
+----
+
+For other pieces on AI, see the following:
+
++ [[The Problem with AI Art]]
++ [[Thoughts on AI: Apple and Otherwise]]
++ [[Keeping to the Cackle with AI]]

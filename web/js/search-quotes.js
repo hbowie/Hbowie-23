@@ -795,7 +795,7 @@ let searchQuotes = [
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -819,19 +819,19 @@ let searchQuotes = [
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
@@ -867,7 +867,7 @@ let searchQuotes = [
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -3039,19 +3039,19 @@ let searchQuotes = [
 		title: "Governance is essential",
 		date: "2017",
     url: "quotes/governance-is-essential.html",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
@@ -3279,7 +3279,7 @@ let searchQuotes = [
 		title: "Every economic system must rely upon some form of the profit motive",
 		date: "1968",
     url: "quotes/every-economic-system-must-rely-upon-some-form-of-the-profit-motive.html",
-		content: "The experience of the past leaves little doubt that every economic system must sooner or later rely upon some form of the profit motive to stir individuals and groups to productivity Substitutes like slavery police supervision or ideological enthusiasm prove too unproductive too expensive or too transient Normally and generally men are judged by their ability to produce except in war when they are ranked according to their ability to destroy Will Durant American historian and philosopher, The Lessons of History "
+		content: "The experience of the past leaves little doubt that every economic system must sooner or later rely upon some form of the profit motive to stir individuals and groups to productivity Substitutes like slavery police supervision or ideological enthusiasm prove too unproductive too expensive or too transient Normally and generally men are judged by their ability to produce except in war when they are ranked according to their ability to destroy Will Durant American historian and philosopher The Lessons of History "
 	},
 	{
 		title: "Evolution in man has been social rather than biological",
@@ -3291,19 +3291,19 @@ let searchQuotes = [
 		title: "The first condition of freedom is its limitation",
 		date: "1968",
     url: "quotes/the-first-condition-of-freedom-is-its-limitation.html",
-		content: "Since men love freedom and the freedom of individuals in society requires some regulation of conduct the first condition of freedom is its limitation make it absolute and it dies in chaos So the prime task of government is to establish order organized central force is the sole alternative to incalculable and disruptive force in private hands Will Durant American historian and philosopher, The Lessons of History "
+		content: "Since men love freedom and the freedom of individuals in society requires some regulation of conduct the first condition of freedom is its limitation make it absolute and it dies in chaos So the prime task of government is to establish order organized central force is the sole alternative to incalculable and disruptive force in private hands Will Durant American historian and philosopher The Lessons of History "
 	},
 	{
 		title: "The full fruitage of instruction",
 		date: "1968",
     url: "quotes/the-full-fruitage-of-instruction.html",
-		content: "But what would be the full fruitage of instruction if every child should be schooled till at least his twentieth year and should find free access to the universities libraries and museums that harbor and offer the intellectual and artistic treasures of the race Consider education not as the painful accumulation of facts and dates and reigns nor merely the necessary preparation of the individual to earn his keep in the world but as the transmission of our mental moral technical and aesthetic heritage as fully as possible to as many as possible for the enlargement of man s understanding control embellishment and enjoyment of life Will Durant American historian and philosopher The Lessons of History "
+		content: "But what would be the full fruitage of instruction if every child should be schooled till at least his twentieth year and should find free access to the universities libraries and museums that harbor and offer the intellectual and artistic treasures of the race Consider education not as the painful accumulation of facts and dates and reigns nor merely the necessary preparation of the individual to earn his keep in the world but as the transmission of our mental moral technical and aesthetic heritage as fully as possible to as many as possible for the enlargement of man s understanding control embellishment and enjoyment of life Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "History is a fragment of biology",
 		date: "1968",
     url: "quotes/history-is-a-fragment-of-biology.html",
-		content: "History is a fragment of biology the life of man is a portion of the vicissitudes of organisms on land and sea Sometimes wandering alone in the woods on a summer day we hear or see the movement of a hundred species of flying leaping creeping crawling burrowing things The startled animals scurry away at our coming the birds scatter the fish disperse in the brook Suddenly we perceive to what a perilous minority we belong on this impartial planet and for a moment we feel as these varied denizens clearly do that we are passing interlopers in their natural habitat Then all the chronicles and achievements of man fall humbly into the history and perspective of polymorphous life all our economic competition our strife for mates our hunger and love and grief and war are akin to the seeking mating striving and suffering that hide under these fallen trees or leaves or in the waters or on the boughs Will Durant American historian and philosopher The Lessons of History "
+		content: "History is a fragment of biology the life of man is a portion of the vicissitudes of organisms on land and sea Sometimes wandering alone in the woods on a summer day we hear or see the movement of a hundred species of flying leaping creeping crawling burrowing things The startled animals scurry away at our coming the birds scatter the fish disperse in the brook Suddenly we perceive to what a perilous minority we belong on this impartial planet and for a moment we feel as these varied denizens clearly do that we are passing interlopers in their natural habitat Then all the chronicles and achievements of man fall humbly into the history and perspective of polymorphous life all our economic competition our strife for mates our hunger and love and grief and war are akin to the seeking mating striving and suffering that hide under these fallen trees or leaves or in the waters or on the boughs Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "Life is competition",
@@ -3321,7 +3321,7 @@ let searchQuotes = [
 		title: "No cure for racial antipathies except a broadened education",
 		date: "1968",
     url: "quotes/no-cure-for-racial-antipathies-except-a-broadened-education.html",
-		content: " Racial antipathies have some roots in ethnic origin but they are also generated perhaps predominantly by differences of acquired culture of language dress habits morals or religion There is no cure for such antipathies except a broadened education A knowledge of history may teach us that civilization is a cooperative product that nearly all peoples have contributed to it it is our common heritage and debt and the civilized soul will reveal itself in treating every man or woman however lowly as a representative of one of these creative and contributory groups Will Durant American historian and philosopher The Lessons of History "
+		content: " Racial antipathies have some roots in ethnic origin but they are also generated perhaps predominantly by differences of acquired culture of language dress habits morals or religion There is no cure for such antipathies except a broadened education A knowledge of history may teach us that civilization is a cooperative product that nearly all peoples have contributed to it it is our common heritage and debt and the civilized soul will reveal itself in treating every man or woman however lowly as a representative of one of these creative and contributory groups Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "What History Has To Say",

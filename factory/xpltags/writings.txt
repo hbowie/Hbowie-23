@@ -455,6 +455,7 @@ technology	technology.html	3	writings	A Traditional Remedy for the Facebook Prob
 technology	technology.html	3	writings	Keeping to the Cackle with AI	
 technology	technology.html	3	writings	The Issues Swirling around Spotify and its Content Providers	
 technology	technology.html	3	writings	The Problem with AI Art	
+technology	technology.html	3	writings	Why AI is Different	
 technology	technology.html	3	writings	The Era of Destructive Tech is Upon Us	
 technology	technology.html	3	writings	Thoughts on AI: Apple and Otherwise	
 technology	technology.html	3	writings	More Markdown and HTML, Please	

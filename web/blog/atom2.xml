@@ -5,13 +5,30 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2026-02-21T18:16:03Z</updated>
+	<updated>2026-03-03T18:19:48Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
 		<email>herb@hbowie.net</email>
 		<uri>https://hbowie.net/</uri>
 	</author>
+	<entry>
+		<title>
+			Published An Appreciation for The Thin Man
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-an-appreciation-for-the-thin-man.html"/>
+	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-an-appreciation-for-the-thin-man-lobby-card.jpg"/>
+	  <id>https://hbowie.net/blog/posts/published-an-appreciation-for-the-thin-man</id>
+	  <published>2026-02-23T12:00:00Z</published>
+	  <updated>2026-02-23T23:27:11Z</updated>
+	  <content>
+In my judgment, this is one of those rare cases where the film is actually better than the book, without sacrificing much of value from the written text. I’ve watched the film repeatedly over the years and my appreciation for it has only grown with each viewing.
+
+related link: https://hbowie.net/writings/an-appreciation-for-the-thin-man.html
+
+#Film
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Finished reading *Humanly Possible: Seven Hundred Years of Humanist Freethinking, Inquiry, and Hope* by Sarah Bakewell
@@ -329,24 +346,6 @@ rating: &#9733;&#9733;&#9733;&#9733;
 related link: https://en.wikipedia.org/wiki/Highest_2_Lowest
 
 #Film
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished reading *Marble Hall Murders* by Anthony Horowitz
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-reading-marble-hall-murders-by-anthony-horowitz.html"/>
-	  <id>https://hbowie.net/blog/posts/finished-reading-marble-hall-murders-by-anthony-horowitz</id>
-	  <published>2025-09-17T12:00:00Z</published>
-	  <updated>2025-10-24T17:25:54Z</updated>
-	  <content>
-This is the third book in the Magpie Murders series, and was an enjoyable read. But the author is a screenwriter as well as a book writer, and the first two books were made into very successful TV shows, and this third book feels a little more like a warmup for the TV script than a book that needed to be written for its own sake. The novelty to the series is that there are parallel mysteries unfolding — one in a partially finished novel by a character within the story, and one happening with the story&apos;s author and her editor and their associates. What proved a bit disappointing to me in this book was that the detective in the outside story was so completely isolated. Would have helped me if she had had some kind of faithful sidekick or companion.
-
-rating: &#9733;&#9733;&#9733;
-
-related link: https://anthonyhorowitz.com/books/title/marble-hall-murders
-
-#Books
 	  </content>
 	</entry>
 </feed>
