@@ -14,7 +14,7 @@ Status: 9 - Published
 
 Short ID: whad
 
-Featured: true
+Featured: false
 
 Greatest Hits: false
 
@@ -34,9 +34,23 @@ Image Credit Link: https://www.istockphoto.com/photo/wilbur-and-orville-wright-s
 
 Date Added: 2026-03-02 12:08:57 -0800
 
-Date Modified: 2026-03-03 10:03:08 -0800
+Date Modified: 2026-03-20 14:09:25 -0700
 
 Timestamp: 20260302200857
+
+Page Style:
+
+ul.boxed-no-bullets { 
+	list-style-type: none; 
+    display:inline-block;
+    border:1px solid #888;
+    padding: 1.5em;
+    margin-left: 2em;
+}
+ul.boxed-no-bullets a {
+    border-bottom: none;
+}
+
 
 Teaser:
 
@@ -53,6 +67,7 @@ And then there’s a recent piece by Paul Krugman on “[The Economics of Techno
 
 But such comparisons generally fail to take into account the ways in which the generative AI tools being developed and touted today are fundamentally different from successful new technologies of the past. 
 
+{:inject: ul | boxed-no-bullets }
 {:toc}
 
 ## 1. No Well-Defined Process
@@ -89,7 +104,7 @@ Apple’s first computers were built in a garage. Amazon’s first website only 
 
 In all of these cases, new technologies were initially deployed with modest ambitions, and proved their worth in small scopes before gradually scaling up after demonstrating some initial success. 
 
-Compare these to AI, where the pace of server infrastructure construction has been so rapid as to already become a factor impacting energy costs for many consumers, even though we are still waiting to see any of this stuff actually prove its worth in terms of making any goods and service cheaper or more valuable. 
+Compare these to AI, where the pace of server infrastructure construction has been so rapid as to already become a factor impacting energy costs for many consumers, even though we are still waiting to see any of this stuff actually prove its worth in terms of making any goods and services cheaper or more valuable. 
 
 ## 5. The Nebulosity of the Value Proposition
 

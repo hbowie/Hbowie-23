@@ -171,7 +171,7 @@ let searchQuotes = [
 		title: "All children of our Earth",
 		date: "",
     url: "quotes/all-children-of-our-earth.html",
-		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Greek-American sociologist and physician Blueprint: The Evolutionary Origins of a Good Society "
+		content: "We were flying over America and suddenly I saw snow the first snow we ever saw from orbit I have never visited America but I imagined that the arrival of autumn and winter is the same there as in other places and the process of getting ready for them is the same And then it struck me that we are all children of our Earth Aleksandr Aleksandrov Russian cosmonaut Blueprint: The Evolutionary Origins of a Good Society "
 	},
 	{
 		title: "Always difficult decisions needing to be made",
@@ -447,7 +447,7 @@ let searchQuotes = [
 		title: "The Songs are my Lexicon",
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -789,19 +789,19 @@ let searchQuotes = [
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
@@ -849,19 +849,19 @@ let searchQuotes = [
 		title: "Relationships among groups",
 		date: "2019",
     url: "quotes/relationships-among-groups.html",
-		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In large societies that consist of many groups relationships among groups must embody the same principles as the relationships among individuals within groups This means that the core design principles are scale independent David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
@@ -1076,7 +1076,7 @@ let searchQuotes = [
 	{
 		title: "What would a new social compact look like?",
 		date: "2017",
-    url: "quotes/what-would-a-new-social-compact-look-like.html",
+    url: "quotes/what-would-a-new-social-compact-look-like-.html",
 		content: "What would a new social compact look like Since our crisis is political the solutions must stretch far beyond economics My own views do not always fit into twentieth century pigeonholes But I believe that protecting society s weakest from arbitrary misfortune is the ultimate test of our civilisational worth It seems blindingly obvious that universal healthcare ought to be a basic shield against the vicissitudes of an increasingly volatile labour market Humane immigration laws should be enforced and the link between public benefits and citizenship restored Ours is an age of lawyers and accountants Micro regulation of the workplace ought to be replaced with broad guideines free speech in whatever form it takes must be upheld on campuses and in the media the tax system should be ruthlessly simplified governments must tax bad things such as carbon rather than good things like jobs companies should be taxed where they conduct their business Governments must launch Marshall Plans to retrain their middle classes The nature of representative democracy should be re imagined Above all money s stranglehold on the legistlative process has to be broken Edward Luce English journalist and the *Financial Times* chief US commentator The Retreat of Western Liberalism "
 	},
 	{
@@ -1812,6 +1812,12 @@ let searchQuotes = [
 		content: "The increase of wealth is not boundless A stationary condition of capital and population implies no stationary state of human improvement There would be as much scope as ever for all kinds of mental culture and moral and social progress as much room for improving the art of living and much more likelihood of it being improved when minds ceased to be engrossed by the art of getting on John Stuart Mill English philosopher, political economist, Member of Parliament (MP) and civil servant  "
 	},
 	{
+		title: "The internal culture of the individual",
+		date: "1873",
+    url: "quotes/the-internal-culture-of-the-individual.html",
+		content: "The other important change which my opinions at this time underwent was that I for the first time gave its proper place among the prime necessities of human well being to the internal culture of the individual I ceased to attach almost exclusive importance to the ordering of outward circumstances and the training of the human being for speculation and for action John Stuart Mill English philosopher, political economist, Member of Parliament (MP) and civil servant Autobiography of John Stuart Mill "
+	},
+	{
 		title: "An assembly that meshes over a specific problem",
 		date: "2024-05-24",
     url: "quotes/an-assembly-that-meshes-over-a-specific-problem.html",
@@ -1832,7 +1838,7 @@ let searchQuotes = [
 	{
 		title: "Postel’s Law",
 		date: "1981",
-    url: "quotes/postels-law.html",
+    url: "quotes/postel-s-law.html",
 		content: "Be conservative in what you do be liberal in what you accept from others Jon Postel  Transmission Control Protocol Request For Comments RFC 793 "
 	},
 	{
@@ -2012,7 +2018,7 @@ let searchQuotes = [
 	{
 		title: "Your company’s purpose is its north star",
 		date: "2022",
-    url: "quotes/your-companys-purpose-is-its-north-star.html",
+    url: "quotes/your-company-s-purpose-is-its-north-star.html",
 		content: "It s never been more essential for CEOs to have a consistent voice a clear purpose a coherent strategy and a long term view Your company s purpose is its north star in this tumultuous environment Putting your company s purpose at the foundation of your relationships with your stakeholders is critical to long term success Larry Fink American billionaire businessman, chairman and CEO of BlackRock Letter to CEOs from Larry Fink in 2022 "
 	},
 	{
@@ -2282,7 +2288,7 @@ let searchQuotes = [
 	{
 		title: "First they came...",
 		date: "",
-    url: "quotes/first-they-came.html",
+    url: "quotes/first-they-came-.html",
 		content: "First they came for the communists and I didn t speak out because I wasn t a communist Then they came for the trade unionists and I didn t speak out because I wasn t a trade unionist Then they came for the Jews and I didn t speak out because I wasn t a Jew Then they came for me and there was no one left to speak out for me Martin Niemöller German theologian and Lutheran pastor unknown "
 	},
 	{
@@ -2402,7 +2408,7 @@ let searchQuotes = [
 	{
 		title: "Couldn’t everyone’s life become a work of art?",
 		date: "",
-    url: "quotes/couldnt-everyones-life-become-a-work-of-art.html",
+    url: "quotes/couldn-t-everyone-s-life-become-a-work-of-art-.html",
 		content: "What strikes me is the fact that in our society art has become something which is related only to objects and not to individuals or to life That art is something which is specialized or which is done by experts who are artists But couldn t everyone s life become a work of art Why should the lamp or the house be an art object but not our life Michel Foucault  unknown "
 	},
 	{
@@ -2516,7 +2522,7 @@ let searchQuotes = [
 	{
 		title: "What makes an activity meaningful?",
 		date: "",
-    url: "quotes/what-makes-an-activity-meaningful.html",
+    url: "quotes/what-makes-an-activity-meaningful-.html",
 		content: "A meaningful activity is oriented toward a goal one that if accomplished would have an impact on the world and this usually means that it has an impact on other people This activity has some structure it s the sort of thing that one can tell a story about It connects to spirituality and often connects to flow leading to experience of self loss and often brings you into close contact with other people and is often seen as morally virtuous Paul Bloom Canadian American psychologist The Sweet Spot "
 	},
 	{
@@ -3045,13 +3051,13 @@ let searchQuotes = [
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",
@@ -3272,50 +3278,50 @@ let searchQuotes = [
 	{
 		title: "Democracy has done more good than any other form of government.",
 		date: "1968",
-    url: "quotes/democracy-has-done-more-good-than-any-other-form-of-government.html",
+    url: "quotes/democracy-has-done-more-good-than-any-other-form-of-government-.html",
 		content: "All deductions having been made democracy has done less harm and more good than any other form of government It gave to human existence a zest and camaraderie that outweighed its pitfalls and defects It gave to thought and science and enterprise the freedom essential to their operation and growth It broke down the walls of privilege and class and in each generation it raised up ability from every rank and place Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "Every economic system must rely upon some form of the profit motive",
 		date: "1968",
     url: "quotes/every-economic-system-must-rely-upon-some-form-of-the-profit-motive.html",
-		content: "The experience of the past leaves little doubt that every economic system must sooner or later rely upon some form of the profit motive to stir individuals and groups to productivity Substitutes like slavery police supervision or ideological enthusiasm prove too unproductive too expensive or too transient Normally and generally men are judged by their ability to produce except in war when they are ranked according to their ability to destroy Will Durant American historian and philosopher The Lessons of History "
+		content: "The experience of the past leaves little doubt that every economic system must sooner or later rely upon some form of the profit motive to stir individuals and groups to productivity Substitutes like slavery police supervision or ideological enthusiasm prove too unproductive too expensive or too transient Normally and generally men are judged by their ability to produce except in war when they are ranked according to their ability to destroy Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "Evolution in man has been social rather than biological",
 		date: "1968",
     url: "quotes/evolution-in-man-has-been-social-rather-than-biological.html",
-		content: "Evolution in man during recorded time has been social rather than biological it has proceeded not by heritable variations in the species but mostly by economic political intellectual and moral innovation transmitted to individuals and generations by imitation custom or education Custom and tradition within a group correspond to type and heredity in the species and to instincts in the individual they are ready adjustments to typical and frequently repeated situations New situations however do arise requiring novel unstereotyped responses hence development in the higher organisms requires a capacity for experiment and innovation the social correlates of variation and mutation Social evolution is an interplay of custom with origination Will Durant American historian and philosopher The Lessons of History "
+		content: "Evolution in man during recorded time has been social rather than biological it has proceeded not by heritable variations in the species but mostly by economic political intellectual and moral innovation transmitted to individuals and generations by imitation custom or education Custom and tradition within a group correspond to type and heredity in the species and to instincts in the individual they are ready adjustments to typical and frequently repeated situations New situations however do arise requiring novel unstereotyped responses hence development in the higher organisms requires a capacity for experiment and innovation the social correlates of variation and mutation Social evolution is an interplay of custom with origination Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "The first condition of freedom is its limitation",
 		date: "1968",
     url: "quotes/the-first-condition-of-freedom-is-its-limitation.html",
-		content: "Since men love freedom and the freedom of individuals in society requires some regulation of conduct the first condition of freedom is its limitation make it absolute and it dies in chaos So the prime task of government is to establish order organized central force is the sole alternative to incalculable and disruptive force in private hands Will Durant American historian and philosopher The Lessons of History "
+		content: "Since men love freedom and the freedom of individuals in society requires some regulation of conduct the first condition of freedom is its limitation make it absolute and it dies in chaos So the prime task of government is to establish order organized central force is the sole alternative to incalculable and disruptive force in private hands Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "The full fruitage of instruction",
 		date: "1968",
     url: "quotes/the-full-fruitage-of-instruction.html",
-		content: "But what would be the full fruitage of instruction if every child should be schooled till at least his twentieth year and should find free access to the universities libraries and museums that harbor and offer the intellectual and artistic treasures of the race Consider education not as the painful accumulation of facts and dates and reigns nor merely the necessary preparation of the individual to earn his keep in the world but as the transmission of our mental moral technical and aesthetic heritage as fully as possible to as many as possible for the enlargement of man s understanding control embellishment and enjoyment of life Will Durant American historian and philosopher, The Lessons of History "
+		content: "But what would be the full fruitage of instruction if every child should be schooled till at least his twentieth year and should find free access to the universities libraries and museums that harbor and offer the intellectual and artistic treasures of the race Consider education not as the painful accumulation of facts and dates and reigns nor merely the necessary preparation of the individual to earn his keep in the world but as the transmission of our mental moral technical and aesthetic heritage as fully as possible to as many as possible for the enlargement of man s understanding control embellishment and enjoyment of life Will Durant American historian and philosopher The Lessons of History "
 	},
 	{
 		title: "History is a fragment of biology",
 		date: "1968",
     url: "quotes/history-is-a-fragment-of-biology.html",
-		content: "History is a fragment of biology the life of man is a portion of the vicissitudes of organisms on land and sea Sometimes wandering alone in the woods on a summer day we hear or see the movement of a hundred species of flying leaping creeping crawling burrowing things The startled animals scurry away at our coming the birds scatter the fish disperse in the brook Suddenly we perceive to what a perilous minority we belong on this impartial planet and for a moment we feel as these varied denizens clearly do that we are passing interlopers in their natural habitat Then all the chronicles and achievements of man fall humbly into the history and perspective of polymorphous life all our economic competition our strife for mates our hunger and love and grief and war are akin to the seeking mating striving and suffering that hide under these fallen trees or leaves or in the waters or on the boughs Will Durant American historian and philosopher, The Lessons of History "
+		content: "History is a fragment of biology the life of man is a portion of the vicissitudes of organisms on land and sea Sometimes wandering alone in the woods on a summer day we hear or see the movement of a hundred species of flying leaping creeping crawling burrowing things The startled animals scurry away at our coming the birds scatter the fish disperse in the brook Suddenly we perceive to what a perilous minority we belong on this impartial planet and for a moment we feel as these varied denizens clearly do that we are passing interlopers in their natural habitat Then all the chronicles and achievements of man fall humbly into the history and perspective of polymorphous life all our economic competition our strife for mates our hunger and love and grief and war are akin to the seeking mating striving and suffering that hide under these fallen trees or leaves or in the waters or on the boughs Will Durant American historian and philosopher The Lessons of History "
 	},
 	{
 		title: "Life is competition",
 		date: "1968",
     url: "quotes/life-is-competition.html",
-		content: "So the first biological lesson of history is that life is competition Competition is not only the life of trade it is the trade of life peaceful when food abounds violent when the mouths outrun the food Animals eat one another without qualm civilized men consume one another by due process of law Cooperation is real and increases with social development but mostly because it is a tool and form of competition we co operate in our group our family community club church party race or nation in order to strengthen our group in its competition with other groups Competing groups have the qualities of competing individuals acquisitiveness pugnacity partisanship pride Will Durant American historian and philosopher, The Lessons of History "
+		content: "So the first biological lesson of history is that life is competition Competition is not only the life of trade it is the trade of life peaceful when food abounds violent when the mouths outrun the food Animals eat one another without qualm civilized men consume one another by due process of law Cooperation is real and increases with social development but mostly because it is a tool and form of competition we co operate in our group our family community club church party race or nation in order to strengthen our group in its competition with other groups Competing groups have the qualities of competing individuals acquisitiveness pugnacity partisanship pride Will Durant American historian and philosopher The Lessons of History "
 	},
 	{
 		title: "Moral codes adjust themselves to conditions",
 		date: "1968",
     url: "quotes/moral-codes-adjust-themselves-to-conditions.html",
-		content: "Morals are the rules by which a society exhorts as laws are the rules by which it seeks to compel its members and associations to behavior consistent with its order security and growth A little knowledge of history stresses the variability of moral codes and concludes that they are negligible because they differ in time and place and sometimes contradict each other A larger knowledge stresses the universality of moral codes and concludes to their necessity Moral codes differ because they adjust themselves to historical and environmental conditions Will Durant American historian and philosopher, The Lessons of History "
+		content: "Morals are the rules by which a society exhorts as laws are the rules by which it seeks to compel its members and associations to behavior consistent with its order security and growth A little knowledge of history stresses the variability of moral codes and concludes that they are negligible because they differ in time and place and sometimes contradict each other A larger knowledge stresses the universality of moral codes and concludes to their necessity Moral codes differ because they adjust themselves to historical and environmental conditions Will Durant American historian and philosopher The Lessons of History "
 	},
 	{
 		title: "No cure for racial antipathies except a broadened education",
@@ -3327,7 +3333,7 @@ let searchQuotes = [
 		title: "What History Has To Say",
 		date: "1968",
     url: "quotes/what-history-has-to-say.html",
-		content: "Since man is a moment in astronomic time a transient guest of the earth a spore of his species a scion of his race a composite of body character and mind a member of a family and a community a believer or doubter of a faith a unit in an economy perhaps a citizen in a state or a soldier in an army we may ask under the corresponding heads astronomy geology geography biology ethnology psychology morality religion economics politics and war what history has to say about the nature conduct and prospects of man It is a precarious enterprise and only a fool would try to compress a hundred centuries into a hundred pages of hazardous conclusions We proceed Will Durant American historian and philosopher The Lessons of History "
+		content: "Since man is a moment in astronomic time a transient guest of the earth a spore of his species a scion of his race a composite of body character and mind a member of a family and a community a believer or doubter of a faith a unit in an economy perhaps a citizen in a state or a soldier in an army we may ask under the corresponding heads astronomy geology geography biology ethnology psychology morality religion economics politics and war what history has to say about the nature conduct and prospects of man It is a precarious enterprise and only a fool would try to compress a hundred centuries into a hundred pages of hazardous conclusions We proceed Will Durant American historian and philosopher, The Lessons of History "
 	},
 	{
 		title: "Art, Science and Empire",
@@ -3590,7 +3596,7 @@ let searchQuotes = [
 	{
 		title: "Why study history?",
 		date: "2015",
-    url: "quotes/why-study-history.html",
+    url: "quotes/why-study-history-.html",
 		content: "So why study history Unlike physics or economics history is not a means for making accurate predictions We study history not to know the future but to widen our horizons to understand that our present situation is neither natural nor inevitable and that we consequently have many more possibilities before us than we imagine Yuval Noah Harari Israeli public intellectual, historian and professor Sapiens: A Brief History of Humankind "
 	},
 	{

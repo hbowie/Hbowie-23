@@ -345,6 +345,7 @@ parenthood	parenthood.html	3	writings	Christmas Time's A-Coming
 parenthood	parenthood.html	3	writings	Santa Claus is Coming to Town	
 personal development	personal-development.html	3	writings	7 Habits of Highly Effective People	Stephen Covey
 play	play.html	3	writings	Settin' the Woods on Fire	Fred Rose and Ed G. Nelson
+population	population.html	3	writings	On The Passing of Paul Ehrlich	
 population	population.html	3	writings	Please, Can We Just Have Fewer Children?	
 population	population.html	3	writings	Some Hard Truths About Human Population Growth	
 progress	progress.html	3	writings	A Universal Improvement Process	
@@ -421,6 +422,7 @@ society	society.html	3	writings	The Issues Swirling around Spotify and its Conte
 society	society.html	3	writings	Undoing Trumpism	
 society	society.html	3	writings	Popping the Hood with the Notenik App	
 stories	stories.html	3	writings	1952 Vincent Black Lightning	Richard Thompson
+sustainability	sustainability.html	3	writings	On The Passing of Paul Ehrlich	
 sustainability	sustainability.html	3	writings	Please, Can We Just Have Fewer Children?	
 sustainability	sustainability.html	3	writings	Some Hard Truths About Human Population Growth	
 sustainability	sustainability.html	3	writings	Thinking Differently About Our Economy	

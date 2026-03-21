@@ -468,6 +468,7 @@ humanism	humanism.html	4	quotes	Cockpits with Instruments Controlled by Gremlins
 humanism	humanism.html	4	quotes	God and Morality	Frans de Waal
 humanism	humanism.html	4	quotes	Her faith had twisted very early in her childhood	Lauren Groff
 humanism	humanism.html	4	quotes	Imagination is not a means of making money	Ursula K. Le Guin
+humanism	humanism.html	4	quotes	The internal culture of the individual	John Stuart Mill
 humanism	humanism.html	4	quotes	An Invincible Summer	Albert Camus
 humanism	humanism.html	4	quotes	An Irreplaceable Compact	Edmund Crispin
 humanism	humanism.html	4	quotes	The modern horrors of bureaucracy	Amanda Cross

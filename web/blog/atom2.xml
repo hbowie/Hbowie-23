@@ -5,13 +5,79 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2026-03-03T18:19:48Z</updated>
+	<updated>2026-03-20T21:28:04Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
 		<email>herb@hbowie.net</email>
 		<uri>https://hbowie.net/</uri>
 	</author>
+	<entry>
+		<title>
+			Released Notenik Version 18.6.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.6.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-6-0</id>
+	  <published>2026-03-08T12:00:00Z</published>
+	  <updated>2026-03-08T22:36:09Z</updated>
+	  <content>
+Added an optional menu bar extra (for the right side of the menu bar); fixed limited Markdown parsing of the Title field to leave underscores within words undisturbed.
+
+related link: https://notenik.app/kb/version-18.6.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;Why AI is Different&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-why-ai-is-different.html"/>
+	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-why-ai-is-different-wright-brothers-stamp.jpg"/>
+	  <id>https://hbowie.net/blog/posts/published-why-ai-is-different-</id>
+	  <published>2026-03-05T12:00:00Z</published>
+	  <updated>2026-03-05T18:33:18Z</updated>
+	  <content>
+Eight ways in which AI is different from prior tech advances. My most surprising conclusion: &quot;AI is effectively a societal regression from information agriculture to information foraging.&quot;
+
+related link: https://hbowie.net/writings/why-ai-is-different.html
+
+#Ai #Tech
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 18.5.0
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.5.0.html"/>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-5-0</id>
+	  <published>2026-02-23T12:00:00Z</published>
+	  <updated>2026-03-08T22:26:51Z</updated>
+	  <content>
+Fixed an image-related bug in the Web Book Export as Site function; Eliminated unnecessary image icons in menu items; Added option for resolving relative wiki links when using the Share with Options function; Refinement of styling handling in note titles; Refinement of file naming to accommodate some meaningful punctuation characters.
+
+related link: https://notenik.app/kb/version-18.5.0.html
+
+#Notenik #Pkm
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published The Value of Autonomy
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-value-of-autonomy.html"/>
+	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-the-value-of-autonomy-handcuffs.jpg"/>
+	  <id>https://hbowie.net/blog/posts/published-the-value-of-autonomy</id>
+	  <published>2026-02-23T12:00:00Z</published>
+	  <updated>2026-03-04T20:48:40Z</updated>
+	  <content>
+I think we all understand instinctively why some degree of autonomy is important to every human: freedom feels good, and constraints often feel stifling and restrictive. But why is autonomy important *to our species*? Why, in other words, did we humans evolve to value autonomy, and to so regularly exercise it?
+
+related link: https://abouthumans.net/the-value-of-autonomy.html
+
+#Humanism
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Published An Appreciation for The Thin Man
@@ -53,7 +119,7 @@ related link: https://literatibookstore.com/book/9780735223394
 			Published &quot;My Education in Racial Superiority&quot;
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-my-education-in-racial-superiority.html"/>
-	  <id>https://hbowie.net/blog/posts/published-my-education-in-racial-superiority</id>
+	  <id>https://hbowie.net/blog/posts/published-my-education-in-racial-superiority-</id>
 	  <published>2026-02-11T12:00:00Z</published>
 	  <updated>2026-02-11T17:02:41Z</updated>
 	  <content>
@@ -71,7 +137,7 @@ related link: https://hbowie.net/writings/my-education-in-racial-superiority.htm
 			Released Notenik Version 18.4.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.4.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1840</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-4-0</id>
 	  <published>2026-02-10T12:00:00Z</published>
 	  <updated>2026-02-10T19:27:04Z</updated>
 	  <content>
@@ -87,7 +153,7 @@ related link: https://notenik.app/kb/version-18.4.0.html
 			Published &quot;Over Seventy Important Things&quot;
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-over-seventy-important-things.html"/>
-	  <id>https://hbowie.net/blog/posts/published-over-seventy-important-things</id>
+	  <id>https://hbowie.net/blog/posts/published-over-seventy-important-things-</id>
 	  <published>2026-01-30T12:00:00Z</published>
 	  <updated>2026-01-30T17:22:11Z</updated>
 	  <content>
@@ -103,7 +169,7 @@ related link: https://abouthumans.net/over-seventy-important-things.html
 			Released Notenik Version 18.3.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.3.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1830</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-3-0</id>
 	  <published>2026-01-29T12:00:00Z</published>
 	  <updated>2026-01-29T21:16:02Z</updated>
 	  <content>
@@ -119,7 +185,7 @@ related link: https://notenik.app/kb/version-18.3.0.html
 			Published &quot;New Speedway Boogie&quot;
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-new-speedway-boogie.html"/>
-	  <id>https://hbowie.net/blog/posts/published-new-speedway-boogie</id>
+	  <id>https://hbowie.net/blog/posts/published-new-speedway-boogie-</id>
 	  <published>2026-01-16T12:00:00Z</published>
 	  <updated>2026-01-16T21:18:26Z</updated>
 	  <content>
@@ -135,7 +201,7 @@ related link: https://hbowie.net/writings/new-speedway-boogie.html
 			Released Notenik Version 18.2.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.2.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1820</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-2-0</id>
 	  <published>2026-01-07T12:00:00Z</published>
 	  <updated>2026-01-16T21:15:54Z</updated>
 	  <content>
@@ -151,7 +217,7 @@ related link: https://notenik.app/kb/version-18.2.0.html
 			Released Notenik Version 18.1.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.1.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1810</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-1-0</id>
 	  <published>2025-12-12T12:00:00Z</published>
 	  <updated>2025-12-15T17:28:29Z</updated>
 	  <content>
@@ -185,7 +251,7 @@ related link: https://www.theguardian.com/books/2024/mar/11/the-hunter-by-tana-f
 			Released Notenik Version 18.0.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18.0.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1800</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-18-0-0</id>
 	  <published>2025-11-14T12:00:00Z</published>
 	  <updated>2025-11-14T18:25:38Z</updated>
 	  <content>
@@ -201,7 +267,7 @@ related link: https://notenik.app/kb/version-18.0.0.html
 			Released Notenik Version 17.9.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.9.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1790</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17-9-0</id>
 	  <published>2025-10-30T12:00:00Z</published>
 	  <updated>2025-11-14T18:24:13Z</updated>
 	  <content>
@@ -217,7 +283,7 @@ related link: https://notenik.app/kb/version-17.9.0.html
 			Published &quot;The Problem with AI Art&quot;
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-problem-with-ai-art.html"/>
-	  <id>https://hbowie.net/blog/posts/published-the-problem-with-ai-art</id>
+	  <id>https://hbowie.net/blog/posts/published-the-problem-with-ai-art-</id>
 	  <published>2025-10-17T12:00:00Z</published>
 	  <updated>2025-10-17T23:49:11Z</updated>
 	  <content>
@@ -233,7 +299,7 @@ related link: https://hbowie.net/writings/the-problem-with-ai-art.html
 			Released Notenik Version 17.8.0
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.8.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1780</id>
+	  <id>https://hbowie.net/blog/posts/released-notenik-version-17-8-0</id>
 	  <published>2025-10-14T12:00:00Z</published>
 	  <updated>2025-10-17T23:44:08Z</updated>
 	  <content>
@@ -249,7 +315,7 @@ related link: https://notenik.app/kb/version-17.8.0.html
 			Published &quot;Pay It No Mind&quot;
 		</title>
 	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-pay-it-no-mind.html"/>
-	  <id>https://hbowie.net/blog/posts/published-pay-it-no-mind</id>
+	  <id>https://hbowie.net/blog/posts/published-pay-it-no-mind-</id>
 	  <published>2025-10-07T12:00:00Z</published>
 	  <updated>2025-10-07T22:20:14Z</updated>
 	  <content>
@@ -276,76 +342,6 @@ rating: &#9733;&#9733;&#9733;&#9733;
 related link: https://www.pbs.org/wgbh/masterpiece/shows/unforgotten/
 
 #Unforgotten
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.7.0
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.7.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1770</id>
-	  <published>2025-09-29T12:00:00Z</published>
-	  <updated>2025-10-07T22:20:43Z</updated>
-	  <content>
-Fixed a few problems, some caused by Tahoe, some just bugs accidentally introduced by me.
-
-related link: https://notenik.app/kb/version-17.7.0.html
-
-#Notenik #Pkm #Tahoe
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished watching *American Utopia* by David Byrne
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/watched-american-utopia.html"/>
-	  <id>https://hbowie.net/blog/posts/watched-american-utopia</id>
-	  <published>2025-09-21T12:00:00Z</published>
-	  <updated>2025-09-22T23:45:08Z</updated>
-	  <content>
-I enjoyed this. Spike Lee&apos;s direction seems to do a good job of translating the stage production to film, without any obtrusive directorial flourishes. It&apos;s a good mix of music, and it&apos;s remarkable to see the barefoot musicans also performing as dancers, aided by technology that allows them to flow around the stage and around each other without any wires. It&apos;s a moving display of the ability of humans to remain connected to one another, in terms of music and dance and mood and intention, despite their distinctively individual roles and abilities and appearances. The overall theme of connection reminded me a bit of this quote from Ross MacDonald:
-
-&gt; I had to admit to myself that I lived for nights like these, moving across the city’s great broken body, making connections among its millions of cells. I had a crazy wish or fantasy that some day before I died, if I made all the right neural connections, the city would come all the way alive. Like the Bride of Frankenstein.
-
-rating: &#9733;&#9733;&#9733;&#9733;
-
-related link: https://en.wikipedia.org/wiki/American_Utopia_(film)
-
-#Film
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.6.0
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.6.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-1760</id>
-	  <published>2025-09-20T12:00:00Z</published>
-	  <updated>2025-09-20T17:44:45Z</updated>
-	  <content>
-Just made my first post-Tahoe release for Notenik, with the following changes: Updated app icon for Tahoe; tweaked some UI details for Tahoe; added optional linkage between Class and Level fields; added a new Long Title field type, for use when a longer title should replace the traditional one at the note display level.
-
-related link: https://notenik.app/kb/version-17.6.0.html
-
-#Notenik #Pkm #Tahoe
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished watching *Highest 2 Lowest* by Spike Lee
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/watched-highest-2-lowest.html"/>
-	  <id>https://hbowie.net/blog/posts/watched-highest-2-lowest</id>
-	  <published>2025-09-18T12:00:00Z</published>
-	  <updated>2025-09-18T15:42:54Z</updated>
-	  <content>
-I really enjoyed this film. There are just so many interesting facets to it. Denzel Washington is so entertaining, and completely inhabits his role. Dean Winter — the actor who plays the chaos agent  in the Allstate &quot;mayhem&quot; commercials — plays a white detective, and gets to reprise that role when he is plowing his police car through a crowd while in pursuit of a suspect. (References to &quot;mayhem&quot; are also amusingly dropped into the script from time to time.) The film is part crime film, part action film, but ultimately is a meditation on what matters most in our lives, and how we have to let go of some things, and risk losing others, in order to keep the things that are most important.
-
-rating: &#9733;&#9733;&#9733;&#9733;
-
-related link: https://en.wikipedia.org/wiki/Highest_2_Lowest
-
-#Film
 	  </content>
 	</entry>
 </feed>

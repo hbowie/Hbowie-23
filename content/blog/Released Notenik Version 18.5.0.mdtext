@@ -1,0 +1,17 @@
+Title:  Released Notenik Version 18.5.0
+
+Tags:   Notenik, PKM
+
+Link:   https://notenik.app/kb/version-18.5.0.html
+
+Class:  general
+
+Date:   2026-02-23
+
+Date Modified: 2026-03-08 15:26:51 -0700
+
+Body:
+
+Fixed an image-related bug in the Web Book Export as Site function; Eliminated unnecessary image icons in menu items; Added option for resolving relative wiki links when using the Share with Options function; Refinement of styling handling in note titles; Refinement of file naming to accommodate some meaningful punctuation characters.  
+
+
