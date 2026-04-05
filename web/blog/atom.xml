@@ -5,8 +5,48 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom.xml"/>
 	<id>https://hbowie.net/blog/atom.xml</id>
-	<updated>2026-03-20T21:28:03Z</updated>
+	<updated>2026-04-05T18:26:05Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
+	<entry>
+		<title>
+			Released Notenik Version 18.7.0
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18-7-0.html"/>
+	  <link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/released-notenik-version-18.7.0-icon.jpg"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-18-7-0</id>
+	  <published>2026-03-24T12:00:00Z</published>
+	  <updated>2026-03-25T17:19:03Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>Massaged the title parser a bit more to respect embedded HTML line breaks, but mostly this release gets Notenik a little bit closer to being useful for preparing and delivering a presentation (aka &#8220;slide deck&#8221;). </p> 
+		  <p><a href="https://notenik.app/kb/version-18.7.0.html">notenik.app/kb/version-18.7.0.html</a></p>
+		  <p>#Notenik #Pkm</p>
+		  ]]>
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Published &quot;On The Passing of Paul Ehrlich&quot;
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-on-the-passing-of-paul-ehrlich.html"/>
+	  <link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-on-the-passing-of-paul-ehrlich-istock.jpg"/>
+	  <id>https://hbowie.net/blog/published-on-the-passing-of-paul-ehrlich</id>
+	  <published>2026-03-21T12:00:00Z</published>
+	  <updated>2026-03-21T23:48:14Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>For some he seemed to be a hero, while others considered him to be a demon. Let&#8217;s dive below the surface to see if we can unearth a more nuanced view. </p> 
+		  <p><a href="https://hbowie.net/writings/on-the-passing-of-paul-ehrlich.html">hbowie.net/writings/on-the-passing-of-paul-ehrlich.html</a></p>
+		  <p>#Population</p>
+		  ]]>
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Released Notenik Version 18.6.0
@@ -31,9 +71,9 @@
 		<title>
 			Published &quot;Why AI is Different&quot;
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-why-ai-is-different-.html"/>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-why-ai-is-different.html"/>
 	  <link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-why-ai-is-different-wright-brothers-stamp.jpg"/>
-	  <id>https://hbowie.net/blog/published-why-ai-is-different-</id>
+	  <id>https://hbowie.net/blog/published-why-ai-is-different</id>
 	  <published>2026-03-05T12:00:00Z</published>
 	  <updated>2026-03-05T18:33:18Z</updated>
 	  <author>
@@ -132,8 +172,8 @@
 		<title>
 			Published &quot;My Education in Racial Superiority&quot;
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-my-education-in-racial-superiority-.html"/>
-	  <id>https://hbowie.net/blog/published-my-education-in-racial-superiority-</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-my-education-in-racial-superiority.html"/>
+	  <id>https://hbowie.net/blog/published-my-education-in-racial-superiority</id>
 	  <published>2026-02-11T12:00:00Z</published>
 	  <updated>2026-02-11T17:02:41Z</updated>
 	  <author>
@@ -172,8 +212,8 @@
 		<title>
 			Published &quot;Over Seventy Important Things&quot;
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-over-seventy-important-things-.html"/>
-	  <id>https://hbowie.net/blog/published-over-seventy-important-things-</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-over-seventy-important-things.html"/>
+	  <id>https://hbowie.net/blog/published-over-seventy-important-things</id>
 	  <published>2026-01-30T12:00:00Z</published>
 	  <updated>2026-01-30T17:22:11Z</updated>
 	  <author>
@@ -210,8 +250,8 @@
 		<title>
 			Published &quot;New Speedway Boogie&quot;
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-new-speedway-boogie-.html"/>
-	  <id>https://hbowie.net/blog/published-new-speedway-boogie-</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-new-speedway-boogie.html"/>
+	  <id>https://hbowie.net/blog/published-new-speedway-boogie</id>
 	  <published>2026-01-16T12:00:00Z</published>
 	  <updated>2026-01-16T21:18:26Z</updated>
 	  <author>
@@ -325,8 +365,8 @@
 		<title>
 			Published &quot;The Problem with AI Art&quot;
 		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-problem-with-ai-art-.html"/>
-	  <id>https://hbowie.net/blog/published-the-problem-with-ai-art-</id>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-problem-with-ai-art.html"/>
+	  <id>https://hbowie.net/blog/published-the-problem-with-ai-art</id>
 	  <published>2025-10-17T12:00:00Z</published>
 	  <updated>2025-10-17T23:49:11Z</updated>
 	  <author>
@@ -356,45 +396,6 @@
 		  <![CDATA[<p>Fixed a few problems, and added an export scripting module, so that a web book can be exported via a Notenik script. </p> 
 		  <p><a href="https://notenik.app/kb/version-17.8.0.html">notenik.app/kb/version-17.8.0.html</a></p>
 		  <p>#Notenik #Pkm</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;Pay It No Mind&quot;
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-pay-it-no-mind-.html"/>
-	  <id>https://hbowie.net/blog/published-pay-it-no-mind-</id>
-	  <published>2025-10-07T12:00:00Z</published>
-	  <updated>2025-10-07T22:20:14Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>“Pay It No Mind” is a lovely little song from Sarah Jarosz, and seems like a perfect accompaniment for the times we find ourselves in, so I wrote up a little appreciation for it. </p> 
-		  <p><a href="https://hbowie.net/writings/pay-it-no-mind.html">hbowie.net/writings/pay-it-no-mind.html</a></p>
-		  <p>#Songs</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Finished watching *Unforgotten Season 6* by Chris Lang
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/finished-watching-unforgotten-season-6.html"/>
-	  <id>https://hbowie.net/blog/finished-watching-unforgotten-season-6</id>
-	  <published>2025-10-01T12:00:00Z</published>
-	  <updated>2025-10-02T16:45:19Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>Finished watching the PBS Masterpiece Mystery series season 6 of Unforgotten, and it was really good. I&#8217;ve watched lots of Masterpiece Mystery shows and similar fare, and after a while they seem to lean more into the appeal of their folksy detectives, and away from their plots and characters. This series went completely in the opposite direction. So many rich characters, and so much great acting, and so many interesting stories within the story! And very contemporary and topical, in interesting and unexpected ways. Good stuff! </p> 
-		  <p>rating: &#9733;&#9733;&#9733;&#9733;</p>
-		  <p><a href="https://www.pbs.org/wgbh/masterpiece/shows/unforgotten/">www.pbs.org/wgbh/masterpiece/shows/unforgotten/</a></p>
-		  <p>#Unforgotten</p>
 		  ]]>
 	  </content>
 	</entry>

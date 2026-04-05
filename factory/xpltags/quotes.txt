@@ -91,6 +91,24 @@ balance	balance.html	4	quotes	Fruitful tension	Trygve Throntveit
 balance	balance.html	4	quotes	It is foolish to view realism and idealism as incompatible	John McCain
 balance	balance.html	4	quotes	When Growth Becomes a Supreme Good	Yuval Noah Harari
 balance	balance.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart
+belief	belief.html	4	quotes	Art presents us with a window into the minds of these people	Genevieve von Petzinger
+belief	belief.html	4	quotes	Belief in Impossible Things	Tom DeMarco and Timothy Lister
+belief	belief.html	4	quotes	Belief is the end of Observation	Milton Glaser
+belief	belief.html	4	quotes	Conflict of interests and beliefs was inescapable	Edmund Fawcett
+belief	belief.html	4	quotes	Cultures as a kind of mental infection	Yuval Noah Harari
+belief	belief.html	4	quotes	Exponential growth in a finite world	Kenneth Boulding
+belief	belief.html	4	quotes	In front of your nose	George Orwell
+belief	belief.html	4	quotes	Rough consensus and running code	David D. Clark
+belief	belief.html	4	quotes	Sacred values	David R. Samson
+belief	belief.html	4	quotes	Six Impossible Things Before Breakfast	Lewis Carroll
+belief	belief.html	4	quotes	The Songs are my Lexicon	Bob Dylan
+belief	belief.html	4	quotes	Thinking's a Dizzy Business	Dashiell Hammett
+belief	belief.html	4	quotes	Trust in the Future	Yuval Noah Harari
+belief	belief.html	4	quotes	Two ideas of government	William Jennings Bryan
+belief	belief.html	4	quotes	Unlike cynicism, hopefulness is hard-earned	Nick Cave
+belief	belief.html	4	quotes	A vast repository of information learned and passed down from previous generations	David Sloan Wilson
+belief	belief.html	4	quotes	We must welcome the stranger	Bibi Bahrami
+belief	belief.html	4	quotes	A world that is tolerable	Walter Mosley
 change	change.html	4	quotes	Change is the one constant when it comes to culture	Wade Davis
 communication	communication.html	4	quotes	The press is so powerful in its image-making role	Malcolm X
 communication	communication.html	4	quotes	We bludgeon one another with facts and theories	Henry Miller
