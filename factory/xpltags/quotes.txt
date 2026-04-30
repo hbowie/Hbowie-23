@@ -870,6 +870,7 @@ value creation	value-creation.html	4	quotes	Workers demanding more from their em
 value creation	value-creation.html	4	quotes	A Work Ethic Gone Mad	Matthew Stewart
 value creation	value-creation.html	4	quotes	Work, Soul and Life	Albert Camus
 value creation	value-creation.html	4	quotes	Worshipping the divine right of capital	Tim O'Reilly
+value creation	value-creation.html	4	quotes	The wreckers against the builders	Kurt Vonnegut
 value creation	value-creation.html	4	quotes	The yen to work drops in flat economies	Edward Luce
 value creation	value-creation.html	4	quotes	You have to create more than you consume	Jeff Bezos
 wisdom	wisdom.html	4	quotes	We must discover wisdom for ourselves	Marcel Proust

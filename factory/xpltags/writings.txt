@@ -25,6 +25,7 @@ Christmas	christmas.html	3	writings	Boogie Woogie Santa Claus	Leon René
 Christmas	christmas.html	3	writings	The Christmas Song	
 Christmas	christmas.html	3	writings	Santa Claus is Coming to Town	
 US politics	us-politics.html	3	writings	Why It's a Bad Time to be a Conservative	
+US politics	us-politics.html	3	writings	Our Cultural Confusion	
 US politics	us-politics.html	3	writings	Welcome To The Autonomous States of America	
 US politics	us-politics.html	3	writings	The Progressive Problem	
 US politics	us-politics.html	3	writings	A Baker’s Dozen of Post-Election Thoughts & Feelings	
@@ -132,6 +133,7 @@ cultural evolution	cultural-evolution.html	3	writings	Cooperation, Competition a
 cultural evolution	cultural-evolution.html	3	writings	Have We Passed The Point of Maximum Useful Tech?	
 cultural evolution	cultural-evolution.html	3	writings	Talking Openly about Hierarchy	
 cultural evolution	cultural-evolution.html	3	writings	A Broadcast Consciousness	
+cultural evolution	cultural-evolution.html	3	writings	Our Cultural Confusion	
 cultural evolution	cultural-evolution.html	3	writings	Life is Complicated	
 cultural evolution	cultural-evolution.html	3	writings	The Personal vs. The Institutional	
 cultural evolution	cultural-evolution.html	3	writings	Citizen Kane vs. Citizen Bailey	

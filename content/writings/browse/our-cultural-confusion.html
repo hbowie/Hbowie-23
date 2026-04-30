@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Our Cultural Confusion</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+/* The following CSS comes from the darkModeAdjustments 
+   method of the DisplayPrefs class within Notenik. */
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --link-hover-color: Blue;
+    --background-hover-color: #f0f0f0;
+    --link-visited-color: Purple;
+    --link-active-color: Red;
+    --background-active-color: #e0e0e0;
+    --code-color: #d81b60;
+    --preformatted-color: #444;
+    --accent-bg: #f5f7ff;
+    --border: #898EA4;
+    --highlight-color: Gainsboro;
+    --bg: #fff;
+    --accent-bg: #f5f7ff;
+}
+a.ext-link::after {
+    content: "";
+    width: 0.9em;
+    height: 0.9em;
+    margin-left: 0.2em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --code-color: #f06292;
+    --preformatted-color: #ccc;
+    --accent-bg: #2b2b2b;
+    --highlight-color: DimGray;
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+}
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+/* End of darkModeAdjustments code. */
+/* The following CSS comes from the displayCSS method of the
+   DisplayPrefs class within Notenik.                        */
+:root {
+    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    --standard-border-radius: 5px;
+}
+body {
+  tab-size: 4;
+  margin: 1em 1em 1em 1.1em;
+  max-width: 50em; 
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;/* fontCSS insertion starts here */
+font-family: "Century Supra B", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16pt;
+/* fontCSS insertion ends here   */
+}
+img { max-width: 100%; border: 4px solid gray; }
+img.no-border { max-width: 100%; border: 0; }
+/* body { max-width: 33em; margin: 0 auto; float: none; } */
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+body > footer {
+    margin-top: 4rem;
+    text-align: center;
+}
+/* Consolidate box styling */
+aside, pre, progress {
+  background-color: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
+}
+aside {
+  font-size: 1rem;
+  width: 30%;
+  padding: 0 15px;
+  margin-inline-start: 15px;
+  float: right;
+}
+*[dir="rtl"] aside {
+  float: left;
+}
+
+/* Make aside full-width on mobile */
+@media only screen and (max-width: 720px) {
+  aside {
+    width: 100%;
+    float: none;
+    margin-inline-start: 0;
+  }
+}
+blockquote {
+    margin: 0.25em 0;
+    padding: 0.35em 40px;
+    line-height: 1.45;
+    position: relative;
+}
+
+blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: var(--highlight-color);
+}
+blockquote.attribution-following {
+    margin-bottom: 0;
+}
+.quote-from {
+    margin-block-start: 0.1rem;
+    margin-block-end: 0.5rem;
+    margin: 0rem 0 1.5em 0;
+    padding: 0.25rem 2em;
+    padding-left: 1.3em;
+    padding-right: 4.6em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    line-height: 1.45;
+    position: relative;
+}
+.quote-from:before {
+    display: block;
+    padding-left: 0;
+    content: "\2014";
+    position: absolute;
+    left: 0;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* --------------------------------------------------
+
+  Lists
+
+* -------------------------------------------------- */
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+p.nnk-tags-repl-nav-up {
+        font-style: italic;
+}
+p.nnk-tags {
+        font-style: italic;
+        width: 100%;
+        text-align: right;
+        clear: both;
+}
+ul ul {
+    margin-block-start: 0;
+    margin-block-end: 0.8em;
+}
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+ul.outline-ul {
+    list-style-type: none;
+}
+ul.outline-list {
+    list-style-type: none;
+}
+ul.outline-ul-within-details {
+    list-style-type: none;
+}
+li.outline-li-bullet {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+details {
+    margin-left: 2.2em;
+}
+summary {
+    margin-left: -2.2em;
+    margin-bottom: 0;
+}
+details > summary:first-of-type {
+    list-style-position: outside;
+}
+/* --------------------------------------------------
+
+  Other stuff
+
+* -------------------------------------------------- */
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.hashtag {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+nav ul li a.wiki-link {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.nnk-header a:link {
+    text-decoration: none;
+    border-bottom: none; 
+}
+
+footer.nnk-footer {
+    clear: both;
+    border-top: 1px dashed var(--text-color);
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: right;
+}
+
+footer.nnk-footer p {
+    padding-top: 0.5em;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.heading-1-details {
+    margin-left: 2.2em;
+}
+.heading-2-details {
+    margin-left: 2.2em;
+}
+.heading-3-details {
+    margin-left: 2.2em;
+}
+.heading-4-details {
+    margin-left: 2.2em;
+}
+.heading-5-details {
+    margin-left: 2.2em;
+}
+.heading-6-details {
+    margin-left: 2.2em;
+}
+
+.heading-1-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-2-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-3-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-4-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-5-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+.heading-6-summary {
+    margin-left: -2.2em;
+    margin-bottom: 0.5em;
+}
+pre {
+    
+}
+code {
+    font-family: var(--mono-font);
+    color: var(--code-color);
+}
+pre {
+  padding: 1rem 1.4rem;
+  max-width: 100%;
+  overflow-x: auto;
+  color: var(--preformatted-color);
+}
+
+/* Fix embedded code within pre */
+pre code {
+  color: var(--preformatted-color);
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Classes for notices */
+.notice {
+  background: var(--accent-bg);
+  border: 2px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+article, fieldset, dialog {
+  border: 1px solid var(--border);
+  padding: 1rem;
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
+}
+
+article h2:first-child,
+section h2:first-child,
+article h3:first-child,
+section h3:first-child {
+  margin-top: 1rem;
+}
+
+/* Make the header bg full width, but the content inline with body */
+body > header {
+  background-color: var(--accent-bg);
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 0 0.5rem 2rem 0.5rem;
+  grid-column: 1 / -1;
+}
+
+body > header > *:only-child {
+  margin-block-start: 2rem;
+}
+
+body > header h1 {
+  max-width: 1200px;
+  margin: 1rem auto;
+}
+
+body > header p {
+  max-width: 40rem;
+  margin: 1rem auto;
+}
+
+header.nnk-header {
+    background-color: var(--background-color);
+    text-align: center;
+    border-bottom: none;
+    max-width: none;
+    padding: 0 0 0 0;
+}
+
+/* Format navigation */
+header > nav {
+  font-size: 1rem;
+  line-height: 2;
+  padding: 1rem 0 0 0;
+}
+
+/* Use flexbox to allow items to wrap, as needed */
+header > nav ul,
+header > nav ol {
+  align-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* List items are inline elements, make them behave more like blocks */
+header > nav ul li,
+header > nav ol li {
+  display: inline-block;
+}
+
+header > nav a,
+header > nav a:visited {
+  margin: 0 0.5rem 1rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  color: var(--text);
+  display: inline-block;
+  padding: 0.1rem 1rem;
+  text-decoration: none;
+}
+
+header > nav a:hover,
+header > nav a.current,
+header > nav a[aria-current="page"],
+header > nav a[aria-current="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
+  cursor: pointer;
+}
+
+/* Reduce nav side on mobile */
+@media only screen and (max-width: 720px) {
+  header > nav a {
+    border: none;
+    padding: 0;
+    text-decoration: underline;
+    line-height: 1;
+  }
+}
+
+nav.nnk-nav {
+    float: right;
+    font-style: italic;
+}
+
+nav.nnk-nav ul {
+    margin-top: 0;
+}
+
+nav.nnk-nav ul li {
+    display: inline;
+}
+
+nav.nnk-nav ul li a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+div.slide {
+    max-width: 40em;
+}
+
+h1.pitch {
+    margin-top: 4em;
+    margin-bottom: 6em;
+}
+
+hr.pitch-divider-1 {
+    border-width: 2px;
+}
+
+main.pitch {
+    min-height: 25em;
+}
+
+div.left-right-center {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.content-container {
+    display: flex;
+}
+
+div.content-item {
+  flex-grow: 1;
+}
+
+div.content-item + div.content-item { 
+  margin-left: 2%; 
+}
+
+div.top-divider {
+    display: flex;
+}
+
+div.top-divider-hr {
+  flex-grow: 1;
+}
+
+div.top-divider-links {
+  flex-grow: 0;
+}
+
+div.top-divider-hr + div.top-divider-links { 
+  margin-left: 2%; 
+}
+/* Generated CSS for headings follows. */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Heliotrope 3", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 0.7em;
+    margin-bottom: 0.2em;
+    font-style: normal;
+}
+h1 {
+    text-align: left;
+    font-size: 2.0em;
+}
+h2 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.2em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.0em;
+}
+
+</style>
+</head>
+<body>
+
+<main>
+<p>11 <a href="https://ntnk.app/society" class="nav-link">Society</a>&#160;&#8593;</p><h1 id="ourculturalconfusion" style="clear:both;">11.26 Our Cultural Confusion</h1>
+<p>Minutes to Read: 7</p><p>Our current confusions about <em>culture</em> are causing several significant problems for modern human society. </p>
+
+<p>Let’s dive under the hood to see what we can figure out. </p>
+
+<section id="section-for-a-multiplicity-of-meanings">
+
+<h2 id="a-multiplicity-of-meanings">A Multiplicity of Meanings</h2>
+
+<p>Let’s start with what we mean by the term <em>culture</em>. </p>
+
+<p>We commonly use the word to mean a number of different things, so it’s no wonder we find it hard to agree about it. </p>
+
+<p>In order to ground the following discussion, let me offer the following quotation, in which the author talks about what we mean by culture — in the broadest sense — and why it’s so important to us. </p>
+
+<blockquote>
+
+<p>The key to understanding how humans evolved and why we are so different from other animals is to recognize that we are a cultural species. Probably over a million years ago, members of our evolutionary lineage began learning from each other in such a way that culture became cumulative. That is, hunting practices, tool-making skills, tracking know-how, and edible-plant knowledge began to improve and aggregate — by learning from others — so that one generation could build on and hone the skills and know-how gleaned from the previous generation. </p>
+</blockquote>
+
+<p class="quote-from"><a href="https://en.wikipedia.org/wiki/Joseph_Henrich" class="ext-link" target="_blank" rel="noopener">Joseph Henrich</a>, 2016, from the book <cite>The Secret of Our Success: How Culture is Driving Human Evolution, Domesticating our Species, and Making us Smarter</cite></p>
+
+</section>
+
+<section id="section-for-the-left-vs-the-right">
+
+<h2 id="the-left-vs-the-right">The Left vs. The Right</h2>
+
+<p>Our human belief systems have mostly hardened into two rigid ideologies. </p>
+
+<p>And these two different worldviews tend to think and talk about <em>culture</em> in very different ways. </p>
+
+<p>Let’s start with the Left. </p>
+
+<p>This group worships culture, but mostly in written form. They believe in science and in great works of art. They value books. And they place a premium oon culture that has some sort of <em>universal</em> appeal to all humans. </p>
+
+<p>But looking back at the examples offered by Henrich in our opening quote, we can see that the forms of culture preferred by the Left leave a lot out: “hunting practices, tool-making skills, tracking know-how, and edible-plant knowledge” tend to be very <em>localized</em>, rather than being universal. And it is this sort of localized knowledge that allowed humans to successfully adapt so that we could live pretty much anyplace on Earth. And our genes have evolved to help us accumulate this localized knowledge via mutual improvement of shared <em>culture</em>, rather than inbred instincts.  </p>
+
+<p>So now let’s look at the forms of culture favored by the Right. </p>
+
+<p>This group tends to place its faith in culture particular to a specific region, to a specific language, and culture that is often passed down and shared orally, culture that helps people survive and thrive through imitation of their ancestors, and conformance to norms demonstrated by those physically around them. </p>
+
+<p>So which view is correct? </p>
+
+<p>Well&#8230; they both are! </p>
+
+<p>And so, we modern humans seem to spend much of our time arguing about which form of culture is the right one, when any sort of impartial consideration would be forced to conclude that they’re both right. </p>
+
+<blockquote>
+
+<p>In all intellectual debates, both sides tend to be correct in what they affirm, and wrong in what they deny. </p>
+</blockquote>
+
+<p class="quote-from"><a href="https://en.wikipedia.org/wiki/John_Stuart_Mill" class="ext-link" target="_blank" rel="noopener">John Stuart Mill</a></p>
+
+</section>
+
+<section id="section-for-dunbars-number">
+
+<h2 id="dunbars-number">Dunbar’s Number</h2>
+
+<p>Here it may be instructive to take a quick detour to explore <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number" class="ext-link" target="_blank" rel="noopener">Dunbar’s Number</a>. </p>
+
+<p>This is just the maximum number of people you can feel like you know, and who know you. </p>
+
+<p>But we can also think of it as the group of people you probably trust to share useful cultural learnings with you. </p>
+
+<p>And I tend to think that we can also think of it as Dunbar’s <em>stack</em> — the number of trusted acquaintances we want around us to help us feel comfortable navigating the world in which we find ourselves. </p>
+
+</section>
+
+<section id="section-for-our-changing-landscape">
+
+<h2 id="our-changing-landscape">Our Changing Landscape</h2>
+
+<p>Thanks to a combination of technology and population pressure, our modern landscape is changing so fast that it’s hard to keep up. More people. Urban sprawl. Compressed living spaces. New technologies. Globalization. Migration. Climate change. Invasive species. Depleted natural resources. Rising costs, especially for housing, autos and food. </p>
+
+<p>All of these changes require us to adapt, and how are humans genetically programmed to perform adaptation? Through our culture! </p>
+
+</section>
+
+<section id="section-for-a-cultural-void">
+
+<h2 id="a-cultural-void">A Cultural Void</h2>
+
+<p>Now, again referring back to the opening quotation from Henrich, we can see that culture is meant to be useful and practical. Our ability to share cultural learnings is what gives us a leg up over other species. </p>
+
+<p>So how is our current culture faring on this front? </p>
+
+<p>Well, if we look at geographic areas that tend to lean Right, we often find that the localized skills passed down and around are not really all that useful these days. When farming has become industrialized, then the farming know-how passed down from your parents is not going to get you very far. Same thing with mining, or working in the local factory, after those things have shut down. When the land around you once used for farming becomes the latest plot to be <a href="https://www.seattletimes.com/seattle-news/climate-lab/data-centers-replace-fruit-orchards-in-changing-central-wa" class="ext-link" target="_blank" rel="noopener">taken over for a new data center</a>, then the skills of your parents will not really be all that helpful. And when everyone is getting their food from the grocery store — whether that’s Whole Foods or Safeway or Costco or Walmart or Fred Meyer — then familiarity with local plants and animals is probably not all that relevant either. </p>
+
+<p>No wonder so many of these folks feel a bit abandoned, because they’ve largely inherited localized cultures that are mainly relevant for hunting and fishing — which, come to think of it, is probably why they hang on so tightly to those practices. </p>
+
+<p>So now let’s look at those who lean more towards the Left. They may have gone to college to learn more academic and professional skills. So the tool they’re now most comfortable with is probably the office software suite provided by Google or Microsoft, helping them to write documents, prepare spreadsheets, and make presentations. And they may have picked up a few tribal signifiers along the way to help indicate that they are more aligned with elements of a universal culture. And this may earn them some status points with potential or actual employers. </p>
+
+<p>But now AI is coming for their jobs. And to learn how to do anything practical and useful these days, everyone is watching a YouTube video, not reading a book. So how useful is the cultural learning that they’ve acquired? </p>
+
+<p>So yes, we’ve got lots of culture everywhere but no, it’s not really serving its intended purpose. </p>
+
+<p>No wonder that so many folks feel stressed and threatened and alienated from modern society and institutions, because <em>our shared cultures are failing us.</em> </p>
+
+</section>
+
+<section id="section-for-cultural-infestation">
+
+<h2 id="cultural-infestation">Cultural Infestation</h2>
+
+<p>The primary human coping technique is to find others who look and sound like us — others who have adapted to the same conditions we are facing — and then to listen to what they say, and watch what they do, and learn from them. </p>
+
+<p>And so now, into this cultural void I’ve just described, we drop in all our modern forms of mass media, including social media. </p>
+
+<p>Now the people we are trying to learn from are the people on Facebook, or on Twitter/X, or BlueSky, or Instagram, or TikTok, or Mastodon, or Fox News, or some other service or substack or subgroup. Or, yes, some AI-generated personality. </p>
+
+<p>And so, if we aren’t part of a functioning group filling up our Dunbar stack with trusted acquaintances, we tend to fill up our stacks with “virtual” people — whether these are movie stars, or pop stars, or influencers, or podcasters, or bloggers, or conspiracy theorists, or politicians, or chatbots. </p>
+
+<p>And they all have one thing in common. </p>
+
+<p>They are trying to make some money off of us, usually by subjecting us to advertising. </p>
+
+<p>And the way to maximize their incomes is to dial up our engagement, and the easiest way to do that is to divide us up into the Left and the Right, and to weaponize our natural cultural instincts. </p>
+
+<p>And so, while these virtual relationships may partially satisfy some deep needs we have to identify others like us, and learn from them, we are generally not learning much that is actually useful. </p>
+
+<p>And so, in lieu of a cultural void, we have a culture that is actively infected with actors leading us astray. </p>
+
+</section>
+
+<section id="section-for-the-bottom-line">
+
+<h2 id="the-bottom-line">The Bottom Line</h2>
+
+<p>I’ll talk more about possible resolutions in future posts, but for today: </p>
+<ul>
+<li>
+Remember that culture is meant to be useful, not just ornamental, and not just a tribal signifier; </li>
+<li>
+Universal, scientific knowledge is great, but localized knowledge and skills are also valuable; </li>
+<li>
+We all have biases towards some forms of culture over others, but we should try to remember that none are inherently superior; </li>
+<li>
+Be wary about filling up your “Dunbar stack” with professional media personalities, no matter how good their pedigrees; </li>
+<li>
+Instead, get to know a reasonably diverse group of real people — people who also know you; </li>
+<li>
+Recognize that we are all trying, as best we can, to survive and perhaps even thrive in a modern landscape that seems to be changing faster than anyone (other than a few oligarchs) would really like. </li>
+</ul>
+
+</section>
+
+
+</main>
+
+<hr />
+<div>
+
+<p>Next: 12 <a href="https://ntnk.app/songs" class="nav-link">Songs</a></p></div>
+</body>
+</html>

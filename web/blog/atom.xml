@@ -5,8 +5,46 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom.xml"/>
 	<id>https://hbowie.net/blog/atom.xml</id>
-	<updated>2026-04-05T18:26:05Z</updated>
+	<updated>2026-04-30T15:21:58Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
+	<entry>
+		<title>
+			Released Notenik Version 18.9.0
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18-9-0.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-18-9-0</id>
+	  <published>2026-04-27T12:00:00Z</published>
+	  <updated>2026-04-28T16:18:02Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>Added a new Image Layout field; Fixed a Folder exclusion bug; Documented a new Use Case for Presenting with Notenik; Added a new Nav Slug that can be used to access navigational info within a Merge Template; Fixed optional YAML representation of Wiki Links and Backlinks; Provided a new option to choose a desired text editor from a curated list. </p> 
+		  <p><a href="https://notenik.app/kb/version-18.9.0.html">notenik.app/kb/version-18.9.0.html</a></p>
+		  <p>#Notenik #Pkm</p>
+		  ]]>
+	  </content>
+	</entry>
+	<entry>
+		<title>
+			Released Notenik Version 18.8.0
+		</title>
+	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-18-8-0.html"/>
+	  <id>https://hbowie.net/blog/released-notenik-version-18-8-0</id>
+	  <published>2026-04-05T12:00:00Z</published>
+	  <updated>2026-04-28T15:42:15Z</updated>
+	  <author>
+			<name>Herb Bowie</name>
+			<uri>https://hbowie.net/</uri>
+	   </author>
+	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
+		  <![CDATA[<p>Improved Notenik app icon to better support dark, clear and tinted styles; default Tahoe menu item images have been restored; added support for smart quotes in titles; additional slide styling for presentation display mode; added a toggle to actually present a presentation; made a few default CSS styling improvements. </p> 
+		  <p><a href="https://notenik.app/kb/version-18.8.0.html">notenik.app/kb/version-18.8.0.html</a></p>
+		  <p>#Notenik #Pkm</p>
+		  ]]>
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Released Notenik Version 18.7.0
@@ -357,44 +395,6 @@
 	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
 		  <![CDATA[<p>Some additional Tahoe refinements, plus some improvements for web book publishing. </p> 
 		  <p><a href="https://notenik.app/kb/version-17.9.0.html">notenik.app/kb/version-17.9.0.html</a></p>
-		  <p>#Notenik #Pkm</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Published &quot;The Problem with AI Art&quot;
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-the-problem-with-ai-art.html"/>
-	  <id>https://hbowie.net/blog/published-the-problem-with-ai-art</id>
-	  <published>2025-10-17T12:00:00Z</published>
-	  <updated>2025-10-17T23:49:11Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>Published a new piece on the problems I see with AI-generated &#8220;art&#8221;. The web is full of opinions on the subject, so I thought I would add my thoughts to the mix — with some original insights and observations, hopefully. </p> 
-		  <p><a href="https://hbowie.net/writings/the-problem-with-ai-art.html">hbowie.net/writings/the-problem-with-ai-art.html</a></p>
-		  <p>#Ai #Art</p>
-		  ]]>
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.8.0
-		</title>
-	  <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17-8-0.html"/>
-	  <id>https://hbowie.net/blog/released-notenik-version-17-8-0</id>
-	  <published>2025-10-14T12:00:00Z</published>
-	  <updated>2025-10-17T23:44:08Z</updated>
-	  <author>
-			<name>Herb Bowie</name>
-			<uri>https://hbowie.net/</uri>
-	   </author>
-	  <content type="html" xml:base="https://hbowie.net/" xml:lang="en">
-		  <![CDATA[<p>Fixed a few problems, and added an export scripting module, so that a web book can be exported via a Notenik script. </p> 
-		  <p><a href="https://notenik.app/kb/version-17.8.0.html">notenik.app/kb/version-17.8.0.html</a></p>
 		  <p>#Notenik #Pkm</p>
 		  ]]>
 	  </content>

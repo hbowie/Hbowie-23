@@ -2,7 +2,7 @@ Title: - INFO
 
 Title Set by User: false
 
-Link: /Users/hbowie/Sites/HBowie-23/content/quotes
+Link: /Users/hbowie/Sites/hbowie-23/content/quotes
 
 Sort Parm: 14
 
@@ -12,7 +12,7 @@ Sort Blank Dates Last: true
 
 Other Fields Allowed: false
 
-Last Index Selected: 376
+Last Index Selected: 323
 
 Mirror Auto Index: false
 
@@ -48,9 +48,9 @@ Note File Format: nnk
 
 Hash Tags: notenik-field
 
-Window Numbers: 90.0;0.0;1224.0;1171.0;500.0;
+Window Numbers: 203.0;74.0;1132.0;1230.0;456.0;
 
-Column Widths: x: 12, 20, 50; seq: 30, 80, 1500; datepicked: 50, 223, 1500; klass: 60, 80, 150; tags: 50, 100, 1200; title: 200, 223, 1500; rank: 50, 80, 250; statusdigit: 20, 30, 50; dateadded: 100, 243, 1500; datemod: 100, 223, 1500; author: 100, 200, 1500; date: 80, 120, 500; 
+Column Widths: klass: 60, 80, 150; date: 80, 120, 500; author: 100, 200, 1500; x: 12, 20, 50; tags: 50, 100, 1200; datemod: 100, 223, 1500; statusdigit: 20, 30, 50; seq: 30, 80, 1500; rank: 50, 80, 250; title: 200, 223, 1500; dateadded: 100, 243, 1500; datepicked: 50, 223, 1500; 
 
 Boost Factor: 1.2
 
