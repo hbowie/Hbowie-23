@@ -5,13 +5,30 @@
 	<link rel="alternate" type="text/html" href="https://hbowie.net/blog/"/>
 	<link rel="self" type="application/atom+xml" href="https://hbowie.net/blog/atom2.xml"/>
 	<id>https://hbowie.net/blog/atom2.xml</id>
-	<updated>2026-04-30T15:21:59Z</updated>
+	<updated>2026-05-01T16:56:24Z</updated>
 	<rights>Creative Commons Attribution-ShareAlike 4.0 International</rights>
 	<author>
 		<name>Herb Bowie</name>
 		<email>herb@hbowie.net</email>
 		<uri>https://hbowie.net/</uri>
 	</author>
+	<entry>
+		<title>
+			Published &quot;Our Cultural Confusion&quot;
+		</title>
+	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/published-our-cultural-confusion.html"/>
+	  	<link rel="alternate" type="image/jpg" href="https://hbowie.net/blog/images/published-our-cultural-confusion-brain-scan.jpg"/>
+	  <id>https://hbowie.net/blog/posts/published-our-cultural-confusion</id>
+	  <published>2026-05-01T12:00:00Z</published>
+	  <updated>2026-05-01T16:56:02Z</updated>
+	  <content>
+Our current confusions about culture are causing several significant problems for modern human society. Let’s take a quick but insightful look at a number of related topics.
+
+related link: https://hbowie.net/writings/our-cultural-confusion.html
+
+#Culture
+	  </content>
+	</entry>
 	<entry>
 		<title>
 			Released Notenik Version 18.9.0
@@ -324,22 +341,6 @@ related link: https://www.theguardian.com/books/2024/mar/11/the-hunter-by-tana-f
 Further improvements mostly focused on web book publishing.
 
 related link: https://notenik.app/kb/version-18.0.0.html
-
-#Notenik #Pkm
-	  </content>
-	</entry>
-	<entry>
-		<title>
-			Released Notenik Version 17.9.0
-		</title>
-	    <link rel="alternate" type="text/html" href="https://hbowie.net/blog/posts/released-notenik-version-17.9.0.html"/>
-	  <id>https://hbowie.net/blog/posts/released-notenik-version-17-9-0</id>
-	  <published>2025-10-30T12:00:00Z</published>
-	  <updated>2025-11-14T18:24:13Z</updated>
-	  <content>
-Some additional Tahoe refinements, plus some improvements for web book publishing.
-
-related link: https://notenik.app/kb/version-17.9.0.html
 
 #Notenik #Pkm
 	  </content>
